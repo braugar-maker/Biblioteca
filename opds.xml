@@ -1,0 +1,2848 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:pdlivro:aeviternitas</id>
+  <title>Biblioteca do Instituto Aeviternitas</title>
+  <updated>2026-08-26T04:27:17Z</updated>
+  <author><name>Instituto Aeviternitas</name></author>
+  <link rel="self" type="application/atom+xml" href="/opds.xml"/>
+  <entry>
+    <title>Teoria dos Sentimentos Morais</title>
+    <id>urn:pdlivro:adam-smith-teoria-dos-sentimentos-morais</id>
+    <author><name>Adam Smith</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · economia, etica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/adam-smith-teoria-dos-sentimentos-morais.epub"/>
+  </entry>
+  <entry>
+    <title>A Riqueza das Nações</title>
+    <id>urn:pdlivro:adam-smith-a-riqueza-das-nacoes</id>
+    <author><name>Adam Smith</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · economia, instituicoes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/adam-smith-a-riqueza-das-nacoes.epub"/>
+  </entry>
+  <entry>
+    <title>A Organização Nacional</title>
+    <id>urn:pdlivro:alberto-torres-a-organizacao-nacional</id>
+    <author><name>Alberto Torres</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, instituicoes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/alberto-torres-a-organizacao-nacional.epub"/>
+  </entry>
+  <entry>
+    <title>A Democracia na América</title>
+    <id>urn:pdlivro:alexis-de-tocqueville-a-democracia-na-america</id>
+    <author><name>Alexis de Tocqueville</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · democracia, associacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/alexis-de-tocqueville-a-democracia-na-america.epub"/>
+  </entry>
+  <entry>
+    <title>O Antigo Regime e a Revolução</title>
+    <id>urn:pdlivro:alexis-de-tocqueville-o-antigo-regime-e-a-revolucao</id>
+    <author><name>Alexis de Tocqueville</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · continuidade, ruptura</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao.epub"/>
+  </entry>
+  <entry>
+    <title>Ética a Nicômaco</title>
+    <id>urn:pdlivro:aristoteles-etica-a-nicomaco</id>
+    <author><name>Aristóteles</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, etica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aristoteles-etica-a-nicomaco.epub"/>
+  </entry>
+  <entry>
+    <title>Política</title>
+    <id>urn:pdlivro:aristoteles-politica</id>
+    <author><name>Aristóteles</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aristoteles-politica.epub"/>
+  </entry>
+  <entry>
+    <title>A Constituição de Atenas</title>
+    <id>urn:pdlivro:aristoteles-a-constituicao-de-atenas</id>
+    <author><name>Aristóteles</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, constituicao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aristoteles-a-constituicao-de-atenas.epub"/>
+  </entry>
+  <entry>
+    <title>Consolidação das Leis Civis</title>
+    <id>urn:pdlivro:augusto-teixeira-de-freitas-consolidacao-das-leis-civis</id>
+    <author><name>Augusto Teixeira de Freitas</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, codificacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.epub"/>
+  </entry>
+  <entry>
+    <title>A Consolação da Filosofia</title>
+    <id>urn:pdlivro:boecio-a-consolacao-da-filosofia</id>
+    <author><name>Boécio</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · escolastica, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/boecio-a-consolacao-da-filosofia.epub"/>
+  </entry>
+  <entry>
+    <title>Capítulos de História Colonial</title>
+    <id>urn:pdlivro:capistrano-de-abreu-capitulos-de-historia-colonial</id>
+    <author><name>Capistrano de Abreu</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, colonia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/capistrano-de-abreu-capitulos-de-historia-colonial.epub"/>
+  </entry>
+  <entry>
+    <title>Das Leis</title>
+    <id>urn:pdlivro:cicero-das-leis</id>
+    <author><name>Cícero</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, direito</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cicero-das-leis.epub"/>
+  </entry>
+  <entry>
+    <title>Da República</title>
+    <id>urn:pdlivro:cicero-da-republica</id>
+    <author><name>Cícero</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cicero-da-republica.epub"/>
+  </entry>
+  <entry>
+    <title>Dos Deveres</title>
+    <id>urn:pdlivro:cicero-dos-deveres</id>
+    <author><name>Cícero</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, etica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cicero-dos-deveres.epub"/>
+  </entry>
+  <entry>
+    <title>Analectos</title>
+    <id>urn:pdlivro:confucio-analectos</id>
+    <author><name>Confúcio</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · oriente, etica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/confucio-analectos.epub"/>
+  </entry>
+  <entry>
+    <title>Monarquia</title>
+    <id>urn:pdlivro:dante-alighieri-monarquia</id>
+    <author><name>Dante Alighieri</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · escolastica, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/dante-alighieri-monarquia.epub"/>
+  </entry>
+  <entry>
+    <title>Reflexões sobre a Revolução em França</title>
+    <id>urn:pdlivro:edmund-burke-reflexoes-sobre-a-revolucao-em-franca</id>
+    <author><name>Edmund Burke</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · conservadorismo, heranca</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.epub"/>
+  </entry>
+  <entry>
+    <title>Declínio e Queda do Império Romano</title>
+    <id>urn:pdlivro:edward-gibbon-declinio-e-queda-do-imperio-romano</id>
+    <author><name>Edward Gibbon</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · historia, decadencia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/edward-gibbon-declinio-e-queda-do-imperio-romano.epub"/>
+  </entry>
+  <entry>
+    <title>Da Divisão do Trabalho Social</title>
+    <id>urn:pdlivro:emile-durkheim-da-divisao-do-trabalho-social</id>
+    <author><name>Émile Durkheim</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · solidariedade, instituicoes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/emile-durkheim-da-divisao-do-trabalho-social.epub"/>
+  </entry>
+  <entry>
+    <title>As Formas Elementares da Vida Religiosa</title>
+    <id>urn:pdlivro:emile-durkheim-as-formas-elementares-da-vida-religiosa</id>
+    <author><name>Émile Durkheim</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · ritual, reproducao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/emile-durkheim-as-formas-elementares-da-vida-religiosa.epub"/>
+  </entry>
+  <entry>
+    <title>Os Sertões</title>
+    <id>urn:pdlivro:euclides-da-cunha-os-sertoes</id>
+    <author><name>Euclides da Cunha</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, formacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/euclides-da-cunha-os-sertoes.epub"/>
+  </entry>
+  <entry>
+    <title>Comunidade e Sociedade</title>
+    <id>urn:pdlivro:ferdinand-tonnies-comunidade-e-sociedade</id>
+    <author><name>Ferdinand Tönnies</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · gemeinschaft, gesellschaft</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/ferdinand-tonnies-comunidade-e-sociedade.epub"/>
+  </entry>
+  <entry>
+    <title>Novum Organum</title>
+    <id>urn:pdlivro:francis-bacon-novum-organum</id>
+    <author><name>Francis Bacon</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, metodo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/francis-bacon-novum-organum.epub"/>
+  </entry>
+  <entry>
+    <title>Nova Atlântida</title>
+    <id>urn:pdlivro:francis-bacon-nova-atlantida</id>
+    <author><name>Francis Bacon</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, utopia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/francis-bacon-nova-atlantida.epub"/>
+  </entry>
+  <entry>
+    <title>A Cidade Antiga</title>
+    <id>urn:pdlivro:fustel-de-coulanges-a-cidade-antiga</id>
+    <author><name>Fustel de Coulanges</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · familia, culto-antepassados, sucessao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fustel-de-coulanges-a-cidade-antiga.epub"/>
+  </entry>
+  <entry>
+    <title>Filosofia do Direito</title>
+    <id>urn:pdlivro:g-w-f-hegel-filosofia-do-direito</id>
+    <author><name>G. W. F. Hegel</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · estado, eticidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/g-w-f-hegel-filosofia-do-direito.epub"/>
+  </entry>
+  <entry>
+    <title>A Classe Dirigente</title>
+    <id>urn:pdlivro:gaetano-mosca-a-classe-dirigente</id>
+    <author><name>Gaetano Mosca</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · elites, reproducao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gaetano-mosca-a-classe-dirigente.epub"/>
+  </entry>
+  <entry>
+    <title>Filosofia do Dinheiro</title>
+    <id>urn:pdlivro:georg-simmel-filosofia-do-dinheiro</id>
+    <author><name>Georg Simmel</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · economia, forma-social</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/georg-simmel-filosofia-do-dinheiro.epub"/>
+  </entry>
+  <entry>
+    <title>O Federalista</title>
+    <id>urn:pdlivro:hamilton-madison-e-jay-o-federalista</id>
+    <author><name>Hamilton, Madison e Jay</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · federalismo, constituicao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/hamilton-madison-e-jay-o-federalista.epub"/>
+  </entry>
+  <entry>
+    <title>Direito Antigo (Ancient Law)</title>
+    <id>urn:pdlivro:henry-sumner-maine-direito-antigo-ancient-law</id>
+    <author><name>Henry Sumner Maine</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · status-contrato, sucessao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henry-sumner-maine-direito-antigo-ancient-law.epub"/>
+  </entry>
+  <entry>
+    <title>A Comunidade Aldeã no Oriente e no Ocidente</title>
+    <id>urn:pdlivro:henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente</id>
+    <author><name>Henry Sumner Maine</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · propriedade-coletiva</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente.epub"/>
+  </entry>
+  <entry>
+    <title>Muqaddimah — Os Prolegômenos</title>
+    <id>urn:pdlivro:ibn-khaldun-muqaddimah-os-prolegomenos</id>
+    <author><name>Ibn Khaldun</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · ciclo-dinastico, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/ibn-khaldun-muqaddimah-os-prolegomenos.epub"/>
+  </entry>
+  <entry>
+    <title>Discurso sobre a Origem da Desigualdade</title>
+    <id>urn:pdlivro:jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade</id>
+    <author><name>Jean-Jacques Rousseau</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, desigualdade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade.epub"/>
+  </entry>
+  <entry>
+    <title>Do Contrato Social</title>
+    <id>urn:pdlivro:jean-jacques-rousseau-do-contrato-social</id>
+    <author><name>Jean-Jacques Rousseau</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, contrato</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jean-jacques-rousseau-do-contrato-social.epub"/>
+  </entry>
+  <entry>
+    <title>O Abolicionismo</title>
+    <id>urn:pdlivro:joaquim-nabuco-o-abolicionismo</id>
+    <author><name>Joaquim Nabuco</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, reforma</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/joaquim-nabuco-o-abolicionismo.epub"/>
+  </entry>
+  <entry>
+    <title>Um Estadista do Império</title>
+    <id>urn:pdlivro:joaquim-nabuco-um-estadista-do-imperio</id>
+    <author><name>Joaquim Nabuco</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, imperio</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/joaquim-nabuco-um-estadista-do-imperio.epub"/>
+  </entry>
+  <entry>
+    <title>Minha Formação</title>
+    <id>urn:pdlivro:joaquim-nabuco-minha-formacao</id>
+    <author><name>Joaquim Nabuco</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, memoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/joaquim-nabuco-minha-formacao.epub"/>
+  </entry>
+  <entry>
+    <title>Política Metodicamente Digesta</title>
+    <id>urn:pdlivro:johannes-althusius-politica-metodicamente-digesta</id>
+    <author><name>Johannes Althusius</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · moderna, federalismo, subsidiariedade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/johannes-althusius-politica-metodicamente-digesta.epub"/>
+  </entry>
+  <entry>
+    <title>Democracia e Educação</title>
+    <id>urn:pdlivro:john-dewey-democracia-e-educacao</id>
+    <author><name>John Dewey</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · transmissao, reproducao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-dewey-democracia-e-educacao.epub"/>
+  </entry>
+  <entry>
+    <title>O Público e seus Problemas</title>
+    <id>urn:pdlivro:john-dewey-o-publico-e-seus-problemas</id>
+    <author><name>John Dewey</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · publico, associacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-dewey-o-publico-e-seus-problemas.epub"/>
+  </entry>
+  <entry>
+    <title>Carta sobre a Tolerância</title>
+    <id>urn:pdlivro:john-locke-carta-sobre-a-tolerancia</id>
+    <author><name>John Locke</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, tolerancia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-locke-carta-sobre-a-tolerancia.epub"/>
+  </entry>
+  <entry>
+    <title>Dois Tratados sobre o Governo</title>
+    <id>urn:pdlivro:john-locke-dois-tratados-sobre-o-governo</id>
+    <author><name>John Locke</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, contrato, propriedade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-locke-dois-tratados-sobre-o-governo.epub"/>
+  </entry>
+  <entry>
+    <title>Sobre a Liberdade</title>
+    <id>urn:pdlivro:john-stuart-mill-sobre-a-liberdade</id>
+    <author><name>John Stuart Mill</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · liberdade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-stuart-mill-sobre-a-liberdade.epub"/>
+  </entry>
+  <entry>
+    <title>Considerações sobre o Governo Representativo</title>
+    <id>urn:pdlivro:john-stuart-mill-consideracoes-sobre-o-governo-representativo</id>
+    <author><name>John Stuart Mill</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · representacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-stuart-mill-consideracoes-sobre-o-governo-representativo.epub"/>
+  </entry>
+  <entry>
+    <title>Meditações</title>
+    <id>urn:pdlivro:marco-aurelio-meditacoes</id>
+    <author><name>Marco Aurélio</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, estoicismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/marco-aurelio-meditacoes.epub"/>
+  </entry>
+  <entry>
+    <title>A Ética Protestante e o Espírito do Capitalismo</title>
+    <id>urn:pdlivro:max-weber-a-etica-protestante-e-o-espirito-do-capitalismo</id>
+    <author><name>Max Weber</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · legitimidade, racionalizacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.epub"/>
+  </entry>
+  <entry>
+    <title>Ciência e Política: Duas Vocações</title>
+    <id>urn:pdlivro:max-weber-ciencia-e-politica-duas-vocacoes</id>
+    <author><name>Max Weber</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · vocacao, burocracia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/max-weber-ciencia-e-politica-duas-vocacoes.epub"/>
+  </entry>
+  <entry>
+    <title>Economia e Sociedade</title>
+    <id>urn:pdlivro:max-weber-economia-e-sociedade</id>
+    <author><name>Max Weber</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · dominacao, legitimidade, burocracia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/max-weber-economia-e-sociedade.epub"/>
+  </entry>
+  <entry>
+    <title>Cartas Persas</title>
+    <id>urn:pdlivro:montesquieu-cartas-persas</id>
+    <author><name>Montesquieu</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, satira</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/montesquieu-cartas-persas.epub"/>
+  </entry>
+  <entry>
+    <title>O Espírito das Leis</title>
+    <id>urn:pdlivro:montesquieu-o-espirito-das-leis</id>
+    <author><name>Montesquieu</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, separacao-poderes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/montesquieu-o-espirito-das-leis.epub"/>
+  </entry>
+  <entry>
+    <title>Discursos sobre a Primeira Década de Tito Lívio</title>
+    <id>urn:pdlivro:nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio</id>
+    <author><name>Nicolau Maquiavel</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, republica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.epub"/>
+  </entry>
+  <entry>
+    <title>O Príncipe</title>
+    <id>urn:pdlivro:nicolau-maquiavel-o-principe</id>
+    <author><name>Nicolau Maquiavel</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/nicolau-maquiavel-o-principe.epub"/>
+  </entry>
+  <entry>
+    <title>História de Florença</title>
+    <id>urn:pdlivro:nicolau-maquiavel-historia-de-florenca</id>
+    <author><name>Nicolau Maquiavel</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, historia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/nicolau-maquiavel-historia-de-florenca.epub"/>
+  </entry>
+  <entry>
+    <title>Teorias Políticas da Idade Média</title>
+    <id>urn:pdlivro:otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media</id>
+    <author><name>Otto von Gierke (trad. Maitland)</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · pessoa-coletiva, corporacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.epub"/>
+  </entry>
+  <entry>
+    <title>Sentenças (Sententiae)</title>
+    <id>urn:pdlivro:pedro-lombardo-sentencas-sententiae</id>
+    <author><name>Pedro Lombardo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">la</dc:language>
+    <content type="text">Instituto · escolastica, aevum</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/pedro-lombardo-sentencas-sententiae.epub"/>
+  </entry>
+  <entry>
+    <title>A República</title>
+    <id>urn:pdlivro:platao-a-republica</id>
+    <author><name>Platão</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/platao-a-republica.epub"/>
+  </entry>
+  <entry>
+    <title>As Leis</title>
+    <id>urn:pdlivro:platao-as-leis</id>
+    <author><name>Platão</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/platao-as-leis.epub"/>
+  </entry>
+  <entry>
+    <title>Vidas Paralelas</title>
+    <id>urn:pdlivro:plutarco-vidas-paralelas</id>
+    <author><name>Plutarco</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, biografia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/plutarco-vidas-paralelas.epub"/>
+  </entry>
+  <entry>
+    <title>Histórias</title>
+    <id>urn:pdlivro:polibio-historias</id>
+    <author><name>Políbio</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, constituicao-mista</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/polibio-historias.epub"/>
+  </entry>
+  <entry>
+    <title>Partidos Políticos</title>
+    <id>urn:pdlivro:robert-michels-partidos-politicos</id>
+    <author><name>Robert Michels</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · oligarquia, delegacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/robert-michels-partidos-politicos.epub"/>
+  </entry>
+  <entry>
+    <title>A Luta pelo Direito</title>
+    <id>urn:pdlivro:rudolf-von-ihering-a-luta-pelo-direito</id>
+    <author><name>Rudolf von Ihering</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · direito, conflito</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/rudolf-von-ihering-a-luta-pelo-direito.epub"/>
+  </entry>
+  <entry>
+    <title>Oração aos Moços</title>
+    <id>urn:pdlivro:rui-barbosa-oracao-aos-mocos</id>
+    <author><name>Rui Barbosa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, direito</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/rui-barbosa-oracao-aos-mocos.epub"/>
+  </entry>
+  <entry>
+    <title>Do Direito Natural e das Gentes</title>
+    <id>urn:pdlivro:samuel-von-pufendorf-do-direito-natural-e-das-gentes</id>
+    <author><name>Samuel von Pufendorf</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · moderna, direito-natural</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/samuel-von-pufendorf-do-direito-natural-e-das-gentes.epub"/>
+  </entry>
+  <entry>
+    <title>Confissões</title>
+    <id>urn:pdlivro:santo-agostinho-confissoes</id>
+    <author><name>Santo Agostinho</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · patristica, tempo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/santo-agostinho-confissoes.epub"/>
+  </entry>
+  <entry>
+    <title>A Cidade de Deus</title>
+    <id>urn:pdlivro:santo-agostinho-a-cidade-de-deus</id>
+    <author><name>Santo Agostinho</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · patristica, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/santo-agostinho-a-cidade-de-deus.epub"/>
+  </entry>
+  <entry>
+    <title>Sobre a Brevidade da Vida</title>
+    <id>urn:pdlivro:seneca-sobre-a-brevidade-da-vida</id>
+    <author><name>Sêneca</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/seneca-sobre-a-brevidade-da-vida.epub"/>
+  </entry>
+  <entry>
+    <title>Cartas a Lucílio</title>
+    <id>urn:pdlivro:seneca-cartas-a-lucilio</id>
+    <author><name>Sêneca</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, estoicismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/seneca-cartas-a-lucilio.epub"/>
+  </entry>
+  <entry>
+    <title>A Arte da Guerra</title>
+    <id>urn:pdlivro:sun-tzu-a-arte-da-guerra</id>
+    <author><name>Sun Tzu</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · oriente, estrategia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sun-tzu-a-arte-da-guerra.epub"/>
+  </entry>
+  <entry>
+    <title>Do Cidadão</title>
+    <id>urn:pdlivro:thomas-hobbes-do-cidadao</id>
+    <author><name>Thomas Hobbes</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · moderna, contrato</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thomas-hobbes-do-cidadao.epub"/>
+  </entry>
+  <entry>
+    <title>Leviatã</title>
+    <id>urn:pdlivro:thomas-hobbes-leviata</id>
+    <author><name>Thomas Hobbes</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, contrato</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thomas-hobbes-leviata.epub"/>
+  </entry>
+  <entry>
+    <title>Utopia</title>
+    <id>urn:pdlivro:thomas-more-utopia</id>
+    <author><name>Thomas More</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, utopia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thomas-more-utopia.epub"/>
+  </entry>
+  <entry>
+    <title>A Teoria da Classe Ociosa</title>
+    <id>urn:pdlivro:thorstein-veblen-a-teoria-da-classe-ociosa</id>
+    <author><name>Thorstein Veblen</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · instituicoes, habito</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thorstein-veblen-a-teoria-da-classe-ociosa.epub"/>
+  </entry>
+  <entry>
+    <title>A Teoria da Empresa de Negócios</title>
+    <id>urn:pdlivro:thorstein-veblen-a-teoria-da-empresa-de-negocios</id>
+    <author><name>Thorstein Veblen</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · empresa, instituicoes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thorstein-veblen-a-teoria-da-empresa-de-negocios.epub"/>
+  </entry>
+  <entry>
+    <title>Estudos de Direito</title>
+    <id>urn:pdlivro:tobias-barreto-estudos-de-direito</id>
+    <author><name>Tobias Barreto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, direito</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/tobias-barreto-estudos-de-direito.epub"/>
+  </entry>
+  <entry>
+    <title>Suma Teológica</title>
+    <id>urn:pdlivro:tomas-de-aquino-suma-teologica</id>
+    <author><name>Tomás de Aquino</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · escolastica, aevum</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/tomas-de-aquino-suma-teologica.epub"/>
+  </entry>
+  <entry>
+    <title>A Cidade do Sol</title>
+    <id>urn:pdlivro:tommaso-campanella-a-cidade-do-sol</id>
+    <author><name>Tommaso Campanella</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · moderna, utopia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/tommaso-campanella-a-cidade-do-sol.epub"/>
+  </entry>
+  <entry>
+    <title>História da Guerra do Peloponeso</title>
+    <id>urn:pdlivro:tucidides-historia-da-guerra-do-peloponeso</id>
+    <author><name>Tucídides</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · antiguidade, historia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/tucidides-historia-da-guerra-do-peloponeso.epub"/>
+  </entry>
+  <entry>
+    <title>Tratado de Sociologia Geral</title>
+    <id>urn:pdlivro:vilfredo-pareto-tratado-de-sociologia-geral</id>
+    <author><name>Vilfredo Pareto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · elites, circulacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/vilfredo-pareto-tratado-de-sociologia-geral.epub"/>
+  </entry>
+  <entry>
+    <title>Ensaio sobre o Direito Administrativo</title>
+    <id>urn:pdlivro:visconde-do-uruguai-ensaio-sobre-o-direito-administrativo</id>
+    <author><name>Visconde do Uruguai</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Instituto · brasil, administracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo.epub"/>
+  </entry>
+  <entry>
+    <title>A Constituição Inglesa</title>
+    <id>urn:pdlivro:walter-bagehot-a-constituicao-inglesa</id>
+    <author><name>Walter Bagehot</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · constituicao, dignificado-eficiente</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/walter-bagehot-a-constituicao-inglesa.epub"/>
+  </entry>
+  <entry>
+    <title>Comentários às Leis da Inglaterra</title>
+    <id>urn:pdlivro:william-blackstone-comentarios-as-leis-da-inglaterra</id>
+    <author><name>William Blackstone</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Instituto · common-law, propriedade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/william-blackstone-comentarios-as-leis-da-inglaterra.epub"/>
+  </entry>
+  <entry>
+    <title>Eugênio Oneguin</title>
+    <id>urn:pdlivro:aleksandr-puchkin-eugenio-oneguin</id>
+    <author><name>Aleksandr Púchkin</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aleksandr-puchkin-eugenio-oneguin.epub"/>
+  </entry>
+  <entry>
+    <title>O Mulato</title>
+    <id>urn:pdlivro:aluisio-azevedo-o-mulato</id>
+    <author><name>Aluísio Azevedo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, naturalismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aluisio-azevedo-o-mulato.epub"/>
+  </entry>
+  <entry>
+    <title>Casa de Pensão</title>
+    <id>urn:pdlivro:aluisio-azevedo-casa-de-pensao</id>
+    <author><name>Aluísio Azevedo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, naturalismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aluisio-azevedo-casa-de-pensao.epub"/>
+  </entry>
+  <entry>
+    <title>O Cortiço</title>
+    <id>urn:pdlivro:aluisio-azevedo-o-cortico</id>
+    <author><name>Aluísio Azevedo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, naturalismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aluisio-azevedo-o-cortico.epub"/>
+  </entry>
+  <entry>
+    <title>Lira dos Vinte Anos</title>
+    <id>urn:pdlivro:alvares-de-azevedo-lira-dos-vinte-anos</id>
+    <author><name>Álvares de Azevedo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romantismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/alvares-de-azevedo-lira-dos-vinte-anos.epub"/>
+  </entry>
+  <entry>
+    <title>Noite na Taverna</title>
+    <id>urn:pdlivro:alvares-de-azevedo-noite-na-taverna</id>
+    <author><name>Álvares de Azevedo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romantismo, prosa</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/alvares-de-azevedo-noite-na-taverna.epub"/>
+  </entry>
+  <entry>
+    <title>A Epopeia de Gilgamesh</title>
+    <id>urn:pdlivro:anonimo-a-epopeia-de-gilgamesh</id>
+    <author><name>Anônimo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · antiguidade, epica, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/anonimo-a-epopeia-de-gilgamesh.epub"/>
+  </entry>
+  <entry>
+    <title>Bhagavad Gita</title>
+    <id>urn:pdlivro:anonimo-bhagavad-gita</id>
+    <author><name>Anônimo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · oriente, sabedoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/anonimo-bhagavad-gita.epub"/>
+  </entry>
+  <entry>
+    <title>Dhammapada</title>
+    <id>urn:pdlivro:anonimo-dhammapada</id>
+    <author><name>Anônimo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · oriente, sabedoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/anonimo-dhammapada.epub"/>
+  </entry>
+  <entry>
+    <title>As Mil e Uma Noites</title>
+    <id>urn:pdlivro:anonimo-as-mil-e-uma-noites</id>
+    <author><name>Anônimo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · narrativa, oriente</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/anonimo-as-mil-e-uma-noites.epub"/>
+  </entry>
+  <entry>
+    <title>Sonetos Completos</title>
+    <id>urn:pdlivro:antero-de-quental-sonetos-completos</id>
+    <author><name>Antero de Quental</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/antero-de-quental-sonetos-completos.epub"/>
+  </entry>
+  <entry>
+    <title>Contos</title>
+    <id>urn:pdlivro:anton-tchekhov-contos</id>
+    <author><name>Anton Tchékhov</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/anton-tchekhov-contos.epub"/>
+  </entry>
+  <entry>
+    <title>O Jardim das Cerejeiras</title>
+    <id>urn:pdlivro:anton-tchekhov-o-jardim-das-cerejeiras</id>
+    <author><name>Anton Tchékhov</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, teatro, heranca</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/anton-tchekhov-o-jardim-das-cerejeiras.epub"/>
+  </entry>
+  <entry>
+    <title>Heliogábalo</title>
+    <id>urn:pdlivro:antonin-artaud-heliogabalo</id>
+    <author><name>Antonin Artaud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · prosa, anarquia-coroada</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/antonin-artaud-heliogabalo.epub"/>
+  </entry>
+  <entry>
+    <title>Só</title>
+    <id>urn:pdlivro:antonio-nobre-so</id>
+    <author><name>António Nobre</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/antonio-nobre-so.epub"/>
+  </entry>
+  <entry>
+    <title>As Nuvens</title>
+    <id>urn:pdlivro:aristofanes-as-nuvens</id>
+    <author><name>Aristófanes</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · comedia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/aristofanes-as-nuvens.epub"/>
+  </entry>
+  <entry>
+    <title>Iluminações</title>
+    <id>urn:pdlivro:arthur-rimbaud-iluminacoes</id>
+    <author><name>Arthur Rimbaud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, vanguarda</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/arthur-rimbaud-iluminacoes.epub"/>
+  </entry>
+  <entry>
+    <title>O Mundo como Vontade e Representação</title>
+    <id>urn:pdlivro:arthur-schopenhauer-o-mundo-como-vontade-e-representacao</id>
+    <author><name>Arthur Schopenhauer</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.epub"/>
+  </entry>
+  <entry>
+    <title>Parerga e Paralipomena</title>
+    <id>urn:pdlivro:arthur-schopenhauer-parerga-e-paralipomena</id>
+    <author><name>Arthur Schopenhauer</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, aforismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/arthur-schopenhauer-parerga-e-paralipomena.epub"/>
+  </entry>
+  <entry>
+    <title>Eu e Outras Poesias</title>
+    <id>urn:pdlivro:augusto-dos-anjos-eu-e-outras-poesias</id>
+    <author><name>Augusto dos Anjos</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/augusto-dos-anjos-eu-e-outras-poesias.epub"/>
+  </entry>
+  <entry>
+    <title>Ética</title>
+    <id>urn:pdlivro:baruch-espinosa-etica</id>
+    <author><name>Baruch Espinosa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, duracao, eternidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/baruch-espinosa-etica.epub"/>
+  </entry>
+  <entry>
+    <title>Amor de Perdição</title>
+    <id>urn:pdlivro:camilo-castelo-branco-amor-de-perdicao</id>
+    <author><name>Camilo Castelo Branco</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/camilo-castelo-branco-amor-de-perdicao.epub"/>
+  </entry>
+  <entry>
+    <title>A Queda dum Anjo</title>
+    <id>urn:pdlivro:camilo-castelo-branco-a-queda-dum-anjo</id>
+    <author><name>Camilo Castelo Branco</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/camilo-castelo-branco-a-queda-dum-anjo.epub"/>
+  </entry>
+  <entry>
+    <title>Clepsidra</title>
+    <id>urn:pdlivro:camilo-pessanha-clepsidra</id>
+    <author><name>Camilo Pessanha</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, simbolismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/camilo-pessanha-clepsidra.epub"/>
+  </entry>
+  <entry>
+    <title>As Primaveras</title>
+    <id>urn:pdlivro:casimiro-de-abreu-as-primaveras</id>
+    <author><name>Casimiro de Abreu</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/casimiro-de-abreu-as-primaveras.epub"/>
+  </entry>
+  <entry>
+    <title>Espumas Flutuantes</title>
+    <id>urn:pdlivro:castro-alves-espumas-flutuantes</id>
+    <author><name>Castro Alves</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/castro-alves-espumas-flutuantes.epub"/>
+  </entry>
+  <entry>
+    <title>Os Escravos</title>
+    <id>urn:pdlivro:castro-alves-os-escravos</id>
+    <author><name>Castro Alves</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/castro-alves-os-escravos.epub"/>
+  </entry>
+  <entry>
+    <title>O Livro de Cesário Verde</title>
+    <id>urn:pdlivro:cesario-verde-o-livro-de-cesario-verde</id>
+    <author><name>Cesário Verde</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cesario-verde-o-livro-de-cesario-verde.epub"/>
+  </entry>
+  <entry>
+    <title>As Flores do Mal</title>
+    <id>urn:pdlivro:charles-baudelaire-as-flores-do-mal</id>
+    <author><name>Charles Baudelaire</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, modernidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/charles-baudelaire-as-flores-do-mal.epub"/>
+  </entry>
+  <entry>
+    <title>O Spleen de Paris</title>
+    <id>urn:pdlivro:charles-baudelaire-o-spleen-de-paris</id>
+    <author><name>Charles Baudelaire</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · prosa-poetica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/charles-baudelaire-o-spleen-de-paris.epub"/>
+  </entry>
+  <entry>
+    <title>David Copperfield</title>
+    <id>urn:pdlivro:charles-dickens-david-copperfield</id>
+    <author><name>Charles Dickens</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/charles-dickens-david-copperfield.epub"/>
+  </entry>
+  <entry>
+    <title>Grandes Esperanças</title>
+    <id>urn:pdlivro:charles-dickens-grandes-esperancas</id>
+    <author><name>Charles Dickens</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/charles-dickens-grandes-esperancas.epub"/>
+  </entry>
+  <entry>
+    <title>Poesias</title>
+    <id>urn:pdlivro:conde-de-lautreamont-poesias</id>
+    <author><name>Conde de Lautréamont</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · prosa, aforismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/conde-de-lautreamont-poesias.epub"/>
+  </entry>
+  <entry>
+    <title>Missal</title>
+    <id>urn:pdlivro:cruz-e-sousa-missal</id>
+    <author><name>Cruz e Sousa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, simbolismo, prosa-poetica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cruz-e-sousa-missal.epub"/>
+  </entry>
+  <entry>
+    <title>Broquéis</title>
+    <id>urn:pdlivro:cruz-e-sousa-broqueis</id>
+    <author><name>Cruz e Sousa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, simbolismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cruz-e-sousa-broqueis.epub"/>
+  </entry>
+  <entry>
+    <title>Últimos Sonetos</title>
+    <id>urn:pdlivro:cruz-e-sousa-ultimos-sonetos</id>
+    <author><name>Cruz e Sousa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, simbolismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/cruz-e-sousa-ultimos-sonetos.epub"/>
+  </entry>
+  <entry>
+    <title>Vida Nova</title>
+    <id>urn:pdlivro:dante-alighieri-vida-nova</id>
+    <author><name>Dante Alighieri</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, medieval</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/dante-alighieri-vida-nova.epub"/>
+  </entry>
+  <entry>
+    <title>A Divina Comédia</title>
+    <id>urn:pdlivro:dante-alighieri-a-divina-comedia</id>
+    <author><name>Dante Alighieri</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · epica, medieval</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/dante-alighieri-a-divina-comedia.epub"/>
+  </entry>
+  <entry>
+    <title>Jacques, o Fatalista</title>
+    <id>urn:pdlivro:denis-diderot-jacques-o-fatalista</id>
+    <author><name>Denis Diderot</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, invencao-formal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/denis-diderot-jacques-o-fatalista.epub"/>
+  </entry>
+  <entry>
+    <title>O Sobrinho de Rameau</title>
+    <id>urn:pdlivro:denis-diderot-o-sobrinho-de-rameau</id>
+    <author><name>Denis Diderot</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · dialogo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/denis-diderot-o-sobrinho-de-rameau.epub"/>
+  </entry>
+  <entry>
+    <title>O Crime do Padre Amaro</title>
+    <id>urn:pdlivro:eca-de-queiros-o-crime-do-padre-amaro</id>
+    <author><name>Eça de Queirós</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/eca-de-queiros-o-crime-do-padre-amaro.epub"/>
+  </entry>
+  <entry>
+    <title>O Primo Basílio</title>
+    <id>urn:pdlivro:eca-de-queiros-o-primo-basilio</id>
+    <author><name>Eça de Queirós</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/eca-de-queiros-o-primo-basilio.epub"/>
+  </entry>
+  <entry>
+    <title>A Relíquia</title>
+    <id>urn:pdlivro:eca-de-queiros-a-reliquia</id>
+    <author><name>Eça de Queirós</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/eca-de-queiros-a-reliquia.epub"/>
+  </entry>
+  <entry>
+    <title>Os Maias</title>
+    <id>urn:pdlivro:eca-de-queiros-os-maias</id>
+    <author><name>Eça de Queirós</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance, familia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/eca-de-queiros-os-maias.epub"/>
+  </entry>
+  <entry>
+    <title>A Ilustre Casa de Ramires</title>
+    <id>urn:pdlivro:eca-de-queiros-a-ilustre-casa-de-ramires</id>
+    <author><name>Eça de Queirós</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance, linhagem</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/eca-de-queiros-a-ilustre-casa-de-ramires.epub"/>
+  </entry>
+  <entry>
+    <title>A Cidade e as Serras</title>
+    <id>urn:pdlivro:eca-de-queiros-a-cidade-e-as-serras</id>
+    <author><name>Eça de Queirós</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/eca-de-queiros-a-cidade-e-as-serras.epub"/>
+  </entry>
+  <entry>
+    <title>Contos Extraordinários</title>
+    <id>urn:pdlivro:edgar-allan-poe-contos-extraordinarios</id>
+    <author><name>Edgar Allan Poe</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/edgar-allan-poe-contos-extraordinarios.epub"/>
+  </entry>
+  <entry>
+    <title>Eureka</title>
+    <id>urn:pdlivro:edgar-allan-poe-eureka</id>
+    <author><name>Edgar Allan Poe</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · ensaio, cosmologia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/edgar-allan-poe-eureka.epub"/>
+  </entry>
+  <entry>
+    <title>Livro dos Absurdos</title>
+    <id>urn:pdlivro:edward-lear-livro-dos-absurdos</id>
+    <author><name>Edward Lear</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Literatura · nonsense, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/edward-lear-livro-dos-absurdos.epub"/>
+  </entry>
+  <entry>
+    <title>Germinal</title>
+    <id>urn:pdlivro:emile-zola-germinal</id>
+    <author><name>Émile Zola</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/emile-zola-germinal.epub"/>
+  </entry>
+  <entry>
+    <title>O Morro dos Ventos Uivantes</title>
+    <id>urn:pdlivro:emily-bronte-o-morro-dos-ventos-uivantes</id>
+    <author><name>Emily Brontë</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/emily-bronte-o-morro-dos-ventos-uivantes.epub"/>
+  </entry>
+  <entry>
+    <title>Oresteia</title>
+    <id>urn:pdlivro:esquilo-oresteia</id>
+    <author><name>Ésquilo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tragedia, justica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/esquilo-oresteia.epub"/>
+  </entry>
+  <entry>
+    <title>Prometeu Acorrentado</title>
+    <id>urn:pdlivro:esquilo-prometeu-acorrentado</id>
+    <author><name>Ésquilo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tragedia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/esquilo-prometeu-acorrentado.epub"/>
+  </entry>
+  <entry>
+    <title>Medeia</title>
+    <id>urn:pdlivro:euripides-medeia</id>
+    <author><name>Eurípides</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tragedia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/euripides-medeia.epub"/>
+  </entry>
+  <entry>
+    <title>As Bacantes</title>
+    <id>urn:pdlivro:euripides-as-bacantes</id>
+    <author><name>Eurípides</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tragedia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/euripides-as-bacantes.epub"/>
+  </entry>
+  <entry>
+    <title>Mensagem</title>
+    <id>urn:pdlivro:fernando-pessoa-mensagem</id>
+    <author><name>Fernando Pessoa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fernando-pessoa-mensagem.epub"/>
+  </entry>
+  <entry>
+    <title>Livro do Desassossego</title>
+    <id>urn:pdlivro:fernando-pessoa-livro-do-desassossego</id>
+    <author><name>Fernando Pessoa</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, prosa, fragmento</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fernando-pessoa-livro-do-desassossego.epub"/>
+  </entry>
+  <entry>
+    <title>Manifesto Futurista</title>
+    <id>urn:pdlivro:filippo-tommaso-marinetti-manifesto-futurista</id>
+    <author><name>Filippo Tommaso Marinetti</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Literatura · manifesto, vanguarda</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/filippo-tommaso-marinetti-manifesto-futurista.epub"/>
+  </entry>
+  <entry>
+    <title>Memórias do Subsolo</title>
+    <id>urn:pdlivro:fiodor-dostoievski-memorias-do-subsolo</id>
+    <author><name>Fiódor Dostoiévski</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fiodor-dostoievski-memorias-do-subsolo.epub"/>
+  </entry>
+  <entry>
+    <title>Crime e Castigo</title>
+    <id>urn:pdlivro:fiodor-dostoievski-crime-e-castigo</id>
+    <author><name>Fiódor Dostoiévski</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fiodor-dostoievski-crime-e-castigo.epub"/>
+  </entry>
+  <entry>
+    <title>O Idiota</title>
+    <id>urn:pdlivro:fiodor-dostoievski-o-idiota</id>
+    <author><name>Fiódor Dostoiévski</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fiodor-dostoievski-o-idiota.epub"/>
+  </entry>
+  <entry>
+    <title>Os Demônios</title>
+    <id>urn:pdlivro:fiodor-dostoievski-os-demonios</id>
+    <author><name>Fiódor Dostoiévski</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fiodor-dostoievski-os-demonios.epub"/>
+  </entry>
+  <entry>
+    <title>Os Irmãos Karamázov</title>
+    <id>urn:pdlivro:fiodor-dostoievski-os-irmaos-karamazov</id>
+    <author><name>Fiódor Dostoiévski</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance, legado</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/fiodor-dostoievski-os-irmaos-karamazov.epub"/>
+  </entry>
+  <entry>
+    <title>Cancioneiro</title>
+    <id>urn:pdlivro:francesco-petrarca-cancioneiro</id>
+    <author><name>Francesco Petrarca</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, medieval</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/francesco-petrarca-cancioneiro.epub"/>
+  </entry>
+  <entry>
+    <title>Gargântua e Pantagruel</title>
+    <id>urn:pdlivro:francois-rabelais-gargantua-e-pantagruel</id>
+    <author><name>François Rabelais</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · satira, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/francois-rabelais-gargantua-e-pantagruel.epub"/>
+  </entry>
+  <entry>
+    <title>A Metamorfose</title>
+    <id>urn:pdlivro:franz-kafka-a-metamorfose</id>
+    <author><name>Franz Kafka</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · modernismo, alegoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/franz-kafka-a-metamorfose.epub"/>
+  </entry>
+  <entry>
+    <title>O Processo</title>
+    <id>urn:pdlivro:franz-kafka-o-processo</id>
+    <author><name>Franz Kafka</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · modernismo, burocracia, legitimidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/franz-kafka-o-processo.epub"/>
+  </entry>
+  <entry>
+    <title>O Castelo</title>
+    <id>urn:pdlivro:franz-kafka-o-castelo</id>
+    <author><name>Franz Kafka</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · modernismo, burocracia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/franz-kafka-o-castelo.epub"/>
+  </entry>
+  <entry>
+    <title>O Nascimento da Tragédia</title>
+    <id>urn:pdlivro:friedrich-nietzsche-o-nascimento-da-tragedia</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, estetica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-o-nascimento-da-tragedia.epub"/>
+  </entry>
+  <entry>
+    <title>Humano, Demasiado Humano</title>
+    <id>urn:pdlivro:friedrich-nietzsche-humano-demasiado-humano</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, aforismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-humano-demasiado-humano.epub"/>
+  </entry>
+  <entry>
+    <title>A Gaia Ciência</title>
+    <id>urn:pdlivro:friedrich-nietzsche-a-gaia-ciencia</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-a-gaia-ciencia.epub"/>
+  </entry>
+  <entry>
+    <title>Assim Falou Zaratustra</title>
+    <id>urn:pdlivro:friedrich-nietzsche-assim-falou-zaratustra</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, eterno-retorno</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-assim-falou-zaratustra.epub"/>
+  </entry>
+  <entry>
+    <title>Além do Bem e do Mal</title>
+    <id>urn:pdlivro:friedrich-nietzsche-alem-do-bem-e-do-mal</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-alem-do-bem-e-do-mal.epub"/>
+  </entry>
+  <entry>
+    <title>Genealogia da Moral</title>
+    <id>urn:pdlivro:friedrich-nietzsche-genealogia-da-moral</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, instituicoes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-genealogia-da-moral.epub"/>
+  </entry>
+  <entry>
+    <title>Ecce Homo</title>
+    <id>urn:pdlivro:friedrich-nietzsche-ecce-homo</id>
+    <author><name>Friedrich Nietzsche</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, autobiografia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/friedrich-nietzsche-ecce-homo.epub"/>
+  </entry>
+  <entry>
+    <title>Fenomenologia do Espírito</title>
+    <id>urn:pdlivro:g-w-f-hegel-fenomenologia-do-espirito</id>
+    <author><name>G. W. F. Hegel</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/g-w-f-hegel-fenomenologia-do-espirito.epub"/>
+  </entry>
+  <entry>
+    <title>Aurélia</title>
+    <id>urn:pdlivro:gerard-de-nerval-aurelia</id>
+    <author><name>Gérard de Nerval</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · prosa, sonho</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gerard-de-nerval-aurelia.epub"/>
+  </entry>
+  <entry>
+    <title>Auto da Barca do Inferno</title>
+    <id>urn:pdlivro:gil-vicente-auto-da-barca-do-inferno</id>
+    <author><name>Gil Vicente</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, teatro</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gil-vicente-auto-da-barca-do-inferno.epub"/>
+  </entry>
+  <entry>
+    <title>Decameron</title>
+    <id>urn:pdlivro:giovanni-boccaccio-decameron</id>
+    <author><name>Giovanni Boccaccio</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · narrativa, medieval</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/giovanni-boccaccio-decameron.epub"/>
+  </entry>
+  <entry>
+    <title>Primeiros Cantos</title>
+    <id>urn:pdlivro:goncalves-dias-primeiros-cantos</id>
+    <author><name>Gonçalves Dias</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/goncalves-dias-primeiros-cantos.epub"/>
+  </entry>
+  <entry>
+    <title>Monadologia</title>
+    <id>urn:pdlivro:gottfried-wilhelm-leibniz-monadologia</id>
+    <author><name>Gottfried Wilhelm Leibniz</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gottfried-wilhelm-leibniz-monadologia.epub"/>
+  </entry>
+  <entry>
+    <title>Caetés</title>
+    <id>urn:pdlivro:graciliano-ramos-caetes</id>
+    <author><name>Graciliano Ramos</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/graciliano-ramos-caetes.epub"/>
+  </entry>
+  <entry>
+    <title>São Bernardo</title>
+    <id>urn:pdlivro:graciliano-ramos-sao-bernardo</id>
+    <author><name>Graciliano Ramos</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/graciliano-ramos-sao-bernardo.epub"/>
+  </entry>
+  <entry>
+    <title>Angústia</title>
+    <id>urn:pdlivro:graciliano-ramos-angustia</id>
+    <author><name>Graciliano Ramos</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/graciliano-ramos-angustia.epub"/>
+  </entry>
+  <entry>
+    <title>Vidas Secas</title>
+    <id>urn:pdlivro:graciliano-ramos-vidas-secas</id>
+    <author><name>Graciliano Ramos</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/graciliano-ramos-vidas-secas.epub"/>
+  </entry>
+  <entry>
+    <title>Infância</title>
+    <id>urn:pdlivro:graciliano-ramos-infancia</id>
+    <author><name>Graciliano Ramos</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, memoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/graciliano-ramos-infancia.epub"/>
+  </entry>
+  <entry>
+    <title>Álcoois</title>
+    <id>urn:pdlivro:guillaume-apollinaire-alcoois</id>
+    <author><name>Guillaume Apollinaire</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, vanguarda</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/guillaume-apollinaire-alcoois.epub"/>
+  </entry>
+  <entry>
+    <title>Caligramas</title>
+    <id>urn:pdlivro:guillaume-apollinaire-caligramas</id>
+    <author><name>Guillaume Apollinaire</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, visual</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/guillaume-apollinaire-caligramas.epub"/>
+  </entry>
+  <entry>
+    <title>Madame Bovary</title>
+    <id>urn:pdlivro:gustave-flaubert-madame-bovary</id>
+    <author><name>Gustave Flaubert</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gustave-flaubert-madame-bovary.epub"/>
+  </entry>
+  <entry>
+    <title>A Tentação de Santo Antão</title>
+    <id>urn:pdlivro:gustave-flaubert-a-tentacao-de-santo-antao</id>
+    <author><name>Gustave Flaubert</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · prosa</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gustave-flaubert-a-tentacao-de-santo-antao.epub"/>
+  </entry>
+  <entry>
+    <title>Bouvard e Pécuchet</title>
+    <id>urn:pdlivro:gustave-flaubert-bouvard-e-pecuchet</id>
+    <author><name>Gustave Flaubert</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, satira</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/gustave-flaubert-bouvard-e-pecuchet.epub"/>
+  </entry>
+  <entry>
+    <title>Contos</title>
+    <id>urn:pdlivro:guy-de-maupassant-contos</id>
+    <author><name>Guy de Maupassant</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/guy-de-maupassant-contos.epub"/>
+  </entry>
+  <entry>
+    <title>Ensaio sobre os Dados Imediatos da Consciência</title>
+    <id>urn:pdlivro:henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia</id>
+    <author><name>Henri Bergson</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · duracao, tempo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia.epub"/>
+  </entry>
+  <entry>
+    <title>Matéria e Memória</title>
+    <id>urn:pdlivro:henri-bergson-materia-e-memoria</id>
+    <author><name>Henri Bergson</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · duracao, memoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henri-bergson-materia-e-memoria.epub"/>
+  </entry>
+  <entry>
+    <title>O Riso</title>
+    <id>urn:pdlivro:henri-bergson-o-riso</id>
+    <author><name>Henri Bergson</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · ensaio, comico</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henri-bergson-o-riso.epub"/>
+  </entry>
+  <entry>
+    <title>A Evolução Criadora</title>
+    <id>urn:pdlivro:henri-bergson-a-evolucao-criadora</id>
+    <author><name>Henri Bergson</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · duracao, tempo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henri-bergson-a-evolucao-criadora.epub"/>
+  </entry>
+  <entry>
+    <title>Duração e Simultaneidade</title>
+    <id>urn:pdlivro:henri-bergson-duracao-e-simultaneidade</id>
+    <author><name>Henri Bergson</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · duracao, tempo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henri-bergson-duracao-e-simultaneidade.epub"/>
+  </entry>
+  <entry>
+    <title>A Desobediência Civil</title>
+    <id>urn:pdlivro:henry-david-thoreau-a-desobediencia-civil</id>
+    <author><name>Henry David Thoreau</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · ensaio, politica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henry-david-thoreau-a-desobediencia-civil.epub"/>
+  </entry>
+  <entry>
+    <title>Walden</title>
+    <id>urn:pdlivro:henry-david-thoreau-walden</id>
+    <author><name>Henry David Thoreau</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · ensaio</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/henry-david-thoreau-walden.epub"/>
+  </entry>
+  <entry>
+    <title>Moby Dick</title>
+    <id>urn:pdlivro:herman-melville-moby-dick</id>
+    <author><name>Herman Melville</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/herman-melville-moby-dick.epub"/>
+  </entry>
+  <entry>
+    <title>Bartleby, o Escrivão</title>
+    <id>urn:pdlivro:herman-melville-bartleby-o-escrivao</id>
+    <author><name>Herman Melville</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · conto, recusa</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/herman-melville-bartleby-o-escrivao.epub"/>
+  </entry>
+  <entry>
+    <title>Odisseia</title>
+    <id>urn:pdlivro:homero-odisseia</id>
+    <author><name>Homero</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · epica, antiguidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/homero-odisseia.epub"/>
+  </entry>
+  <entry>
+    <title>Ilíada</title>
+    <id>urn:pdlivro:homero-iliada</id>
+    <author><name>Homero</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · epica, antiguidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/homero-iliada.epub"/>
+  </entry>
+  <entry>
+    <title>Pai Goriot</title>
+    <id>urn:pdlivro:honore-de-balzac-pai-goriot</id>
+    <author><name>Honoré de Balzac</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, familia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/honore-de-balzac-pai-goriot.epub"/>
+  </entry>
+  <entry>
+    <title>Ilusões Perdidas</title>
+    <id>urn:pdlivro:honore-de-balzac-ilusoes-perdidas</id>
+    <author><name>Honoré de Balzac</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/honore-de-balzac-ilusoes-perdidas.epub"/>
+  </entry>
+  <entry>
+    <title>Crítica da Razão Pura</title>
+    <id>urn:pdlivro:immanuel-kant-critica-da-razao-pura</id>
+    <author><name>Immanuel Kant</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, tempo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/immanuel-kant-critica-da-razao-pura.epub"/>
+  </entry>
+  <entry>
+    <title>Pais e Filhos</title>
+    <id>urn:pdlivro:ivan-turgueniev-pais-e-filhos</id>
+    <author><name>Ivan Turguêniev</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance, geracoes</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/ivan-turgueniev-pais-e-filhos.epub"/>
+  </entry>
+  <entry>
+    <title>Dublinenses</title>
+    <id>urn:pdlivro:james-joyce-dublinenses</id>
+    <author><name>James Joyce</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · conto, modernismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/james-joyce-dublinenses.epub"/>
+  </entry>
+  <entry>
+    <title>Retrato do Artista Quando Jovem</title>
+    <id>urn:pdlivro:james-joyce-retrato-do-artista-quando-jovem</id>
+    <author><name>James Joyce</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, modernismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/james-joyce-retrato-do-artista-quando-jovem.epub"/>
+  </entry>
+  <entry>
+    <title>Ulisses</title>
+    <id>urn:pdlivro:james-joyce-ulisses</id>
+    <author><name>James Joyce</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/james-joyce-ulisses.epub"/>
+  </entry>
+  <entry>
+    <title>Finnegans Wake</title>
+    <id>urn:pdlivro:james-joyce-finnegans-wake</id>
+    <author><name>James Joyce</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">en</dc:language>
+    <content type="text">Literatura · romance, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/james-joyce-finnegans-wake.epub"/>
+  </entry>
+  <entry>
+    <title>Orgulho e Preconceito</title>
+    <id>urn:pdlivro:jane-austen-orgulho-e-preconceito</id>
+    <author><name>Jane Austen</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jane-austen-orgulho-e-preconceito.epub"/>
+  </entry>
+  <entry>
+    <title>A Moreninha</title>
+    <id>urn:pdlivro:joaquim-manuel-de-macedo-a-moreninha</id>
+    <author><name>Joaquim Manuel de Macedo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/joaquim-manuel-de-macedo-a-moreninha.epub"/>
+  </entry>
+  <entry>
+    <title>Os Sofrimentos do Jovem Werther</title>
+    <id>urn:pdlivro:johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther</id>
+    <author><name>Johann Wolfgang von Goethe</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther.epub"/>
+  </entry>
+  <entry>
+    <title>Fausto</title>
+    <id>urn:pdlivro:johann-wolfgang-von-goethe-fausto</id>
+    <author><name>Johann Wolfgang von Goethe</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro, poema</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/johann-wolfgang-von-goethe-fausto.epub"/>
+  </entry>
+  <entry>
+    <title>As Afinidades Eletivas</title>
+    <id>urn:pdlivro:johann-wolfgang-von-goethe-as-afinidades-eletivas</id>
+    <author><name>Johann Wolfgang von Goethe</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/johann-wolfgang-von-goethe-as-afinidades-eletivas.epub"/>
+  </entry>
+  <entry>
+    <title>Paraíso Perdido</title>
+    <id>urn:pdlivro:john-milton-paraiso-perdido</id>
+    <author><name>John Milton</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · epica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/john-milton-paraiso-perdido.epub"/>
+  </entry>
+  <entry>
+    <title>Viagens de Gulliver</title>
+    <id>urn:pdlivro:jonathan-swift-viagens-de-gulliver</id>
+    <author><name>Jonathan Swift</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · satira</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jonathan-swift-viagens-de-gulliver.epub"/>
+  </entry>
+  <entry>
+    <title>O Guarani</title>
+    <id>urn:pdlivro:jose-de-alencar-o-guarani</id>
+    <author><name>José de Alencar</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romantismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jose-de-alencar-o-guarani.epub"/>
+  </entry>
+  <entry>
+    <title>Lucíola</title>
+    <id>urn:pdlivro:jose-de-alencar-luciola</id>
+    <author><name>José de Alencar</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romantismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jose-de-alencar-luciola.epub"/>
+  </entry>
+  <entry>
+    <title>Iracema</title>
+    <id>urn:pdlivro:jose-de-alencar-iracema</id>
+    <author><name>José de Alencar</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romantismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jose-de-alencar-iracema.epub"/>
+  </entry>
+  <entry>
+    <title>Senhora</title>
+    <id>urn:pdlivro:jose-de-alencar-senhora</id>
+    <author><name>José de Alencar</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romantismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/jose-de-alencar-senhora.epub"/>
+  </entry>
+  <entry>
+    <title>Coração das Trevas</title>
+    <id>urn:pdlivro:joseph-conrad-coracao-das-trevas</id>
+    <author><name>Joseph Conrad</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/joseph-conrad-coracao-das-trevas.epub"/>
+  </entry>
+  <entry>
+    <title>Lord Jim</title>
+    <id>urn:pdlivro:joseph-conrad-lord-jim</id>
+    <author><name>Joseph Conrad</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/joseph-conrad-lord-jim.epub"/>
+  </entry>
+  <entry>
+    <title>Tao Te Ching</title>
+    <id>urn:pdlivro:lao-tse-tao-te-ching</id>
+    <author><name>Lao Tsé</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · oriente, sabedoria</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lao-tse-tao-te-ching.epub"/>
+  </entry>
+  <entry>
+    <title>A Vida e as Opiniões de Tristram Shandy</title>
+    <id>urn:pdlivro:laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy</id>
+    <author><name>Laurence Sterne</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, invencao-formal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy.epub"/>
+  </entry>
+  <entry>
+    <title>Alice no País das Maravilhas</title>
+    <id>urn:pdlivro:lewis-carroll-alice-no-pais-das-maravilhas</id>
+    <author><name>Lewis Carroll</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · nonsense, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lewis-carroll-alice-no-pais-das-maravilhas.epub"/>
+  </entry>
+  <entry>
+    <title>Através do Espelho</title>
+    <id>urn:pdlivro:lewis-carroll-atraves-do-espelho</id>
+    <author><name>Lewis Carroll</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · nonsense, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lewis-carroll-atraves-do-espelho.epub"/>
+  </entry>
+  <entry>
+    <title>A Caça ao Snark</title>
+    <id>urn:pdlivro:lewis-carroll-a-caca-ao-snark</id>
+    <author><name>Lewis Carroll</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · nonsense, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lewis-carroll-a-caca-ao-snark.epub"/>
+  </entry>
+  <entry>
+    <title>Guerra e Paz</title>
+    <id>urn:pdlivro:liev-tolstoi-guerra-e-paz</id>
+    <author><name>Liev Tolstói</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/liev-tolstoi-guerra-e-paz.epub"/>
+  </entry>
+  <entry>
+    <title>Anna Kariênina</title>
+    <id>urn:pdlivro:liev-tolstoi-anna-karienina</id>
+    <author><name>Liev Tolstói</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/liev-tolstoi-anna-karienina.epub"/>
+  </entry>
+  <entry>
+    <title>A Morte de Ivan Ilitch</title>
+    <id>urn:pdlivro:liev-tolstoi-a-morte-de-ivan-ilitch</id>
+    <author><name>Liev Tolstói</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, novela, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/liev-tolstoi-a-morte-de-ivan-ilitch.epub"/>
+  </entry>
+  <entry>
+    <title>Recordações do Escrivão Isaías Caminha</title>
+    <id>urn:pdlivro:lima-barreto-recordacoes-do-escrivao-isaias-caminha</id>
+    <author><name>Lima Barreto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lima-barreto-recordacoes-do-escrivao-isaias-caminha.epub"/>
+  </entry>
+  <entry>
+    <title>Triste Fim de Policarpo Quaresma</title>
+    <id>urn:pdlivro:lima-barreto-triste-fim-de-policarpo-quaresma</id>
+    <author><name>Lima Barreto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lima-barreto-triste-fim-de-policarpo-quaresma.epub"/>
+  </entry>
+  <entry>
+    <title>Vida e Morte de M. J. Gonzaga de Sá</title>
+    <id>urn:pdlivro:lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa</id>
+    <author><name>Lima Barreto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa.epub"/>
+  </entry>
+  <entry>
+    <title>Os Bruzundangas</title>
+    <id>urn:pdlivro:lima-barreto-os-bruzundangas</id>
+    <author><name>Lima Barreto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, satira</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lima-barreto-os-bruzundangas.epub"/>
+  </entry>
+  <entry>
+    <title>Clara dos Anjos</title>
+    <id>urn:pdlivro:lima-barreto-clara-dos-anjos</id>
+    <author><name>Lima Barreto</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/lima-barreto-clara-dos-anjos.epub"/>
+  </entry>
+  <entry>
+    <title>Seis Personagens à Procura de um Autor</title>
+    <id>urn:pdlivro:luigi-pirandello-seis-personagens-a-procura-de-um-autor</id>
+    <author><name>Luigi Pirandello</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro, metateatro</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/luigi-pirandello-seis-personagens-a-procura-de-um-autor.epub"/>
+  </entry>
+  <entry>
+    <title>Os Lusíadas</title>
+    <id>urn:pdlivro:luis-de-camoes-os-lusiadas</id>
+    <author><name>Luís de Camões</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, epica</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/luis-de-camoes-os-lusiadas.epub"/>
+  </entry>
+  <entry>
+    <title>Rimas</title>
+    <id>urn:pdlivro:luis-de-camoes-rimas</id>
+    <author><name>Luís de Camões</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/luis-de-camoes-rimas.epub"/>
+  </entry>
+  <entry>
+    <title>Contos Fluminenses</title>
+    <id>urn:pdlivro:machado-de-assis-contos-fluminenses</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-contos-fluminenses.epub"/>
+  </entry>
+  <entry>
+    <title>Ressurreição</title>
+    <id>urn:pdlivro:machado-de-assis-ressurreicao</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-ressurreicao.epub"/>
+  </entry>
+  <entry>
+    <title>A Mão e a Luva</title>
+    <id>urn:pdlivro:machado-de-assis-a-mao-e-a-luva</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-a-mao-e-a-luva.epub"/>
+  </entry>
+  <entry>
+    <title>Helena</title>
+    <id>urn:pdlivro:machado-de-assis-helena</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-helena.epub"/>
+  </entry>
+  <entry>
+    <title>Iaiá Garcia</title>
+    <id>urn:pdlivro:machado-de-assis-iaia-garcia</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-iaia-garcia.epub"/>
+  </entry>
+  <entry>
+    <title>Memórias Póstumas de Brás Cubas</title>
+    <id>urn:pdlivro:machado-de-assis-memorias-postumas-de-bras-cubas</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-memorias-postumas-de-bras-cubas.epub"/>
+  </entry>
+  <entry>
+    <title>Papéis Avulsos</title>
+    <id>urn:pdlivro:machado-de-assis-papeis-avulsos</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-papeis-avulsos.epub"/>
+  </entry>
+  <entry>
+    <title>Histórias sem Data</title>
+    <id>urn:pdlivro:machado-de-assis-historias-sem-data</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-historias-sem-data.epub"/>
+  </entry>
+  <entry>
+    <title>Quincas Borba</title>
+    <id>urn:pdlivro:machado-de-assis-quincas-borba</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-quincas-borba.epub"/>
+  </entry>
+  <entry>
+    <title>Várias Histórias</title>
+    <id>urn:pdlivro:machado-de-assis-varias-historias</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-varias-historias.epub"/>
+  </entry>
+  <entry>
+    <title>Páginas Recolhidas</title>
+    <id>urn:pdlivro:machado-de-assis-paginas-recolhidas</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-paginas-recolhidas.epub"/>
+  </entry>
+  <entry>
+    <title>Dom Casmurro</title>
+    <id>urn:pdlivro:machado-de-assis-dom-casmurro</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-dom-casmurro.epub"/>
+  </entry>
+  <entry>
+    <title>Poesias Completas</title>
+    <id>urn:pdlivro:machado-de-assis-poesias-completas</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-poesias-completas.epub"/>
+  </entry>
+  <entry>
+    <title>Esaú e Jacó</title>
+    <id>urn:pdlivro:machado-de-assis-esau-e-jaco</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-esau-e-jaco.epub"/>
+  </entry>
+  <entry>
+    <title>Relíquias de Casa Velha</title>
+    <id>urn:pdlivro:machado-de-assis-reliquias-de-casa-velha</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-reliquias-de-casa-velha.epub"/>
+  </entry>
+  <entry>
+    <title>Memorial de Aires</title>
+    <id>urn:pdlivro:machado-de-assis-memorial-de-aires</id>
+    <author><name>Machado de Assis</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/machado-de-assis-memorial-de-aires.epub"/>
+  </entry>
+  <entry>
+    <title>Memórias de um Sargento de Milícias</title>
+    <id>urn:pdlivro:manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias</id>
+    <author><name>Manuel Antônio de Almeida</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias.epub"/>
+  </entry>
+  <entry>
+    <title>Em Busca do Tempo Perdido</title>
+    <id>urn:pdlivro:marcel-proust-em-busca-do-tempo-perdido</id>
+    <author><name>Marcel Proust</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tempo, memoria, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/marcel-proust-em-busca-do-tempo-perdido.epub"/>
+  </entry>
+  <entry>
+    <title>Paulicéia Desvairada</title>
+    <id>urn:pdlivro:mario-de-andrade-pauliceia-desvairada</id>
+    <author><name>Mário de Andrade</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, modernismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/mario-de-andrade-pauliceia-desvairada.epub"/>
+  </entry>
+  <entry>
+    <title>Macunaíma</title>
+    <id>urn:pdlivro:mario-de-andrade-macunaima</id>
+    <author><name>Mário de Andrade</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, modernismo, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/mario-de-andrade-macunaima.epub"/>
+  </entry>
+  <entry>
+    <title>Frankenstein</title>
+    <id>urn:pdlivro:mary-shelley-frankenstein</id>
+    <author><name>Mary Shelley</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, gotico</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/mary-shelley-frankenstein.epub"/>
+  </entry>
+  <entry>
+    <title>Ensaios</title>
+    <id>urn:pdlivro:michel-de-montaigne-ensaios</id>
+    <author><name>Michel de Montaigne</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · ensaio</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/michel-de-montaigne-ensaios.epub"/>
+  </entry>
+  <entry>
+    <title>Dom Quixote</title>
+    <id>urn:pdlivro:miguel-de-cervantes-dom-quixote</id>
+    <author><name>Miguel de Cervantes</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/miguel-de-cervantes-dom-quixote.epub"/>
+  </entry>
+  <entry>
+    <title>Urupês</title>
+    <id>urn:pdlivro:monteiro-lobato-urupes</id>
+    <author><name>Monteiro Lobato</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/monteiro-lobato-urupes.epub"/>
+  </entry>
+  <entry>
+    <title>Cidades Mortas</title>
+    <id>urn:pdlivro:monteiro-lobato-cidades-mortas</id>
+    <author><name>Monteiro Lobato</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/monteiro-lobato-cidades-mortas.epub"/>
+  </entry>
+  <entry>
+    <title>Negrinha</title>
+    <id>urn:pdlivro:monteiro-lobato-negrinha</id>
+    <author><name>Monteiro Lobato</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, conto</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/monteiro-lobato-negrinha.epub"/>
+  </entry>
+  <entry>
+    <title>Almas Mortas</title>
+    <id>urn:pdlivro:nikolai-gogol-almas-mortas</id>
+    <author><name>Nikolai Gógol</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · russia, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/nikolai-gogol-almas-mortas.epub"/>
+  </entry>
+  <entry>
+    <title>Poesias</title>
+    <id>urn:pdlivro:olavo-bilac-poesias</id>
+    <author><name>Olavo Bilac</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, parnasianismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/olavo-bilac-poesias.epub"/>
+  </entry>
+  <entry>
+    <title>O Retrato de Dorian Gray</title>
+    <id>urn:pdlivro:oscar-wilde-o-retrato-de-dorian-gray</id>
+    <author><name>Oscar Wilde</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/oscar-wilde-o-retrato-de-dorian-gray.epub"/>
+  </entry>
+  <entry>
+    <title>De Profundis</title>
+    <id>urn:pdlivro:oscar-wilde-de-profundis</id>
+    <author><name>Oscar Wilde</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · carta, ensaio</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/oscar-wilde-de-profundis.epub"/>
+  </entry>
+  <entry>
+    <title>Pau Brasil</title>
+    <id>urn:pdlivro:oswald-de-andrade-pau-brasil</id>
+    <author><name>Oswald de Andrade</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, modernismo, poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/oswald-de-andrade-pau-brasil.epub"/>
+  </entry>
+  <entry>
+    <title>Poemas Saturninos</title>
+    <id>urn:pdlivro:paul-verlaine-poemas-saturninos</id>
+    <author><name>Paul Verlaine</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/paul-verlaine-poemas-saturninos.epub"/>
+  </entry>
+  <entry>
+    <title>A Vida é Sonho</title>
+    <id>urn:pdlivro:pedro-calderon-de-la-barca-a-vida-e-sonho</id>
+    <author><name>Pedro Calderón de la Barca</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/pedro-calderon-de-la-barca-a-vida-e-sonho.epub"/>
+  </entry>
+  <entry>
+    <title>Os Cadernos de Malte Laurids Brigge</title>
+    <id>urn:pdlivro:rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge</id>
+    <author><name>Rainer Maria Rilke</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · prosa</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.epub"/>
+  </entry>
+  <entry>
+    <title>Elegias de Duíno</title>
+    <id>urn:pdlivro:rainer-maria-rilke-elegias-de-duino</id>
+    <author><name>Rainer Maria Rilke</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/rainer-maria-rilke-elegias-de-duino.epub"/>
+  </entry>
+  <entry>
+    <title>Cartas a um Jovem Poeta</title>
+    <id>urn:pdlivro:rainer-maria-rilke-cartas-a-um-jovem-poeta</id>
+    <author><name>Rainer Maria Rilke</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · carta</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/rainer-maria-rilke-cartas-a-um-jovem-poeta.epub"/>
+  </entry>
+  <entry>
+    <title>Ensaios</title>
+    <id>urn:pdlivro:ralph-waldo-emerson-ensaios</id>
+    <author><name>Ralph Waldo Emerson</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · ensaio</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/ralph-waldo-emerson-ensaios.epub"/>
+  </entry>
+  <entry>
+    <title>Húmus</title>
+    <id>urn:pdlivro:raul-brandao-humus</id>
+    <author><name>Raul Brandão</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · portugal, prosa, invencao-verbal</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/raul-brandao-humus.epub"/>
+  </entry>
+  <entry>
+    <title>O Ateneu</title>
+    <id>urn:pdlivro:raul-pompeia-o-ateneu</id>
+    <author><name>Raul Pompeia</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · brasil, romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/raul-pompeia-o-ateneu.epub"/>
+  </entry>
+  <entry>
+    <title>Discurso do Método</title>
+    <id>urn:pdlivro:rene-descartes-discurso-do-metodo</id>
+    <author><name>René Descartes</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · filosofia, metodo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/rene-descartes-discurso-do-metodo.epub"/>
+  </entry>
+  <entry>
+    <title>A Interpretação dos Sonhos</title>
+    <id>urn:pdlivro:sigmund-freud-a-interpretacao-dos-sonhos</id>
+    <author><name>Sigmund Freud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · psicanalise</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sigmund-freud-a-interpretacao-dos-sonhos.epub"/>
+  </entry>
+  <entry>
+    <title>Totem e Tabu</title>
+    <id>urn:pdlivro:sigmund-freud-totem-e-tabu</id>
+    <author><name>Sigmund Freud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · psicanalise, instituicoes, pai</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sigmund-freud-totem-e-tabu.epub"/>
+  </entry>
+  <entry>
+    <title>Além do Princípio do Prazer</title>
+    <id>urn:pdlivro:sigmund-freud-alem-do-principio-do-prazer</id>
+    <author><name>Sigmund Freud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · psicanalise, repeticao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sigmund-freud-alem-do-principio-do-prazer.epub"/>
+  </entry>
+  <entry>
+    <title>Psicologia das Massas e Análise do Eu</title>
+    <id>urn:pdlivro:sigmund-freud-psicologia-das-massas-e-analise-do-eu</id>
+    <author><name>Sigmund Freud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · psicanalise, lideranca</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sigmund-freud-psicologia-das-massas-e-analise-do-eu.epub"/>
+  </entry>
+  <entry>
+    <title>O Mal-Estar na Civilização</title>
+    <id>urn:pdlivro:sigmund-freud-o-mal-estar-na-civilizacao</id>
+    <author><name>Sigmund Freud</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · psicanalise, cultura</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sigmund-freud-o-mal-estar-na-civilizacao.epub"/>
+  </entry>
+  <entry>
+    <title>Antígona</title>
+    <id>urn:pdlivro:sofocles-antigona</id>
+    <author><name>Sófocles</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tragedia, lei-nao-escrita</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sofocles-antigona.epub"/>
+  </entry>
+  <entry>
+    <title>Édipo Rei</title>
+    <id>urn:pdlivro:sofocles-edipo-rei</id>
+    <author><name>Sófocles</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · tragedia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/sofocles-edipo-rei.epub"/>
+  </entry>
+  <entry>
+    <title>O Vermelho e o Negro</title>
+    <id>urn:pdlivro:stendhal-o-vermelho-e-o-negro</id>
+    <author><name>Stendhal</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/stendhal-o-vermelho-e-o-negro.epub"/>
+  </entry>
+  <entry>
+    <title>A Cartuxa de Parma</title>
+    <id>urn:pdlivro:stendhal-a-cartuxa-de-parma</id>
+    <author><name>Stendhal</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/stendhal-a-cartuxa-de-parma.epub"/>
+  </entry>
+  <entry>
+    <title>Um Lance de Dados</title>
+    <id>urn:pdlivro:stephane-mallarme-um-lance-de-dados</id>
+    <author><name>Stéphane Mallarmé</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, espacializacao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/stephane-mallarme-um-lance-de-dados.epub"/>
+  </entry>
+  <entry>
+    <title>Poesias</title>
+    <id>urn:pdlivro:stephane-mallarme-poesias</id>
+    <author><name>Stéphane Mallarmé</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, hermetismo</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/stephane-mallarme-poesias.epub"/>
+  </entry>
+  <entry>
+    <title>Os Buddenbrook</title>
+    <id>urn:pdlivro:thomas-mann-os-buddenbrook</id>
+    <author><name>Thomas Mann</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, familia, sucessao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thomas-mann-os-buddenbrook.epub"/>
+  </entry>
+  <entry>
+    <title>A Morte em Veneza</title>
+    <id>urn:pdlivro:thomas-mann-a-morte-em-veneza</id>
+    <author><name>Thomas Mann</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · novela</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thomas-mann-a-morte-em-veneza.epub"/>
+  </entry>
+  <entry>
+    <title>A Montanha Mágica</title>
+    <id>urn:pdlivro:thomas-mann-a-montanha-magica</id>
+    <author><name>Thomas Mann</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance, tempo, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/thomas-mann-a-montanha-magica.epub"/>
+  </entry>
+  <entry>
+    <title>Notre-Dame de Paris</title>
+    <id>urn:pdlivro:victor-hugo-notre-dame-de-paris</id>
+    <author><name>Victor Hugo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/victor-hugo-notre-dame-de-paris.epub"/>
+  </entry>
+  <entry>
+    <title>Os Miseráveis</title>
+    <id>urn:pdlivro:victor-hugo-os-miseraveis</id>
+    <author><name>Victor Hugo</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · romance</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/victor-hugo-os-miseraveis.epub"/>
+  </entry>
+  <entry>
+    <title>Cândido</title>
+    <id>urn:pdlivro:voltaire-candido</id>
+    <author><name>Voltaire</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · satira, conto-filosofico</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/voltaire-candido.epub"/>
+  </entry>
+  <entry>
+    <title>Folhas de Relva</title>
+    <id>urn:pdlivro:walt-whitman-folhas-de-relva</id>
+    <author><name>Walt Whitman</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/walt-whitman-folhas-de-relva.epub"/>
+  </entry>
+  <entry>
+    <title>Hamlet</title>
+    <id>urn:pdlivro:william-shakespeare-hamlet</id>
+    <author><name>William Shakespeare</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/william-shakespeare-hamlet.epub"/>
+  </entry>
+  <entry>
+    <title>Macbeth</title>
+    <id>urn:pdlivro:william-shakespeare-macbeth</id>
+    <author><name>William Shakespeare</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro, legitimidade</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/william-shakespeare-macbeth.epub"/>
+  </entry>
+  <entry>
+    <title>Rei Lear</title>
+    <id>urn:pdlivro:william-shakespeare-rei-lear</id>
+    <author><name>William Shakespeare</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro, sucessao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/william-shakespeare-rei-lear.epub"/>
+  </entry>
+  <entry>
+    <title>Sonetos</title>
+    <id>urn:pdlivro:william-shakespeare-sonetos</id>
+    <author><name>William Shakespeare</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · poesia, duracao</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/william-shakespeare-sonetos.epub"/>
+  </entry>
+  <entry>
+    <title>A Tempestade</title>
+    <id>urn:pdlivro:william-shakespeare-a-tempestade</id>
+    <author><name>William Shakespeare</name></author>
+    <updated>2026-08-26T04:27:17Z</updated>
+    <dc:language xmlns:dc="http://purl.org/dc/terms/">pt</dc:language>
+    <content type="text">Literatura · teatro</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="livros/william-shakespeare-a-tempestade.epub"/>
+  </entry>
+</feed>
