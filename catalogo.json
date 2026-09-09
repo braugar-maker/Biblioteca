@@ -1,7 +1,8 @@
 {
  "instituto": "Instituto Aeviternitas",
+ "biblioteca": "Biblioteca Aevum",
  "lema": "quod manet",
- "gerado": "2026-08-26",
+ "gerado": "2026-09-09",
  "obras": [
   {
    "t": "Teoria dos Sentimentos Morais",
@@ -17,7 +18,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/adam-smith-teoria-dos-sentimentos-morais.epub",
-   "kb": 634
+   "kb": 634,
+   "capa": "capas/adam-smith-teoria-dos-sentimentos-morais.png",
+   "capa_min": "capas/miniaturas/adam-smith-teoria-dos-sentimentos-morais-300x450.png"
   },
   {
    "t": "A Riqueza das Nações",
@@ -33,7 +36,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/adam-smith-a-riqueza-das-nacoes.epub",
-   "kb": 925
+   "kb": 925,
+   "capa": "capas/adam-smith-a-riqueza-das-nacoes.png",
+   "capa_min": "capas/miniaturas/adam-smith-a-riqueza-das-nacoes-300x450.png"
   },
   {
    "t": "A Organização Nacional",
@@ -49,7 +54,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/alberto-torres-a-organizacao-nacional.epub",
-   "kb": 345
+   "kb": 345,
+   "capa": "capas/alberto-torres-a-organizacao-nacional.png",
+   "capa_min": "capas/miniaturas/alberto-torres-a-organizacao-nacional-300x450.png"
   },
   {
    "t": "A Democracia na América",
@@ -65,7 +72,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/alexis-de-tocqueville-a-democracia-na-america.epub",
-   "kb": 530
+   "kb": 530,
+   "capa": "capas/alexis-de-tocqueville-a-democracia-na-america.png",
+   "capa_min": "capas/miniaturas/alexis-de-tocqueville-a-democracia-na-america-300x450.png"
   },
   {
    "t": "O Antigo Regime e a Revolução",
@@ -81,7 +90,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao.epub",
-   "kb": 506
+   "kb": 506,
+   "capa": "capas/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao.png",
+   "capa_min": "capas/miniaturas/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao-300x450.png"
   },
   {
    "t": "Ética a Nicômaco",
@@ -97,7 +108,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/aristoteles-etica-a-nicomaco.epub",
-   "kb": 453
+   "kb": 453,
+   "capa": "capas/aristoteles-etica-a-nicomaco.png",
+   "capa_min": "capas/miniaturas/aristoteles-etica-a-nicomaco-300x450.png"
   },
   {
    "t": "Política",
@@ -113,7 +126,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/aristoteles-politica.epub",
-   "kb": 281
+   "kb": 281,
+   "capa": "capas/aristoteles-politica.png",
+   "capa_min": "capas/miniaturas/aristoteles-politica-300x450.png"
   },
   {
    "t": "A Constituição de Atenas",
@@ -129,7 +144,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/aristoteles-a-constituicao-de-atenas.epub",
-   "kb": 128
+   "kb": 128,
+   "capa": "capas/aristoteles-a-constituicao-de-atenas.png",
+   "capa_min": "capas/miniaturas/aristoteles-a-constituicao-de-atenas-300x450.png"
   },
   {
    "t": "Consolidação das Leis Civis",
@@ -145,7 +162,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.epub",
-   "kb": 78
+   "kb": 78,
+   "capa": "capas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.png",
+   "capa_min": "capas/miniaturas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis-300x450.png"
   },
   {
    "t": "A Consolação da Filosofia",
@@ -161,7 +180,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/boecio-a-consolacao-da-filosofia.epub",
-   "kb": 336
+   "kb": 336,
+   "capa": "capas/boecio-a-consolacao-da-filosofia.png",
+   "capa_min": "capas/miniaturas/boecio-a-consolacao-da-filosofia-300x450.png"
   },
   {
    "t": "Capítulos de História Colonial",
@@ -177,7 +198,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/capistrano-de-abreu-capitulos-de-historia-colonial.epub",
-   "kb": 233
+   "kb": 233,
+   "capa": "capas/capistrano-de-abreu-capitulos-de-historia-colonial.png",
+   "capa_min": "capas/miniaturas/capistrano-de-abreu-capitulos-de-historia-colonial-300x450.png"
   },
   {
    "t": "Das Leis",
@@ -193,7 +216,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/cicero-das-leis.epub",
-   "kb": 490
+   "kb": 490,
+   "capa": "capas/cicero-das-leis.png",
+   "capa_min": "capas/miniaturas/cicero-das-leis-300x450.png"
   },
   {
    "t": "Da República",
@@ -209,7 +234,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/cicero-da-republica.epub",
-   "kb": 50
+   "kb": 50,
+   "capa": "capas/cicero-da-republica.png",
+   "capa_min": "capas/miniaturas/cicero-da-republica-300x450.png"
   },
   {
    "t": "Dos Deveres",
@@ -225,7 +252,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/cicero-dos-deveres.epub",
-   "kb": 490
+   "kb": 490,
+   "capa": "capas/cicero-dos-deveres.png",
+   "capa_min": "capas/miniaturas/cicero-dos-deveres-300x450.png"
   },
   {
    "t": "Analectos",
@@ -241,7 +270,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/confucio-analectos.epub",
-   "kb": 142
+   "kb": 142,
+   "capa": "capas/confucio-analectos.png",
+   "capa_min": "capas/miniaturas/confucio-analectos-300x450.png"
   },
   {
    "t": "Monarquia",
@@ -257,7 +288,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/dante-alighieri-monarquia.epub",
-   "kb": 18326
+   "kb": 18326,
+   "capa": "capas/dante-alighieri-monarquia.png",
+   "capa_min": "capas/miniaturas/dante-alighieri-monarquia-300x450.png"
   },
   {
    "t": "Reflexões sobre a Revolução em França",
@@ -273,7 +306,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.epub",
-   "kb": 174
+   "kb": 174,
+   "capa": "capas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.png",
+   "capa_min": "capas/miniaturas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca-300x450.png"
   },
   {
    "t": "Declínio e Queda do Império Romano",
@@ -289,7 +324,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/edward-gibbon-declinio-e-queda-do-imperio-romano.epub",
-   "kb": 16030
+   "kb": 16030,
+   "capa": "capas/edward-gibbon-declinio-e-queda-do-imperio-romano.png",
+   "capa_min": "capas/miniaturas/edward-gibbon-declinio-e-queda-do-imperio-romano-300x450.png"
   },
   {
    "t": "Da Divisão do Trabalho Social",
@@ -305,7 +342,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/emile-durkheim-da-divisao-do-trabalho-social.epub",
-   "kb": 451
+   "kb": 451,
+   "capa": "capas/emile-durkheim-da-divisao-do-trabalho-social.png",
+   "capa_min": "capas/miniaturas/emile-durkheim-da-divisao-do-trabalho-social-300x450.png"
   },
   {
    "t": "As Formas Elementares da Vida Religiosa",
@@ -321,7 +360,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/emile-durkheim-as-formas-elementares-da-vida-religiosa.epub",
-   "kb": 602
+   "kb": 602,
+   "capa": "capas/emile-durkheim-as-formas-elementares-da-vida-religiosa.png",
+   "capa_min": "capas/miniaturas/emile-durkheim-as-formas-elementares-da-vida-religiosa-300x450.png"
   },
   {
    "t": "Os Sertões",
@@ -337,7 +378,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/euclides-da-cunha-os-sertoes.epub",
-   "kb": 453
+   "kb": 453,
+   "capa": "capas/euclides-da-cunha-os-sertoes.png",
+   "capa_min": "capas/miniaturas/euclides-da-cunha-os-sertoes-300x450.png"
   },
   {
    "t": "Comunidade e Sociedade",
@@ -353,7 +396,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/ferdinand-tonnies-comunidade-e-sociedade.epub",
-   "kb": 132
+   "kb": 132,
+   "capa": "capas/ferdinand-tonnies-comunidade-e-sociedade.png",
+   "capa_min": "capas/miniaturas/ferdinand-tonnies-comunidade-e-sociedade-300x450.png"
   },
   {
    "t": "Novum Organum",
@@ -369,7 +414,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/francis-bacon-novum-organum.epub",
-   "kb": 370
+   "kb": 370,
+   "capa": "capas/francis-bacon-novum-organum.png",
+   "capa_min": "capas/miniaturas/francis-bacon-novum-organum-300x450.png"
   },
   {
    "t": "Nova Atlântida",
@@ -385,7 +432,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/francis-bacon-nova-atlantida.epub",
-   "kb": 108
+   "kb": 108,
+   "capa": "capas/francis-bacon-nova-atlantida.png",
+   "capa_min": "capas/miniaturas/francis-bacon-nova-atlantida-300x450.png"
   },
   {
    "t": "A Cidade Antiga",
@@ -402,7 +451,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/fustel-de-coulanges-a-cidade-antiga.epub",
-   "kb": 649
+   "kb": 649,
+   "capa": "capas/fustel-de-coulanges-a-cidade-antiga.png",
+   "capa_min": "capas/miniaturas/fustel-de-coulanges-a-cidade-antiga-300x450.png"
   },
   {
    "t": "Filosofia do Direito",
@@ -418,7 +469,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/g-w-f-hegel-filosofia-do-direito.epub",
-   "kb": 799
+   "kb": 799,
+   "capa": "capas/g-w-f-hegel-filosofia-do-direito.png",
+   "capa_min": "capas/miniaturas/g-w-f-hegel-filosofia-do-direito-300x450.png"
   },
   {
    "t": "A Classe Dirigente",
@@ -434,7 +487,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/gaetano-mosca-a-classe-dirigente.epub",
-   "kb": 893
+   "kb": 893,
+   "capa": "capas/gaetano-mosca-a-classe-dirigente.png",
+   "capa_min": "capas/miniaturas/gaetano-mosca-a-classe-dirigente-300x450.png"
   },
   {
    "t": "Filosofia do Dinheiro",
@@ -450,7 +505,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/georg-simmel-filosofia-do-dinheiro.epub",
-   "kb": 19
+   "kb": 19,
+   "capa": "capas/georg-simmel-filosofia-do-dinheiro.png",
+   "capa_min": "capas/miniaturas/georg-simmel-filosofia-do-dinheiro-300x450.png"
   },
   {
    "t": "O Federalista",
@@ -466,7 +523,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/hamilton-madison-e-jay-o-federalista.epub",
-   "kb": 161
+   "kb": 161,
+   "capa": "capas/hamilton-madison-e-jay-o-federalista.png",
+   "capa_min": "capas/miniaturas/hamilton-madison-e-jay-o-federalista-300x450.png"
   },
   {
    "t": "Direito Antigo (Ancient Law)",
@@ -482,7 +541,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/henry-sumner-maine-direito-antigo-ancient-law.epub",
-   "kb": 310
+   "kb": 310,
+   "capa": "capas/henry-sumner-maine-direito-antigo-ancient-law.png",
+   "capa_min": "capas/miniaturas/henry-sumner-maine-direito-antigo-ancient-law-300x450.png"
   },
   {
    "t": "A Comunidade Aldeã no Oriente e no Ocidente",
@@ -497,10 +558,12 @@
    ],
    "fonte": "archive",
    "arq": "livros/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente.epub",
-   "kb": 6026
+   "kb": 6026,
+   "capa": "capas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente.png",
+   "capa_min": "capas/miniaturas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente-300x450.png"
   },
   {
-   "t": "Muqaddimah — Os Prolegômenos",
+   "t": "Muqaddimah: Os Prolegômenos",
    "a": "Ibn Khaldun",
    "y": 1377,
    "c": "A",
@@ -513,7 +576,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/ibn-khaldun-muqaddimah-os-prolegomenos.epub",
-   "kb": 1331
+   "kb": 1331,
+   "capa": "capas/ibn-khaldun-muqaddimah-os-prolegomenos.png",
+   "capa_min": "capas/miniaturas/ibn-khaldun-muqaddimah-os-prolegomenos-300x450.png"
   },
   {
    "t": "Discurso sobre a Origem da Desigualdade",
@@ -529,7 +594,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade.epub",
-   "kb": 166
+   "kb": 166,
+   "capa": "capas/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade.png",
+   "capa_min": "capas/miniaturas/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade-300x450.png"
   },
   {
    "t": "Do Contrato Social",
@@ -545,7 +612,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/jean-jacques-rousseau-do-contrato-social.epub",
-   "kb": 498
+   "kb": 498,
+   "capa": "capas/jean-jacques-rousseau-do-contrato-social.png",
+   "capa_min": "capas/miniaturas/jean-jacques-rousseau-do-contrato-social-300x450.png"
   },
   {
    "t": "O Abolicionismo",
@@ -561,7 +630,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/joaquim-nabuco-o-abolicionismo.epub",
-   "kb": 210
+   "kb": 210,
+   "capa": "capas/joaquim-nabuco-o-abolicionismo.png",
+   "capa_min": "capas/miniaturas/joaquim-nabuco-o-abolicionismo-300x450.png"
   },
   {
    "t": "Um Estadista do Império",
@@ -577,7 +648,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/joaquim-nabuco-um-estadista-do-imperio.epub",
-   "kb": 2164
+   "kb": 2164,
+   "capa": "capas/joaquim-nabuco-um-estadista-do-imperio.png",
+   "capa_min": "capas/miniaturas/joaquim-nabuco-um-estadista-do-imperio-300x450.png"
   },
   {
    "t": "Minha Formação",
@@ -593,7 +666,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/joaquim-nabuco-minha-formacao.epub",
-   "kb": 465
+   "kb": 465,
+   "capa": "capas/joaquim-nabuco-minha-formacao.png",
+   "capa_min": "capas/miniaturas/joaquim-nabuco-minha-formacao-300x450.png"
   },
   {
    "t": "Política Metodicamente Digesta",
@@ -610,7 +685,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/johannes-althusius-politica-metodicamente-digesta.epub",
-   "kb": 642
+   "kb": 642,
+   "capa": "capas/johannes-althusius-politica-metodicamente-digesta.png",
+   "capa_min": "capas/miniaturas/johannes-althusius-politica-metodicamente-digesta-300x450.png"
   },
   {
    "t": "Democracia e Educação",
@@ -626,7 +703,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/john-dewey-democracia-e-educacao.epub",
-   "kb": 399
+   "kb": 399,
+   "capa": "capas/john-dewey-democracia-e-educacao.png",
+   "capa_min": "capas/miniaturas/john-dewey-democracia-e-educacao-300x450.png"
   },
   {
    "t": "O Público e seus Problemas",
@@ -642,7 +721,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/john-dewey-o-publico-e-seus-problemas.epub",
-   "kb": 365
+   "kb": 365,
+   "capa": "capas/john-dewey-o-publico-e-seus-problemas.png",
+   "capa_min": "capas/miniaturas/john-dewey-o-publico-e-seus-problemas-300x450.png"
   },
   {
    "t": "Carta sobre a Tolerância",
@@ -658,7 +739,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/john-locke-carta-sobre-a-tolerancia.epub",
-   "kb": 529
+   "kb": 529,
+   "capa": "capas/john-locke-carta-sobre-a-tolerancia.png",
+   "capa_min": "capas/miniaturas/john-locke-carta-sobre-a-tolerancia-300x450.png"
   },
   {
    "t": "Dois Tratados sobre o Governo",
@@ -675,7 +758,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/john-locke-dois-tratados-sobre-o-governo.epub",
-   "kb": 208
+   "kb": 208,
+   "capa": "capas/john-locke-dois-tratados-sobre-o-governo.png",
+   "capa_min": "capas/miniaturas/john-locke-dois-tratados-sobre-o-governo-300x450.png"
   },
   {
    "t": "Sobre a Liberdade",
@@ -690,7 +775,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/john-stuart-mill-sobre-a-liberdade.epub",
-   "kb": 190
+   "kb": 190,
+   "capa": "capas/john-stuart-mill-sobre-a-liberdade.png",
+   "capa_min": "capas/miniaturas/john-stuart-mill-sobre-a-liberdade-300x450.png"
   },
   {
    "t": "Considerações sobre o Governo Representativo",
@@ -705,7 +792,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/john-stuart-mill-consideracoes-sobre-o-governo-representativo.epub",
-   "kb": 294
+   "kb": 294,
+   "capa": "capas/john-stuart-mill-consideracoes-sobre-o-governo-representativo.png",
+   "capa_min": "capas/miniaturas/john-stuart-mill-consideracoes-sobre-o-governo-representativo-300x450.png"
   },
   {
    "t": "Meditações",
@@ -721,7 +810,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/marco-aurelio-meditacoes.epub",
-   "kb": 444
+   "kb": 444,
+   "capa": "capas/marco-aurelio-meditacoes.png",
+   "capa_min": "capas/miniaturas/marco-aurelio-meditacoes-300x450.png"
   },
   {
    "t": "A Ética Protestante e o Espírito do Capitalismo",
@@ -737,7 +828,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.epub",
-   "kb": 293
+   "kb": 293,
+   "capa": "capas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.png",
+   "capa_min": "capas/miniaturas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo-300x450.png"
   },
   {
    "t": "Ciência e Política: Duas Vocações",
@@ -753,7 +846,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/max-weber-ciencia-e-politica-duas-vocacoes.epub",
-   "kb": 87
+   "kb": 87,
+   "capa": "capas/max-weber-ciencia-e-politica-duas-vocacoes.png",
+   "capa_min": "capas/miniaturas/max-weber-ciencia-e-politica-duas-vocacoes-300x450.png"
   },
   {
    "t": "Economia e Sociedade",
@@ -770,7 +865,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/max-weber-economia-e-sociedade.epub",
-   "kb": 2846
+   "kb": 2846,
+   "capa": "capas/max-weber-economia-e-sociedade.png",
+   "capa_min": "capas/miniaturas/max-weber-economia-e-sociedade-300x450.png"
   },
   {
    "t": "Cartas Persas",
@@ -786,7 +883,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/montesquieu-cartas-persas.epub",
-   "kb": 2108
+   "kb": 2108,
+   "capa": "capas/montesquieu-cartas-persas.png",
+   "capa_min": "capas/miniaturas/montesquieu-cartas-persas-300x450.png"
   },
   {
    "t": "O Espírito das Leis",
@@ -802,7 +901,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/montesquieu-o-espirito-das-leis.epub",
-   "kb": 377
+   "kb": 377,
+   "capa": "capas/montesquieu-o-espirito-das-leis.png",
+   "capa_min": "capas/miniaturas/montesquieu-o-espirito-das-leis-300x450.png"
   },
   {
    "t": "Discursos sobre a Primeira Década de Tito Lívio",
@@ -818,7 +919,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.epub",
-   "kb": 1628
+   "kb": 1628,
+   "capa": "capas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.png",
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio-300x450.png"
   },
   {
    "t": "O Príncipe",
@@ -834,7 +937,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/nicolau-maquiavel-o-principe.epub",
-   "kb": 396
+   "kb": 396,
+   "capa": "capas/nicolau-maquiavel-o-principe.png",
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-o-principe-300x450.png"
   },
   {
    "t": "História de Florença",
@@ -850,7 +955,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/nicolau-maquiavel-historia-de-florenca.epub",
-   "kb": 2392
+   "kb": 2392,
+   "capa": "capas/nicolau-maquiavel-historia-de-florenca.png",
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-historia-de-florenca-300x450.png"
   },
   {
    "t": "Teorias Políticas da Idade Média",
@@ -866,7 +973,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.epub",
-   "kb": 2637
+   "kb": 2637,
+   "capa": "capas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.png",
+   "capa_min": "capas/miniaturas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media-300x450.png"
   },
   {
    "t": "Sentenças (Sententiae)",
@@ -882,7 +991,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/pedro-lombardo-sentencas-sententiae.epub",
-   "kb": 2339
+   "kb": 2339,
+   "capa": "capas/pedro-lombardo-sentencas-sententiae.png",
+   "capa_min": "capas/miniaturas/pedro-lombardo-sentencas-sententiae-300x450.png"
   },
   {
    "t": "A República",
@@ -898,7 +1009,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/platao-a-republica.epub",
-   "kb": 711
+   "kb": 711,
+   "capa": "capas/platao-a-republica.png",
+   "capa_min": "capas/miniaturas/platao-a-republica-300x450.png"
   },
   {
    "t": "As Leis",
@@ -914,7 +1027,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/platao-as-leis.epub",
-   "kb": 544
+   "kb": 544,
+   "capa": "capas/platao-as-leis.png",
+   "capa_min": "capas/miniaturas/platao-as-leis-300x450.png"
   },
   {
    "t": "Vidas Paralelas",
@@ -930,7 +1045,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/plutarco-vidas-paralelas.epub",
-   "kb": 504
+   "kb": 504,
+   "capa": "capas/plutarco-vidas-paralelas.png",
+   "capa_min": "capas/miniaturas/plutarco-vidas-paralelas-300x450.png"
   },
   {
    "t": "Histórias",
@@ -946,7 +1063,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/polibio-historias.epub",
-   "kb": 734
+   "kb": 734,
+   "capa": "capas/polibio-historias.png",
+   "capa_min": "capas/miniaturas/polibio-historias-300x450.png"
   },
   {
    "t": "Partidos Políticos",
@@ -962,7 +1081,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/robert-michels-partidos-politicos.epub",
-   "kb": 6512
+   "kb": 6512,
+   "capa": "capas/robert-michels-partidos-politicos.png",
+   "capa_min": "capas/miniaturas/robert-michels-partidos-politicos-300x450.png"
   },
   {
    "t": "A Luta pelo Direito",
@@ -978,7 +1099,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/rudolf-von-ihering-a-luta-pelo-direito.epub",
-   "kb": 144
+   "kb": 144,
+   "capa": "capas/rudolf-von-ihering-a-luta-pelo-direito.png",
+   "capa_min": "capas/miniaturas/rudolf-von-ihering-a-luta-pelo-direito-300x450.png"
   },
   {
    "t": "Oração aos Moços",
@@ -994,7 +1117,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/rui-barbosa-oracao-aos-mocos.epub",
-   "kb": 49
+   "kb": 49,
+   "capa": "capas/rui-barbosa-oracao-aos-mocos.png",
+   "capa_min": "capas/miniaturas/rui-barbosa-oracao-aos-mocos-300x450.png"
   },
   {
    "t": "Do Direito Natural e das Gentes",
@@ -1010,7 +1135,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/samuel-von-pufendorf-do-direito-natural-e-das-gentes.epub",
-   "kb": 8013
+   "kb": 8013,
+   "capa": "capas/samuel-von-pufendorf-do-direito-natural-e-das-gentes.png",
+   "capa_min": "capas/miniaturas/samuel-von-pufendorf-do-direito-natural-e-das-gentes-300x450.png"
   },
   {
    "t": "Confissões",
@@ -1026,7 +1153,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/santo-agostinho-confissoes.epub",
-   "kb": 313
+   "kb": 313,
+   "capa": "capas/santo-agostinho-confissoes.png",
+   "capa_min": "capas/miniaturas/santo-agostinho-confissoes-300x450.png"
   },
   {
    "t": "A Cidade de Deus",
@@ -1042,7 +1171,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/santo-agostinho-a-cidade-de-deus.epub",
-   "kb": 761
+   "kb": 761,
+   "capa": "capas/santo-agostinho-a-cidade-de-deus.png",
+   "capa_min": "capas/miniaturas/santo-agostinho-a-cidade-de-deus-300x450.png"
   },
   {
    "t": "Sobre a Brevidade da Vida",
@@ -1058,7 +1189,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/seneca-sobre-a-brevidade-da-vida.epub",
-   "kb": 453
+   "kb": 453,
+   "capa": "capas/seneca-sobre-a-brevidade-da-vida.png",
+   "capa_min": "capas/miniaturas/seneca-sobre-a-brevidade-da-vida-300x450.png"
   },
   {
    "t": "Cartas a Lucílio",
@@ -1074,7 +1207,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/seneca-cartas-a-lucilio.epub",
-   "kb": 453
+   "kb": 453,
+   "capa": "capas/seneca-cartas-a-lucilio.png",
+   "capa_min": "capas/miniaturas/seneca-cartas-a-lucilio-300x450.png"
   },
   {
    "t": "A Arte da Guerra",
@@ -1090,7 +1225,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/sun-tzu-a-arte-da-guerra.epub",
-   "kb": 307
+   "kb": 307,
+   "capa": "capas/sun-tzu-a-arte-da-guerra.png",
+   "capa_min": "capas/miniaturas/sun-tzu-a-arte-da-guerra-300x450.png"
   },
   {
    "t": "Do Cidadão",
@@ -1106,7 +1243,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/thomas-hobbes-do-cidadao.epub",
-   "kb": 3541
+   "kb": 3541,
+   "capa": "capas/thomas-hobbes-do-cidadao.png",
+   "capa_min": "capas/miniaturas/thomas-hobbes-do-cidadao-300x450.png"
   },
   {
    "t": "Leviatã",
@@ -1122,7 +1261,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-hobbes-leviata.epub",
-   "kb": 841
+   "kb": 841,
+   "capa": "capas/thomas-hobbes-leviata.png",
+   "capa_min": "capas/miniaturas/thomas-hobbes-leviata-300x450.png"
   },
   {
    "t": "Utopia",
@@ -1138,7 +1279,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-more-utopia.epub",
-   "kb": 168
+   "kb": 168,
+   "capa": "capas/thomas-more-utopia.png",
+   "capa_min": "capas/miniaturas/thomas-more-utopia-300x450.png"
   },
   {
    "t": "A Teoria da Classe Ociosa",
@@ -1154,7 +1297,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thorstein-veblen-a-teoria-da-classe-ociosa.epub",
-   "kb": 290
+   "kb": 290,
+   "capa": "capas/thorstein-veblen-a-teoria-da-classe-ociosa.png",
+   "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-classe-ociosa-300x450.png"
   },
   {
    "t": "A Teoria da Empresa de Negócios",
@@ -1170,7 +1315,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/thorstein-veblen-a-teoria-da-empresa-de-negocios.epub",
-   "kb": 249
+   "kb": 249,
+   "capa": "capas/thorstein-veblen-a-teoria-da-empresa-de-negocios.png",
+   "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-empresa-de-negocios-300x450.png"
   },
   {
    "t": "Estudos de Direito",
@@ -1186,7 +1333,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/tobias-barreto-estudos-de-direito.epub",
-   "kb": 455
+   "kb": 455,
+   "capa": "capas/tobias-barreto-estudos-de-direito.png",
+   "capa_min": "capas/miniaturas/tobias-barreto-estudos-de-direito-300x450.png"
   },
   {
    "t": "Suma Teológica",
@@ -1202,7 +1351,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/tomas-de-aquino-suma-teologica.epub",
-   "kb": 1412
+   "kb": 1412,
+   "capa": "capas/tomas-de-aquino-suma-teologica.png",
+   "capa_min": "capas/miniaturas/tomas-de-aquino-suma-teologica-300x450.png"
   },
   {
    "t": "A Cidade do Sol",
@@ -1218,7 +1369,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/tommaso-campanella-a-cidade-do-sol.epub",
-   "kb": 103
+   "kb": 103,
+   "capa": "capas/tommaso-campanella-a-cidade-do-sol.png",
+   "capa_min": "capas/miniaturas/tommaso-campanella-a-cidade-do-sol-300x450.png"
   },
   {
    "t": "História da Guerra do Peloponeso",
@@ -1234,7 +1387,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/tucidides-historia-da-guerra-do-peloponeso.epub",
-   "kb": 527
+   "kb": 527,
+   "capa": "capas/tucidides-historia-da-guerra-do-peloponeso.png",
+   "capa_min": "capas/miniaturas/tucidides-historia-da-guerra-do-peloponeso-300x450.png"
   },
   {
    "t": "Tratado de Sociologia Geral",
@@ -1250,7 +1405,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/vilfredo-pareto-tratado-de-sociologia-geral.epub",
-   "kb": 2264
+   "kb": 2264,
+   "capa": "capas/vilfredo-pareto-tratado-de-sociologia-geral.png",
+   "capa_min": "capas/miniaturas/vilfredo-pareto-tratado-de-sociologia-geral-300x450.png"
   },
   {
    "t": "Ensaio sobre o Direito Administrativo",
@@ -1266,7 +1423,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo.epub",
-   "kb": 455
+   "kb": 455,
+   "capa": "capas/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo.png",
+   "capa_min": "capas/miniaturas/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo-300x450.png"
   },
   {
    "t": "A Constituição Inglesa",
@@ -1282,7 +1441,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/walter-bagehot-a-constituicao-inglesa.epub",
-   "kb": 283
+   "kb": 283,
+   "capa": "capas/walter-bagehot-a-constituicao-inglesa.png",
+   "capa_min": "capas/miniaturas/walter-bagehot-a-constituicao-inglesa-300x450.png"
   },
   {
    "t": "Comentários às Leis da Inglaterra",
@@ -1298,7 +1459,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-blackstone-comentarios-as-leis-da-inglaterra.epub",
-   "kb": 554
+   "kb": 554,
+   "capa": "capas/william-blackstone-comentarios-as-leis-da-inglaterra.png",
+   "capa_min": "capas/miniaturas/william-blackstone-comentarios-as-leis-da-inglaterra-300x450.png"
   },
   {
    "t": "Eugênio Oneguin",
@@ -1314,7 +1477,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/aleksandr-puchkin-eugenio-oneguin.epub",
-   "kb": 198
+   "kb": 198,
+   "capa": "capas/aleksandr-puchkin-eugenio-oneguin.png",
+   "capa_min": "capas/miniaturas/aleksandr-puchkin-eugenio-oneguin-300x450.png"
   },
   {
    "t": "O Mulato",
@@ -1330,7 +1495,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/aluisio-azevedo-o-mulato.epub",
-   "kb": 375
+   "kb": 375,
+   "capa": "capas/aluisio-azevedo-o-mulato.png",
+   "capa_min": "capas/miniaturas/aluisio-azevedo-o-mulato-300x450.png"
   },
   {
    "t": "Casa de Pensão",
@@ -1346,7 +1513,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/aluisio-azevedo-casa-de-pensao.epub",
-   "kb": 390
+   "kb": 390,
+   "capa": "capas/aluisio-azevedo-casa-de-pensao.png",
+   "capa_min": "capas/miniaturas/aluisio-azevedo-casa-de-pensao-300x450.png"
   },
   {
    "t": "O Cortiço",
@@ -1362,7 +1531,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/aluisio-azevedo-o-cortico.epub",
-   "kb": 361
+   "kb": 361,
+   "capa": "capas/aluisio-azevedo-o-cortico.png",
+   "capa_min": "capas/miniaturas/aluisio-azevedo-o-cortico-300x450.png"
   },
   {
    "t": "Lira dos Vinte Anos",
@@ -1379,7 +1550,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/alvares-de-azevedo-lira-dos-vinte-anos.epub",
-   "kb": 326
+   "kb": 326,
+   "capa": "capas/alvares-de-azevedo-lira-dos-vinte-anos.png",
+   "capa_min": "capas/miniaturas/alvares-de-azevedo-lira-dos-vinte-anos-300x450.png"
   },
   {
    "t": "Noite na Taverna",
@@ -1396,7 +1569,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/alvares-de-azevedo-noite-na-taverna.epub",
-   "kb": 74
+   "kb": 74,
+   "capa": "capas/alvares-de-azevedo-noite-na-taverna.png",
+   "capa_min": "capas/miniaturas/alvares-de-azevedo-noite-na-taverna-300x450.png"
   },
   {
    "t": "A Epopeia de Gilgamesh",
@@ -1413,7 +1588,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/anonimo-a-epopeia-de-gilgamesh.epub",
-   "kb": 40
+   "kb": 40,
+   "capa": "capas/anonimo-a-epopeia-de-gilgamesh.png",
+   "capa_min": "capas/miniaturas/anonimo-a-epopeia-de-gilgamesh-300x450.png"
   },
   {
    "t": "Bhagavad Gita",
@@ -1429,7 +1606,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/anonimo-bhagavad-gita.epub",
-   "kb": 130
+   "kb": 130,
+   "capa": "capas/anonimo-bhagavad-gita.png",
+   "capa_min": "capas/miniaturas/anonimo-bhagavad-gita-300x450.png"
   },
   {
    "t": "Dhammapada",
@@ -1445,7 +1624,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/anonimo-dhammapada.epub",
-   "kb": 155
+   "kb": 155,
+   "capa": "capas/anonimo-dhammapada.png",
+   "capa_min": "capas/miniaturas/anonimo-dhammapada-300x450.png"
   },
   {
    "t": "As Mil e Uma Noites",
@@ -1461,7 +1642,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/anonimo-as-mil-e-uma-noites.epub",
-   "kb": 292
+   "kb": 292,
+   "capa": "capas/anonimo-as-mil-e-uma-noites.png",
+   "capa_min": "capas/miniaturas/anonimo-as-mil-e-uma-noites-300x450.png"
   },
   {
    "t": "Sonetos Completos",
@@ -1477,7 +1660,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/antero-de-quental-sonetos-completos.epub",
-   "kb": 138
+   "kb": 138,
+   "capa": "capas/antero-de-quental-sonetos-completos.png",
+   "capa_min": "capas/miniaturas/antero-de-quental-sonetos-completos-300x450.png"
   },
   {
    "t": "Contos",
@@ -1493,7 +1678,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/anton-tchekhov-contos.epub",
-   "kb": 2642
+   "kb": 2642,
+   "capa": "capas/anton-tchekhov-contos.png",
+   "capa_min": "capas/miniaturas/anton-tchekhov-contos-300x450.png"
   },
   {
    "t": "O Jardim das Cerejeiras",
@@ -1510,7 +1697,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/anton-tchekhov-o-jardim-das-cerejeiras.epub",
-   "kb": 124
+   "kb": 124,
+   "capa": "capas/anton-tchekhov-o-jardim-das-cerejeiras.png",
+   "capa_min": "capas/miniaturas/anton-tchekhov-o-jardim-das-cerejeiras-300x450.png"
   },
   {
    "t": "Heliogábalo",
@@ -1526,7 +1715,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/antonin-artaud-heliogabalo.epub",
-   "kb": 75
+   "kb": 75,
+   "capa": "capas/antonin-artaud-heliogabalo.png",
+   "capa_min": "capas/miniaturas/antonin-artaud-heliogabalo-300x450.png"
   },
   {
    "t": "Só",
@@ -1542,7 +1733,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/antonio-nobre-so.epub",
-   "kb": 121
+   "kb": 121,
+   "capa": "capas/antonio-nobre-so.png",
+   "capa_min": "capas/miniaturas/antonio-nobre-so-300x450.png"
   },
   {
    "t": "As Nuvens",
@@ -1557,7 +1750,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/aristofanes-as-nuvens.epub",
-   "kb": 100
+   "kb": 100,
+   "capa": "capas/aristofanes-as-nuvens.png",
+   "capa_min": "capas/miniaturas/aristofanes-as-nuvens-300x450.png"
   },
   {
    "t": "Iluminações",
@@ -1573,7 +1768,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/arthur-rimbaud-iluminacoes.epub",
-   "kb": 144
+   "kb": 144,
+   "capa": "capas/arthur-rimbaud-iluminacoes.png",
+   "capa_min": "capas/miniaturas/arthur-rimbaud-iluminacoes-300x450.png"
   },
   {
    "t": "O Mundo como Vontade e Representação",
@@ -1588,7 +1785,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.epub",
-   "kb": 861
+   "kb": 861,
+   "capa": "capas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.png",
+   "capa_min": "capas/miniaturas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao-300x450.png"
   },
   {
    "t": "Parerga e Paralipomena",
@@ -1604,7 +1803,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/arthur-schopenhauer-parerga-e-paralipomena.epub",
-   "kb": 178
+   "kb": 178,
+   "capa": "capas/arthur-schopenhauer-parerga-e-paralipomena.png",
+   "capa_min": "capas/miniaturas/arthur-schopenhauer-parerga-e-paralipomena-300x450.png"
   },
   {
    "t": "Eu e Outras Poesias",
@@ -1620,7 +1821,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/augusto-dos-anjos-eu-e-outras-poesias.epub",
-   "kb": 82
+   "kb": 82,
+   "capa": "capas/augusto-dos-anjos-eu-e-outras-poesias.png",
+   "capa_min": "capas/miniaturas/augusto-dos-anjos-eu-e-outras-poesias-300x450.png"
   },
   {
    "t": "Ética",
@@ -1637,7 +1840,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/baruch-espinosa-etica.epub",
-   "kb": 221
+   "kb": 221,
+   "capa": "capas/baruch-espinosa-etica.png",
+   "capa_min": "capas/miniaturas/baruch-espinosa-etica-300x450.png"
   },
   {
    "t": "Amor de Perdição",
@@ -1653,7 +1858,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/camilo-castelo-branco-amor-de-perdicao.epub",
-   "kb": 205
+   "kb": 205,
+   "capa": "capas/camilo-castelo-branco-amor-de-perdicao.png",
+   "capa_min": "capas/miniaturas/camilo-castelo-branco-amor-de-perdicao-300x450.png"
   },
   {
    "t": "A Queda dum Anjo",
@@ -1669,7 +1876,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/camilo-castelo-branco-a-queda-dum-anjo.epub",
-   "kb": 218
+   "kb": 218,
+   "capa": "capas/camilo-castelo-branco-a-queda-dum-anjo.png",
+   "capa_min": "capas/miniaturas/camilo-castelo-branco-a-queda-dum-anjo-300x450.png"
   },
   {
    "t": "Clepsidra",
@@ -1686,7 +1895,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/camilo-pessanha-clepsidra.epub",
-   "kb": 85
+   "kb": 85,
+   "capa": "capas/camilo-pessanha-clepsidra.png",
+   "capa_min": "capas/miniaturas/camilo-pessanha-clepsidra-300x450.png"
   },
   {
    "t": "As Primaveras",
@@ -1702,7 +1913,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/casimiro-de-abreu-as-primaveras.epub",
-   "kb": 235
+   "kb": 235,
+   "capa": "capas/casimiro-de-abreu-as-primaveras.png",
+   "capa_min": "capas/miniaturas/casimiro-de-abreu-as-primaveras-300x450.png"
   },
   {
    "t": "Espumas Flutuantes",
@@ -1718,7 +1931,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/castro-alves-espumas-flutuantes.epub",
-   "kb": 160
+   "kb": 160,
+   "capa": "capas/castro-alves-espumas-flutuantes.png",
+   "capa_min": "capas/miniaturas/castro-alves-espumas-flutuantes-300x450.png"
   },
   {
    "t": "Os Escravos",
@@ -1734,7 +1949,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/castro-alves-os-escravos.epub",
-   "kb": 13
+   "kb": 13,
+   "capa": "capas/castro-alves-os-escravos.png",
+   "capa_min": "capas/miniaturas/castro-alves-os-escravos-300x450.png"
   },
   {
    "t": "O Livro de Cesário Verde",
@@ -1750,7 +1967,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/cesario-verde-o-livro-de-cesario-verde.epub",
-   "kb": 123
+   "kb": 123,
+   "capa": "capas/cesario-verde-o-livro-de-cesario-verde.png",
+   "capa_min": "capas/miniaturas/cesario-verde-o-livro-de-cesario-verde-300x450.png"
   },
   {
    "t": "As Flores do Mal",
@@ -1766,7 +1985,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/charles-baudelaire-as-flores-do-mal.epub",
-   "kb": 159
+   "kb": 159,
+   "capa": "capas/charles-baudelaire-as-flores-do-mal.png",
+   "capa_min": "capas/miniaturas/charles-baudelaire-as-flores-do-mal-300x450.png"
   },
   {
    "t": "O Spleen de Paris",
@@ -1781,7 +2002,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/charles-baudelaire-o-spleen-de-paris.epub",
-   "kb": 3296
+   "kb": 3296,
+   "capa": "capas/charles-baudelaire-o-spleen-de-paris.png",
+   "capa_min": "capas/miniaturas/charles-baudelaire-o-spleen-de-paris-300x450.png"
   },
   {
    "t": "David Copperfield",
@@ -1796,7 +2019,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/charles-dickens-david-copperfield.epub",
-   "kb": 9192
+   "kb": 9192,
+   "capa": "capas/charles-dickens-david-copperfield.png",
+   "capa_min": "capas/miniaturas/charles-dickens-david-copperfield-300x450.png"
   },
   {
    "t": "Grandes Esperanças",
@@ -1811,7 +2036,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/charles-dickens-grandes-esperancas.epub",
-   "kb": 14047
+   "kb": 14047,
+   "capa": "capas/charles-dickens-grandes-esperancas.png",
+   "capa_min": "capas/miniaturas/charles-dickens-grandes-esperancas-300x450.png"
   },
   {
    "t": "Poesias",
@@ -1827,7 +2054,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/conde-de-lautreamont-poesias.epub",
-   "kb": 86
+   "kb": 86,
+   "capa": "capas/conde-de-lautreamont-poesias.png",
+   "capa_min": "capas/miniaturas/conde-de-lautreamont-poesias-300x450.png"
   },
   {
    "t": "Missal",
@@ -1844,7 +2073,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/cruz-e-sousa-missal.epub",
-   "kb": 127
+   "kb": 127,
+   "capa": "capas/cruz-e-sousa-missal.png",
+   "capa_min": "capas/miniaturas/cruz-e-sousa-missal-300x450.png"
   },
   {
    "t": "Broquéis",
@@ -1861,7 +2092,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/cruz-e-sousa-broqueis.epub",
-   "kb": 44
+   "kb": 44,
+   "capa": "capas/cruz-e-sousa-broqueis.png",
+   "capa_min": "capas/miniaturas/cruz-e-sousa-broqueis-300x450.png"
   },
   {
    "t": "Últimos Sonetos",
@@ -1878,7 +2111,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/cruz-e-sousa-ultimos-sonetos.epub",
-   "kb": 72
+   "kb": 72,
+   "capa": "capas/cruz-e-sousa-ultimos-sonetos.png",
+   "capa_min": "capas/miniaturas/cruz-e-sousa-ultimos-sonetos-300x450.png"
   },
   {
    "t": "Vida Nova",
@@ -1894,7 +2129,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/dante-alighieri-vida-nova.epub",
-   "kb": 210
+   "kb": 210,
+   "capa": "capas/dante-alighieri-vida-nova.png",
+   "capa_min": "capas/miniaturas/dante-alighieri-vida-nova-300x450.png"
   },
   {
    "t": "A Divina Comédia",
@@ -1910,7 +2147,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/dante-alighieri-a-divina-comedia.epub",
-   "kb": 529
+   "kb": 529,
+   "capa": "capas/dante-alighieri-a-divina-comedia.png",
+   "capa_min": "capas/miniaturas/dante-alighieri-a-divina-comedia-300x450.png"
   },
   {
    "t": "Jacques, o Fatalista",
@@ -1926,7 +2165,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/denis-diderot-jacques-o-fatalista.epub",
-   "kb": 317
+   "kb": 317,
+   "capa": "capas/denis-diderot-jacques-o-fatalista.png",
+   "capa_min": "capas/miniaturas/denis-diderot-jacques-o-fatalista-300x450.png"
   },
   {
    "t": "O Sobrinho de Rameau",
@@ -1941,7 +2182,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/denis-diderot-o-sobrinho-de-rameau.epub",
-   "kb": 2907
+   "kb": 2907,
+   "capa": "capas/denis-diderot-o-sobrinho-de-rameau.png",
+   "capa_min": "capas/miniaturas/denis-diderot-o-sobrinho-de-rameau-300x450.png"
   },
   {
    "t": "O Crime do Padre Amaro",
@@ -1957,7 +2200,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/eca-de-queiros-o-crime-do-padre-amaro.epub",
-   "kb": 464
+   "kb": 464,
+   "capa": "capas/eca-de-queiros-o-crime-do-padre-amaro.png",
+   "capa_min": "capas/miniaturas/eca-de-queiros-o-crime-do-padre-amaro-300x450.png"
   },
   {
    "t": "O Primo Basílio",
@@ -1973,7 +2218,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/eca-de-queiros-o-primo-basilio.epub",
-   "kb": 462
+   "kb": 462,
+   "capa": "capas/eca-de-queiros-o-primo-basilio.png",
+   "capa_min": "capas/miniaturas/eca-de-queiros-o-primo-basilio-300x450.png"
   },
   {
    "t": "A Relíquia",
@@ -1989,7 +2236,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/eca-de-queiros-a-reliquia.epub",
-   "kb": 290
+   "kb": 290,
+   "capa": "capas/eca-de-queiros-a-reliquia.png",
+   "capa_min": "capas/miniaturas/eca-de-queiros-a-reliquia-300x450.png"
   },
   {
    "t": "Os Maias",
@@ -2006,7 +2255,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/eca-de-queiros-os-maias.epub",
-   "kb": 675
+   "kb": 675,
+   "capa": "capas/eca-de-queiros-os-maias.png",
+   "capa_min": "capas/miniaturas/eca-de-queiros-os-maias-300x450.png"
   },
   {
    "t": "A Ilustre Casa de Ramires",
@@ -2023,7 +2274,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/eca-de-queiros-a-ilustre-casa-de-ramires.epub",
-   "kb": 377
+   "kb": 377,
+   "capa": "capas/eca-de-queiros-a-ilustre-casa-de-ramires.png",
+   "capa_min": "capas/miniaturas/eca-de-queiros-a-ilustre-casa-de-ramires-300x450.png"
   },
   {
    "t": "A Cidade e as Serras",
@@ -2039,7 +2292,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/eca-de-queiros-a-cidade-e-as-serras.epub",
-   "kb": 305
+   "kb": 305,
+   "capa": "capas/eca-de-queiros-a-cidade-e-as-serras.png",
+   "capa_min": "capas/miniaturas/eca-de-queiros-a-cidade-e-as-serras-300x450.png"
   },
   {
    "t": "Contos Extraordinários",
@@ -2054,7 +2309,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/edgar-allan-poe-contos-extraordinarios.epub",
-   "kb": 334
+   "kb": 334,
+   "capa": "capas/edgar-allan-poe-contos-extraordinarios.png",
+   "capa_min": "capas/miniaturas/edgar-allan-poe-contos-extraordinarios-300x450.png"
   },
   {
    "t": "Eureka",
@@ -2070,7 +2327,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/edgar-allan-poe-eureka.epub",
-   "kb": 195
+   "kb": 195,
+   "capa": "capas/edgar-allan-poe-eureka.png",
+   "capa_min": "capas/miniaturas/edgar-allan-poe-eureka-300x450.png"
   },
   {
    "t": "Livro dos Absurdos",
@@ -2086,7 +2345,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/edward-lear-livro-dos-absurdos.epub",
-   "kb": 2622
+   "kb": 2622,
+   "capa": "capas/edward-lear-livro-dos-absurdos.png",
+   "capa_min": "capas/miniaturas/edward-lear-livro-dos-absurdos-300x450.png"
   },
   {
    "t": "Germinal",
@@ -2101,7 +2362,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/emile-zola-germinal.epub",
-   "kb": 456
+   "kb": 456,
+   "capa": "capas/emile-zola-germinal.png",
+   "capa_min": "capas/miniaturas/emile-zola-germinal-300x450.png"
   },
   {
    "t": "O Morro dos Ventos Uivantes",
@@ -2116,7 +2379,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/emily-bronte-o-morro-dos-ventos-uivantes.epub",
-   "kb": 574
+   "kb": 574,
+   "capa": "capas/emily-bronte-o-morro-dos-ventos-uivantes.png",
+   "capa_min": "capas/miniaturas/emily-bronte-o-morro-dos-ventos-uivantes-300x450.png"
   },
   {
    "t": "Oresteia",
@@ -2132,7 +2397,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/esquilo-oresteia.epub",
-   "kb": 939
+   "kb": 939,
+   "capa": "capas/esquilo-oresteia.png",
+   "capa_min": "capas/miniaturas/esquilo-oresteia-300x450.png"
   },
   {
    "t": "Prometeu Acorrentado",
@@ -2147,7 +2414,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/esquilo-prometeu-acorrentado.epub",
-   "kb": 174
+   "kb": 174,
+   "capa": "capas/esquilo-prometeu-acorrentado.png",
+   "capa_min": "capas/miniaturas/esquilo-prometeu-acorrentado-300x450.png"
   },
   {
    "t": "Medeia",
@@ -2162,7 +2431,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/euripides-medeia.epub",
-   "kb": 919
+   "kb": 919,
+   "capa": "capas/euripides-medeia.png",
+   "capa_min": "capas/miniaturas/euripides-medeia-300x450.png"
   },
   {
    "t": "As Bacantes",
@@ -2177,7 +2448,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/euripides-as-bacantes.epub",
-   "kb": 203
+   "kb": 203,
+   "capa": "capas/euripides-as-bacantes.png",
+   "capa_min": "capas/miniaturas/euripides-as-bacantes-300x450.png"
   },
   {
    "t": "Mensagem",
@@ -2193,7 +2466,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/fernando-pessoa-mensagem.epub",
-   "kb": 121
+   "kb": 121,
+   "capa": "capas/fernando-pessoa-mensagem.png",
+   "capa_min": "capas/miniaturas/fernando-pessoa-mensagem-300x450.png"
   },
   {
    "t": "Livro do Desassossego",
@@ -2210,7 +2485,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/fernando-pessoa-livro-do-desassossego.epub",
-   "kb": 360
+   "kb": 360,
+   "capa": "capas/fernando-pessoa-livro-do-desassossego.png",
+   "capa_min": "capas/miniaturas/fernando-pessoa-livro-do-desassossego-300x450.png"
   },
   {
    "t": "Manifesto Futurista",
@@ -2226,7 +2503,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/filippo-tommaso-marinetti-manifesto-futurista.epub",
-   "kb": 7
+   "kb": 7,
+   "capa": "capas/filippo-tommaso-marinetti-manifesto-futurista.png",
+   "capa_min": "capas/miniaturas/filippo-tommaso-marinetti-manifesto-futurista-300x450.png"
   },
   {
    "t": "Memórias do Subsolo",
@@ -2242,7 +2521,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/fiodor-dostoievski-memorias-do-subsolo.epub",
-   "kb": 363
+   "kb": 363,
+   "capa": "capas/fiodor-dostoievski-memorias-do-subsolo.png",
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-memorias-do-subsolo-300x450.png"
   },
   {
    "t": "Crime e Castigo",
@@ -2258,7 +2539,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/fiodor-dostoievski-crime-e-castigo.epub",
-   "kb": 765
+   "kb": 765,
+   "capa": "capas/fiodor-dostoievski-crime-e-castigo.png",
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-crime-e-castigo-300x450.png"
   },
   {
    "t": "O Idiota",
@@ -2274,7 +2557,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/fiodor-dostoievski-o-idiota.epub",
-   "kb": 584
+   "kb": 584,
+   "capa": "capas/fiodor-dostoievski-o-idiota.png",
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-o-idiota-300x450.png"
   },
   {
    "t": "Os Demônios",
@@ -2290,7 +2575,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/fiodor-dostoievski-os-demonios.epub",
-   "kb": 629
+   "kb": 629,
+   "capa": "capas/fiodor-dostoievski-os-demonios.png",
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-os-demonios-300x450.png"
   },
   {
    "t": "Os Irmãos Karamázov",
@@ -2307,7 +2594,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/fiodor-dostoievski-os-irmaos-karamazov.epub",
-   "kb": 937
+   "kb": 937,
+   "capa": "capas/fiodor-dostoievski-os-irmaos-karamazov.png",
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-os-irmaos-karamazov-300x450.png"
   },
   {
    "t": "Cancioneiro",
@@ -2323,7 +2612,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/francesco-petrarca-cancioneiro.epub",
-   "kb": 229
+   "kb": 229,
+   "capa": "capas/francesco-petrarca-cancioneiro.png",
+   "capa_min": "capas/miniaturas/francesco-petrarca-cancioneiro-300x450.png"
   },
   {
    "t": "Gargântua e Pantagruel",
@@ -2339,7 +2630,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/francois-rabelais-gargantua-e-pantagruel.epub",
-   "kb": 8210
+   "kb": 8210,
+   "capa": "capas/francois-rabelais-gargantua-e-pantagruel.png",
+   "capa_min": "capas/miniaturas/francois-rabelais-gargantua-e-pantagruel-300x450.png"
   },
   {
    "t": "A Metamorfose",
@@ -2355,7 +2648,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/franz-kafka-a-metamorfose.epub",
-   "kb": 310
+   "kb": 310,
+   "capa": "capas/franz-kafka-a-metamorfose.png",
+   "capa_min": "capas/miniaturas/franz-kafka-a-metamorfose-300x450.png"
   },
   {
    "t": "O Processo",
@@ -2372,7 +2667,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/franz-kafka-o-processo.epub",
-   "kb": 233
+   "kb": 233,
+   "capa": "capas/franz-kafka-o-processo.png",
+   "capa_min": "capas/miniaturas/franz-kafka-o-processo-300x450.png"
   },
   {
    "t": "O Castelo",
@@ -2388,7 +2685,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/franz-kafka-o-castelo.epub",
-   "kb": 3231
+   "kb": 3231,
+   "capa": "capas/franz-kafka-o-castelo.png",
+   "capa_min": "capas/miniaturas/franz-kafka-o-castelo-300x450.png"
   },
   {
    "t": "O Nascimento da Tragédia",
@@ -2404,7 +2703,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-o-nascimento-da-tragedia.epub",
-   "kb": 212
+   "kb": 212,
+   "capa": "capas/friedrich-nietzsche-o-nascimento-da-tragedia.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-o-nascimento-da-tragedia-300x450.png"
   },
   {
    "t": "Humano, Demasiado Humano",
@@ -2420,7 +2721,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-humano-demasiado-humano.epub",
-   "kb": 180
+   "kb": 180,
+   "capa": "capas/friedrich-nietzsche-humano-demasiado-humano.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-humano-demasiado-humano-300x450.png"
   },
   {
    "t": "A Gaia Ciência",
@@ -2435,7 +2738,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-a-gaia-ciencia.epub",
-   "kb": 336
+   "kb": 336,
+   "capa": "capas/friedrich-nietzsche-a-gaia-ciencia.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-a-gaia-ciencia-300x450.png"
   },
   {
    "t": "Assim Falou Zaratustra",
@@ -2451,7 +2756,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-assim-falou-zaratustra.epub",
-   "kb": 636
+   "kb": 636,
+   "capa": "capas/friedrich-nietzsche-assim-falou-zaratustra.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-assim-falou-zaratustra-300x450.png"
   },
   {
    "t": "Além do Bem e do Mal",
@@ -2466,7 +2773,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-alem-do-bem-e-do-mal.epub",
-   "kb": 233
+   "kb": 233,
+   "capa": "capas/friedrich-nietzsche-alem-do-bem-e-do-mal.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-alem-do-bem-e-do-mal-300x450.png"
   },
   {
    "t": "Genealogia da Moral",
@@ -2482,7 +2791,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-genealogia-da-moral.epub",
-   "kb": 245
+   "kb": 245,
+   "capa": "capas/friedrich-nietzsche-genealogia-da-moral.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-genealogia-da-moral-300x450.png"
   },
   {
    "t": "Ecce Homo",
@@ -2498,7 +2809,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-ecce-homo.epub",
-   "kb": 640
+   "kb": 640,
+   "capa": "capas/friedrich-nietzsche-ecce-homo.png",
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-ecce-homo-300x450.png"
   },
   {
    "t": "Fenomenologia do Espírito",
@@ -2513,7 +2826,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/g-w-f-hegel-fenomenologia-do-espirito.epub",
-   "kb": 84
+   "kb": 84,
+   "capa": "capas/g-w-f-hegel-fenomenologia-do-espirito.png",
+   "capa_min": "capas/miniaturas/g-w-f-hegel-fenomenologia-do-espirito-300x450.png"
   },
   {
    "t": "Aurélia",
@@ -2529,7 +2844,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/gerard-de-nerval-aurelia.epub",
-   "kb": 3179
+   "kb": 3179,
+   "capa": "capas/gerard-de-nerval-aurelia.png",
+   "capa_min": "capas/miniaturas/gerard-de-nerval-aurelia-300x450.png"
   },
   {
    "t": "Auto da Barca do Inferno",
@@ -2545,7 +2862,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/gil-vicente-auto-da-barca-do-inferno.epub",
-   "kb": 52
+   "kb": 52,
+   "capa": "capas/gil-vicente-auto-da-barca-do-inferno.png",
+   "capa_min": "capas/miniaturas/gil-vicente-auto-da-barca-do-inferno-300x450.png"
   },
   {
    "t": "Decameron",
@@ -2561,7 +2880,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/giovanni-boccaccio-decameron.epub",
-   "kb": 717
+   "kb": 717,
+   "capa": "capas/giovanni-boccaccio-decameron.png",
+   "capa_min": "capas/miniaturas/giovanni-boccaccio-decameron-300x450.png"
   },
   {
    "t": "Primeiros Cantos",
@@ -2577,7 +2898,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/goncalves-dias-primeiros-cantos.epub",
-   "kb": 79
+   "kb": 79,
+   "capa": "capas/goncalves-dias-primeiros-cantos.png",
+   "capa_min": "capas/miniaturas/goncalves-dias-primeiros-cantos-300x450.png"
   },
   {
    "t": "Monadologia",
@@ -2592,7 +2915,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/gottfried-wilhelm-leibniz-monadologia.epub",
-   "kb": 486
+   "kb": 486,
+   "capa": "capas/gottfried-wilhelm-leibniz-monadologia.png",
+   "capa_min": "capas/miniaturas/gottfried-wilhelm-leibniz-monadologia-300x450.png"
   },
   {
    "t": "Caetés",
@@ -2608,7 +2933,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/graciliano-ramos-caetes.epub",
-   "kb": 221
+   "kb": 221,
+   "capa": "capas/graciliano-ramos-caetes.png",
+   "capa_min": "capas/miniaturas/graciliano-ramos-caetes-300x450.png"
   },
   {
    "t": "São Bernardo",
@@ -2624,7 +2951,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/graciliano-ramos-sao-bernardo.epub",
-   "kb": 6931
+   "kb": 6931,
+   "capa": "capas/graciliano-ramos-sao-bernardo.png",
+   "capa_min": "capas/miniaturas/graciliano-ramos-sao-bernardo-300x450.png"
   },
   {
    "t": "Angústia",
@@ -2640,7 +2969,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/graciliano-ramos-angustia.epub",
-   "kb": 255
+   "kb": 255,
+   "capa": "capas/graciliano-ramos-angustia.png",
+   "capa_min": "capas/miniaturas/graciliano-ramos-angustia-300x450.png"
   },
   {
    "t": "Vidas Secas",
@@ -2656,7 +2987,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/graciliano-ramos-vidas-secas.epub",
-   "kb": 1135
+   "kb": 1135,
+   "capa": "capas/graciliano-ramos-vidas-secas.png",
+   "capa_min": "capas/miniaturas/graciliano-ramos-vidas-secas-300x450.png"
   },
   {
    "t": "Infância",
@@ -2672,7 +3005,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/graciliano-ramos-infancia.epub",
-   "kb": 385
+   "kb": 385,
+   "capa": "capas/graciliano-ramos-infancia.png",
+   "capa_min": "capas/miniaturas/graciliano-ramos-infancia-300x450.png"
   },
   {
    "t": "Álcoois",
@@ -2688,7 +3023,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/guillaume-apollinaire-alcoois.epub",
-   "kb": 109
+   "kb": 109,
+   "capa": "capas/guillaume-apollinaire-alcoois.png",
+   "capa_min": "capas/miniaturas/guillaume-apollinaire-alcoois-300x450.png"
   },
   {
    "t": "Caligramas",
@@ -2704,7 +3041,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/guillaume-apollinaire-caligramas.epub",
-   "kb": 2444
+   "kb": 2444,
+   "capa": "capas/guillaume-apollinaire-caligramas.png",
+   "capa_min": "capas/miniaturas/guillaume-apollinaire-caligramas-300x450.png"
   },
   {
    "t": "Madame Bovary",
@@ -2719,7 +3058,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/gustave-flaubert-madame-bovary.epub",
-   "kb": 438
+   "kb": 438,
+   "capa": "capas/gustave-flaubert-madame-bovary.png",
+   "capa_min": "capas/miniaturas/gustave-flaubert-madame-bovary-300x450.png"
   },
   {
    "t": "A Tentação de Santo Antão",
@@ -2734,7 +3075,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/gustave-flaubert-a-tentacao-de-santo-antao.epub",
-   "kb": 356
+   "kb": 356,
+   "capa": "capas/gustave-flaubert-a-tentacao-de-santo-antao.png",
+   "capa_min": "capas/miniaturas/gustave-flaubert-a-tentacao-de-santo-antao-300x450.png"
   },
   {
    "t": "Bouvard e Pécuchet",
@@ -2750,7 +3093,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/gustave-flaubert-bouvard-e-pecuchet.epub",
-   "kb": 1192
+   "kb": 1192,
+   "capa": "capas/gustave-flaubert-bouvard-e-pecuchet.png",
+   "capa_min": "capas/miniaturas/gustave-flaubert-bouvard-e-pecuchet-300x450.png"
   },
   {
    "t": "Contos",
@@ -2765,7 +3110,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/guy-de-maupassant-contos.epub",
-   "kb": 1485
+   "kb": 1485,
+   "capa": "capas/guy-de-maupassant-contos.png",
+   "capa_min": "capas/miniaturas/guy-de-maupassant-contos-300x450.png"
   },
   {
    "t": "Ensaio sobre os Dados Imediatos da Consciência",
@@ -2781,7 +3128,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia.epub",
-   "kb": 260
+   "kb": 260,
+   "capa": "capas/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia.png",
+   "capa_min": "capas/miniaturas/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia-300x450.png"
   },
   {
    "t": "Matéria e Memória",
@@ -2797,7 +3146,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/henri-bergson-materia-e-memoria.epub",
-   "kb": 327
+   "kb": 327,
+   "capa": "capas/henri-bergson-materia-e-memoria.png",
+   "capa_min": "capas/miniaturas/henri-bergson-materia-e-memoria-300x450.png"
   },
   {
    "t": "O Riso",
@@ -2813,7 +3164,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/henri-bergson-o-riso.epub",
-   "kb": 172
+   "kb": 172,
+   "capa": "capas/henri-bergson-o-riso.png",
+   "capa_min": "capas/miniaturas/henri-bergson-o-riso-300x450.png"
   },
   {
    "t": "A Evolução Criadora",
@@ -2829,7 +3182,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/henri-bergson-a-evolucao-criadora.epub",
-   "kb": 420
+   "kb": 420,
+   "capa": "capas/henri-bergson-a-evolucao-criadora.png",
+   "capa_min": "capas/miniaturas/henri-bergson-a-evolucao-criadora-300x450.png"
   },
   {
    "t": "Duração e Simultaneidade",
@@ -2845,7 +3200,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/henri-bergson-duracao-e-simultaneidade.epub",
-   "kb": 529
+   "kb": 529,
+   "capa": "capas/henri-bergson-duracao-e-simultaneidade.png",
+   "capa_min": "capas/miniaturas/henri-bergson-duracao-e-simultaneidade-300x450.png"
   },
   {
    "t": "A Desobediência Civil",
@@ -2861,7 +3218,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/henry-david-thoreau-a-desobediencia-civil.epub",
-   "kb": 670
+   "kb": 670,
+   "capa": "capas/henry-david-thoreau-a-desobediencia-civil.png",
+   "capa_min": "capas/miniaturas/henry-david-thoreau-a-desobediencia-civil-300x450.png"
   },
   {
    "t": "Walden",
@@ -2876,7 +3235,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/henry-david-thoreau-walden.epub",
-   "kb": 670
+   "kb": 670,
+   "capa": "capas/henry-david-thoreau-walden.png",
+   "capa_min": "capas/miniaturas/henry-david-thoreau-walden-300x450.png"
   },
   {
    "t": "Moby Dick",
@@ -2891,7 +3252,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/herman-melville-moby-dick.epub",
-   "kb": 794
+   "kb": 794,
+   "capa": "capas/herman-melville-moby-dick.png",
+   "capa_min": "capas/miniaturas/herman-melville-moby-dick-300x450.png"
   },
   {
    "t": "Bartleby, o Escrivão",
@@ -2907,7 +3270,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/herman-melville-bartleby-o-escrivao.epub",
-   "kb": 114
+   "kb": 114,
+   "capa": "capas/herman-melville-bartleby-o-escrivao.png",
+   "capa_min": "capas/miniaturas/herman-melville-bartleby-o-escrivao-300x450.png"
   },
   {
    "t": "Odisseia",
@@ -2923,7 +3288,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/homero-odisseia.epub",
-   "kb": 435
+   "kb": 435,
+   "capa": "capas/homero-odisseia.png",
+   "capa_min": "capas/miniaturas/homero-odisseia-300x450.png"
   },
   {
    "t": "Ilíada",
@@ -2939,7 +3306,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/homero-iliada.epub",
-   "kb": 283
+   "kb": 283,
+   "capa": "capas/homero-iliada.png",
+   "capa_min": "capas/miniaturas/homero-iliada-300x450.png"
   },
   {
    "t": "Pai Goriot",
@@ -2955,7 +3324,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/honore-de-balzac-pai-goriot.epub",
-   "kb": 295
+   "kb": 295,
+   "capa": "capas/honore-de-balzac-pai-goriot.png",
+   "capa_min": "capas/miniaturas/honore-de-balzac-pai-goriot-300x450.png"
   },
   {
    "t": "Ilusões Perdidas",
@@ -2970,7 +3341,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/honore-de-balzac-ilusoes-perdidas.epub",
-   "kb": 643
+   "kb": 643,
+   "capa": "capas/honore-de-balzac-ilusoes-perdidas.png",
+   "capa_min": "capas/miniaturas/honore-de-balzac-ilusoes-perdidas-300x450.png"
   },
   {
    "t": "Crítica da Razão Pura",
@@ -2986,7 +3359,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/immanuel-kant-critica-da-razao-pura.epub",
-   "kb": 614
+   "kb": 614,
+   "capa": "capas/immanuel-kant-critica-da-razao-pura.png",
+   "capa_min": "capas/miniaturas/immanuel-kant-critica-da-razao-pura-300x450.png"
   },
   {
    "t": "Pais e Filhos",
@@ -3003,7 +3378,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/ivan-turgueniev-pais-e-filhos.epub",
-   "kb": 398
+   "kb": 398,
+   "capa": "capas/ivan-turgueniev-pais-e-filhos.png",
+   "capa_min": "capas/miniaturas/ivan-turgueniev-pais-e-filhos-300x450.png"
   },
   {
    "t": "Dublinenses",
@@ -3019,7 +3396,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/james-joyce-dublinenses.epub",
-   "kb": 324
+   "kb": 324,
+   "capa": "capas/james-joyce-dublinenses.png",
+   "capa_min": "capas/miniaturas/james-joyce-dublinenses-300x450.png"
   },
   {
    "t": "Retrato do Artista Quando Jovem",
@@ -3035,7 +3414,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/james-joyce-retrato-do-artista-quando-jovem.epub",
-   "kb": 304
+   "kb": 304,
+   "capa": "capas/james-joyce-retrato-do-artista-quando-jovem.png",
+   "capa_min": "capas/miniaturas/james-joyce-retrato-do-artista-quando-jovem-300x450.png"
   },
   {
    "t": "Ulisses",
@@ -3051,7 +3432,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/james-joyce-ulisses.epub",
-   "kb": 1459
+   "kb": 1459,
+   "capa": "capas/james-joyce-ulisses.png",
+   "capa_min": "capas/miniaturas/james-joyce-ulisses-300x450.png"
   },
   {
    "t": "Finnegans Wake",
@@ -3067,7 +3450,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/james-joyce-finnegans-wake.epub",
-   "kb": 621
+   "kb": 621,
+   "capa": "capas/james-joyce-finnegans-wake.png",
+   "capa_min": "capas/miniaturas/james-joyce-finnegans-wake-300x450.png"
   },
   {
    "t": "Orgulho e Preconceito",
@@ -3082,7 +3467,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/jane-austen-orgulho-e-preconceito.epub",
-   "kb": 24254
+   "kb": 24254,
+   "capa": "capas/jane-austen-orgulho-e-preconceito.png",
+   "capa_min": "capas/miniaturas/jane-austen-orgulho-e-preconceito-300x450.png"
   },
   {
    "t": "A Moreninha",
@@ -3098,7 +3485,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/joaquim-manuel-de-macedo-a-moreninha.epub",
-   "kb": 167
+   "kb": 167,
+   "capa": "capas/joaquim-manuel-de-macedo-a-moreninha.png",
+   "capa_min": "capas/miniaturas/joaquim-manuel-de-macedo-a-moreninha-300x450.png"
   },
   {
    "t": "Os Sofrimentos do Jovem Werther",
@@ -3113,7 +3502,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther.epub",
-   "kb": 177
+   "kb": 177,
+   "capa": "capas/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther.png",
+   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther-300x450.png"
   },
   {
    "t": "Fausto",
@@ -3129,7 +3520,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/johann-wolfgang-von-goethe-fausto.epub",
-   "kb": 165
+   "kb": 165,
+   "capa": "capas/johann-wolfgang-von-goethe-fausto.png",
+   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-fausto-300x450.png"
   },
   {
    "t": "As Afinidades Eletivas",
@@ -3144,7 +3537,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/johann-wolfgang-von-goethe-as-afinidades-eletivas.epub",
-   "kb": 1007
+   "kb": 1007,
+   "capa": "capas/johann-wolfgang-von-goethe-as-afinidades-eletivas.png",
+   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-as-afinidades-eletivas-300x450.png"
   },
   {
    "t": "Paraíso Perdido",
@@ -3159,7 +3554,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/john-milton-paraiso-perdido.epub",
-   "kb": 266
+   "kb": 266,
+   "capa": "capas/john-milton-paraiso-perdido.png",
+   "capa_min": "capas/miniaturas/john-milton-paraiso-perdido-300x450.png"
   },
   {
    "t": "Viagens de Gulliver",
@@ -3174,7 +3571,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/jonathan-swift-viagens-de-gulliver.epub",
-   "kb": 5397
+   "kb": 5397,
+   "capa": "capas/jonathan-swift-viagens-de-gulliver.png",
+   "capa_min": "capas/miniaturas/jonathan-swift-viagens-de-gulliver-300x450.png"
   },
   {
    "t": "O Guarani",
@@ -3190,7 +3589,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/jose-de-alencar-o-guarani.epub",
-   "kb": 286
+   "kb": 286,
+   "capa": "capas/jose-de-alencar-o-guarani.png",
+   "capa_min": "capas/miniaturas/jose-de-alencar-o-guarani-300x450.png"
   },
   {
    "t": "Lucíola",
@@ -3206,7 +3607,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/jose-de-alencar-luciola.epub",
-   "kb": 156
+   "kb": 156,
+   "capa": "capas/jose-de-alencar-luciola.png",
+   "capa_min": "capas/miniaturas/jose-de-alencar-luciola-300x450.png"
   },
   {
    "t": "Iracema",
@@ -3222,7 +3625,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/jose-de-alencar-iracema.epub",
-   "kb": 288
+   "kb": 288,
+   "capa": "capas/jose-de-alencar-iracema.png",
+   "capa_min": "capas/miniaturas/jose-de-alencar-iracema-300x450.png"
   },
   {
    "t": "Senhora",
@@ -3238,7 +3643,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/jose-de-alencar-senhora.epub",
-   "kb": 255
+   "kb": 255,
+   "capa": "capas/jose-de-alencar-senhora.png",
+   "capa_min": "capas/miniaturas/jose-de-alencar-senhora-300x450.png"
   },
   {
    "t": "Coração das Trevas",
@@ -3253,7 +3660,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/joseph-conrad-coracao-das-trevas.epub",
-   "kb": 160
+   "kb": 160,
+   "capa": "capas/joseph-conrad-coracao-das-trevas.png",
+   "capa_min": "capas/miniaturas/joseph-conrad-coracao-das-trevas-300x450.png"
   },
   {
    "t": "Lord Jim",
@@ -3268,7 +3677,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/joseph-conrad-lord-jim.epub",
-   "kb": 359
+   "kb": 359,
+   "capa": "capas/joseph-conrad-lord-jim.png",
+   "capa_min": "capas/miniaturas/joseph-conrad-lord-jim-300x450.png"
   },
   {
    "t": "Tao Te Ching",
@@ -3284,7 +3695,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/lao-tse-tao-te-ching.epub",
-   "kb": 87
+   "kb": 87,
+   "capa": "capas/lao-tse-tao-te-ching.png",
+   "capa_min": "capas/miniaturas/lao-tse-tao-te-ching-300x450.png"
   },
   {
    "t": "A Vida e as Opiniões de Tristram Shandy",
@@ -3300,7 +3713,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy.epub",
-   "kb": 1801
+   "kb": 1801,
+   "capa": "capas/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy.png",
+   "capa_min": "capas/miniaturas/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy-300x450.png"
   },
   {
    "t": "Alice no País das Maravilhas",
@@ -3316,7 +3731,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/lewis-carroll-alice-no-pais-das-maravilhas.epub",
-   "kb": 11228
+   "kb": 11228,
+   "capa": "capas/lewis-carroll-alice-no-pais-das-maravilhas.png",
+   "capa_min": "capas/miniaturas/lewis-carroll-alice-no-pais-das-maravilhas-300x450.png"
   },
   {
    "t": "Através do Espelho",
@@ -3332,7 +3749,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/lewis-carroll-atraves-do-espelho.epub",
-   "kb": 185
+   "kb": 185,
+   "capa": "capas/lewis-carroll-atraves-do-espelho.png",
+   "capa_min": "capas/miniaturas/lewis-carroll-atraves-do-espelho-300x450.png"
   },
   {
    "t": "A Caça ao Snark",
@@ -3348,7 +3767,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/lewis-carroll-a-caca-ao-snark.epub",
-   "kb": 185
+   "kb": 185,
+   "capa": "capas/lewis-carroll-a-caca-ao-snark.png",
+   "capa_min": "capas/miniaturas/lewis-carroll-a-caca-ao-snark-300x450.png"
   },
   {
    "t": "Guerra e Paz",
@@ -3364,7 +3785,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/liev-tolstoi-guerra-e-paz.epub",
-   "kb": 1792
+   "kb": 1792,
+   "capa": "capas/liev-tolstoi-guerra-e-paz.png",
+   "capa_min": "capas/miniaturas/liev-tolstoi-guerra-e-paz-300x450.png"
   },
   {
    "t": "Anna Kariênina",
@@ -3380,7 +3803,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/liev-tolstoi-anna-karienina.epub",
-   "kb": 1006
+   "kb": 1006,
+   "capa": "capas/liev-tolstoi-anna-karienina.png",
+   "capa_min": "capas/miniaturas/liev-tolstoi-anna-karienina-300x450.png"
   },
   {
    "t": "A Morte de Ivan Ilitch",
@@ -3397,7 +3822,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/liev-tolstoi-a-morte-de-ivan-ilitch.epub",
-   "kb": 90
+   "kb": 90,
+   "capa": "capas/liev-tolstoi-a-morte-de-ivan-ilitch.png",
+   "capa_min": "capas/miniaturas/liev-tolstoi-a-morte-de-ivan-ilitch-300x450.png"
   },
   {
    "t": "Recordações do Escrivão Isaías Caminha",
@@ -3413,7 +3840,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/lima-barreto-recordacoes-do-escrivao-isaias-caminha.epub",
-   "kb": 224
+   "kb": 224,
+   "capa": "capas/lima-barreto-recordacoes-do-escrivao-isaias-caminha.png",
+   "capa_min": "capas/miniaturas/lima-barreto-recordacoes-do-escrivao-isaias-caminha-300x450.png"
   },
   {
    "t": "Triste Fim de Policarpo Quaresma",
@@ -3429,7 +3858,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/lima-barreto-triste-fim-de-policarpo-quaresma.epub",
-   "kb": 241
+   "kb": 241,
+   "capa": "capas/lima-barreto-triste-fim-de-policarpo-quaresma.png",
+   "capa_min": "capas/miniaturas/lima-barreto-triste-fim-de-policarpo-quaresma-300x450.png"
   },
   {
    "t": "Vida e Morte de M. J. Gonzaga de Sá",
@@ -3445,7 +3876,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa.epub",
-   "kb": 127
+   "kb": 127,
+   "capa": "capas/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa.png",
+   "capa_min": "capas/miniaturas/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa-300x450.png"
   },
   {
    "t": "Os Bruzundangas",
@@ -3461,7 +3894,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/lima-barreto-os-bruzundangas.epub",
-   "kb": 158
+   "kb": 158,
+   "capa": "capas/lima-barreto-os-bruzundangas.png",
+   "capa_min": "capas/miniaturas/lima-barreto-os-bruzundangas-300x450.png"
   },
   {
    "t": "Clara dos Anjos",
@@ -3477,7 +3912,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/lima-barreto-clara-dos-anjos.epub",
-   "kb": 181
+   "kb": 181,
+   "capa": "capas/lima-barreto-clara-dos-anjos.png",
+   "capa_min": "capas/miniaturas/lima-barreto-clara-dos-anjos-300x450.png"
   },
   {
    "t": "Seis Personagens à Procura de um Autor",
@@ -3493,7 +3930,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/luigi-pirandello-seis-personagens-a-procura-de-um-autor.epub",
-   "kb": 45
+   "kb": 45,
+   "capa": "capas/luigi-pirandello-seis-personagens-a-procura-de-um-autor.png",
+   "capa_min": "capas/miniaturas/luigi-pirandello-seis-personagens-a-procura-de-um-autor-300x450.png"
   },
   {
    "t": "Os Lusíadas",
@@ -3509,7 +3948,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/luis-de-camoes-os-lusiadas.epub",
-   "kb": 216
+   "kb": 216,
+   "capa": "capas/luis-de-camoes-os-lusiadas.png",
+   "capa_min": "capas/miniaturas/luis-de-camoes-os-lusiadas-300x450.png"
   },
   {
    "t": "Rimas",
@@ -3525,7 +3966,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/luis-de-camoes-rimas.epub",
-   "kb": 20
+   "kb": 20,
+   "capa": "capas/luis-de-camoes-rimas.png",
+   "capa_min": "capas/miniaturas/luis-de-camoes-rimas-300x450.png"
   },
   {
    "t": "Contos Fluminenses",
@@ -3541,7 +3984,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/machado-de-assis-contos-fluminenses.epub",
-   "kb": 180
+   "kb": 180,
+   "capa": "capas/machado-de-assis-contos-fluminenses.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-contos-fluminenses-300x450.png"
   },
   {
    "t": "Ressurreição",
@@ -3557,7 +4002,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/machado-de-assis-ressurreicao.epub",
-   "kb": 141
+   "kb": 141,
+   "capa": "capas/machado-de-assis-ressurreicao.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-ressurreicao-300x450.png"
   },
   {
    "t": "A Mão e a Luva",
@@ -3573,7 +4020,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-a-mao-e-a-luva.epub",
-   "kb": 193
+   "kb": 193,
+   "capa": "capas/machado-de-assis-a-mao-e-a-luva.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-a-mao-e-a-luva-300x450.png"
   },
   {
    "t": "Helena",
@@ -3589,7 +4038,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-helena.epub",
-   "kb": 203
+   "kb": 203,
+   "capa": "capas/machado-de-assis-helena.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-helena-300x450.png"
   },
   {
    "t": "Iaiá Garcia",
@@ -3605,7 +4056,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-iaia-garcia.epub",
-   "kb": 369
+   "kb": 369,
+   "capa": "capas/machado-de-assis-iaia-garcia.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-iaia-garcia-300x450.png"
   },
   {
    "t": "Memórias Póstumas de Brás Cubas",
@@ -3621,7 +4074,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-memorias-postumas-de-bras-cubas.epub",
-   "kb": 233
+   "kb": 233,
+   "capa": "capas/machado-de-assis-memorias-postumas-de-bras-cubas.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-memorias-postumas-de-bras-cubas-300x450.png"
   },
   {
    "t": "Papéis Avulsos",
@@ -3637,7 +4092,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-papeis-avulsos.epub",
-   "kb": 372
+   "kb": 372,
+   "capa": "capas/machado-de-assis-papeis-avulsos.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-papeis-avulsos-300x450.png"
   },
   {
    "t": "Histórias sem Data",
@@ -3653,7 +4110,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-historias-sem-data.epub",
-   "kb": 206
+   "kb": 206,
+   "capa": "capas/machado-de-assis-historias-sem-data.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-historias-sem-data-300x450.png"
   },
   {
    "t": "Quincas Borba",
@@ -3669,7 +4128,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-quincas-borba.epub",
-   "kb": 272
+   "kb": 272,
+   "capa": "capas/machado-de-assis-quincas-borba.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-quincas-borba-300x450.png"
   },
   {
    "t": "Várias Histórias",
@@ -3685,7 +4146,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/machado-de-assis-varias-historias.epub",
-   "kb": 112
+   "kb": 112,
+   "capa": "capas/machado-de-assis-varias-historias.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-varias-historias-300x450.png"
   },
   {
    "t": "Páginas Recolhidas",
@@ -3701,7 +4164,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/machado-de-assis-paginas-recolhidas.epub",
-   "kb": 55
+   "kb": 55,
+   "capa": "capas/machado-de-assis-paginas-recolhidas.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-paginas-recolhidas-300x450.png"
   },
   {
    "t": "Dom Casmurro",
@@ -3717,7 +4182,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-dom-casmurro.epub",
-   "kb": 216
+   "kb": 216,
+   "capa": "capas/machado-de-assis-dom-casmurro.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-dom-casmurro-300x450.png"
   },
   {
    "t": "Poesias Completas",
@@ -3733,7 +4200,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-poesias-completas.epub",
-   "kb": 250
+   "kb": 250,
+   "capa": "capas/machado-de-assis-poesias-completas.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-poesias-completas-300x450.png"
   },
   {
    "t": "Esaú e Jacó",
@@ -3749,7 +4218,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-esau-e-jaco.epub",
-   "kb": 253
+   "kb": 253,
+   "capa": "capas/machado-de-assis-esau-e-jaco.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-esau-e-jaco-300x450.png"
   },
   {
    "t": "Relíquias de Casa Velha",
@@ -3765,7 +4236,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-reliquias-de-casa-velha.epub",
-   "kb": 355
+   "kb": 355,
+   "capa": "capas/machado-de-assis-reliquias-de-casa-velha.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-reliquias-de-casa-velha-300x450.png"
   },
   {
    "t": "Memorial de Aires",
@@ -3781,7 +4254,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/machado-de-assis-memorial-de-aires.epub",
-   "kb": 249
+   "kb": 249,
+   "capa": "capas/machado-de-assis-memorial-de-aires.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-memorial-de-aires-300x450.png"
   },
   {
    "t": "Memórias de um Sargento de Milícias",
@@ -3797,7 +4272,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias.epub",
-   "kb": 219
+   "kb": 219,
+   "capa": "capas/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias.png",
+   "capa_min": "capas/miniaturas/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias-300x450.png"
   },
   {
    "t": "Em Busca do Tempo Perdido",
@@ -3814,7 +4291,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/marcel-proust-em-busca-do-tempo-perdido.epub",
-   "kb": 510
+   "kb": 510,
+   "capa": "capas/marcel-proust-em-busca-do-tempo-perdido.png",
+   "capa_min": "capas/miniaturas/marcel-proust-em-busca-do-tempo-perdido-300x450.png"
   },
   {
    "t": "Paulicéia Desvairada",
@@ -3831,7 +4310,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/mario-de-andrade-pauliceia-desvairada.epub",
-   "kb": 347
+   "kb": 347,
+   "capa": "capas/mario-de-andrade-pauliceia-desvairada.png",
+   "capa_min": "capas/miniaturas/mario-de-andrade-pauliceia-desvairada-300x450.png"
   },
   {
    "t": "Macunaíma",
@@ -3848,7 +4329,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/mario-de-andrade-macunaima.epub",
-   "kb": 111
+   "kb": 111,
+   "capa": "capas/mario-de-andrade-macunaima.png",
+   "capa_min": "capas/miniaturas/mario-de-andrade-macunaima-300x450.png"
   },
   {
    "t": "Frankenstein",
@@ -3864,7 +4347,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/mary-shelley-frankenstein.epub",
-   "kb": 463
+   "kb": 463,
+   "capa": "capas/mary-shelley-frankenstein.png",
+   "capa_min": "capas/miniaturas/mary-shelley-frankenstein-300x450.png"
   },
   {
    "t": "Ensaios",
@@ -3879,7 +4364,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/michel-de-montaigne-ensaios.epub",
-   "kb": 1247
+   "kb": 1247,
+   "capa": "capas/michel-de-montaigne-ensaios.png",
+   "capa_min": "capas/miniaturas/michel-de-montaigne-ensaios-300x450.png"
   },
   {
    "t": "Dom Quixote",
@@ -3894,7 +4381,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/miguel-de-cervantes-dom-quixote.epub",
-   "kb": 1030
+   "kb": 1030,
+   "capa": "capas/miguel-de-cervantes-dom-quixote.png",
+   "capa_min": "capas/miniaturas/miguel-de-cervantes-dom-quixote-300x450.png"
   },
   {
    "t": "Urupês",
@@ -3910,7 +4399,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/monteiro-lobato-urupes.epub",
-   "kb": 516
+   "kb": 516,
+   "capa": "capas/monteiro-lobato-urupes.png",
+   "capa_min": "capas/miniaturas/monteiro-lobato-urupes-300x450.png"
   },
   {
    "t": "Cidades Mortas",
@@ -3926,7 +4417,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/monteiro-lobato-cidades-mortas.epub",
-   "kb": 255
+   "kb": 255,
+   "capa": "capas/monteiro-lobato-cidades-mortas.png",
+   "capa_min": "capas/miniaturas/monteiro-lobato-cidades-mortas-300x450.png"
   },
   {
    "t": "Negrinha",
@@ -3942,7 +4435,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/monteiro-lobato-negrinha.epub",
-   "kb": 70
+   "kb": 70,
+   "capa": "capas/monteiro-lobato-negrinha.png",
+   "capa_min": "capas/miniaturas/monteiro-lobato-negrinha-300x450.png"
   },
   {
    "t": "Almas Mortas",
@@ -3958,7 +4453,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/nikolai-gogol-almas-mortas.epub",
-   "kb": 377
+   "kb": 377,
+   "capa": "capas/nikolai-gogol-almas-mortas.png",
+   "capa_min": "capas/miniaturas/nikolai-gogol-almas-mortas-300x450.png"
   },
   {
    "t": "Poesias",
@@ -3975,7 +4472,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/olavo-bilac-poesias.epub",
-   "kb": 40
+   "kb": 40,
+   "capa": "capas/olavo-bilac-poesias.png",
+   "capa_min": "capas/miniaturas/olavo-bilac-poesias-300x450.png"
   },
   {
    "t": "O Retrato de Dorian Gray",
@@ -3990,7 +4489,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/oscar-wilde-o-retrato-de-dorian-gray.epub",
-   "kb": 93
+   "kb": 93,
+   "capa": "capas/oscar-wilde-o-retrato-de-dorian-gray.png",
+   "capa_min": "capas/miniaturas/oscar-wilde-o-retrato-de-dorian-gray-300x450.png"
   },
   {
    "t": "De Profundis",
@@ -4006,7 +4507,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/oscar-wilde-de-profundis.epub",
-   "kb": 109
+   "kb": 109,
+   "capa": "capas/oscar-wilde-de-profundis.png",
+   "capa_min": "capas/miniaturas/oscar-wilde-de-profundis-300x450.png"
   },
   {
    "t": "Pau Brasil",
@@ -4023,7 +4526,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/oswald-de-andrade-pau-brasil.epub",
-   "kb": 26
+   "kb": 26,
+   "capa": "capas/oswald-de-andrade-pau-brasil.png",
+   "capa_min": "capas/miniaturas/oswald-de-andrade-pau-brasil-300x450.png"
   },
   {
    "t": "Poemas Saturninos",
@@ -4038,7 +4543,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/paul-verlaine-poemas-saturninos.epub",
-   "kb": 780
+   "kb": 780,
+   "capa": "capas/paul-verlaine-poemas-saturninos.png",
+   "capa_min": "capas/miniaturas/paul-verlaine-poemas-saturninos-300x450.png"
   },
   {
    "t": "A Vida é Sonho",
@@ -4053,7 +4560,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/pedro-calderon-de-la-barca-a-vida-e-sonho.epub",
-   "kb": 114
+   "kb": 114,
+   "capa": "capas/pedro-calderon-de-la-barca-a-vida-e-sonho.png",
+   "capa_min": "capas/miniaturas/pedro-calderon-de-la-barca-a-vida-e-sonho-300x450.png"
   },
   {
    "t": "Os Cadernos de Malte Laurids Brigge",
@@ -4068,7 +4577,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.epub",
-   "kb": 232
+   "kb": 232,
+   "capa": "capas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.png",
+   "capa_min": "capas/miniaturas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge-300x450.png"
   },
   {
    "t": "Elegias de Duíno",
@@ -4083,7 +4594,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/rainer-maria-rilke-elegias-de-duino.epub",
-   "kb": 325
+   "kb": 325,
+   "capa": "capas/rainer-maria-rilke-elegias-de-duino.png",
+   "capa_min": "capas/miniaturas/rainer-maria-rilke-elegias-de-duino-300x450.png"
   },
   {
    "t": "Cartas a um Jovem Poeta",
@@ -4098,7 +4611,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/rainer-maria-rilke-cartas-a-um-jovem-poeta.epub",
-   "kb": 249
+   "kb": 249,
+   "capa": "capas/rainer-maria-rilke-cartas-a-um-jovem-poeta.png",
+   "capa_min": "capas/miniaturas/rainer-maria-rilke-cartas-a-um-jovem-poeta-300x450.png"
   },
   {
    "t": "Ensaios",
@@ -4113,7 +4628,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/ralph-waldo-emerson-ensaios.epub",
-   "kb": 404
+   "kb": 404,
+   "capa": "capas/ralph-waldo-emerson-ensaios.png",
+   "capa_min": "capas/miniaturas/ralph-waldo-emerson-ensaios-300x450.png"
   },
   {
    "t": "Húmus",
@@ -4130,7 +4647,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/raul-brandao-humus.epub",
-   "kb": 509
+   "kb": 509,
+   "capa": "capas/raul-brandao-humus.png",
+   "capa_min": "capas/miniaturas/raul-brandao-humus-300x450.png"
   },
   {
    "t": "O Ateneu",
@@ -4146,7 +4665,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/raul-pompeia-o-ateneu.epub",
-   "kb": 200
+   "kb": 200,
+   "capa": "capas/raul-pompeia-o-ateneu.png",
+   "capa_min": "capas/miniaturas/raul-pompeia-o-ateneu-300x450.png"
   },
   {
    "t": "Discurso do Método",
@@ -4162,7 +4683,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/rene-descartes-discurso-do-metodo.epub",
-   "kb": 162
+   "kb": 162,
+   "capa": "capas/rene-descartes-discurso-do-metodo.png",
+   "capa_min": "capas/miniaturas/rene-descartes-discurso-do-metodo-300x450.png"
   },
   {
    "t": "A Interpretação dos Sonhos",
@@ -4177,7 +4700,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-a-interpretacao-dos-sonhos.epub",
-   "kb": 877
+   "kb": 877,
+   "capa": "capas/sigmund-freud-a-interpretacao-dos-sonhos.png",
+   "capa_min": "capas/miniaturas/sigmund-freud-a-interpretacao-dos-sonhos-300x450.png"
   },
   {
    "t": "Totem e Tabu",
@@ -4194,7 +4719,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-totem-e-tabu.epub",
-   "kb": 241
+   "kb": 241,
+   "capa": "capas/sigmund-freud-totem-e-tabu.png",
+   "capa_min": "capas/miniaturas/sigmund-freud-totem-e-tabu-300x450.png"
   },
   {
    "t": "Além do Princípio do Prazer",
@@ -4210,7 +4737,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-alem-do-principio-do-prazer.epub",
-   "kb": 381
+   "kb": 381,
+   "capa": "capas/sigmund-freud-alem-do-principio-do-prazer.png",
+   "capa_min": "capas/miniaturas/sigmund-freud-alem-do-principio-do-prazer-300x450.png"
   },
   {
    "t": "Psicologia das Massas e Análise do Eu",
@@ -4226,7 +4755,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-psicologia-das-massas-e-analise-do-eu.epub",
-   "kb": 162
+   "kb": 162,
+   "capa": "capas/sigmund-freud-psicologia-das-massas-e-analise-do-eu.png",
+   "capa_min": "capas/miniaturas/sigmund-freud-psicologia-das-massas-e-analise-do-eu-300x450.png"
   },
   {
    "t": "O Mal-Estar na Civilização",
@@ -4242,7 +4773,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-o-mal-estar-na-civilizacao.epub",
-   "kb": 936
+   "kb": 936,
+   "capa": "capas/sigmund-freud-o-mal-estar-na-civilizacao.png",
+   "capa_min": "capas/miniaturas/sigmund-freud-o-mal-estar-na-civilizacao-300x450.png"
   },
   {
    "t": "Antígona",
@@ -4258,7 +4791,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sofocles-antigona.epub",
-   "kb": 199
+   "kb": 199,
+   "capa": "capas/sofocles-antigona.png",
+   "capa_min": "capas/miniaturas/sofocles-antigona-300x450.png"
   },
   {
    "t": "Édipo Rei",
@@ -4273,7 +4808,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sofocles-edipo-rei.epub",
-   "kb": 125
+   "kb": 125,
+   "capa": "capas/sofocles-edipo-rei.png",
+   "capa_min": "capas/miniaturas/sofocles-edipo-rei-300x450.png"
   },
   {
    "t": "O Vermelho e o Negro",
@@ -4288,7 +4825,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/stendhal-o-vermelho-e-o-negro.epub",
-   "kb": 677
+   "kb": 677,
+   "capa": "capas/stendhal-o-vermelho-e-o-negro.png",
+   "capa_min": "capas/miniaturas/stendhal-o-vermelho-e-o-negro-300x450.png"
   },
   {
    "t": "A Cartuxa de Parma",
@@ -4303,7 +4842,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/stendhal-a-cartuxa-de-parma.epub",
-   "kb": 396
+   "kb": 396,
+   "capa": "capas/stendhal-a-cartuxa-de-parma.png",
+   "capa_min": "capas/miniaturas/stendhal-a-cartuxa-de-parma-300x450.png"
   },
   {
    "t": "Um Lance de Dados",
@@ -4319,7 +4860,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/stephane-mallarme-um-lance-de-dados.epub",
-   "kb": 276
+   "kb": 276,
+   "capa": "capas/stephane-mallarme-um-lance-de-dados.png",
+   "capa_min": "capas/miniaturas/stephane-mallarme-um-lance-de-dados-300x450.png"
   },
   {
    "t": "Poesias",
@@ -4335,7 +4878,9 @@
    ],
    "fonte": "archive",
    "arq": "livros/stephane-mallarme-poesias.epub",
-   "kb": 1071
+   "kb": 1071,
+   "capa": "capas/stephane-mallarme-poesias.png",
+   "capa_min": "capas/miniaturas/stephane-mallarme-poesias-300x450.png"
   },
   {
    "t": "Os Buddenbrook",
@@ -4352,7 +4897,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-mann-os-buddenbrook.epub",
-   "kb": 818
+   "kb": 818,
+   "capa": "capas/thomas-mann-os-buddenbrook.png",
+   "capa_min": "capas/miniaturas/thomas-mann-os-buddenbrook-300x450.png"
   },
   {
    "t": "A Morte em Veneza",
@@ -4367,7 +4914,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-mann-a-morte-em-veneza.epub",
-   "kb": 135
+   "kb": 135,
+   "capa": "capas/thomas-mann-a-morte-em-veneza.png",
+   "capa_min": "capas/miniaturas/thomas-mann-a-morte-em-veneza-300x450.png"
   },
   {
    "t": "A Montanha Mágica",
@@ -4384,7 +4933,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-mann-a-montanha-magica.epub",
-   "kb": 2484
+   "kb": 2484,
+   "capa": "capas/thomas-mann-a-montanha-magica.png",
+   "capa_min": "capas/miniaturas/thomas-mann-a-montanha-magica-300x450.png"
   },
   {
    "t": "Notre-Dame de Paris",
@@ -4399,7 +4950,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/victor-hugo-notre-dame-de-paris.epub",
-   "kb": 713
+   "kb": 713,
+   "capa": "capas/victor-hugo-notre-dame-de-paris.png",
+   "capa_min": "capas/miniaturas/victor-hugo-notre-dame-de-paris-300x450.png"
   },
   {
    "t": "Os Miseráveis",
@@ -4414,7 +4967,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/victor-hugo-os-miseraveis.epub",
-   "kb": 47
+   "kb": 47,
+   "capa": "capas/victor-hugo-os-miseraveis.png",
+   "capa_min": "capas/miniaturas/victor-hugo-os-miseraveis-300x450.png"
   },
   {
    "t": "Cândido",
@@ -4430,7 +4985,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/voltaire-candido.epub",
-   "kb": 717
+   "kb": 717,
+   "capa": "capas/voltaire-candido.png",
+   "capa_min": "capas/miniaturas/voltaire-candido-300x450.png"
   },
   {
    "t": "Folhas de Relva",
@@ -4445,7 +5002,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/walt-whitman-folhas-de-relva.epub",
-   "kb": 843
+   "kb": 843,
+   "capa": "capas/walt-whitman-folhas-de-relva.png",
+   "capa_min": "capas/miniaturas/walt-whitman-folhas-de-relva-300x450.png"
   },
   {
    "t": "Hamlet",
@@ -4460,7 +5019,9 @@
    ],
    "fonte": "wikisource",
    "arq": "livros/william-shakespeare-hamlet.epub",
-   "kb": 133
+   "kb": 133,
+   "capa": "capas/william-shakespeare-hamlet.png",
+   "capa_min": "capas/miniaturas/william-shakespeare-hamlet-300x450.png"
   },
   {
    "t": "Macbeth",
@@ -4476,7 +5037,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-shakespeare-macbeth.epub",
-   "kb": 317
+   "kb": 317,
+   "capa": "capas/william-shakespeare-macbeth.png",
+   "capa_min": "capas/miniaturas/william-shakespeare-macbeth-300x450.png"
   },
   {
    "t": "Rei Lear",
@@ -4492,7 +5055,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-shakespeare-rei-lear.epub",
-   "kb": 337
+   "kb": 337,
+   "capa": "capas/william-shakespeare-rei-lear.png",
+   "capa_min": "capas/miniaturas/william-shakespeare-rei-lear-300x450.png"
   },
   {
    "t": "Sonetos",
@@ -4508,7 +5073,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-shakespeare-sonetos.epub",
-   "kb": 318
+   "kb": 318,
+   "capa": "capas/william-shakespeare-sonetos.png",
+   "capa_min": "capas/miniaturas/william-shakespeare-sonetos-300x450.png"
   },
   {
    "t": "A Tempestade",
@@ -4523,7 +5090,9 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-shakespeare-a-tempestade.epub",
-   "kb": 318
+   "kb": 318,
+   "capa": "capas/william-shakespeare-a-tempestade.png",
+   "capa_min": "capas/miniaturas/william-shakespeare-a-tempestade-300x450.png"
   }
  ]
 }
