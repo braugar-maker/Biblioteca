@@ -10,7 +10,7 @@
    "y": 1759,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "economia",
@@ -20,7 +20,8 @@
    "arq": "livros/adam-smith-teoria-dos-sentimentos-morais.epub",
    "kb": 634,
    "capa": "capas/adam-smith-teoria-dos-sentimentos-morais.png",
-   "capa_min": "capas/miniaturas/adam-smith-teoria-dos-sentimentos-morais-240x300.png"
+   "capa_min": "capas/miniaturas/adam-smith-teoria-dos-sentimentos-morais-240x300.png",
+   "te": "The Theory of Moral Sentiments"
   },
   {
    "t": "A Riqueza das Nações",
@@ -28,7 +29,7 @@
    "y": 1776,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "economia",
@@ -38,7 +39,8 @@
    "arq": "livros/adam-smith-a-riqueza-das-nacoes.epub",
    "kb": 925,
    "capa": "capas/adam-smith-a-riqueza-das-nacoes.png",
-   "capa_min": "capas/miniaturas/adam-smith-a-riqueza-das-nacoes-240x300.png"
+   "capa_min": "capas/miniaturas/adam-smith-a-riqueza-das-nacoes-240x300.png",
+   "te": "An Inquiry into the Nature and Causes of the Wealth of Nations"
   },
   {
    "t": "A Organização Nacional",
@@ -64,7 +66,7 @@
    "y": 1835,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "democracia",
@@ -74,7 +76,8 @@
    "arq": "livros/alexis-de-tocqueville-a-democracia-na-america.epub",
    "kb": 530,
    "capa": "capas/alexis-de-tocqueville-a-democracia-na-america.png",
-   "capa_min": "capas/miniaturas/alexis-de-tocqueville-a-democracia-na-america-240x300.png"
+   "capa_min": "capas/miniaturas/alexis-de-tocqueville-a-democracia-na-america-240x300.png",
+   "te": "Democracy in America — Volume 1"
   },
   {
    "t": "O Antigo Regime e a Revolução",
@@ -82,7 +85,7 @@
    "y": 1856,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "continuidade",
@@ -92,7 +95,8 @@
    "arq": "livros/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao.epub",
    "kb": 506,
    "capa": "capas/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao.png",
-   "capa_min": "capas/miniaturas/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao-240x300.png"
+   "capa_min": "capas/miniaturas/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao-240x300.png",
+   "te": "The State of Society in France Before the Revolution of 1789"
   },
   {
    "t": "Ética a Nicômaco",
@@ -100,7 +104,7 @@
    "y": -340,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -110,7 +114,8 @@
    "arq": "livros/aristoteles-etica-a-nicomaco.epub",
    "kb": 453,
    "capa": "capas/aristoteles-etica-a-nicomaco.png",
-   "capa_min": "capas/miniaturas/aristoteles-etica-a-nicomaco-240x300.png"
+   "capa_min": "capas/miniaturas/aristoteles-etica-a-nicomaco-240x300.png",
+   "te": "The Nicomachean ethics of Aristotle"
   },
   {
    "t": "Política",
@@ -118,7 +123,7 @@
    "y": -330,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -128,7 +133,8 @@
    "arq": "livros/aristoteles-politica.epub",
    "kb": 281,
    "capa": "capas/aristoteles-politica.png",
-   "capa_min": "capas/miniaturas/aristoteles-politica-240x300.png"
+   "capa_min": "capas/miniaturas/aristoteles-politica-240x300.png",
+   "te": "Politics: A Treatise on Government"
   },
   {
    "t": "A Constituição de Atenas",
@@ -136,7 +142,7 @@
    "y": -330,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -146,7 +152,8 @@
    "arq": "livros/aristoteles-a-constituicao-de-atenas.epub",
    "kb": 128,
    "capa": "capas/aristoteles-a-constituicao-de-atenas.png",
-   "capa_min": "capas/miniaturas/aristoteles-a-constituicao-de-atenas-240x300.png"
+   "capa_min": "capas/miniaturas/aristoteles-a-constituicao-de-atenas-240x300.png",
+   "te": "The Athenian Constitution"
   },
   {
    "t": "Consolidação das Leis Civis",
@@ -164,7 +171,8 @@
    "arq": "livros/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.epub",
    "kb": 78,
    "capa": "capas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.png",
-   "capa_min": "capas/miniaturas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis-240x300.png"
+   "capa_min": "capas/miniaturas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis-240x300.png",
+   "te": "Cartas, e mais peças officiaes dirigidas a Sua Magestade o Senhor D. João VI pelo Principe Real o Senhor D. Pedro de Alcantara"
   },
   {
    "t": "A Consolação da Filosofia",
@@ -172,7 +180,7 @@
    "y": 524,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "escolastica",
@@ -182,7 +190,8 @@
    "arq": "livros/boecio-a-consolacao-da-filosofia.epub",
    "kb": 336,
    "capa": "capas/boecio-a-consolacao-da-filosofia.png",
-   "capa_min": "capas/miniaturas/boecio-a-consolacao-da-filosofia-240x300.png"
+   "capa_min": "capas/miniaturas/boecio-a-consolacao-da-filosofia-240x300.png",
+   "te": "The Consolation of Philosophy"
   },
   {
    "t": "Capítulos de História Colonial",
@@ -208,7 +217,7 @@
    "y": -51,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -218,7 +227,10 @@
    "arq": "livros/cicero-das-leis.epub",
    "kb": 490,
    "capa": "capas/cicero-das-leis.png",
-   "capa_min": "capas/miniaturas/cicero-das-leis-240x300.png"
+   "capa_min": "capas/miniaturas/cicero-das-leis-240x300.png",
+   "te": "Cicero's Tusculan Disputations",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo são as Tusculanas e outros tratados, não De Legibus"
   },
   {
    "t": "Da República",
@@ -236,7 +248,8 @@
    "arq": "livros/cicero-da-republica.epub",
    "kb": 50,
    "capa": "capas/cicero-da-republica.png",
-   "capa_min": "capas/miniaturas/cicero-da-republica-240x300.png"
+   "capa_min": "capas/miniaturas/cicero-da-republica-240x300.png",
+   "te": "Libelo republicano"
   },
   {
    "t": "Dos Deveres",
@@ -244,7 +257,7 @@
    "y": -44,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -254,7 +267,10 @@
    "arq": "livros/cicero-dos-deveres.epub",
    "kb": 490,
    "capa": "capas/cicero-dos-deveres.png",
-   "capa_min": "capas/miniaturas/cicero-dos-deveres-240x300.png"
+   "capa_min": "capas/miniaturas/cicero-dos-deveres-240x300.png",
+   "te": "Cicero's Tusculan Disputations",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo são as Tusculanas e outros tratados, não De Officiis"
   },
   {
    "t": "Analectos",
@@ -262,7 +278,7 @@
    "y": -479,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "oriente",
@@ -272,7 +288,8 @@
    "arq": "livros/confucio-analectos.epub",
    "kb": 142,
    "capa": "capas/confucio-analectos.png",
-   "capa_min": "capas/miniaturas/confucio-analectos-240x300.png"
+   "capa_min": "capas/miniaturas/confucio-analectos-240x300.png",
+   "te": "The Analects of Confucius (from the Chinese Classics)"
   },
   {
    "t": "Monarquia",
@@ -280,7 +297,7 @@
    "y": 1313,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "escolastica",
@@ -290,7 +307,10 @@
    "arq": "livros/dante-alighieri-monarquia.epub",
    "kb": 18326,
    "capa": "capas/dante-alighieri-monarquia.png",
-   "capa_min": "capas/miniaturas/dante-alighieri-monarquia-240x300.png"
+   "capa_min": "capas/miniaturas/dante-alighieri-monarquia-240x300.png",
+   "te": "The vision of hell",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é o Inferno (Cary), não a Monarquia"
   },
   {
    "t": "Reflexões sobre a Revolução em França",
@@ -298,7 +318,7 @@
    "y": 1790,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "conservadorismo",
@@ -308,7 +328,10 @@
    "arq": "livros/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.epub",
    "kb": 174,
    "capa": "capas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.png",
-   "capa_min": "capas/miniaturas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca-240x300.png"
+   "capa_min": "capas/miniaturas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca-240x300.png",
+   "te": "Burke's Speech on Conciliation with America",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é o discurso sobre a conciliação com a América"
   },
   {
    "t": "Declínio e Queda do Império Romano",
@@ -326,7 +349,8 @@
    "arq": "livros/edward-gibbon-declinio-e-queda-do-imperio-romano.epub",
    "kb": 16030,
    "capa": "capas/edward-gibbon-declinio-e-queda-do-imperio-romano.png",
-   "capa_min": "capas/miniaturas/edward-gibbon-declinio-e-queda-do-imperio-romano-240x300.png"
+   "capa_min": "capas/miniaturas/edward-gibbon-declinio-e-queda-do-imperio-romano-240x300.png",
+   "te": "The History of the Decline and Fall of the Roman Empire"
   },
   {
    "t": "Da Divisão do Trabalho Social",
@@ -334,7 +358,7 @@
    "y": 1893,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "solidariedade",
@@ -344,7 +368,8 @@
    "arq": "livros/emile-durkheim-da-divisao-do-trabalho-social.epub",
    "kb": 451,
    "capa": "capas/emile-durkheim-da-divisao-do-trabalho-social.png",
-   "capa_min": "capas/miniaturas/emile-durkheim-da-divisao-do-trabalho-social-240x300.png"
+   "capa_min": "capas/miniaturas/emile-durkheim-da-divisao-do-trabalho-social-240x300.png",
+   "revisao": "direitos a conferir: tradução de George Simpson, copyright 1933; tradutor morreu em 1998"
   },
   {
    "t": "As Formas Elementares da Vida Religiosa",
@@ -352,7 +377,7 @@
    "y": 1912,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "ritual",
@@ -362,7 +387,8 @@
    "arq": "livros/emile-durkheim-as-formas-elementares-da-vida-religiosa.epub",
    "kb": 602,
    "capa": "capas/emile-durkheim-as-formas-elementares-da-vida-religiosa.png",
-   "capa_min": "capas/miniaturas/emile-durkheim-as-formas-elementares-da-vida-religiosa-240x300.png"
+   "capa_min": "capas/miniaturas/emile-durkheim-as-formas-elementares-da-vida-religiosa-240x300.png",
+   "te": "The Elementary Forms of the Religious Life"
   },
   {
    "t": "Os Sertões",
@@ -388,7 +414,7 @@
    "y": 1620,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -406,7 +432,7 @@
    "y": 1627,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -416,7 +442,8 @@
    "arq": "livros/francis-bacon-nova-atlantida.epub",
    "kb": 108,
    "capa": "capas/francis-bacon-nova-atlantida.png",
-   "capa_min": "capas/miniaturas/francis-bacon-nova-atlantida-240x300.png"
+   "capa_min": "capas/miniaturas/francis-bacon-nova-atlantida-240x300.png",
+   "te": "New Atlantis"
   },
   {
    "t": "A Cidade Antiga",
@@ -424,7 +451,7 @@
    "y": 1864,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "familia",
@@ -435,7 +462,8 @@
    "arq": "livros/fustel-de-coulanges-a-cidade-antiga.epub",
    "kb": 649,
    "capa": "capas/fustel-de-coulanges-a-cidade-antiga.png",
-   "capa_min": "capas/miniaturas/fustel-de-coulanges-a-cidade-antiga-240x300.png"
+   "capa_min": "capas/miniaturas/fustel-de-coulanges-a-cidade-antiga-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Filosofia do Direito",
@@ -443,7 +471,7 @@
    "y": 1820,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "estado",
@@ -453,7 +481,8 @@
    "arq": "livros/g-w-f-hegel-filosofia-do-direito.epub",
    "kb": 799,
    "capa": "capas/g-w-f-hegel-filosofia-do-direito.png",
-   "capa_min": "capas/miniaturas/g-w-f-hegel-filosofia-do-direito-240x300.png"
+   "capa_min": "capas/miniaturas/g-w-f-hegel-filosofia-do-direito-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "A Classe Dirigente",
@@ -471,7 +500,8 @@
    "arq": "livros/gaetano-mosca-a-classe-dirigente.epub",
    "kb": 893,
    "capa": "capas/gaetano-mosca-a-classe-dirigente.png",
-   "capa_min": "capas/miniaturas/gaetano-mosca-a-classe-dirigente-240x300.png"
+   "capa_min": "capas/miniaturas/gaetano-mosca-a-classe-dirigente-240x300.png",
+   "revisao": "direitos a conferir: tradução de Hannah Kahn, McGraw-Hill 1939, copyright"
   },
   {
    "t": "Filosofia do Dinheiro",
@@ -489,7 +519,8 @@
    "arq": "livros/georg-simmel-filosofia-do-dinheiro.epub",
    "kb": 19,
    "capa": "capas/georg-simmel-filosofia-do-dinheiro.png",
-   "capa_min": "capas/miniaturas/georg-simmel-filosofia-do-dinheiro-240x300.png"
+   "capa_min": "capas/miniaturas/georg-simmel-filosofia-do-dinheiro-240x300.png",
+   "revisao": "direitos a conferir: edição com aviso de copyright; tradutor a identificar"
   },
   {
    "t": "O Federalista",
@@ -525,7 +556,8 @@
    "arq": "livros/henry-sumner-maine-direito-antigo-ancient-law.epub",
    "kb": 310,
    "capa": "capas/henry-sumner-maine-direito-antigo-ancient-law.png",
-   "capa_min": "capas/miniaturas/henry-sumner-maine-direito-antigo-ancient-law-240x300.png"
+   "capa_min": "capas/miniaturas/henry-sumner-maine-direito-antigo-ancient-law-240x300.png",
+   "te": "Ancient law"
   },
   {
    "t": "A Comunidade Aldeã no Oriente e no Ocidente",
@@ -542,7 +574,8 @@
    "arq": "livros/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente.epub",
    "kb": 6026,
    "capa": "capas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente.png",
-   "capa_min": "capas/miniaturas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente-240x300.png"
+   "capa_min": "capas/miniaturas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Discurso sobre a Origem da Desigualdade",
@@ -550,7 +583,7 @@
    "y": 1755,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -560,7 +593,8 @@
    "arq": "livros/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade.epub",
    "kb": 166,
    "capa": "capas/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade.png",
-   "capa_min": "capas/miniaturas/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade-240x300.png"
+   "capa_min": "capas/miniaturas/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade-240x300.png",
+   "te": "A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind"
   },
   {
    "t": "Do Contrato Social",
@@ -568,7 +602,7 @@
    "y": 1762,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -578,7 +612,8 @@
    "arq": "livros/jean-jacques-rousseau-do-contrato-social.epub",
    "kb": 498,
    "capa": "capas/jean-jacques-rousseau-do-contrato-social.png",
-   "capa_min": "capas/miniaturas/jean-jacques-rousseau-do-contrato-social-240x300.png"
+   "capa_min": "capas/miniaturas/jean-jacques-rousseau-do-contrato-social-240x300.png",
+   "te": "The social contract & discourses"
   },
   {
    "t": "O Abolicionismo",
@@ -614,7 +649,8 @@
    "arq": "livros/joaquim-nabuco-um-estadista-do-imperio.epub",
    "kb": 2164,
    "capa": "capas/joaquim-nabuco-um-estadista-do-imperio.png",
-   "capa_min": "capas/miniaturas/joaquim-nabuco-um-estadista-do-imperio-240x300.png"
+   "capa_min": "capas/miniaturas/joaquim-nabuco-um-estadista-do-imperio-240x300.png",
+   "te": "Um estadista do Imperio : Nabuco de Araujo, sua vida, suas opiniões, sua época"
   },
   {
    "t": "Minha Formação",
@@ -640,7 +676,7 @@
    "y": 1916,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "transmissao",
@@ -650,7 +686,8 @@
    "arq": "livros/john-dewey-democracia-e-educacao.epub",
    "kb": 399,
    "capa": "capas/john-dewey-democracia-e-educacao.png",
-   "capa_min": "capas/miniaturas/john-dewey-democracia-e-educacao-240x300.png"
+   "capa_min": "capas/miniaturas/john-dewey-democracia-e-educacao-240x300.png",
+   "te": "Democracy and Education: An Introduction to the Philosophy of Education"
   },
   {
    "t": "O Público e seus Problemas",
@@ -668,7 +705,8 @@
    "arq": "livros/john-dewey-o-publico-e-seus-problemas.epub",
    "kb": 365,
    "capa": "capas/john-dewey-o-publico-e-seus-problemas.png",
-   "capa_min": "capas/miniaturas/john-dewey-o-publico-e-seus-problemas-240x300.png"
+   "capa_min": "capas/miniaturas/john-dewey-o-publico-e-seus-problemas-240x300.png",
+   "te": "The public and its problems"
   },
   {
    "t": "Carta sobre a Tolerância",
@@ -676,7 +714,7 @@
    "y": 1689,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -686,7 +724,10 @@
    "arq": "livros/john-locke-carta-sobre-a-tolerancia.epub",
    "kb": 529,
    "capa": "capas/john-locke-carta-sobre-a-tolerancia.png",
-   "capa_min": "capas/miniaturas/john-locke-carta-sobre-a-tolerancia-240x300.png"
+   "capa_min": "capas/miniaturas/john-locke-carta-sobre-a-tolerancia-240x300.png",
+   "te": "An Essay Concerning Humane Understanding, Volume 1",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é o Ensaio sobre o Entendimento Humano, vol. 1"
   },
   {
    "t": "Dois Tratados sobre o Governo",
@@ -694,7 +735,7 @@
    "y": 1689,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -705,7 +746,8 @@
    "arq": "livros/john-locke-dois-tratados-sobre-o-governo.epub",
    "kb": 208,
    "capa": "capas/john-locke-dois-tratados-sobre-o-governo.png",
-   "capa_min": "capas/miniaturas/john-locke-dois-tratados-sobre-o-governo-240x300.png"
+   "capa_min": "capas/miniaturas/john-locke-dois-tratados-sobre-o-governo-240x300.png",
+   "te": "Second Treatise of Government"
   },
   {
    "t": "Sobre a Liberdade",
@@ -713,7 +755,7 @@
    "y": 1859,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "liberdade"
@@ -722,7 +764,8 @@
    "arq": "livros/john-stuart-mill-sobre-a-liberdade.epub",
    "kb": 190,
    "capa": "capas/john-stuart-mill-sobre-a-liberdade.png",
-   "capa_min": "capas/miniaturas/john-stuart-mill-sobre-a-liberdade-240x300.png"
+   "capa_min": "capas/miniaturas/john-stuart-mill-sobre-a-liberdade-240x300.png",
+   "te": "On Liberty"
   },
   {
    "t": "Considerações sobre o Governo Representativo",
@@ -730,7 +773,7 @@
    "y": 1861,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "representacao"
@@ -739,7 +782,8 @@
    "arq": "livros/john-stuart-mill-consideracoes-sobre-o-governo-representativo.epub",
    "kb": 294,
    "capa": "capas/john-stuart-mill-consideracoes-sobre-o-governo-representativo.png",
-   "capa_min": "capas/miniaturas/john-stuart-mill-consideracoes-sobre-o-governo-representativo-240x300.png"
+   "capa_min": "capas/miniaturas/john-stuart-mill-consideracoes-sobre-o-governo-representativo-240x300.png",
+   "te": "Considerations on Representative Government"
   },
   {
    "t": "Meditações",
@@ -747,7 +791,7 @@
    "y": 180,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -757,7 +801,8 @@
    "arq": "livros/marco-aurelio-meditacoes.epub",
    "kb": 444,
    "capa": "capas/marco-aurelio-meditacoes.png",
-   "capa_min": "capas/miniaturas/marco-aurelio-meditacoes-240x300.png"
+   "capa_min": "capas/miniaturas/marco-aurelio-meditacoes-240x300.png",
+   "te": "Meditations"
   },
   {
    "t": "A Ética Protestante e o Espírito do Capitalismo",
@@ -765,7 +810,7 @@
    "y": 1905,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "legitimidade",
@@ -775,7 +820,8 @@
    "arq": "livros/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.epub",
    "kb": 293,
    "capa": "capas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.png",
-   "capa_min": "capas/miniaturas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo-240x300.png"
+   "capa_min": "capas/miniaturas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo-240x300.png",
+   "te": "The Protestant Ethic and the Spirit of Capitalism"
   },
   {
    "t": "Ciência e Política: Duas Vocações",
@@ -783,7 +829,7 @@
    "y": 1919,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "vocacao",
@@ -793,7 +839,8 @@
    "arq": "livros/max-weber-ciencia-e-politica-duas-vocacoes.epub",
    "kb": 87,
    "capa": "capas/max-weber-ciencia-e-politica-duas-vocacoes.png",
-   "capa_min": "capas/miniaturas/max-weber-ciencia-e-politica-duas-vocacoes-240x300.png"
+   "capa_min": "capas/miniaturas/max-weber-ciencia-e-politica-duas-vocacoes-240x300.png",
+   "revisao": "direitos a conferir: tradução de Gerth e Mills (1946), copyright"
   },
   {
    "t": "Cartas Persas",
@@ -801,7 +848,7 @@
    "y": 1721,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -811,7 +858,8 @@
    "arq": "livros/montesquieu-cartas-persas.epub",
    "kb": 2108,
    "capa": "capas/montesquieu-cartas-persas.png",
-   "capa_min": "capas/miniaturas/montesquieu-cartas-persas-240x300.png"
+   "capa_min": "capas/miniaturas/montesquieu-cartas-persas-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "O Espírito das Leis",
@@ -819,7 +867,7 @@
    "y": 1748,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -829,7 +877,8 @@
    "arq": "livros/montesquieu-o-espirito-das-leis.epub",
    "kb": 377,
    "capa": "capas/montesquieu-o-espirito-das-leis.png",
-   "capa_min": "capas/miniaturas/montesquieu-o-espirito-das-leis-240x300.png"
+   "capa_min": "capas/miniaturas/montesquieu-o-espirito-das-leis-240x300.png",
+   "te": "Esprit des lois"
   },
   {
    "t": "Discursos sobre a Primeira Década de Tito Lívio",
@@ -837,7 +886,7 @@
    "y": 1531,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -847,7 +896,8 @@
    "arq": "livros/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.epub",
    "kb": 1628,
    "capa": "capas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.png",
-   "capa_min": "capas/miniaturas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio-240x300.png"
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "O Príncipe",
@@ -855,7 +905,7 @@
    "y": 1532,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -865,7 +915,8 @@
    "arq": "livros/nicolau-maquiavel-o-principe.epub",
    "kb": 396,
    "capa": "capas/nicolau-maquiavel-o-principe.png",
-   "capa_min": "capas/miniaturas/nicolau-maquiavel-o-principe-240x300.png"
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-o-principe-240x300.png",
+   "te": "The Prince"
   },
   {
    "t": "História de Florença",
@@ -873,7 +924,7 @@
    "y": 1532,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -883,7 +934,8 @@
    "arq": "livros/nicolau-maquiavel-historia-de-florenca.epub",
    "kb": 2392,
    "capa": "capas/nicolau-maquiavel-historia-de-florenca.png",
-   "capa_min": "capas/miniaturas/nicolau-maquiavel-historia-de-florenca-240x300.png"
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-historia-de-florenca-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Teorias Políticas da Idade Média",
@@ -901,7 +953,8 @@
    "arq": "livros/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.epub",
    "kb": 2637,
    "capa": "capas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.png",
-   "capa_min": "capas/miniaturas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media-240x300.png"
+   "capa_min": "capas/miniaturas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "A República",
@@ -909,7 +962,7 @@
    "y": -375,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -919,7 +972,8 @@
    "arq": "livros/platao-a-republica.epub",
    "kb": 711,
    "capa": "capas/platao-a-republica.png",
-   "capa_min": "capas/miniaturas/platao-a-republica-240x300.png"
+   "capa_min": "capas/miniaturas/platao-a-republica-240x300.png",
+   "te": "The Republic of Plato"
   },
   {
    "t": "As Leis",
@@ -927,7 +981,7 @@
    "y": -348,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -937,7 +991,8 @@
    "arq": "livros/platao-as-leis.epub",
    "kb": 544,
    "capa": "capas/platao-as-leis.png",
-   "capa_min": "capas/miniaturas/platao-as-leis-240x300.png"
+   "capa_min": "capas/miniaturas/platao-as-leis-240x300.png",
+   "te": "Laws"
   },
   {
    "t": "Vidas Paralelas",
@@ -945,7 +1000,7 @@
    "y": 100,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -955,7 +1010,10 @@
    "arq": "livros/plutarco-vidas-paralelas.epub",
    "kb": 504,
    "capa": "capas/plutarco-vidas-paralelas.png",
-   "capa_min": "capas/miniaturas/plutarco-vidas-paralelas-240x300.png"
+   "capa_min": "capas/miniaturas/plutarco-vidas-paralelas-240x300.png",
+   "te": "Plutarch's Morals",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é a Moralia (Morals), não as Vidas"
   },
   {
    "t": "Histórias",
@@ -963,7 +1021,7 @@
    "y": -140,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -973,7 +1031,8 @@
    "arq": "livros/polibio-historias.epub",
    "kb": 734,
    "capa": "capas/polibio-historias.png",
-   "capa_min": "capas/miniaturas/polibio-historias-240x300.png"
+   "capa_min": "capas/miniaturas/polibio-historias-240x300.png",
+   "te": "The Histories of Polybius, Vol. 1 (of 2)"
   },
   {
    "t": "A Luta pelo Direito",
@@ -981,7 +1040,7 @@
    "y": 1872,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "direito",
@@ -991,7 +1050,8 @@
    "arq": "livros/rudolf-von-ihering-a-luta-pelo-direito.epub",
    "kb": 144,
    "capa": "capas/rudolf-von-ihering-a-luta-pelo-direito.png",
-   "capa_min": "capas/miniaturas/rudolf-von-ihering-a-luta-pelo-direito-240x300.png"
+   "capa_min": "capas/miniaturas/rudolf-von-ihering-a-luta-pelo-direito-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Oração aos Moços",
@@ -1027,7 +1087,8 @@
    "arq": "livros/samuel-von-pufendorf-do-direito-natural-e-das-gentes.epub",
    "kb": 8013,
    "capa": "capas/samuel-von-pufendorf-do-direito-natural-e-das-gentes.png",
-   "capa_min": "capas/miniaturas/samuel-von-pufendorf-do-direito-natural-e-das-gentes-240x300.png"
+   "capa_min": "capas/miniaturas/samuel-von-pufendorf-do-direito-natural-e-das-gentes-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Confissões",
@@ -1035,7 +1096,7 @@
    "y": 398,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "patristica",
@@ -1045,7 +1106,8 @@
    "arq": "livros/santo-agostinho-confissoes.epub",
    "kb": 313,
    "capa": "capas/santo-agostinho-confissoes.png",
-   "capa_min": "capas/miniaturas/santo-agostinho-confissoes-240x300.png"
+   "capa_min": "capas/miniaturas/santo-agostinho-confissoes-240x300.png",
+   "te": "The Confessions of St. Augustine"
   },
   {
    "t": "A Cidade de Deus",
@@ -1053,7 +1115,7 @@
    "y": 426,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "patristica",
@@ -1063,7 +1125,8 @@
    "arq": "livros/santo-agostinho-a-cidade-de-deus.epub",
    "kb": 761,
    "capa": "capas/santo-agostinho-a-cidade-de-deus.png",
-   "capa_min": "capas/miniaturas/santo-agostinho-a-cidade-de-deus-240x300.png"
+   "capa_min": "capas/miniaturas/santo-agostinho-a-cidade-de-deus-240x300.png",
+   "te": "The City of God, Volume I"
   },
   {
    "t": "Sobre a Brevidade da Vida",
@@ -1071,7 +1134,7 @@
    "y": 49,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -1081,7 +1144,10 @@
    "arq": "livros/seneca-sobre-a-brevidade-da-vida.epub",
    "kb": 453,
    "capa": "capas/seneca-sobre-a-brevidade-da-vida.png",
-   "capa_min": "capas/miniaturas/seneca-sobre-a-brevidade-da-vida-240x300.png"
+   "capa_min": "capas/miniaturas/seneca-sobre-a-brevidade-da-vida-240x300.png",
+   "te": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é o resumo de L’Estrange (Morals), não De Brevitate Vitae"
   },
   {
    "t": "Cartas a Lucílio",
@@ -1089,7 +1155,7 @@
    "y": 65,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -1099,7 +1165,10 @@
    "arq": "livros/seneca-cartas-a-lucilio.epub",
    "kb": 453,
    "capa": "capas/seneca-cartas-a-lucilio.png",
-   "capa_min": "capas/miniaturas/seneca-cartas-a-lucilio-240x300.png"
+   "capa_min": "capas/miniaturas/seneca-cartas-a-lucilio-240x300.png",
+   "te": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é o resumo de L’Estrange (Morals), não as Epístolas"
   },
   {
    "t": "A Arte da Guerra",
@@ -1107,7 +1176,7 @@
    "y": -500,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "oriente",
@@ -1117,7 +1186,8 @@
    "arq": "livros/sun-tzu-a-arte-da-guerra.epub",
    "kb": 307,
    "capa": "capas/sun-tzu-a-arte-da-guerra.png",
-   "capa_min": "capas/miniaturas/sun-tzu-a-arte-da-guerra-240x300.png"
+   "capa_min": "capas/miniaturas/sun-tzu-a-arte-da-guerra-240x300.png",
+   "te": "The Art of War"
   },
   {
    "t": "Do Cidadão",
@@ -1135,7 +1205,8 @@
    "arq": "livros/thomas-hobbes-do-cidadao.epub",
    "kb": 3541,
    "capa": "capas/thomas-hobbes-do-cidadao.png",
-   "capa_min": "capas/miniaturas/thomas-hobbes-do-cidadao-240x300.png"
+   "capa_min": "capas/miniaturas/thomas-hobbes-do-cidadao-240x300.png",
+   "revisao": "direitos a conferir: edição Appleton 1949, copyright"
   },
   {
    "t": "Leviatã",
@@ -1143,7 +1214,7 @@
    "y": 1651,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -1153,7 +1224,8 @@
    "arq": "livros/thomas-hobbes-leviata.epub",
    "kb": 841,
    "capa": "capas/thomas-hobbes-leviata.png",
-   "capa_min": "capas/miniaturas/thomas-hobbes-leviata-240x300.png"
+   "capa_min": "capas/miniaturas/thomas-hobbes-leviata-240x300.png",
+   "te": "Leviathan"
   },
   {
    "t": "Utopia",
@@ -1161,7 +1233,7 @@
    "y": 1516,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -1179,7 +1251,7 @@
    "y": 1899,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "instituicoes",
@@ -1189,7 +1261,8 @@
    "arq": "livros/thorstein-veblen-a-teoria-da-classe-ociosa.epub",
    "kb": 290,
    "capa": "capas/thorstein-veblen-a-teoria-da-classe-ociosa.png",
-   "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-classe-ociosa-240x300.png"
+   "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-classe-ociosa-240x300.png",
+   "te": "The Theory of the Leisure Class"
   },
   {
    "t": "A Teoria da Empresa de Negócios",
@@ -1207,7 +1280,8 @@
    "arq": "livros/thorstein-veblen-a-teoria-da-empresa-de-negocios.epub",
    "kb": 249,
    "capa": "capas/thorstein-veblen-a-teoria-da-empresa-de-negocios.png",
-   "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-empresa-de-negocios-240x300.png"
+   "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-empresa-de-negocios-240x300.png",
+   "te": "The Theory of Business Enterprise"
   },
   {
    "t": "Estudos de Direito",
@@ -1233,7 +1307,7 @@
    "y": 1274,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "escolastica",
@@ -1243,7 +1317,8 @@
    "arq": "livros/tomas-de-aquino-suma-teologica.epub",
    "kb": 1412,
    "capa": "capas/tomas-de-aquino-suma-teologica.png",
-   "capa_min": "capas/miniaturas/tomas-de-aquino-suma-teologica-240x300.png"
+   "capa_min": "capas/miniaturas/tomas-de-aquino-suma-teologica-240x300.png",
+   "te": "Summa Theologica, Part II-II (Secunda Secundae)"
   },
   {
    "t": "A Cidade do Sol",
@@ -1251,7 +1326,7 @@
    "y": 1602,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "moderna",
@@ -1261,7 +1336,8 @@
    "arq": "livros/tommaso-campanella-a-cidade-do-sol.epub",
    "kb": 103,
    "capa": "capas/tommaso-campanella-a-cidade-do-sol.png",
-   "capa_min": "capas/miniaturas/tommaso-campanella-a-cidade-do-sol-240x300.png"
+   "capa_min": "capas/miniaturas/tommaso-campanella-a-cidade-do-sol-240x300.png",
+   "te": "The City of the Sun"
   },
   {
    "t": "História da Guerra do Peloponeso",
@@ -1269,7 +1345,7 @@
    "y": -400,
    "c": "A",
    "e": "I",
-   "l": "pt",
+   "l": "en",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
@@ -1279,7 +1355,8 @@
    "arq": "livros/tucidides-historia-da-guerra-do-peloponeso.epub",
    "kb": 527,
    "capa": "capas/tucidides-historia-da-guerra-do-peloponeso.png",
-   "capa_min": "capas/miniaturas/tucidides-historia-da-guerra-do-peloponeso-240x300.png"
+   "capa_min": "capas/miniaturas/tucidides-historia-da-guerra-do-peloponeso-240x300.png",
+   "te": "The History of the Peloponnesian War"
   },
   {
    "t": "Tratado de Sociologia Geral",
@@ -1287,7 +1364,7 @@
    "y": 1916,
    "c": "A",
    "e": "I",
-   "l": "en",
+   "l": "it",
    "eixo": "Instituto",
    "tags": [
     "elites",
@@ -1297,7 +1374,8 @@
    "arq": "livros/vilfredo-pareto-tratado-de-sociologia-geral.epub",
    "kb": 2264,
    "capa": "capas/vilfredo-pareto-tratado-de-sociologia-geral.png",
-   "capa_min": "capas/miniaturas/vilfredo-pareto-tratado-de-sociologia-geral-240x300.png"
+   "capa_min": "capas/miniaturas/vilfredo-pareto-tratado-de-sociologia-geral-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Ensaio sobre o Direito Administrativo",
@@ -1333,7 +1411,8 @@
    "arq": "livros/walter-bagehot-a-constituicao-inglesa.epub",
    "kb": 283,
    "capa": "capas/walter-bagehot-a-constituicao-inglesa.png",
-   "capa_min": "capas/miniaturas/walter-bagehot-a-constituicao-inglesa-240x300.png"
+   "capa_min": "capas/miniaturas/walter-bagehot-a-constituicao-inglesa-240x300.png",
+   "te": "The English Constitution"
   },
   {
    "t": "Comentários às Leis da Inglaterra",
@@ -1351,7 +1430,8 @@
    "arq": "livros/william-blackstone-comentarios-as-leis-da-inglaterra.epub",
    "kb": 554,
    "capa": "capas/william-blackstone-comentarios-as-leis-da-inglaterra.png",
-   "capa_min": "capas/miniaturas/william-blackstone-comentarios-as-leis-da-inglaterra-240x300.png"
+   "capa_min": "capas/miniaturas/william-blackstone-comentarios-as-leis-da-inglaterra-240x300.png",
+   "te": "Commentaries on the Laws of England, Book the First"
   },
   {
    "t": "Eugênio Oneguin",
@@ -1359,7 +1439,7 @@
    "y": 1833,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -1369,7 +1449,8 @@
    "arq": "livros/aleksandr-puchkin-eugenio-oneguin.epub",
    "kb": 198,
    "capa": "capas/aleksandr-puchkin-eugenio-oneguin.png",
-   "capa_min": "capas/miniaturas/aleksandr-puchkin-eugenio-oneguin-240x300.png"
+   "capa_min": "capas/miniaturas/aleksandr-puchkin-eugenio-oneguin-240x300.png",
+   "te": "Eugene Oneguine [Onegin]"
   },
   {
    "t": "O Mulato",
@@ -1405,7 +1486,8 @@
    "arq": "livros/aluisio-azevedo-casa-de-pensao.epub",
    "kb": 390,
    "capa": "capas/aluisio-azevedo-casa-de-pensao.png",
-   "capa_min": "capas/miniaturas/aluisio-azevedo-casa-de-pensao-240x300.png"
+   "capa_min": "capas/miniaturas/aluisio-azevedo-casa-de-pensao-240x300.png",
+   "te": "A Casa De Pensão"
   },
   {
    "t": "O Cortiço",
@@ -1461,7 +1543,8 @@
    "arq": "livros/alvares-de-azevedo-noite-na-taverna.epub",
    "kb": 74,
    "capa": "capas/alvares-de-azevedo-noite-na-taverna.png",
-   "capa_min": "capas/miniaturas/alvares-de-azevedo-noite-na-taverna-240x300.png"
+   "capa_min": "capas/miniaturas/alvares-de-azevedo-noite-na-taverna-240x300.png",
+   "te": "Obras de Álvares de Azevedo: Tomo II: Prosa — Noite na Taverna"
   },
   {
    "t": "A Epopeia de Gilgamesh",
@@ -1469,7 +1552,7 @@
    "y": -2100,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "antiguidade",
@@ -1488,7 +1571,7 @@
    "y": -400,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "oriente",
@@ -1498,7 +1581,10 @@
    "arq": "livros/anonimo-bhagavad-gita.epub",
    "kb": 130,
    "capa": "capas/anonimo-bhagavad-gita.png",
-   "capa_min": "capas/miniaturas/anonimo-bhagavad-gita-240x300.png"
+   "capa_min": "capas/miniaturas/anonimo-bhagavad-gita-240x300.png",
+   "te": "The Glories of the Bhagavad Gita from The Padma Purana",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é um trecho do Padma Purana sobre a Gita, não a Gita"
   },
   {
    "t": "Dhammapada",
@@ -1506,7 +1592,7 @@
    "y": -300,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "it",
    "eixo": "Literatura",
    "tags": [
     "oriente",
@@ -1516,7 +1602,10 @@
    "arq": "livros/anonimo-dhammapada.epub",
    "kb": 155,
    "capa": "capas/anonimo-dhammapada.png",
-   "capa_min": "capas/miniaturas/anonimo-dhammapada-240x300.png"
+   "capa_min": "capas/miniaturas/anonimo-dhammapada-240x300.png",
+   "te": "Costituzione della Repubblica Italiana e Statuti Costituzionali del Regno d'Italia",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é a Constituição da República Italiana"
   },
   {
    "t": "As Mil e Uma Noites",
@@ -1524,7 +1613,7 @@
    "y": 1704,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "narrativa",
@@ -1534,7 +1623,10 @@
    "arq": "livros/anonimo-as-mil-e-uma-noites.epub",
    "kb": 292,
    "capa": "capas/anonimo-as-mil-e-uma-noites.png",
-   "capa_min": "capas/miniaturas/anonimo-as-mil-e-uma-noites-240x300.png"
+   "capa_min": "capas/miniaturas/anonimo-as-mil-e-uma-noites-240x300.png",
+   "te": "Jokes For All Occasions",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é Jokes for All Occasions"
   },
   {
    "t": "Sonetos Completos",
@@ -1552,7 +1644,8 @@
    "arq": "livros/antero-de-quental-sonetos-completos.epub",
    "kb": 138,
    "capa": "capas/antero-de-quental-sonetos-completos.png",
-   "capa_min": "capas/miniaturas/antero-de-quental-sonetos-completos-240x300.png"
+   "capa_min": "capas/miniaturas/antero-de-quental-sonetos-completos-240x300.png",
+   "te": "Os sonetos completos de Anthero de Quental"
   },
   {
    "t": "Contos",
@@ -1560,7 +1653,7 @@
    "y": 1898,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -1570,7 +1663,8 @@
    "arq": "livros/anton-tchekhov-contos.epub",
    "kb": 2642,
    "capa": "capas/anton-tchekhov-contos.png",
-   "capa_min": "capas/miniaturas/anton-tchekhov-contos-240x300.png"
+   "capa_min": "capas/miniaturas/anton-tchekhov-contos-240x300.png",
+   "te": "Project Gutenberg Compilation of Short Stories by Chekhov"
   },
   {
    "t": "O Jardim das Cerejeiras",
@@ -1578,7 +1672,7 @@
    "y": 1904,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -1615,7 +1709,7 @@
    "y": -423,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "comedia"
@@ -1624,7 +1718,8 @@
    "arq": "livros/aristofanes-as-nuvens.epub",
    "kb": 100,
    "capa": "capas/aristofanes-as-nuvens.png",
-   "capa_min": "capas/miniaturas/aristofanes-as-nuvens-240x300.png"
+   "capa_min": "capas/miniaturas/aristofanes-as-nuvens-240x300.png",
+   "te": "The Clouds"
   },
   {
    "t": "Iluminações",
@@ -1632,7 +1727,7 @@
    "y": 1886,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -1642,7 +1737,10 @@
    "arq": "livros/arthur-rimbaud-iluminacoes.epub",
    "kb": 144,
    "capa": "capas/arthur-rimbaud-iluminacoes.png",
-   "capa_min": "capas/miniaturas/arthur-rimbaud-iluminacoes-240x300.png"
+   "capa_min": "capas/miniaturas/arthur-rimbaud-iluminacoes-240x300.png",
+   "te": "Poésies complètes",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo são as Poésies complètes de 1895, sem as Illuminations"
   },
   {
    "t": "O Mundo como Vontade e Representação",
@@ -1650,7 +1748,7 @@
    "y": 1818,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia"
@@ -1659,7 +1757,8 @@
    "arq": "livros/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.epub",
    "kb": 861,
    "capa": "capas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.png",
-   "capa_min": "capas/miniaturas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao-240x300.png"
+   "capa_min": "capas/miniaturas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao-240x300.png",
+   "te": "The World as Will and Idea (Vol. 1 of 3)"
   },
   {
    "t": "Parerga e Paralipomena",
@@ -1667,7 +1766,7 @@
    "y": 1851,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -1677,7 +1776,8 @@
    "arq": "livros/arthur-schopenhauer-parerga-e-paralipomena.epub",
    "kb": 178,
    "capa": "capas/arthur-schopenhauer-parerga-e-paralipomena.png",
-   "capa_min": "capas/miniaturas/arthur-schopenhauer-parerga-e-paralipomena-240x300.png"
+   "capa_min": "capas/miniaturas/arthur-schopenhauer-parerga-e-paralipomena-240x300.png",
+   "te": "The Essays of Arthur Schopenhauer: the Wisdom of Life"
   },
   {
    "t": "Eu e Outras Poesias",
@@ -1703,7 +1803,7 @@
    "y": 1677,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -1714,7 +1814,8 @@
    "arq": "livros/baruch-espinosa-etica.epub",
    "kb": 221,
    "capa": "capas/baruch-espinosa-etica.png",
-   "capa_min": "capas/miniaturas/baruch-espinosa-etica-240x300.png"
+   "capa_min": "capas/miniaturas/baruch-espinosa-etica-240x300.png",
+   "te": "Ethics"
   },
   {
    "t": "Amor de Perdição",
@@ -1732,7 +1833,8 @@
    "arq": "livros/camilo-castelo-branco-amor-de-perdicao.epub",
    "kb": 205,
    "capa": "capas/camilo-castelo-branco-amor-de-perdicao.png",
-   "capa_min": "capas/miniaturas/camilo-castelo-branco-amor-de-perdicao-240x300.png"
+   "capa_min": "capas/miniaturas/camilo-castelo-branco-amor-de-perdicao-240x300.png",
+   "te": "Amor de Perdição: Memorias d'uma familia"
   },
   {
    "t": "A Queda dum Anjo",
@@ -1750,7 +1852,8 @@
    "arq": "livros/camilo-castelo-branco-a-queda-dum-anjo.epub",
    "kb": 218,
    "capa": "capas/camilo-castelo-branco-a-queda-dum-anjo.png",
-   "capa_min": "capas/miniaturas/camilo-castelo-branco-a-queda-dum-anjo-240x300.png"
+   "capa_min": "capas/miniaturas/camilo-castelo-branco-a-queda-dum-anjo-240x300.png",
+   "te": "A Queda d'um Anjo: Romance"
   },
   {
    "t": "Clepsidra",
@@ -1758,7 +1861,7 @@
    "y": 1920,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "portugal",
@@ -1769,7 +1872,8 @@
    "arq": "livros/camilo-pessanha-clepsidra.epub",
    "kb": 85,
    "capa": "capas/camilo-pessanha-clepsidra.png",
-   "capa_min": "capas/miniaturas/camilo-pessanha-clepsidra-240x300.png"
+   "capa_min": "capas/miniaturas/camilo-pessanha-clepsidra-240x300.png",
+   "te": "Clepsydra"
   },
   {
    "t": "As Primaveras",
@@ -1841,7 +1945,8 @@
    "arq": "livros/cesario-verde-o-livro-de-cesario-verde.epub",
    "kb": 123,
    "capa": "capas/cesario-verde-o-livro-de-cesario-verde.png",
-   "capa_min": "capas/miniaturas/cesario-verde-o-livro-de-cesario-verde-240x300.png"
+   "capa_min": "capas/miniaturas/cesario-verde-o-livro-de-cesario-verde-240x300.png",
+   "te": "O Livro de Cesario Verde"
   },
   {
    "t": "As Flores do Mal",
@@ -1859,7 +1964,8 @@
    "arq": "livros/charles-baudelaire-as-flores-do-mal.epub",
    "kb": 159,
    "capa": "capas/charles-baudelaire-as-flores-do-mal.png",
-   "capa_min": "capas/miniaturas/charles-baudelaire-as-flores-do-mal-240x300.png"
+   "capa_min": "capas/miniaturas/charles-baudelaire-as-flores-do-mal-240x300.png",
+   "te": "Flores do Mal"
   },
   {
    "t": "O Spleen de Paris",
@@ -1867,7 +1973,7 @@
    "y": 1869,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "prosa-poetica"
@@ -1876,7 +1982,8 @@
    "arq": "livros/charles-baudelaire-o-spleen-de-paris.epub",
    "kb": 3296,
    "capa": "capas/charles-baudelaire-o-spleen-de-paris.png",
-   "capa_min": "capas/miniaturas/charles-baudelaire-o-spleen-de-paris-240x300.png"
+   "capa_min": "capas/miniaturas/charles-baudelaire-o-spleen-de-paris-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "David Copperfield",
@@ -1884,7 +1991,7 @@
    "y": 1850,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -1901,7 +2008,7 @@
    "y": 1861,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -1910,7 +2017,8 @@
    "arq": "livros/charles-dickens-grandes-esperancas.epub",
    "kb": 14047,
    "capa": "capas/charles-dickens-grandes-esperancas.png",
-   "capa_min": "capas/miniaturas/charles-dickens-grandes-esperancas-240x300.png"
+   "capa_min": "capas/miniaturas/charles-dickens-grandes-esperancas-240x300.png",
+   "te": "Great Expectations"
   },
   {
    "t": "Poesias",
@@ -1918,7 +2026,7 @@
    "y": 1870,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "prosa",
@@ -1928,7 +2036,8 @@
    "arq": "livros/conde-de-lautreamont-poesias.epub",
    "kb": 86,
    "capa": "capas/conde-de-lautreamont-poesias.png",
-   "capa_min": "capas/miniaturas/conde-de-lautreamont-poesias-240x300.png"
+   "capa_min": "capas/miniaturas/conde-de-lautreamont-poesias-240x300.png",
+   "te": "Poésies"
   },
   {
    "t": "Missal",
@@ -1993,7 +2102,7 @@
    "y": 1294,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -2003,7 +2112,8 @@
    "arq": "livros/dante-alighieri-vida-nova.epub",
    "kb": 210,
    "capa": "capas/dante-alighieri-vida-nova.png",
-   "capa_min": "capas/miniaturas/dante-alighieri-vida-nova-240x300.png"
+   "capa_min": "capas/miniaturas/dante-alighieri-vida-nova-240x300.png",
+   "te": "The New Life (La Vita Nuova)"
   },
   {
    "t": "A Divina Comédia",
@@ -2011,7 +2121,7 @@
    "y": 1320,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "epica",
@@ -2021,7 +2131,8 @@
    "arq": "livros/dante-alighieri-a-divina-comedia.epub",
    "kb": 529,
    "capa": "capas/dante-alighieri-a-divina-comedia.png",
-   "capa_min": "capas/miniaturas/dante-alighieri-a-divina-comedia-240x300.png"
+   "capa_min": "capas/miniaturas/dante-alighieri-a-divina-comedia-240x300.png",
+   "te": "The Divine Comedy of Dante Alighieri: The Inferno"
   },
   {
    "t": "Jacques, o Fatalista",
@@ -2029,7 +2140,7 @@
    "y": 1796,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -2039,7 +2150,8 @@
    "arq": "livros/denis-diderot-jacques-o-fatalista.epub",
    "kb": 317,
    "capa": "capas/denis-diderot-jacques-o-fatalista.png",
-   "capa_min": "capas/miniaturas/denis-diderot-jacques-o-fatalista-240x300.png"
+   "capa_min": "capas/miniaturas/denis-diderot-jacques-o-fatalista-240x300.png",
+   "te": "Jacques le fataliste et son maître"
   },
   {
    "t": "O Crime do Padre Amaro",
@@ -2057,7 +2169,8 @@
    "arq": "livros/eca-de-queiros-o-crime-do-padre-amaro.epub",
    "kb": 464,
    "capa": "capas/eca-de-queiros-o-crime-do-padre-amaro.png",
-   "capa_min": "capas/miniaturas/eca-de-queiros-o-crime-do-padre-amaro-240x300.png"
+   "capa_min": "capas/miniaturas/eca-de-queiros-o-crime-do-padre-amaro-240x300.png",
+   "te": "O crime do padre Amaro, scenas da vida devota"
   },
   {
    "t": "O Primo Basílio",
@@ -2075,7 +2188,8 @@
    "arq": "livros/eca-de-queiros-o-primo-basilio.epub",
    "kb": 462,
    "capa": "capas/eca-de-queiros-o-primo-basilio.png",
-   "capa_min": "capas/miniaturas/eca-de-queiros-o-primo-basilio-240x300.png"
+   "capa_min": "capas/miniaturas/eca-de-queiros-o-primo-basilio-240x300.png",
+   "te": "O Primo Bazilio: Episodio Domestico"
   },
   {
    "t": "A Relíquia",
@@ -2112,7 +2226,8 @@
    "arq": "livros/eca-de-queiros-os-maias.epub",
    "kb": 675,
    "capa": "capas/eca-de-queiros-os-maias.png",
-   "capa_min": "capas/miniaturas/eca-de-queiros-os-maias-240x300.png"
+   "capa_min": "capas/miniaturas/eca-de-queiros-os-maias-240x300.png",
+   "te": "Os Maias: episodios da vida romantica"
   },
   {
    "t": "A Ilustre Casa de Ramires",
@@ -2131,7 +2246,8 @@
    "arq": "livros/eca-de-queiros-a-ilustre-casa-de-ramires.epub",
    "kb": 377,
    "capa": "capas/eca-de-queiros-a-ilustre-casa-de-ramires.png",
-   "capa_min": "capas/miniaturas/eca-de-queiros-a-ilustre-casa-de-ramires-240x300.png"
+   "capa_min": "capas/miniaturas/eca-de-queiros-a-ilustre-casa-de-ramires-240x300.png",
+   "te": "A Illustre Casa de Ramires"
   },
   {
    "t": "A Cidade e as Serras",
@@ -2157,7 +2273,7 @@
    "y": 1845,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "conto"
@@ -2166,7 +2282,8 @@
    "arq": "livros/edgar-allan-poe-contos-extraordinarios.epub",
    "kb": 334,
    "capa": "capas/edgar-allan-poe-contos-extraordinarios.png",
-   "capa_min": "capas/miniaturas/edgar-allan-poe-contos-extraordinarios-240x300.png"
+   "capa_min": "capas/miniaturas/edgar-allan-poe-contos-extraordinarios-240x300.png",
+   "te": "The Works of Edgar Allan Poe — Volume 2"
   },
   {
    "t": "Eureka",
@@ -2174,7 +2291,7 @@
    "y": 1848,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "ensaio",
@@ -2184,7 +2301,8 @@
    "arq": "livros/edgar-allan-poe-eureka.epub",
    "kb": 195,
    "capa": "capas/edgar-allan-poe-eureka.png",
-   "capa_min": "capas/miniaturas/edgar-allan-poe-eureka-240x300.png"
+   "capa_min": "capas/miniaturas/edgar-allan-poe-eureka-240x300.png",
+   "te": "Eureka: A Prose Poem"
   },
   {
    "t": "Livro dos Absurdos",
@@ -2202,7 +2320,8 @@
    "arq": "livros/edward-lear-livro-dos-absurdos.epub",
    "kb": 2622,
    "capa": "capas/edward-lear-livro-dos-absurdos.png",
-   "capa_min": "capas/miniaturas/edward-lear-livro-dos-absurdos-240x300.png"
+   "capa_min": "capas/miniaturas/edward-lear-livro-dos-absurdos-240x300.png",
+   "te": "Nonsense Books"
   },
   {
    "t": "Germinal",
@@ -2210,7 +2329,7 @@
    "y": 1885,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -2227,7 +2346,7 @@
    "y": 1847,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -2236,7 +2355,8 @@
    "arq": "livros/emily-bronte-o-morro-dos-ventos-uivantes.epub",
    "kb": 574,
    "capa": "capas/emily-bronte-o-morro-dos-ventos-uivantes.png",
-   "capa_min": "capas/miniaturas/emily-bronte-o-morro-dos-ventos-uivantes-240x300.png"
+   "capa_min": "capas/miniaturas/emily-bronte-o-morro-dos-ventos-uivantes-240x300.png",
+   "te": "Wuthering Heights"
   },
   {
    "t": "Oresteia",
@@ -2244,7 +2364,7 @@
    "y": -458,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tragedia",
@@ -2254,7 +2374,8 @@
    "arq": "livros/esquilo-oresteia.epub",
    "kb": 939,
    "capa": "capas/esquilo-oresteia.png",
-   "capa_min": "capas/miniaturas/esquilo-oresteia-240x300.png"
+   "capa_min": "capas/miniaturas/esquilo-oresteia-240x300.png",
+   "te": "The Oresteia of Aeschylus; Agamemnon, Choephori, Eumenides. The Greek text as arr. for performance at Cambridge with an English verse translation by R.C. Trevelyan"
   },
   {
    "t": "Prometeu Acorrentado",
@@ -2262,7 +2383,7 @@
    "y": -430,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tragedia"
@@ -2271,7 +2392,8 @@
    "arq": "livros/esquilo-prometeu-acorrentado.epub",
    "kb": 174,
    "capa": "capas/esquilo-prometeu-acorrentado.png",
-   "capa_min": "capas/miniaturas/esquilo-prometeu-acorrentado-240x300.png"
+   "capa_min": "capas/miniaturas/esquilo-prometeu-acorrentado-240x300.png",
+   "te": "Aeschylus' Prometheus Bound and the Seven Against Thebes"
   },
   {
    "t": "Medeia",
@@ -2279,7 +2401,7 @@
    "y": -431,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tragedia"
@@ -2288,7 +2410,9 @@
    "arq": "livros/euripides-medeia.epub",
    "kb": 919,
    "capa": "capas/euripides-medeia.png",
-   "capa_min": "capas/miniaturas/euripides-medeia-240x300.png"
+   "capa_min": "capas/miniaturas/euripides-medeia-240x300.png",
+   "te": "The Medea",
+   "revisao": "direitos a conferir: tradução de Gilbert Murray (morreu em 1957): livre no Brasil só em 2028"
   },
   {
    "t": "As Bacantes",
@@ -2296,7 +2420,7 @@
    "y": -405,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tragedia"
@@ -2305,7 +2429,8 @@
    "arq": "livros/euripides-as-bacantes.epub",
    "kb": 203,
    "capa": "capas/euripides-as-bacantes.png",
-   "capa_min": "capas/miniaturas/euripides-as-bacantes-240x300.png"
+   "capa_min": "capas/miniaturas/euripides-as-bacantes-240x300.png",
+   "te": "The Bacchae of Euripides"
   },
   {
    "t": "Mensagem",
@@ -2323,7 +2448,10 @@
    "arq": "livros/fernando-pessoa-mensagem.epub",
    "kb": 121,
    "capa": "capas/fernando-pessoa-mensagem.png",
-   "capa_min": "capas/miniaturas/fernando-pessoa-mensagem-240x300.png"
+   "capa_min": "capas/miniaturas/fernando-pessoa-mensagem-240x300.png",
+   "te": "Orpheu Nº1",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é a revista Orpheu nº 1"
   },
   {
    "t": "Livro do Desassossego",
@@ -2368,7 +2496,7 @@
    "y": 1864,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -2378,7 +2506,8 @@
    "arq": "livros/fiodor-dostoievski-memorias-do-subsolo.epub",
    "kb": 363,
    "capa": "capas/fiodor-dostoievski-memorias-do-subsolo.png",
-   "capa_min": "capas/miniaturas/fiodor-dostoievski-memorias-do-subsolo-240x300.png"
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-memorias-do-subsolo-240x300.png",
+   "te": "Notes from the Underground"
   },
   {
    "t": "Crime e Castigo",
@@ -2386,7 +2515,7 @@
    "y": 1866,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -2396,7 +2525,8 @@
    "arq": "livros/fiodor-dostoievski-crime-e-castigo.epub",
    "kb": 765,
    "capa": "capas/fiodor-dostoievski-crime-e-castigo.png",
-   "capa_min": "capas/miniaturas/fiodor-dostoievski-crime-e-castigo-240x300.png"
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-crime-e-castigo-240x300.png",
+   "te": "Crime and Punishment"
   },
   {
    "t": "O Idiota",
@@ -2404,7 +2534,7 @@
    "y": 1869,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -2414,7 +2544,8 @@
    "arq": "livros/fiodor-dostoievski-o-idiota.epub",
    "kb": 584,
    "capa": "capas/fiodor-dostoievski-o-idiota.png",
-   "capa_min": "capas/miniaturas/fiodor-dostoievski-o-idiota-240x300.png"
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-o-idiota-240x300.png",
+   "te": "The Idiot"
   },
   {
    "t": "Os Demônios",
@@ -2422,7 +2553,7 @@
    "y": 1872,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -2432,7 +2563,8 @@
    "arq": "livros/fiodor-dostoievski-os-demonios.epub",
    "kb": 629,
    "capa": "capas/fiodor-dostoievski-os-demonios.png",
-   "capa_min": "capas/miniaturas/fiodor-dostoievski-os-demonios-240x300.png"
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-os-demonios-240x300.png",
+   "te": "The possessed"
   },
   {
    "t": "Os Irmãos Karamázov",
@@ -2440,7 +2572,7 @@
    "y": 1880,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -2451,7 +2583,8 @@
    "arq": "livros/fiodor-dostoievski-os-irmaos-karamazov.epub",
    "kb": 937,
    "capa": "capas/fiodor-dostoievski-os-irmaos-karamazov.png",
-   "capa_min": "capas/miniaturas/fiodor-dostoievski-os-irmaos-karamazov-240x300.png"
+   "capa_min": "capas/miniaturas/fiodor-dostoievski-os-irmaos-karamazov-240x300.png",
+   "te": "The Brothers Karamazov"
   },
   {
    "t": "Cancioneiro",
@@ -2459,7 +2592,7 @@
    "y": 1374,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -2469,7 +2602,10 @@
    "arq": "livros/francesco-petrarca-cancioneiro.epub",
    "kb": 229,
    "capa": "capas/francesco-petrarca-cancioneiro.png",
-   "capa_min": "capas/miniaturas/francesco-petrarca-cancioneiro-240x300.png"
+   "capa_min": "capas/miniaturas/francesco-petrarca-cancioneiro-240x300.png",
+   "te": "Petrarch's Letters to Classical Authors",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo são as cartas a autores clássicos, não o Canzoniere"
   },
   {
    "t": "Gargântua e Pantagruel",
@@ -2477,7 +2613,7 @@
    "y": 1534,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "satira",
@@ -2487,7 +2623,8 @@
    "arq": "livros/francois-rabelais-gargantua-e-pantagruel.epub",
    "kb": 8210,
    "capa": "capas/francois-rabelais-gargantua-e-pantagruel.png",
-   "capa_min": "capas/miniaturas/francois-rabelais-gargantua-e-pantagruel-240x300.png"
+   "capa_min": "capas/miniaturas/francois-rabelais-gargantua-e-pantagruel-240x300.png",
+   "te": "Gargantua and Pantagruel"
   },
   {
    "t": "A Metamorfose",
@@ -2495,7 +2632,7 @@
    "y": 1915,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "modernismo",
@@ -2505,7 +2642,8 @@
    "arq": "livros/franz-kafka-a-metamorfose.epub",
    "kb": 310,
    "capa": "capas/franz-kafka-a-metamorfose.png",
-   "capa_min": "capas/miniaturas/franz-kafka-a-metamorfose-240x300.png"
+   "capa_min": "capas/miniaturas/franz-kafka-a-metamorfose-240x300.png",
+   "te": "Metamorphosis"
   },
   {
    "t": "O Processo",
@@ -2513,7 +2651,7 @@
    "y": 1925,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "modernismo",
@@ -2524,7 +2662,8 @@
    "arq": "livros/franz-kafka-o-processo.epub",
    "kb": 233,
    "capa": "capas/franz-kafka-o-processo.png",
-   "capa_min": "capas/miniaturas/franz-kafka-o-processo-240x300.png"
+   "capa_min": "capas/miniaturas/franz-kafka-o-processo-240x300.png",
+   "te": "The Trial"
   },
   {
    "t": "O Castelo",
@@ -2532,7 +2671,7 @@
    "y": 1926,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "modernismo",
@@ -2542,7 +2681,8 @@
    "arq": "livros/franz-kafka-o-castelo.epub",
    "kb": 3231,
    "capa": "capas/franz-kafka-o-castelo.png",
-   "capa_min": "capas/miniaturas/franz-kafka-o-castelo-240x300.png"
+   "capa_min": "capas/miniaturas/franz-kafka-o-castelo-240x300.png",
+   "revisao": "direitos a conferir: tradução inglesa; tradutor a identificar (se Muir, livre só em 2041)"
   },
   {
    "t": "O Nascimento da Tragédia",
@@ -2550,7 +2690,7 @@
    "y": 1872,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -2560,7 +2700,8 @@
    "arq": "livros/friedrich-nietzsche-o-nascimento-da-tragedia.epub",
    "kb": 212,
    "capa": "capas/friedrich-nietzsche-o-nascimento-da-tragedia.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-o-nascimento-da-tragedia-240x300.png"
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-o-nascimento-da-tragedia-240x300.png",
+   "te": "The Birth of Tragedy; or, Hellenism and Pessimism"
   },
   {
    "t": "Humano, Demasiado Humano",
@@ -2568,7 +2709,7 @@
    "y": 1878,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -2578,7 +2719,8 @@
    "arq": "livros/friedrich-nietzsche-humano-demasiado-humano.epub",
    "kb": 180,
    "capa": "capas/friedrich-nietzsche-humano-demasiado-humano.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-humano-demasiado-humano-240x300.png"
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-humano-demasiado-humano-240x300.png",
+   "te": "Human, All Too Human: A Book for Free Spirits"
   },
   {
    "t": "A Gaia Ciência",
@@ -2586,7 +2728,7 @@
    "y": 1882,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia"
@@ -2595,7 +2737,8 @@
    "arq": "livros/friedrich-nietzsche-a-gaia-ciencia.epub",
    "kb": 336,
    "capa": "capas/friedrich-nietzsche-a-gaia-ciencia.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-a-gaia-ciencia-240x300.png"
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-a-gaia-ciencia-240x300.png",
+   "te": "The Joyful Wisdom (\"La Gaya Scienza\")"
   },
   {
    "t": "Assim Falou Zaratustra",
@@ -2603,7 +2746,7 @@
    "y": 1885,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -2613,7 +2756,8 @@
    "arq": "livros/friedrich-nietzsche-assim-falou-zaratustra.epub",
    "kb": 636,
    "capa": "capas/friedrich-nietzsche-assim-falou-zaratustra.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-assim-falou-zaratustra-240x300.png"
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-assim-falou-zaratustra-240x300.png",
+   "te": "Thus Spake Zarathustra: A Book for All and None"
   },
   {
    "t": "Além do Bem e do Mal",
@@ -2621,7 +2765,7 @@
    "y": 1886,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia"
@@ -2630,7 +2774,8 @@
    "arq": "livros/friedrich-nietzsche-alem-do-bem-e-do-mal.epub",
    "kb": 233,
    "capa": "capas/friedrich-nietzsche-alem-do-bem-e-do-mal.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-alem-do-bem-e-do-mal-240x300.png"
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-alem-do-bem-e-do-mal-240x300.png",
+   "te": "Beyond Good and Evil"
   },
   {
    "t": "Genealogia da Moral",
@@ -2638,7 +2783,7 @@
    "y": 1887,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -2648,7 +2793,8 @@
    "arq": "livros/friedrich-nietzsche-genealogia-da-moral.epub",
    "kb": 245,
    "capa": "capas/friedrich-nietzsche-genealogia-da-moral.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-genealogia-da-moral-240x300.png"
+   "capa_min": "capas/miniaturas/friedrich-nietzsche-genealogia-da-moral-240x300.png",
+   "te": "The Genealogy of Morals"
   },
   {
    "t": "Ecce Homo",
@@ -2656,7 +2802,7 @@
    "y": 1908,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -2674,7 +2820,7 @@
    "y": 1807,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia"
@@ -2683,7 +2829,8 @@
    "arq": "livros/g-w-f-hegel-fenomenologia-do-espirito.epub",
    "kb": 84,
    "capa": "capas/g-w-f-hegel-fenomenologia-do-espirito.png",
-   "capa_min": "capas/miniaturas/g-w-f-hegel-fenomenologia-do-espirito-240x300.png"
+   "capa_min": "capas/miniaturas/g-w-f-hegel-fenomenologia-do-espirito-240x300.png",
+   "te": "The Phenomenology of Mind"
   },
   {
    "t": "Aurélia",
@@ -2691,7 +2838,7 @@
    "y": 1855,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "prosa",
@@ -2701,7 +2848,8 @@
    "arq": "livros/gerard-de-nerval-aurelia.epub",
    "kb": 3179,
    "capa": "capas/gerard-de-nerval-aurelia.png",
-   "capa_min": "capas/miniaturas/gerard-de-nerval-aurelia-240x300.png"
+   "capa_min": "capas/miniaturas/gerard-de-nerval-aurelia-240x300.png",
+   "te": "Aurelia, oder, Der Traum und das Leben"
   },
   {
    "t": "Auto da Barca do Inferno",
@@ -2727,7 +2875,7 @@
    "y": 1353,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "narrativa",
@@ -2737,7 +2885,8 @@
    "arq": "livros/giovanni-boccaccio-decameron.epub",
    "kb": 717,
    "capa": "capas/giovanni-boccaccio-decameron.png",
-   "capa_min": "capas/miniaturas/giovanni-boccaccio-decameron-240x300.png"
+   "capa_min": "capas/miniaturas/giovanni-boccaccio-decameron-240x300.png",
+   "te": "The Decameron of Giovanni Boccaccio"
   },
   {
    "t": "Primeiros Cantos",
@@ -2763,7 +2912,7 @@
    "y": 1714,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia"
@@ -2772,7 +2921,10 @@
    "arq": "livros/gottfried-wilhelm-leibniz-monadologia.epub",
    "kb": 486,
    "capa": "capas/gottfried-wilhelm-leibniz-monadologia.png",
-   "capa_min": "capas/miniaturas/gottfried-wilhelm-leibniz-monadologia-240x300.png"
+   "capa_min": "capas/miniaturas/gottfried-wilhelm-leibniz-monadologia-240x300.png",
+   "te": "Theodicy",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é a Teodiceia"
   },
   {
    "t": "Caetés",
@@ -2808,7 +2960,8 @@
    "arq": "livros/graciliano-ramos-sao-bernardo.epub",
    "kb": 6931,
    "capa": "capas/graciliano-ramos-sao-bernardo.png",
-   "capa_min": "capas/miniaturas/graciliano-ramos-sao-bernardo-240x300.png"
+   "capa_min": "capas/miniaturas/graciliano-ramos-sao-bernardo-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Angústia",
@@ -2816,7 +2969,7 @@
    "y": 1936,
    "c": "B",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "brasil",
@@ -2826,7 +2979,8 @@
    "arq": "livros/graciliano-ramos-angustia.epub",
    "kb": 255,
    "capa": "capas/graciliano-ramos-angustia.png",
-   "capa_min": "capas/miniaturas/graciliano-ramos-angustia-240x300.png"
+   "capa_min": "capas/miniaturas/graciliano-ramos-angustia-240x300.png",
+   "revisao": "direitos a conferir: o arquivo é uma tradução francesa moderna, impressa na Espanha"
   },
   {
    "t": "Vidas Secas",
@@ -2870,7 +3024,7 @@
    "y": 1913,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -2880,7 +3034,8 @@
    "arq": "livros/guillaume-apollinaire-alcoois.epub",
    "kb": 109,
    "capa": "capas/guillaume-apollinaire-alcoois.png",
-   "capa_min": "capas/miniaturas/guillaume-apollinaire-alcoois-240x300.png"
+   "capa_min": "capas/miniaturas/guillaume-apollinaire-alcoois-240x300.png",
+   "te": "Alcools"
   },
   {
    "t": "Caligramas",
@@ -2888,7 +3043,7 @@
    "y": 1918,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -2898,7 +3053,8 @@
    "arq": "livros/guillaume-apollinaire-caligramas.epub",
    "kb": 2444,
    "capa": "capas/guillaume-apollinaire-caligramas.png",
-   "capa_min": "capas/miniaturas/guillaume-apollinaire-caligramas-240x300.png"
+   "capa_min": "capas/miniaturas/guillaume-apollinaire-caligramas-240x300.png",
+   "te": "Calligrammes: Poèmes de la paix et de la guerre (1913-1916)"
   },
   {
    "t": "Madame Bovary",
@@ -2906,7 +3062,7 @@
    "y": 1857,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -2923,7 +3079,7 @@
    "y": 1874,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "prosa"
@@ -2932,7 +3088,8 @@
    "arq": "livros/gustave-flaubert-a-tentacao-de-santo-antao.epub",
    "kb": 356,
    "capa": "capas/gustave-flaubert-a-tentacao-de-santo-antao.png",
-   "capa_min": "capas/miniaturas/gustave-flaubert-a-tentacao-de-santo-antao-240x300.png"
+   "capa_min": "capas/miniaturas/gustave-flaubert-a-tentacao-de-santo-antao-240x300.png",
+   "te": "The Temptation of St. Antony; Or, A Revelation of the Soul"
   },
   {
    "t": "Bouvard e Pécuchet",
@@ -2940,7 +3097,7 @@
    "y": 1881,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -2950,7 +3107,8 @@
    "arq": "livros/gustave-flaubert-bouvard-e-pecuchet.epub",
    "kb": 1192,
    "capa": "capas/gustave-flaubert-bouvard-e-pecuchet.png",
-   "capa_min": "capas/miniaturas/gustave-flaubert-bouvard-e-pecuchet-240x300.png"
+   "capa_min": "capas/miniaturas/gustave-flaubert-bouvard-e-pecuchet-240x300.png",
+   "te": "Bouvard and Pécuchet: A Tragi-comic Novel of Bourgeois Life, part 1"
   },
   {
    "t": "Contos",
@@ -2958,7 +3116,7 @@
    "y": 1885,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "conto"
@@ -2967,7 +3125,8 @@
    "arq": "livros/guy-de-maupassant-contos.epub",
    "kb": 1485,
    "capa": "capas/guy-de-maupassant-contos.png",
-   "capa_min": "capas/miniaturas/guy-de-maupassant-contos-240x300.png"
+   "capa_min": "capas/miniaturas/guy-de-maupassant-contos-240x300.png",
+   "te": "Complete Original Short Stories of Guy De Maupassant"
   },
   {
    "t": "Ensaio sobre os Dados Imediatos da Consciência",
@@ -2975,7 +3134,7 @@
    "y": 1889,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "duracao",
@@ -2985,7 +3144,8 @@
    "arq": "livros/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia.epub",
    "kb": 260,
    "capa": "capas/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia.png",
-   "capa_min": "capas/miniaturas/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia-240x300.png"
+   "capa_min": "capas/miniaturas/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia-240x300.png",
+   "te": "Time and Free Will: An Essay on the Immediate Data of Consciousness"
   },
   {
    "t": "Matéria e Memória",
@@ -2993,7 +3153,7 @@
    "y": 1896,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "duracao",
@@ -3003,7 +3163,8 @@
    "arq": "livros/henri-bergson-materia-e-memoria.epub",
    "kb": 327,
    "capa": "capas/henri-bergson-materia-e-memoria.png",
-   "capa_min": "capas/miniaturas/henri-bergson-materia-e-memoria-240x300.png"
+   "capa_min": "capas/miniaturas/henri-bergson-materia-e-memoria-240x300.png",
+   "te": "Matter and Memory"
   },
   {
    "t": "O Riso",
@@ -3011,7 +3172,7 @@
    "y": 1900,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "ensaio",
@@ -3021,7 +3182,8 @@
    "arq": "livros/henri-bergson-o-riso.epub",
    "kb": 172,
    "capa": "capas/henri-bergson-o-riso.png",
-   "capa_min": "capas/miniaturas/henri-bergson-o-riso-240x300.png"
+   "capa_min": "capas/miniaturas/henri-bergson-o-riso-240x300.png",
+   "te": "Laughter: An Essay on the Meaning of the Comic"
   },
   {
    "t": "A Evolução Criadora",
@@ -3029,7 +3191,7 @@
    "y": 1907,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "duracao",
@@ -3039,7 +3201,8 @@
    "arq": "livros/henri-bergson-a-evolucao-criadora.epub",
    "kb": 420,
    "capa": "capas/henri-bergson-a-evolucao-criadora.png",
-   "capa_min": "capas/miniaturas/henri-bergson-a-evolucao-criadora-240x300.png"
+   "capa_min": "capas/miniaturas/henri-bergson-a-evolucao-criadora-240x300.png",
+   "te": "Creative Evolution"
   },
   {
    "t": "A Desobediência Civil",
@@ -3047,7 +3210,7 @@
    "y": 1849,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "ensaio",
@@ -3057,7 +3220,8 @@
    "arq": "livros/henry-david-thoreau-a-desobediencia-civil.epub",
    "kb": 670,
    "capa": "capas/henry-david-thoreau-a-desobediencia-civil.png",
-   "capa_min": "capas/miniaturas/henry-david-thoreau-a-desobediencia-civil-240x300.png"
+   "capa_min": "capas/miniaturas/henry-david-thoreau-a-desobediencia-civil-240x300.png",
+   "te": "Walden, and On The Duty Of Civil Disobedience"
   },
   {
    "t": "Walden",
@@ -3065,7 +3229,7 @@
    "y": 1854,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "ensaio"
@@ -3074,7 +3238,8 @@
    "arq": "livros/henry-david-thoreau-walden.epub",
    "kb": 670,
    "capa": "capas/henry-david-thoreau-walden.png",
-   "capa_min": "capas/miniaturas/henry-david-thoreau-walden-240x300.png"
+   "capa_min": "capas/miniaturas/henry-david-thoreau-walden-240x300.png",
+   "te": "Walden, and On The Duty Of Civil Disobedience"
   },
   {
    "t": "Moby Dick",
@@ -3082,7 +3247,7 @@
    "y": 1851,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3091,7 +3256,8 @@
    "arq": "livros/herman-melville-moby-dick.epub",
    "kb": 794,
    "capa": "capas/herman-melville-moby-dick.png",
-   "capa_min": "capas/miniaturas/herman-melville-moby-dick-240x300.png"
+   "capa_min": "capas/miniaturas/herman-melville-moby-dick-240x300.png",
+   "te": "Moby Dick; Or, The Whale"
   },
   {
    "t": "Bartleby, o Escrivão",
@@ -3099,7 +3265,7 @@
    "y": 1853,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "conto",
@@ -3109,7 +3275,8 @@
    "arq": "livros/herman-melville-bartleby-o-escrivao.epub",
    "kb": 114,
    "capa": "capas/herman-melville-bartleby-o-escrivao.png",
-   "capa_min": "capas/miniaturas/herman-melville-bartleby-o-escrivao-240x300.png"
+   "capa_min": "capas/miniaturas/herman-melville-bartleby-o-escrivao-240x300.png",
+   "te": "Bartleby, the Scrivener: A Story of Wall-Street"
   },
   {
    "t": "Odisseia",
@@ -3117,7 +3284,7 @@
    "y": -750,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "epica",
@@ -3127,7 +3294,8 @@
    "arq": "livros/homero-odisseia.epub",
    "kb": 435,
    "capa": "capas/homero-odisseia.png",
-   "capa_min": "capas/miniaturas/homero-odisseia-240x300.png"
+   "capa_min": "capas/miniaturas/homero-odisseia-240x300.png",
+   "te": "The Odyssey"
   },
   {
    "t": "Ilíada",
@@ -3153,7 +3321,7 @@
    "y": 1835,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -3163,7 +3331,8 @@
    "arq": "livros/honore-de-balzac-pai-goriot.epub",
    "kb": 295,
    "capa": "capas/honore-de-balzac-pai-goriot.png",
-   "capa_min": "capas/miniaturas/honore-de-balzac-pai-goriot-240x300.png"
+   "capa_min": "capas/miniaturas/honore-de-balzac-pai-goriot-240x300.png",
+   "te": "Father Goriot"
   },
   {
    "t": "Ilusões Perdidas",
@@ -3171,7 +3340,7 @@
    "y": 1843,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3180,7 +3349,8 @@
    "arq": "livros/honore-de-balzac-ilusoes-perdidas.epub",
    "kb": 643,
    "capa": "capas/honore-de-balzac-ilusoes-perdidas.png",
-   "capa_min": "capas/miniaturas/honore-de-balzac-ilusoes-perdidas-240x300.png"
+   "capa_min": "capas/miniaturas/honore-de-balzac-ilusoes-perdidas-240x300.png",
+   "te": "Lost Illusions"
   },
   {
    "t": "Crítica da Razão Pura",
@@ -3188,7 +3358,7 @@
    "y": 1781,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -3198,7 +3368,8 @@
    "arq": "livros/immanuel-kant-critica-da-razao-pura.epub",
    "kb": 614,
    "capa": "capas/immanuel-kant-critica-da-razao-pura.png",
-   "capa_min": "capas/miniaturas/immanuel-kant-critica-da-razao-pura-240x300.png"
+   "capa_min": "capas/miniaturas/immanuel-kant-critica-da-razao-pura-240x300.png",
+   "te": "The Critique of Pure Reason"
   },
   {
    "t": "Pais e Filhos",
@@ -3206,7 +3377,7 @@
    "y": 1862,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -3217,7 +3388,8 @@
    "arq": "livros/ivan-turgueniev-pais-e-filhos.epub",
    "kb": 398,
    "capa": "capas/ivan-turgueniev-pais-e-filhos.png",
-   "capa_min": "capas/miniaturas/ivan-turgueniev-pais-e-filhos-240x300.png"
+   "capa_min": "capas/miniaturas/ivan-turgueniev-pais-e-filhos-240x300.png",
+   "te": "Fathers and Children"
   },
   {
    "t": "Dublinenses",
@@ -3225,7 +3397,7 @@
    "y": 1914,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "conto",
@@ -3235,7 +3407,8 @@
    "arq": "livros/james-joyce-dublinenses.epub",
    "kb": 324,
    "capa": "capas/james-joyce-dublinenses.png",
-   "capa_min": "capas/miniaturas/james-joyce-dublinenses-240x300.png"
+   "capa_min": "capas/miniaturas/james-joyce-dublinenses-240x300.png",
+   "te": "Dubliners"
   },
   {
    "t": "Retrato do Artista Quando Jovem",
@@ -3243,7 +3416,7 @@
    "y": 1916,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -3253,7 +3426,8 @@
    "arq": "livros/james-joyce-retrato-do-artista-quando-jovem.epub",
    "kb": 304,
    "capa": "capas/james-joyce-retrato-do-artista-quando-jovem.png",
-   "capa_min": "capas/miniaturas/james-joyce-retrato-do-artista-quando-jovem-240x300.png"
+   "capa_min": "capas/miniaturas/james-joyce-retrato-do-artista-quando-jovem-240x300.png",
+   "te": "A Portrait of the Artist as a Young Man"
   },
   {
    "t": "Ulisses",
@@ -3261,7 +3435,7 @@
    "y": 1922,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -3271,7 +3445,8 @@
    "arq": "livros/james-joyce-ulisses.epub",
    "kb": 1459,
    "capa": "capas/james-joyce-ulisses.png",
-   "capa_min": "capas/miniaturas/james-joyce-ulisses-240x300.png"
+   "capa_min": "capas/miniaturas/james-joyce-ulisses-240x300.png",
+   "te": "Ulysses"
   },
   {
    "t": "Finnegans Wake",
@@ -3297,7 +3472,7 @@
    "y": 1813,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3306,7 +3481,8 @@
    "arq": "livros/jane-austen-orgulho-e-preconceito.epub",
    "kb": 24254,
    "capa": "capas/jane-austen-orgulho-e-preconceito.png",
-   "capa_min": "capas/miniaturas/jane-austen-orgulho-e-preconceito-240x300.png"
+   "capa_min": "capas/miniaturas/jane-austen-orgulho-e-preconceito-240x300.png",
+   "te": "Pride and Prejudice"
   },
   {
    "t": "A Moreninha",
@@ -3332,7 +3508,7 @@
    "y": 1774,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3341,7 +3517,8 @@
    "arq": "livros/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther.epub",
    "kb": 177,
    "capa": "capas/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther.png",
-   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther-240x300.png"
+   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther-240x300.png",
+   "te": "The Sorrows of Young Werther"
   },
   {
    "t": "Fausto",
@@ -3367,7 +3544,7 @@
    "y": 1809,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3376,7 +3553,10 @@
    "arq": "livros/johann-wolfgang-von-goethe-as-afinidades-eletivas.epub",
    "kb": 1007,
    "capa": "capas/johann-wolfgang-von-goethe-as-afinidades-eletivas.png",
-   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-as-afinidades-eletivas-240x300.png"
+   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-as-afinidades-eletivas-240x300.png",
+   "te": "Goethe's Theory of Colours",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é a Teoria das Cores"
   },
   {
    "t": "Paraíso Perdido",
@@ -3401,7 +3581,7 @@
    "y": 1726,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "satira"
@@ -3410,7 +3590,8 @@
    "arq": "livros/jonathan-swift-viagens-de-gulliver.epub",
    "kb": 5397,
    "capa": "capas/jonathan-swift-viagens-de-gulliver.png",
-   "capa_min": "capas/miniaturas/jonathan-swift-viagens-de-gulliver-240x300.png"
+   "capa_min": "capas/miniaturas/jonathan-swift-viagens-de-gulliver-240x300.png",
+   "te": "Gulliver's Travels into Several Remote Regions of the World"
   },
   {
    "t": "O Guarani",
@@ -3428,7 +3609,8 @@
    "arq": "livros/jose-de-alencar-o-guarani.epub",
    "kb": 286,
    "capa": "capas/jose-de-alencar-o-guarani.png",
-   "capa_min": "capas/miniaturas/jose-de-alencar-o-guarani-240x300.png"
+   "capa_min": "capas/miniaturas/jose-de-alencar-o-guarani-240x300.png",
+   "te": "O Guarany: romance brazileiro, Vol. 1 (of 2)"
   },
   {
    "t": "Lucíola",
@@ -3490,7 +3672,7 @@
    "y": 1899,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3499,7 +3681,8 @@
    "arq": "livros/joseph-conrad-coracao-das-trevas.epub",
    "kb": 160,
    "capa": "capas/joseph-conrad-coracao-das-trevas.png",
-   "capa_min": "capas/miniaturas/joseph-conrad-coracao-das-trevas-240x300.png"
+   "capa_min": "capas/miniaturas/joseph-conrad-coracao-das-trevas-240x300.png",
+   "te": "Heart of Darkness"
   },
   {
    "t": "Lord Jim",
@@ -3507,7 +3690,7 @@
    "y": 1900,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -3542,7 +3725,7 @@
    "y": 1759,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -3552,7 +3735,8 @@
    "arq": "livros/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy.epub",
    "kb": 1801,
    "capa": "capas/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy.png",
-   "capa_min": "capas/miniaturas/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy-240x300.png"
+   "capa_min": "capas/miniaturas/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy-240x300.png",
+   "te": "The life and opinions of Tristram Shandy, gentleman"
   },
   {
    "t": "Alice no País das Maravilhas",
@@ -3578,7 +3762,7 @@
    "y": 1871,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "nonsense",
@@ -3588,7 +3772,10 @@
    "arq": "livros/lewis-carroll-atraves-do-espelho.epub",
    "kb": 185,
    "capa": "capas/lewis-carroll-atraves-do-espelho.png",
-   "capa_min": "capas/miniaturas/lewis-carroll-atraves-do-espelho-240x300.png"
+   "capa_min": "capas/miniaturas/lewis-carroll-atraves-do-espelho-240x300.png",
+   "te": "Alice's Adventures in Wonderland",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é Alice no País das Maravilhas"
   },
   {
    "t": "A Caça ao Snark",
@@ -3596,7 +3783,7 @@
    "y": 1876,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "nonsense",
@@ -3606,7 +3793,10 @@
    "arq": "livros/lewis-carroll-a-caca-ao-snark.epub",
    "kb": 185,
    "capa": "capas/lewis-carroll-a-caca-ao-snark.png",
-   "capa_min": "capas/miniaturas/lewis-carroll-a-caca-ao-snark-240x300.png"
+   "capa_min": "capas/miniaturas/lewis-carroll-a-caca-ao-snark-240x300.png",
+   "te": "Alice's Adventures in Wonderland",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é Alice no País das Maravilhas"
   },
   {
    "t": "Guerra e Paz",
@@ -3614,7 +3804,7 @@
    "y": 1869,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -3624,7 +3814,8 @@
    "arq": "livros/liev-tolstoi-guerra-e-paz.epub",
    "kb": 1792,
    "capa": "capas/liev-tolstoi-guerra-e-paz.png",
-   "capa_min": "capas/miniaturas/liev-tolstoi-guerra-e-paz-240x300.png"
+   "capa_min": "capas/miniaturas/liev-tolstoi-guerra-e-paz-240x300.png",
+   "te": "War and Peace"
   },
   {
    "t": "Anna Kariênina",
@@ -3632,7 +3823,7 @@
    "y": 1877,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -3642,7 +3833,8 @@
    "arq": "livros/liev-tolstoi-anna-karienina.epub",
    "kb": 1006,
    "capa": "capas/liev-tolstoi-anna-karienina.png",
-   "capa_min": "capas/miniaturas/liev-tolstoi-anna-karienina-240x300.png"
+   "capa_min": "capas/miniaturas/liev-tolstoi-anna-karienina-240x300.png",
+   "te": "Anna Karenina"
   },
   {
    "t": "A Morte de Ivan Ilitch",
@@ -3650,7 +3842,7 @@
    "y": 1886,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -3661,7 +3853,8 @@
    "arq": "livros/liev-tolstoi-a-morte-de-ivan-ilitch.epub",
    "kb": 90,
    "capa": "capas/liev-tolstoi-a-morte-de-ivan-ilitch.png",
-   "capa_min": "capas/miniaturas/liev-tolstoi-a-morte-de-ivan-ilitch-240x300.png"
+   "capa_min": "capas/miniaturas/liev-tolstoi-a-morte-de-ivan-ilitch-240x300.png",
+   "te": "The Death of Ivan Ilych"
   },
   {
    "t": "Recordações do Escrivão Isaías Caminha",
@@ -3697,7 +3890,8 @@
    "arq": "livros/lima-barreto-triste-fim-de-policarpo-quaresma.epub",
    "kb": 241,
    "capa": "capas/lima-barreto-triste-fim-de-policarpo-quaresma.png",
-   "capa_min": "capas/miniaturas/lima-barreto-triste-fim-de-policarpo-quaresma-240x300.png"
+   "capa_min": "capas/miniaturas/lima-barreto-triste-fim-de-policarpo-quaresma-240x300.png",
+   "te": "Triste Fim de Polycarpo Quaresma"
   },
   {
    "t": "Vida e Morte de M. J. Gonzaga de Sá",
@@ -3759,7 +3953,7 @@
    "y": 1921,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "teatro",
@@ -3859,7 +4053,8 @@
    "arq": "livros/machado-de-assis-a-mao-e-a-luva.epub",
    "kb": 193,
    "capa": "capas/machado-de-assis-a-mao-e-a-luva.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-a-mao-e-a-luva-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-a-mao-e-a-luva-240x300.png",
+   "te": "A Mao e A Luva"
   },
   {
    "t": "Helena",
@@ -3895,7 +4090,8 @@
    "arq": "livros/machado-de-assis-iaia-garcia.epub",
    "kb": 369,
    "capa": "capas/machado-de-assis-iaia-garcia.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-iaia-garcia-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-iaia-garcia-240x300.png",
+   "te": "Yayá Garcia"
   },
   {
    "t": "Memórias Póstumas de Brás Cubas",
@@ -3913,7 +4109,8 @@
    "arq": "livros/machado-de-assis-memorias-postumas-de-bras-cubas.epub",
    "kb": 233,
    "capa": "capas/machado-de-assis-memorias-postumas-de-bras-cubas.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-memorias-postumas-de-bras-cubas-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-memorias-postumas-de-bras-cubas-240x300.png",
+   "te": "Memorias Posthumas de Braz Cubas"
   },
   {
    "t": "Papéis Avulsos",
@@ -3931,7 +4128,8 @@
    "arq": "livros/machado-de-assis-papeis-avulsos.epub",
    "kb": 372,
    "capa": "capas/machado-de-assis-papeis-avulsos.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-papeis-avulsos-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-papeis-avulsos-240x300.png",
+   "te": "Papeis Avulsos"
   },
   {
    "t": "Histórias sem Data",
@@ -3949,7 +4147,8 @@
    "arq": "livros/machado-de-assis-historias-sem-data.epub",
    "kb": 206,
    "capa": "capas/machado-de-assis-historias-sem-data.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-historias-sem-data-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-historias-sem-data-240x300.png",
+   "te": "Historias Sem Data"
   },
   {
    "t": "Quincas Borba",
@@ -4057,7 +4256,8 @@
    "arq": "livros/machado-de-assis-esau-e-jaco.epub",
    "kb": 253,
    "capa": "capas/machado-de-assis-esau-e-jaco.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-esau-e-jaco-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-esau-e-jaco-240x300.png",
+   "te": "Esau e Jacob"
   },
   {
    "t": "Relíquias de Casa Velha",
@@ -4075,7 +4275,8 @@
    "arq": "livros/machado-de-assis-reliquias-de-casa-velha.epub",
    "kb": 355,
    "capa": "capas/machado-de-assis-reliquias-de-casa-velha.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-reliquias-de-casa-velha-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-reliquias-de-casa-velha-240x300.png",
+   "te": "Reliquias de Casa Velha"
   },
   {
    "t": "Memorial de Aires",
@@ -4093,7 +4294,8 @@
    "arq": "livros/machado-de-assis-memorial-de-aires.epub",
    "kb": 249,
    "capa": "capas/machado-de-assis-memorial-de-aires.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-memorial-de-aires-240x300.png"
+   "capa_min": "capas/miniaturas/machado-de-assis-memorial-de-aires-240x300.png",
+   "te": "Memorial de Ayres"
   },
   {
    "t": "Memórias de um Sargento de Milícias",
@@ -4119,7 +4321,7 @@
    "y": 1913,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tempo",
@@ -4130,7 +4332,8 @@
    "arq": "livros/marcel-proust-em-busca-do-tempo-perdido.epub",
    "kb": 510,
    "capa": "capas/marcel-proust-em-busca-do-tempo-perdido.png",
-   "capa_min": "capas/miniaturas/marcel-proust-em-busca-do-tempo-perdido-240x300.png"
+   "capa_min": "capas/miniaturas/marcel-proust-em-busca-do-tempo-perdido-240x300.png",
+   "te": "Swann's Way"
   },
   {
    "t": "Paulicéia Desvairada",
@@ -4149,7 +4352,8 @@
    "arq": "livros/mario-de-andrade-pauliceia-desvairada.epub",
    "kb": 347,
    "capa": "capas/mario-de-andrade-pauliceia-desvairada.png",
-   "capa_min": "capas/miniaturas/mario-de-andrade-pauliceia-desvairada-240x300.png"
+   "capa_min": "capas/miniaturas/mario-de-andrade-pauliceia-desvairada-240x300.png",
+   "revisao": "EPUB sem metadados: conferir edição e tradutor"
   },
   {
    "t": "Macunaíma",
@@ -4176,7 +4380,7 @@
    "y": 1818,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -4186,7 +4390,8 @@
    "arq": "livros/mary-shelley-frankenstein.epub",
    "kb": 463,
    "capa": "capas/mary-shelley-frankenstein.png",
-   "capa_min": "capas/miniaturas/mary-shelley-frankenstein-240x300.png"
+   "capa_min": "capas/miniaturas/mary-shelley-frankenstein-240x300.png",
+   "te": "Frankenstein; or, the modern prometheus"
   },
   {
    "t": "Ensaios",
@@ -4194,7 +4399,7 @@
    "y": 1580,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "ensaio"
@@ -4203,7 +4408,8 @@
    "arq": "livros/michel-de-montaigne-ensaios.epub",
    "kb": 1247,
    "capa": "capas/michel-de-montaigne-ensaios.png",
-   "capa_min": "capas/miniaturas/michel-de-montaigne-ensaios-240x300.png"
+   "capa_min": "capas/miniaturas/michel-de-montaigne-ensaios-240x300.png",
+   "te": "Essays of Michel de Montaigne — Complete"
   },
   {
    "t": "Dom Quixote",
@@ -4220,7 +4426,8 @@
    "arq": "livros/miguel-de-cervantes-dom-quixote.epub",
    "kb": 1030,
    "capa": "capas/miguel-de-cervantes-dom-quixote.png",
-   "capa_min": "capas/miniaturas/miguel-de-cervantes-dom-quixote-240x300.png"
+   "capa_min": "capas/miniaturas/miguel-de-cervantes-dom-quixote-240x300.png",
+   "te": "O engenhoso fidalgo D. Quixote de la Mancha"
   },
   {
    "t": "Urupês",
@@ -4238,7 +4445,8 @@
    "arq": "livros/monteiro-lobato-urupes.epub",
    "kb": 516,
    "capa": "capas/monteiro-lobato-urupes.png",
-   "capa_min": "capas/miniaturas/monteiro-lobato-urupes-240x300.png"
+   "capa_min": "capas/miniaturas/monteiro-lobato-urupes-240x300.png",
+   "te": "Urupês: (contos)"
   },
   {
    "t": "Cidades Mortas",
@@ -4274,7 +4482,8 @@
    "arq": "livros/monteiro-lobato-negrinha.epub",
    "kb": 70,
    "capa": "capas/monteiro-lobato-negrinha.png",
-   "capa_min": "capas/miniaturas/monteiro-lobato-negrinha-240x300.png"
+   "capa_min": "capas/miniaturas/monteiro-lobato-negrinha-240x300.png",
+   "te": "Negrinha (4º milheiro)"
   },
   {
    "t": "Almas Mortas",
@@ -4282,7 +4491,7 @@
    "y": 1842,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "russia",
@@ -4292,7 +4501,8 @@
    "arq": "livros/nikolai-gogol-almas-mortas.epub",
    "kb": 377,
    "capa": "capas/nikolai-gogol-almas-mortas.png",
-   "capa_min": "capas/miniaturas/nikolai-gogol-almas-mortas-240x300.png"
+   "capa_min": "capas/miniaturas/nikolai-gogol-almas-mortas-240x300.png",
+   "te": "Dead Souls"
   },
   {
    "t": "Poesias",
@@ -4336,7 +4546,7 @@
    "y": 1905,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "carta",
@@ -4373,7 +4583,7 @@
    "y": 1866,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "poesia"
@@ -4382,7 +4592,8 @@
    "arq": "livros/paul-verlaine-poemas-saturninos.epub",
    "kb": 780,
    "capa": "capas/paul-verlaine-poemas-saturninos.png",
-   "capa_min": "capas/miniaturas/paul-verlaine-poemas-saturninos-240x300.png"
+   "capa_min": "capas/miniaturas/paul-verlaine-poemas-saturninos-240x300.png",
+   "te": "Poems of Paul Verlaine"
   },
   {
    "t": "A Vida é Sonho",
@@ -4390,7 +4601,7 @@
    "y": 1635,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "teatro"
@@ -4399,7 +4610,8 @@
    "arq": "livros/pedro-calderon-de-la-barca-a-vida-e-sonho.epub",
    "kb": 114,
    "capa": "capas/pedro-calderon-de-la-barca-a-vida-e-sonho.png",
-   "capa_min": "capas/miniaturas/pedro-calderon-de-la-barca-a-vida-e-sonho-240x300.png"
+   "capa_min": "capas/miniaturas/pedro-calderon-de-la-barca-a-vida-e-sonho-240x300.png",
+   "te": "Life Is a Dream"
   },
   {
    "t": "Os Cadernos de Malte Laurids Brigge",
@@ -4407,7 +4619,7 @@
    "y": 1910,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "prosa"
@@ -4416,7 +4628,8 @@
    "arq": "livros/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.epub",
    "kb": 232,
    "capa": "capas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.png",
-   "capa_min": "capas/miniaturas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge-240x300.png"
+   "capa_min": "capas/miniaturas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge-240x300.png",
+   "te": "Die Aufzeichnungen des Malte Laurids Brigge"
   },
   {
    "t": "Ensaios",
@@ -4424,7 +4637,7 @@
    "y": 1841,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "ensaio"
@@ -4433,7 +4646,8 @@
    "arq": "livros/ralph-waldo-emerson-ensaios.epub",
    "kb": 404,
    "capa": "capas/ralph-waldo-emerson-ensaios.png",
-   "capa_min": "capas/miniaturas/ralph-waldo-emerson-ensaios-240x300.png"
+   "capa_min": "capas/miniaturas/ralph-waldo-emerson-ensaios-240x300.png",
+   "te": "Essays by Ralph Waldo Emerson"
   },
   {
    "t": "Húmus",
@@ -4452,7 +4666,8 @@
    "arq": "livros/raul-brandao-humus.epub",
    "kb": 509,
    "capa": "capas/raul-brandao-humus.png",
-   "capa_min": "capas/miniaturas/raul-brandao-humus-240x300.png"
+   "capa_min": "capas/miniaturas/raul-brandao-humus-240x300.png",
+   "te": "Humus"
   },
   {
    "t": "O Ateneu",
@@ -4470,7 +4685,8 @@
    "arq": "livros/raul-pompeia-o-ateneu.epub",
    "kb": 200,
    "capa": "capas/raul-pompeia-o-ateneu.png",
-   "capa_min": "capas/miniaturas/raul-pompeia-o-ateneu-240x300.png"
+   "capa_min": "capas/miniaturas/raul-pompeia-o-ateneu-240x300.png",
+   "te": "O Atheneu: (Chronica de saudades)"
   },
   {
    "t": "Discurso do Método",
@@ -4478,7 +4694,7 @@
    "y": 1637,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -4488,7 +4704,8 @@
    "arq": "livros/rene-descartes-discurso-do-metodo.epub",
    "kb": 162,
    "capa": "capas/rene-descartes-discurso-do-metodo.png",
-   "capa_min": "capas/miniaturas/rene-descartes-discurso-do-metodo-240x300.png"
+   "capa_min": "capas/miniaturas/rene-descartes-discurso-do-metodo-240x300.png",
+   "te": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences"
   },
   {
    "t": "A Interpretação dos Sonhos",
@@ -4496,7 +4713,7 @@
    "y": 1900,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "psicanalise"
@@ -4505,7 +4722,8 @@
    "arq": "livros/sigmund-freud-a-interpretacao-dos-sonhos.epub",
    "kb": 877,
    "capa": "capas/sigmund-freud-a-interpretacao-dos-sonhos.png",
-   "capa_min": "capas/miniaturas/sigmund-freud-a-interpretacao-dos-sonhos-240x300.png"
+   "capa_min": "capas/miniaturas/sigmund-freud-a-interpretacao-dos-sonhos-240x300.png",
+   "te": "The Interpretation of Dreams"
   },
   {
    "t": "Totem e Tabu",
@@ -4513,7 +4731,7 @@
    "y": 1913,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
@@ -4524,7 +4742,8 @@
    "arq": "livros/sigmund-freud-totem-e-tabu.epub",
    "kb": 241,
    "capa": "capas/sigmund-freud-totem-e-tabu.png",
-   "capa_min": "capas/miniaturas/sigmund-freud-totem-e-tabu-240x300.png"
+   "capa_min": "capas/miniaturas/sigmund-freud-totem-e-tabu-240x300.png",
+   "te": "Totem und Tabu"
   },
   {
    "t": "Além do Princípio do Prazer",
@@ -4532,7 +4751,7 @@
    "y": 1920,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
@@ -4542,7 +4761,8 @@
    "arq": "livros/sigmund-freud-alem-do-principio-do-prazer.epub",
    "kb": 381,
    "capa": "capas/sigmund-freud-alem-do-principio-do-prazer.png",
-   "capa_min": "capas/miniaturas/sigmund-freud-alem-do-principio-do-prazer-240x300.png"
+   "capa_min": "capas/miniaturas/sigmund-freud-alem-do-principio-do-prazer-240x300.png",
+   "te": "Beyond the pleasure principle"
   },
   {
    "t": "Psicologia das Massas e Análise do Eu",
@@ -4550,7 +4770,7 @@
    "y": 1921,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
@@ -4560,7 +4780,8 @@
    "arq": "livros/sigmund-freud-psicologia-das-massas-e-analise-do-eu.epub",
    "kb": 162,
    "capa": "capas/sigmund-freud-psicologia-das-massas-e-analise-do-eu.png",
-   "capa_min": "capas/miniaturas/sigmund-freud-psicologia-das-massas-e-analise-do-eu-240x300.png"
+   "capa_min": "capas/miniaturas/sigmund-freud-psicologia-das-massas-e-analise-do-eu-240x300.png",
+   "te": "Group Psychology and The Analysis of The Ego"
   },
   {
    "t": "O Mal-Estar na Civilização",
@@ -4568,7 +4789,7 @@
    "y": 1930,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
@@ -4578,7 +4799,10 @@
    "arq": "livros/sigmund-freud-o-mal-estar-na-civilizacao.epub",
    "kb": 936,
    "capa": "capas/sigmund-freud-o-mal-estar-na-civilizacao.png",
-   "capa_min": "capas/miniaturas/sigmund-freud-o-mal-estar-na-civilizacao-240x300.png"
+   "capa_min": "capas/miniaturas/sigmund-freud-o-mal-estar-na-civilizacao-240x300.png",
+   "te": "Introductory lectures on psycho-analysis",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo são as Conferências introdutórias"
   },
   {
    "t": "Antígona",
@@ -4586,7 +4810,7 @@
    "y": -441,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tragedia",
@@ -4596,7 +4820,8 @@
    "arq": "livros/sofocles-antigona.epub",
    "kb": 199,
    "capa": "capas/sofocles-antigona.png",
-   "capa_min": "capas/miniaturas/sofocles-antigona-240x300.png"
+   "capa_min": "capas/miniaturas/sofocles-antigona-240x300.png",
+   "te": "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone"
   },
   {
    "t": "Édipo Rei",
@@ -4604,7 +4829,7 @@
    "y": -429,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "tragedia"
@@ -4613,7 +4838,8 @@
    "arq": "livros/sofocles-edipo-rei.epub",
    "kb": 125,
    "capa": "capas/sofocles-edipo-rei.png",
-   "capa_min": "capas/miniaturas/sofocles-edipo-rei-240x300.png"
+   "capa_min": "capas/miniaturas/sofocles-edipo-rei-240x300.png",
+   "te": "Oedipus King of Thebes"
   },
   {
    "t": "O Vermelho e o Negro",
@@ -4621,7 +4847,7 @@
    "y": 1830,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -4630,7 +4856,8 @@
    "arq": "livros/stendhal-o-vermelho-e-o-negro.epub",
    "kb": 677,
    "capa": "capas/stendhal-o-vermelho-e-o-negro.png",
-   "capa_min": "capas/miniaturas/stendhal-o-vermelho-e-o-negro-240x300.png"
+   "capa_min": "capas/miniaturas/stendhal-o-vermelho-e-o-negro-240x300.png",
+   "te": "The Red and the Black: A Chronicle of 1830"
   },
   {
    "t": "A Cartuxa de Parma",
@@ -4638,7 +4865,7 @@
    "y": 1839,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -4647,7 +4874,8 @@
    "arq": "livros/stendhal-a-cartuxa-de-parma.epub",
    "kb": 396,
    "capa": "capas/stendhal-a-cartuxa-de-parma.png",
-   "capa_min": "capas/miniaturas/stendhal-a-cartuxa-de-parma-240x300.png"
+   "capa_min": "capas/miniaturas/stendhal-a-cartuxa-de-parma-240x300.png",
+   "te": "The Charterhouse of Parma, Volume 1"
   },
   {
    "t": "Um Lance de Dados",
@@ -4655,7 +4883,7 @@
    "y": 1897,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -4665,7 +4893,8 @@
    "arq": "livros/stephane-mallarme-um-lance-de-dados.epub",
    "kb": 276,
    "capa": "capas/stephane-mallarme-um-lance-de-dados.png",
-   "capa_min": "capas/miniaturas/stephane-mallarme-um-lance-de-dados-240x300.png"
+   "capa_min": "capas/miniaturas/stephane-mallarme-um-lance-de-dados-240x300.png",
+   "te": "Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897)"
   },
   {
    "t": "Poesias",
@@ -4673,7 +4902,7 @@
    "y": 1899,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -4691,7 +4920,7 @@
    "y": 1901,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -4702,7 +4931,8 @@
    "arq": "livros/thomas-mann-os-buddenbrook.epub",
    "kb": 818,
    "capa": "capas/thomas-mann-os-buddenbrook.png",
-   "capa_min": "capas/miniaturas/thomas-mann-os-buddenbrook-240x300.png"
+   "capa_min": "capas/miniaturas/thomas-mann-os-buddenbrook-240x300.png",
+   "te": "Buddenbrooks: Verfall einer Familie"
   },
   {
    "t": "A Morte em Veneza",
@@ -4710,7 +4940,7 @@
    "y": 1912,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "novela"
@@ -4719,7 +4949,8 @@
    "arq": "livros/thomas-mann-a-morte-em-veneza.epub",
    "kb": 135,
    "capa": "capas/thomas-mann-a-morte-em-veneza.png",
-   "capa_min": "capas/miniaturas/thomas-mann-a-morte-em-veneza-240x300.png"
+   "capa_min": "capas/miniaturas/thomas-mann-a-morte-em-veneza-240x300.png",
+   "te": "Death in Venice"
   },
   {
    "t": "A Montanha Mágica",
@@ -4727,7 +4958,7 @@
    "y": 1924,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "romance",
@@ -4738,7 +4969,10 @@
    "arq": "livros/thomas-mann-a-montanha-magica.epub",
    "kb": 2484,
    "capa": "capas/thomas-mann-a-montanha-magica.png",
-   "capa_min": "capas/miniaturas/thomas-mann-a-montanha-magica-240x300.png"
+   "capa_min": "capas/miniaturas/thomas-mann-a-montanha-magica-240x300.png",
+   "te": "Tonio Kröger",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é Tonio Kröger"
   },
   {
    "t": "Notre-Dame de Paris",
@@ -4746,7 +4980,7 @@
    "y": 1831,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "romance"
@@ -4772,7 +5006,8 @@
    "arq": "livros/victor-hugo-os-miseraveis.epub",
    "kb": 47,
    "capa": "capas/victor-hugo-os-miseraveis.png",
-   "capa_min": "capas/miniaturas/victor-hugo-os-miseraveis-240x300.png"
+   "capa_min": "capas/miniaturas/victor-hugo-os-miseraveis-240x300.png",
+   "te": "Os Miseraveis"
   },
   {
    "t": "Cândido",
@@ -4780,7 +5015,7 @@
    "y": 1759,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "satira",
@@ -4790,7 +5025,8 @@
    "arq": "livros/voltaire-candido.epub",
    "kb": 717,
    "capa": "capas/voltaire-candido.png",
-   "capa_min": "capas/miniaturas/voltaire-candido-240x300.png"
+   "capa_min": "capas/miniaturas/voltaire-candido-240x300.png",
+   "te": "Candide"
   },
   {
    "t": "Folhas de Relva",
@@ -4798,7 +5034,7 @@
    "y": 1855,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "poesia"
@@ -4807,7 +5043,8 @@
    "arq": "livros/walt-whitman-folhas-de-relva.epub",
    "kb": 843,
    "capa": "capas/walt-whitman-folhas-de-relva.png",
-   "capa_min": "capas/miniaturas/walt-whitman-folhas-de-relva-240x300.png"
+   "capa_min": "capas/miniaturas/walt-whitman-folhas-de-relva-240x300.png",
+   "te": "Leaves of Grass"
   },
   {
    "t": "Hamlet",
@@ -4824,7 +5061,8 @@
    "arq": "livros/william-shakespeare-hamlet.epub",
    "kb": 133,
    "capa": "capas/william-shakespeare-hamlet.png",
-   "capa_min": "capas/miniaturas/william-shakespeare-hamlet-240x300.png"
+   "capa_min": "capas/miniaturas/william-shakespeare-hamlet-240x300.png",
+   "te": "Hamlet: drama em cinco actos"
   },
   {
    "t": "Macbeth",
@@ -4832,7 +5070,7 @@
    "y": 1606,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "teatro",
@@ -4850,7 +5088,7 @@
    "y": 1608,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "teatro",
@@ -4860,7 +5098,8 @@
    "arq": "livros/william-shakespeare-rei-lear.epub",
    "kb": 337,
    "capa": "capas/william-shakespeare-rei-lear.png",
-   "capa_min": "capas/miniaturas/william-shakespeare-rei-lear-240x300.png"
+   "capa_min": "capas/miniaturas/william-shakespeare-rei-lear-240x300.png",
+   "te": "King Lear"
   },
   {
    "t": "Sonetos",
@@ -4868,7 +5107,7 @@
    "y": 1609,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "poesia",
@@ -4878,7 +5117,10 @@
    "arq": "livros/william-shakespeare-sonetos.epub",
    "kb": 318,
    "capa": "capas/william-shakespeare-sonetos.png",
-   "capa_min": "capas/miniaturas/william-shakespeare-sonetos-240x300.png"
+   "capa_min": "capas/miniaturas/william-shakespeare-sonetos-240x300.png",
+   "te": "A Midsummer Night's Dream",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é Sonho de uma Noite de Verão"
   },
   {
    "t": "A Tempestade",
@@ -4886,7 +5128,7 @@
    "y": 1611,
    "c": "A",
    "e": "L",
-   "l": "pt",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "teatro"
@@ -4895,7 +5137,10 @@
    "arq": "livros/william-shakespeare-a-tempestade.epub",
    "kb": 318,
    "capa": "capas/william-shakespeare-a-tempestade.png",
-   "capa_min": "capas/miniaturas/william-shakespeare-a-tempestade-240x300.png"
+   "capa_min": "capas/miniaturas/william-shakespeare-a-tempestade-240x300.png",
+   "te": "A Midsummer Night's Dream",
+   "oculto": true,
+   "revisao": "obra errada: o arquivo é Sonho de uma Noite de Verão"
   }
  ]
 }
