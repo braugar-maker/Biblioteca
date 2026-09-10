@@ -444,7 +444,8 @@
    "kb": 649,
    "capa": "capas/fustel-de-coulanges-a-cidade-antiga.png",
    "capa_min": "capas/miniaturas/fustel-de-coulanges-a-cidade-antiga-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "The Ancient City",
+   "procedencia": "tradução de Willard Small, 1874; domínio público"
   },
   {
    "t": "Filosofia do Direito",
@@ -463,7 +464,8 @@
    "kb": 799,
    "capa": "capas/g-w-f-hegel-filosofia-do-direito.png",
    "capa_min": "capas/miniaturas/g-w-f-hegel-filosofia-do-direito-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Philosophy of Right",
+   "procedencia": "tradução de S. W. Dyde, Bell 1896; Dyde morreu em 1947; domínio público"
   },
   {
    "t": "Filosofia do Dinheiro",
@@ -482,7 +484,8 @@
    "kb": 19,
    "capa": "capas/georg-simmel-filosofia-do-dinheiro.png",
    "capa_min": "capas/miniaturas/georg-simmel-filosofia-do-dinheiro-240x300.png",
-   "revisao": "direitos a conferir: edição com aviso de copyright; tradutor a identificar"
+   "revisao": "obra errada: o arquivo é um suplemento escolar de Paul G. Lewis (Pabst, 1919), não Simmel",
+   "oculto": true
   },
   {
    "t": "O Federalista",
@@ -537,7 +540,8 @@
    "kb": 6026,
    "capa": "capas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente.png",
    "capa_min": "capas/miniaturas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Village-Communities in the East and West",
+   "procedencia": "original inglês, Holt 1889; domínio público"
   },
   {
    "t": "Discurso sobre a Origem da Desigualdade",
@@ -802,7 +806,8 @@
    "kb": 2108,
    "capa": "capas/montesquieu-cartas-persas.png",
    "capa_min": "capas/miniaturas/montesquieu-cartas-persas-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Persian Letters",
+   "procedencia": "tradução de John Davidson (1892; reimpressão Routledge); Davidson morreu em 1909; domínio público"
   },
   {
    "t": "O Espírito das Leis",
@@ -840,7 +845,8 @@
    "kb": 1628,
    "capa": "capas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.png",
    "capa_min": "capas/miniaturas/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Discourses on the First Decade of Titus Livius",
+   "procedencia": "tradução de Ninian Hill Thomson, 1883; domínio público"
   },
   {
    "t": "O Príncipe",
@@ -878,7 +884,8 @@
    "kb": 2392,
    "capa": "capas/nicolau-maquiavel-historia-de-florenca.png",
    "capa_min": "capas/miniaturas/nicolau-maquiavel-historia-de-florenca-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "History of Florence and of the Affairs of Italy",
+   "procedencia": "tradução anônima, Bohn 1851; domínio público"
   },
   {
    "t": "Teorias Políticas da Idade Média",
@@ -897,7 +904,8 @@
    "kb": 2637,
    "capa": "capas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.png",
    "capa_min": "capas/miniaturas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Political Theories of the Middle Age",
+   "procedencia": "tradução de F. W. Maitland, Cambridge 1900; Maitland morreu em 1906; domínio público"
   },
   {
    "t": "A República",
@@ -994,7 +1002,8 @@
    "kb": 144,
    "capa": "capas/rudolf-von-ihering-a-luta-pelo-direito.png",
    "capa_min": "capas/miniaturas/rudolf-von-ihering-a-luta-pelo-direito-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "The Struggle for Law",
+   "procedencia": "tradução de John J. Lalor, Chicago 1879; domínio público"
   },
   {
    "t": "Oração aos Moços",
@@ -1031,7 +1040,8 @@
    "kb": 8013,
    "capa": "capas/samuel-von-pufendorf-do-direito-natural-e-das-gentes.png",
    "capa_min": "capas/miniaturas/samuel-von-pufendorf-do-direito-natural-e-das-gentes-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Of the Law of Nature and Nations",
+   "procedencia": "tradução de Basil Kennett, século XVIII; domínio público"
   },
   {
    "t": "Confissões",
@@ -1299,7 +1309,8 @@
    "kb": 2264,
    "capa": "capas/vilfredo-pareto-tratado-de-sociologia-geral.png",
    "capa_min": "capas/miniaturas/vilfredo-pareto-tratado-de-sociologia-geral-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Trattato di sociologia generale",
+   "procedencia": "original italiano, Barbèra 1916; Pareto morreu em 1923; domínio público"
   },
   {
    "t": "Ensaio sobre o Direito Administrativo",
@@ -1907,7 +1918,8 @@
    "kb": 3296,
    "capa": "capas/charles-baudelaire-o-spleen-de-paris.png",
    "capa_min": "capas/miniaturas/charles-baudelaire-o-spleen-de-paris-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "te": "Le Spleen de Paris (Petits poèmes en prose)",
+   "procedencia": "original francês, edição Conard 1926 com notas de Jacques Crépet (morreu em 1952); domínio público"
   },
   {
    "t": "David Copperfield",
@@ -2336,7 +2348,7 @@
    "capa": "capas/euripides-medeia.png",
    "capa_min": "capas/miniaturas/euripides-medeia-240x300.png",
    "te": "The Medea",
-   "revisao": "direitos a conferir: tradução de Gilbert Murray (morreu em 1957): livre no Brasil só em 2028"
+   "revisao": "direitos, retirar: tradução de Gilbert Murray (1910); Murray morreu em 1957: livre no Brasil só em 2028"
   },
   {
    "t": "As Bacantes",
@@ -2606,7 +2618,7 @@
    "kb": 3231,
    "capa": "capas/franz-kafka-o-castelo.png",
    "capa_min": "capas/miniaturas/franz-kafka-o-castelo-240x300.png",
-   "revisao": "direitos a conferir: tradução inglesa; tradutor a identificar (se Muir, livre só em 2041)"
+   "revisao": "direitos, retirar: edição Knopf: tradução de Willa e Edwin Muir; Willa Muir morreu em 1970: livre no Brasil só em 2041"
   },
   {
    "t": "O Nascimento da Tragédia",
@@ -2885,7 +2897,7 @@
    "kb": 6931,
    "capa": "capas/graciliano-ramos-sao-bernardo.png",
    "capa_min": "capas/miniaturas/graciliano-ramos-sao-bernardo-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "revisao": "direitos, retirar: o arquivo é a tradução ROMENA de H. R. Radian, Editura Univers, 1971"
   },
   {
    "t": "Vidas Secas",
@@ -4258,7 +4270,7 @@
    "kb": 347,
    "capa": "capas/mario-de-andrade-pauliceia-desvairada.png",
    "capa_min": "capas/miniaturas/mario-de-andrade-pauliceia-desvairada-240x300.png",
-   "revisao": "EPUB sem metadados: conferir edição e tradutor"
+   "revisao": "direitos, retirar: o arquivo é a edição crítica de Diléa Zanotto Manfio (Itatiaia/EDUSP, 1987), com aparato sob direito"
   },
   {
    "t": "Macunaíma",
