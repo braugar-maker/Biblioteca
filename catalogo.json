@@ -2332,25 +2332,6 @@
    "te": "Aeschylus' Prometheus Bound and the Seven Against Thebes"
   },
   {
-   "t": "Medeia",
-   "a": "Eurípides",
-   "y": -431,
-   "c": "A",
-   "e": "L",
-   "l": "en",
-   "eixo": "Literatura",
-   "tags": [
-    "tragedia"
-   ],
-   "fonte": "archive",
-   "arq": "livros/euripides-medeia.epub",
-   "kb": 919,
-   "capa": "capas/euripides-medeia.png",
-   "capa_min": "capas/miniaturas/euripides-medeia-240x300.png",
-   "te": "The Medea",
-   "revisao": "direitos, retirar: tradução de Gilbert Murray (1910); Murray morreu em 1957: livre no Brasil só em 2028"
-  },
-  {
    "t": "As Bacantes",
    "a": "Eurípides",
    "y": -405,
@@ -2600,25 +2581,6 @@
    "capa": "capas/franz-kafka-o-processo.png",
    "capa_min": "capas/miniaturas/franz-kafka-o-processo-240x300.png",
    "te": "The Trial"
-  },
-  {
-   "t": "O Castelo",
-   "a": "Franz Kafka",
-   "y": 1926,
-   "c": "A",
-   "e": "L",
-   "l": "en",
-   "eixo": "Literatura",
-   "tags": [
-    "modernismo",
-    "burocracia"
-   ],
-   "fonte": "archive",
-   "arq": "livros/franz-kafka-o-castelo.epub",
-   "kb": 3231,
-   "capa": "capas/franz-kafka-o-castelo.png",
-   "capa_min": "capas/miniaturas/franz-kafka-o-castelo-240x300.png",
-   "revisao": "direitos, retirar: edição Knopf: tradução de Willa e Edwin Muir; Willa Muir morreu em 1970: livre no Brasil só em 2041"
   },
   {
    "t": "O Nascimento da Tragédia",
@@ -2879,25 +2841,6 @@
    "kb": 221,
    "capa": "capas/graciliano-ramos-caetes.png",
    "capa_min": "capas/miniaturas/graciliano-ramos-caetes-240x300.png"
-  },
-  {
-   "t": "São Bernardo",
-   "a": "Graciliano Ramos",
-   "y": 1934,
-   "c": "B",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "brasil",
-    "romance"
-   ],
-   "fonte": "archive",
-   "arq": "livros/graciliano-ramos-sao-bernardo.epub",
-   "kb": 6931,
-   "capa": "capas/graciliano-ramos-sao-bernardo.png",
-   "capa_min": "capas/miniaturas/graciliano-ramos-sao-bernardo-240x300.png",
-   "revisao": "direitos, retirar: o arquivo é a tradução ROMENA de H. R. Radian, Editura Univers, 1971"
   },
   {
    "t": "Vidas Secas",
@@ -4251,26 +4194,6 @@
    "capa": "capas/marcel-proust-em-busca-do-tempo-perdido.png",
    "capa_min": "capas/miniaturas/marcel-proust-em-busca-do-tempo-perdido-240x300.png",
    "te": "Swann's Way"
-  },
-  {
-   "t": "Paulicéia Desvairada",
-   "a": "Mário de Andrade",
-   "y": 1922,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "brasil",
-    "modernismo",
-    "poesia"
-   ],
-   "fonte": "archive",
-   "arq": "livros/mario-de-andrade-pauliceia-desvairada.epub",
-   "kb": 347,
-   "capa": "capas/mario-de-andrade-pauliceia-desvairada.png",
-   "capa_min": "capas/miniaturas/mario-de-andrade-pauliceia-desvairada-240x300.png",
-   "revisao": "direitos, retirar: o arquivo é a edição crítica de Diléa Zanotto Manfio (Itatiaia/EDUSP, 1987), com aparato sob direito"
   },
   {
    "t": "Macunaíma",
