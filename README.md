@@ -2,7 +2,7 @@
 
 *quod manet*
 
-251 obras em domínio público, em EPUB, prontas para o Kindle e para qualquer leitor.
+246 obras em domínio público, em EPUB, prontas para o Kindle e para qualquer leitor.
 Índice em `index.html`, feed OPDS em `opds.xml` (com capa e miniatura por obra), catálogo em `catalogo.json`,
 capas em `capas/`.
 

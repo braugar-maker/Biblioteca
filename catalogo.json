@@ -353,25 +353,6 @@
    "te": "The History of the Decline and Fall of the Roman Empire"
   },
   {
-   "t": "Da Divisão do Trabalho Social",
-   "a": "Émile Durkheim",
-   "y": 1893,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "solidariedade",
-    "instituicoes"
-   ],
-   "fonte": "archive",
-   "arq": "livros/emile-durkheim-da-divisao-do-trabalho-social.epub",
-   "kb": 451,
-   "capa": "capas/emile-durkheim-da-divisao-do-trabalho-social.png",
-   "capa_min": "capas/miniaturas/emile-durkheim-da-divisao-do-trabalho-social-240x300.png",
-   "revisao": "direitos a conferir: tradução de George Simpson, copyright 1933; tradutor morreu em 1998"
-  },
-  {
    "t": "As Formas Elementares da Vida Religiosa",
    "a": "Émile Durkheim",
    "y": 1912,
@@ -483,25 +464,6 @@
    "capa": "capas/g-w-f-hegel-filosofia-do-direito.png",
    "capa_min": "capas/miniaturas/g-w-f-hegel-filosofia-do-direito-240x300.png",
    "revisao": "EPUB sem metadados: conferir edição e tradutor"
-  },
-  {
-   "t": "A Classe Dirigente",
-   "a": "Gaetano Mosca",
-   "y": 1896,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "elites",
-    "reproducao"
-   ],
-   "fonte": "archive",
-   "arq": "livros/gaetano-mosca-a-classe-dirigente.epub",
-   "kb": 893,
-   "capa": "capas/gaetano-mosca-a-classe-dirigente.png",
-   "capa_min": "capas/miniaturas/gaetano-mosca-a-classe-dirigente-240x300.png",
-   "revisao": "direitos a conferir: tradução de Hannah Kahn, McGraw-Hill 1939, copyright"
   },
   {
    "t": "Filosofia do Dinheiro",
@@ -822,25 +784,6 @@
    "capa": "capas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.png",
    "capa_min": "capas/miniaturas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo-240x300.png",
    "te": "The Protestant Ethic and the Spirit of Capitalism"
-  },
-  {
-   "t": "Ciência e Política: Duas Vocações",
-   "a": "Max Weber",
-   "y": 1919,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "vocacao",
-    "burocracia"
-   ],
-   "fonte": "archive",
-   "arq": "livros/max-weber-ciencia-e-politica-duas-vocacoes.epub",
-   "kb": 87,
-   "capa": "capas/max-weber-ciencia-e-politica-duas-vocacoes.png",
-   "capa_min": "capas/miniaturas/max-weber-ciencia-e-politica-duas-vocacoes-240x300.png",
-   "revisao": "direitos a conferir: tradução de Gerth e Mills (1946), copyright"
   },
   {
    "t": "Cartas Persas",
@@ -1188,25 +1131,6 @@
    "capa": "capas/sun-tzu-a-arte-da-guerra.png",
    "capa_min": "capas/miniaturas/sun-tzu-a-arte-da-guerra-240x300.png",
    "te": "The Art of War"
-  },
-  {
-   "t": "Do Cidadão",
-   "a": "Thomas Hobbes",
-   "y": 1642,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "moderna",
-    "contrato"
-   ],
-   "fonte": "archive",
-   "arq": "livros/thomas-hobbes-do-cidadao.epub",
-   "kb": 3541,
-   "capa": "capas/thomas-hobbes-do-cidadao.png",
-   "capa_min": "capas/miniaturas/thomas-hobbes-do-cidadao-240x300.png",
-   "revisao": "direitos a conferir: edição Appleton 1949, copyright"
   },
   {
    "t": "Leviatã",
@@ -2962,25 +2886,6 @@
    "capa": "capas/graciliano-ramos-sao-bernardo.png",
    "capa_min": "capas/miniaturas/graciliano-ramos-sao-bernardo-240x300.png",
    "revisao": "EPUB sem metadados: conferir edição e tradutor"
-  },
-  {
-   "t": "Angústia",
-   "a": "Graciliano Ramos",
-   "y": 1936,
-   "c": "B",
-   "e": "L",
-   "l": "fr",
-   "eixo": "Literatura",
-   "tags": [
-    "brasil",
-    "romance"
-   ],
-   "fonte": "archive",
-   "arq": "livros/graciliano-ramos-angustia.epub",
-   "kb": 255,
-   "capa": "capas/graciliano-ramos-angustia.png",
-   "capa_min": "capas/miniaturas/graciliano-ramos-angustia-240x300.png",
-   "revisao": "direitos a conferir: o arquivo é uma tradução francesa moderna, impressa na Espanha"
   },
   {
    "t": "Vidas Secas",
