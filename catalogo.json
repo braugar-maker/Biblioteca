@@ -2,7 +2,7 @@
  "instituto": "Instituto Aeviternitas",
  "biblioteca": "Biblioteca Aevum",
  "lema": "quod manet",
- "gerado": "2026-09-09",
+ "gerado": "2026-09-10",
  "obras": [
   {
    "t": "Teoria dos Sentimentos Morais",
@@ -383,24 +383,6 @@
    "capa_min": "capas/miniaturas/euclides-da-cunha-os-sertoes-240x300.png"
   },
   {
-   "t": "Comunidade e Sociedade",
-   "a": "Ferdinand Tönnies",
-   "y": 1887,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "gemeinschaft",
-    "gesellschaft"
-   ],
-   "fonte": "archive",
-   "arq": "livros/ferdinand-tonnies-comunidade-e-sociedade.epub",
-   "kb": 132,
-   "capa": "capas/ferdinand-tonnies-comunidade-e-sociedade.png",
-   "capa_min": "capas/miniaturas/ferdinand-tonnies-comunidade-e-sociedade-240x300.png"
-  },
-  {
    "t": "Novum Organum",
    "a": "Francis Bacon",
    "y": 1620,
@@ -563,24 +545,6 @@
    "capa_min": "capas/miniaturas/henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente-240x300.png"
   },
   {
-   "t": "Muqaddimah: Os Prolegômenos",
-   "a": "Ibn Khaldun",
-   "y": 1377,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "ciclo-dinastico",
-    "duracao"
-   ],
-   "fonte": "archive",
-   "arq": "livros/ibn-khaldun-muqaddimah-os-prolegomenos.epub",
-   "kb": 1331,
-   "capa": "capas/ibn-khaldun-muqaddimah-os-prolegomenos.png",
-   "capa_min": "capas/miniaturas/ibn-khaldun-muqaddimah-os-prolegomenos-240x300.png"
-  },
-  {
    "t": "Discurso sobre a Origem da Desigualdade",
    "a": "Jean-Jacques Rousseau",
    "y": 1755,
@@ -669,25 +633,6 @@
    "kb": 465,
    "capa": "capas/joaquim-nabuco-minha-formacao.png",
    "capa_min": "capas/miniaturas/joaquim-nabuco-minha-formacao-240x300.png"
-  },
-  {
-   "t": "Política Metodicamente Digesta",
-   "a": "Johannes Althusius",
-   "y": 1603,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "moderna",
-    "federalismo",
-    "subsidiariedade"
-   ],
-   "fonte": "archive",
-   "arq": "livros/johannes-althusius-politica-metodicamente-digesta.epub",
-   "kb": 642,
-   "capa": "capas/johannes-althusius-politica-metodicamente-digesta.png",
-   "capa_min": "capas/miniaturas/johannes-althusius-politica-metodicamente-digesta-240x300.png"
   },
   {
    "t": "Democracia e Educação",
@@ -851,25 +796,6 @@
    "capa_min": "capas/miniaturas/max-weber-ciencia-e-politica-duas-vocacoes-240x300.png"
   },
   {
-   "t": "Economia e Sociedade",
-   "a": "Max Weber",
-   "y": 1922,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "dominacao",
-    "legitimidade",
-    "burocracia"
-   ],
-   "fonte": "archive",
-   "arq": "livros/max-weber-economia-e-sociedade.epub",
-   "kb": 2846,
-   "capa": "capas/max-weber-economia-e-sociedade.png",
-   "capa_min": "capas/miniaturas/max-weber-economia-e-sociedade-240x300.png"
-  },
-  {
    "t": "Cartas Persas",
    "a": "Montesquieu",
    "y": 1721,
@@ -978,24 +904,6 @@
    "capa_min": "capas/miniaturas/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media-240x300.png"
   },
   {
-   "t": "Sentenças (Sententiae)",
-   "a": "Pedro Lombardo",
-   "y": 1152,
-   "c": "A",
-   "e": "I",
-   "l": "la",
-   "eixo": "Instituto",
-   "tags": [
-    "escolastica",
-    "aevum"
-   ],
-   "fonte": "archive",
-   "arq": "livros/pedro-lombardo-sentencas-sententiae.epub",
-   "kb": 2339,
-   "capa": "capas/pedro-lombardo-sentencas-sententiae.png",
-   "capa_min": "capas/miniaturas/pedro-lombardo-sentencas-sententiae-240x300.png"
-  },
-  {
    "t": "A República",
    "a": "Platão",
    "y": -375,
@@ -1066,24 +974,6 @@
    "kb": 734,
    "capa": "capas/polibio-historias.png",
    "capa_min": "capas/miniaturas/polibio-historias-240x300.png"
-  },
-  {
-   "t": "Partidos Políticos",
-   "a": "Robert Michels",
-   "y": 1911,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "oligarquia",
-    "delegacao"
-   ],
-   "fonte": "archive",
-   "arq": "livros/robert-michels-partidos-politicos.epub",
-   "kb": 6512,
-   "capa": "capas/robert-michels-partidos-politicos.png",
-   "capa_min": "capas/miniaturas/robert-michels-partidos-politicos-240x300.png"
   },
   {
    "t": "A Luta pelo Direito",
@@ -1702,24 +1592,6 @@
    "capa_min": "capas/miniaturas/anton-tchekhov-o-jardim-das-cerejeiras-240x300.png"
   },
   {
-   "t": "Heliogábalo",
-   "a": "Antonin Artaud",
-   "y": 1934,
-   "c": "B",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "prosa",
-    "anarquia-coroada"
-   ],
-   "fonte": "archive",
-   "arq": "livros/antonin-artaud-heliogabalo.epub",
-   "kb": 75,
-   "capa": "capas/antonin-artaud-heliogabalo.png",
-   "capa_min": "capas/miniaturas/antonin-artaud-heliogabalo-240x300.png"
-  },
-  {
    "t": "Só",
    "a": "António Nobre",
    "y": 1892,
@@ -2168,23 +2040,6 @@
    "kb": 317,
    "capa": "capas/denis-diderot-jacques-o-fatalista.png",
    "capa_min": "capas/miniaturas/denis-diderot-jacques-o-fatalista-240x300.png"
-  },
-  {
-   "t": "O Sobrinho de Rameau",
-   "a": "Denis Diderot",
-   "y": 1805,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "dialogo"
-   ],
-   "fonte": "archive",
-   "arq": "livros/denis-diderot-o-sobrinho-de-rameau.epub",
-   "kb": 2907,
-   "capa": "capas/denis-diderot-o-sobrinho-de-rameau.png",
-   "capa_min": "capas/miniaturas/denis-diderot-o-sobrinho-de-rameau-240x300.png"
   },
   {
    "t": "O Crime do Padre Amaro",
@@ -3185,24 +3040,6 @@
    "kb": 420,
    "capa": "capas/henri-bergson-a-evolucao-criadora.png",
    "capa_min": "capas/miniaturas/henri-bergson-a-evolucao-criadora-240x300.png"
-  },
-  {
-   "t": "Duração e Simultaneidade",
-   "a": "Henri Bergson",
-   "y": 1922,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "duracao",
-    "tempo"
-   ],
-   "fonte": "archive",
-   "arq": "livros/henri-bergson-duracao-e-simultaneidade.epub",
-   "kb": 529,
-   "capa": "capas/henri-bergson-duracao-e-simultaneidade.png",
-   "capa_min": "capas/miniaturas/henri-bergson-duracao-e-simultaneidade-240x300.png"
   },
   {
    "t": "A Desobediência Civil",
@@ -4580,40 +4417,6 @@
    "kb": 232,
    "capa": "capas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.png",
    "capa_min": "capas/miniaturas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge-240x300.png"
-  },
-  {
-   "t": "Elegias de Duíno",
-   "a": "Rainer Maria Rilke",
-   "y": 1923,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "poesia"
-   ],
-   "fonte": "archive",
-   "arq": "livros/rainer-maria-rilke-elegias-de-duino.epub",
-   "kb": 325,
-   "capa": "capas/rainer-maria-rilke-elegias-de-duino.png",
-   "capa_min": "capas/miniaturas/rainer-maria-rilke-elegias-de-duino-240x300.png"
-  },
-  {
-   "t": "Cartas a um Jovem Poeta",
-   "a": "Rainer Maria Rilke",
-   "y": 1929,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "carta"
-   ],
-   "fonte": "archive",
-   "arq": "livros/rainer-maria-rilke-cartas-a-um-jovem-poeta.epub",
-   "kb": 249,
-   "capa": "capas/rainer-maria-rilke-cartas-a-um-jovem-poeta.png",
-   "capa_min": "capas/miniaturas/rainer-maria-rilke-cartas-a-um-jovem-poeta-240x300.png"
   },
   {
    "t": "Ensaios",
