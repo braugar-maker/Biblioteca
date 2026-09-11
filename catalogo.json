@@ -23,7 +23,8 @@
    "capa_min": "capas/miniaturas/adam-smith-teoria-dos-sentimentos-morais-240x300.png",
    "te": "The Theory of Moral Sentiments",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/adam-smith-teoria-dos-sentimentos-morais.pdf",
-   "pdf_kb": 3080
+   "pdf_kb": 3080,
+   "procedencia": "Original em en; Project Gutenberg 67363"
   },
   {
    "t": "A Riqueza das Nações",
@@ -44,7 +45,8 @@
    "capa_min": "capas/miniaturas/adam-smith-a-riqueza-das-nacoes-240x300.png",
    "te": "An Inquiry into the Nature and Causes of the Wealth of Nations",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/adam-smith-a-riqueza-das-nacoes.pdf",
-   "pdf_kb": 6379
+   "pdf_kb": 6379,
+   "procedencia": "Original em en; Project Gutenberg 3300"
   },
   {
    "t": "A Organização Nacional",
@@ -64,7 +66,8 @@
    "capa": "capas/alberto-torres-a-organizacao-nacional.png",
    "capa_min": "capas/miniaturas/alberto-torres-a-organizacao-nacional-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/alberto-torres-a-organizacao-nacional.pdf",
-   "pdf_kb": 2753
+   "pdf_kb": 2753,
+   "procedencia": "Edição de 1914, Rio de Janeiro Imprensa nacional; digitalização do Internet Archive (organizaonac00torr)"
   },
   {
    "t": "A Democracia na América",
@@ -85,7 +88,8 @@
    "capa_min": "capas/miniaturas/alexis-de-tocqueville-a-democracia-na-america-240x300.png",
    "te": "Democracy in America: Volume 1",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/alexis-de-tocqueville-a-democracia-na-america.pdf",
-   "pdf_kb": 3635
+   "pdf_kb": 3635,
+   "procedencia": "Trad. Reeve, Henry (morreu em 1895); Project Gutenberg 815"
   },
   {
    "t": "O Antigo Regime e a Revolução",
@@ -106,7 +110,8 @@
    "capa_min": "capas/miniaturas/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao-240x300.png",
    "te": "The State of Society in France Before the Revolution of 1789",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/alexis-de-tocqueville-o-antigo-regime-e-a-revolucao.pdf",
-   "pdf_kb": 3354
+   "pdf_kb": 3354,
+   "procedencia": "Trad. Reeve, Henry (morreu em 1895); Project Gutenberg 54187"
   },
   {
    "t": "Ética a Nicômaco",
@@ -127,7 +132,8 @@
    "capa_min": "capas/miniaturas/aristoteles-etica-a-nicomaco-240x300.png",
    "te": "The Nicomachean ethics of Aristotle",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aristoteles-etica-a-nicomaco.pdf",
-   "pdf_kb": 2883
+   "pdf_kb": 2883,
+   "procedencia": "Original em en; Project Gutenberg 8438"
   },
   {
    "t": "Política",
@@ -148,7 +154,8 @@
    "capa_min": "capas/miniaturas/aristoteles-politica-240x300.png",
    "te": "Politics: A Treatise on Government",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf",
-   "pdf_kb": 1928
+   "pdf_kb": 1928,
+   "procedencia": "Trad. Ellis, William (morreu em 1801); Project Gutenberg 6762"
   },
   {
    "t": "A Constituição de Atenas",
@@ -169,7 +176,8 @@
    "capa_min": "capas/miniaturas/aristoteles-a-constituicao-de-atenas-240x300.png",
    "te": "The Athenian Constitution",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aristoteles-a-constituicao-de-atenas.pdf",
-   "pdf_kb": 693
+   "pdf_kb": 693,
+   "procedencia": "Trad. Kenyon, Frederic G. (Frederic George), Sir (morreu em 1952); Project Gutenberg 26095"
   },
   {
    "t": "Consolidação das Leis Civis",
@@ -190,7 +198,8 @@
    "capa_min": "capas/miniaturas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis-240x300.png",
    "te": "Cartas, e mais peças officiaes dirigidas a Sua Magestade o Senhor D. João VI pelo Principe Real o Senhor D. Pedro de Alcantara",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.pdf",
-   "pdf_kb": 838
+   "pdf_kb": 838,
+   "revisao": "obra errada: Cartas, e mais peças officiaes dirigidas a Sua Magestade o Senhor D. João VI pelo Principe Real (Pedro I), não a Consolidação de Teixeira de Freitas"
   },
   {
    "t": "A Consolação da Filosofia",
@@ -211,7 +220,8 @@
    "capa_min": "capas/miniaturas/boecio-a-consolacao-da-filosofia-240x300.png",
    "te": "The Consolation of Philosophy",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/boecio-a-consolacao-da-filosofia.pdf",
-   "pdf_kb": 1789
+   "pdf_kb": 1789,
+   "procedencia": "Trad. James, H. R. (Henry Rosher) (morreu em 1931); Project Gutenberg 14328"
   },
   {
    "t": "Capítulos de História Colonial",
@@ -231,7 +241,8 @@
    "capa": "capas/capistrano-de-abreu-capitulos-de-historia-colonial.png",
    "capa_min": "capas/miniaturas/capistrano-de-abreu-capitulos-de-historia-colonial-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/capistrano-de-abreu-capitulos-de-historia-colonial.pdf",
-   "pdf_kb": 2073
+   "pdf_kb": 2073,
+   "procedencia": "Edição de 1928, [Rio de Janeiro] Edição da Sociedade Capistrano de Abreu; digitalização do Internet Archive (capitulosdehisto00abre)"
   },
   {
    "t": "Das Leis",
@@ -274,7 +285,8 @@
    "capa_min": "capas/miniaturas/cicero-da-republica-240x300.png",
    "te": "Libelo republicano",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cicero-da-republica.pdf",
-   "pdf_kb": 651
+   "pdf_kb": 651,
+   "revisao": "obra errada: Libelo republicano, de César Zama, não o De Re Publica de Cícero"
   },
   {
    "t": "Dos Deveres",
@@ -317,7 +329,8 @@
    "capa_min": "capas/miniaturas/confucio-analectos-240x300.png",
    "te": "The Analects of Confucius (from the Chinese Classics)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/confucio-analectos.pdf",
-   "pdf_kb": 952
+   "pdf_kb": 952,
+   "procedencia": "Trad. Legge, James (morreu em 1897); Project Gutenberg 3330"
   },
   {
    "t": "Monarquia",
@@ -412,7 +425,8 @@
      "kb": 14782,
      "rotulo": "Volume VI"
     }
-   ]
+   ],
+   "procedencia": "Comentário de Milman, Henry Hart (morreu em 1868); Project Gutenberg 25717"
   },
   {
    "t": "As Formas Elementares da Vida Religiosa",
@@ -453,7 +467,8 @@
    "capa": "capas/euclides-da-cunha-os-sertoes.png",
    "capa_min": "capas/miniaturas/euclides-da-cunha-os-sertoes-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/euclides-da-cunha-os-sertoes.pdf",
-   "pdf_kb": 3468
+   "pdf_kb": 3468,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Os Sertões (subpaginas))"
   },
   {
    "t": "Novum Organum",
@@ -473,7 +488,8 @@
    "capa": "capas/francis-bacon-novum-organum.png",
    "capa_min": "capas/miniaturas/francis-bacon-novum-organum-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/francis-bacon-novum-organum.pdf",
-   "pdf_kb": 2256
+   "pdf_kb": 2256,
+   "procedencia": "Ed. Devey, Joseph (morreu em 1897); Project Gutenberg 45988"
   },
   {
    "t": "Nova Atlântida",
@@ -494,7 +510,8 @@
    "capa_min": "capas/miniaturas/francis-bacon-nova-atlantida-240x300.png",
    "te": "New Atlantis",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/francis-bacon-nova-atlantida.pdf",
-   "pdf_kb": 603
+   "pdf_kb": 603,
+   "procedencia": "Original em en; Project Gutenberg 2434"
   },
   {
    "t": "A Cidade Antiga",
@@ -581,7 +598,8 @@
    "capa": "capas/hamilton-madison-e-jay-o-federalista.png",
    "capa_min": "capas/miniaturas/hamilton-madison-e-jay-o-federalista-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/hamilton-madison-e-jay-o-federalista.pdf",
-   "pdf_kb": 851
+   "pdf_kb": 851,
+   "procedencia": "Original em pt; Wikisource pt, página \"O Federalista (Tomo I)\""
   },
   {
    "t": "Direito Antigo (Ancient Law)",
@@ -602,7 +620,8 @@
    "capa_min": "capas/miniaturas/henry-sumner-maine-direito-antigo-ancient-law-240x300.png",
    "te": "Ancient Law",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henry-sumner-maine-direito-antigo-ancient-law.pdf",
-   "pdf_kb": 1704
+   "pdf_kb": 1704,
+   "procedencia": "Original em en; Project Gutenberg 22910"
   },
   {
    "t": "A Comunidade Aldeã no Oriente e no Ocidente",
@@ -644,7 +663,8 @@
    "capa_min": "capas/miniaturas/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade-240x300.png",
    "te": "A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade.pdf",
-   "pdf_kb": 880
+   "pdf_kb": 880,
+   "procedencia": "Original em en; Project Gutenberg 11136"
   },
   {
    "t": "Do Contrato Social",
@@ -685,7 +705,8 @@
    "capa": "capas/joaquim-nabuco-o-abolicionismo.png",
    "capa_min": "capas/miniaturas/joaquim-nabuco-o-abolicionismo-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/joaquim-nabuco-o-abolicionismo.pdf",
-   "pdf_kb": 1881
+   "pdf_kb": 1881,
+   "procedencia": "Original em pt; Wikisource pt, página \"O Abolicionismo\""
   },
   {
    "t": "Um Estadista do Império",
@@ -706,7 +727,8 @@
    "capa_min": "capas/miniaturas/joaquim-nabuco-um-estadista-do-imperio-240x300.png",
    "te": "Um estadista do Imperio: Nabuco de Araujo, sua vida, suas opiniões, sua época",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/joaquim-nabuco-um-estadista-do-imperio.pdf",
-   "pdf_kb": 2976
+   "pdf_kb": 2976,
+   "procedencia": "Edição de 1897, Rio de Janeiro : H. Garnier; digitalização do Internet Archive (umestadistadoimp02nabu)"
   },
   {
    "t": "Minha Formação",
@@ -726,7 +748,8 @@
    "capa": "capas/joaquim-nabuco-minha-formacao.png",
    "capa_min": "capas/miniaturas/joaquim-nabuco-minha-formacao-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/joaquim-nabuco-minha-formacao.pdf",
-   "pdf_kb": 2110
+   "pdf_kb": 2110,
+   "procedencia": "Original em pt; Project Gutenberg 76030"
   },
   {
    "t": "Democracia e Educação",
@@ -747,7 +770,8 @@
    "capa_min": "capas/miniaturas/john-dewey-democracia-e-educacao-240x300.png",
    "te": "Democracy and Education: An Introduction to the Philosophy of Education",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/john-dewey-democracia-e-educacao.pdf",
-   "pdf_kb": 2814
+   "pdf_kb": 2814,
+   "procedencia": "Original em en; Project Gutenberg 852"
   },
   {
    "t": "O Público e seus Problemas",
@@ -768,7 +792,8 @@
    "capa_min": "capas/miniaturas/john-dewey-o-publico-e-seus-problemas-240x300.png",
    "te": "The public and its problems",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/john-dewey-o-publico-e-seus-problemas.pdf",
-   "pdf_kb": 1800
+   "pdf_kb": 1800,
+   "procedencia": "Original em en; Project Gutenberg 71000"
   },
   {
    "t": "Carta sobre a Tolerância",
@@ -812,7 +837,8 @@
    "capa_min": "capas/miniaturas/john-locke-dois-tratados-sobre-o-governo-240x300.png",
    "te": "Second Treatise of Government",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/john-locke-dois-tratados-sobre-o-governo.pdf",
-   "pdf_kb": 1322
+   "pdf_kb": 1322,
+   "procedencia": "Original em en; Project Gutenberg 7370"
   },
   {
    "t": "Sobre a Liberdade",
@@ -832,7 +858,8 @@
    "capa_min": "capas/miniaturas/john-stuart-mill-sobre-a-liberdade-240x300.png",
    "te": "On Liberty",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/john-stuart-mill-sobre-a-liberdade.pdf",
-   "pdf_kb": 1087
+   "pdf_kb": 1087,
+   "procedencia": "Original em en; Project Gutenberg 34901"
   },
   {
    "t": "Considerações sobre o Governo Representativo",
@@ -852,7 +879,8 @@
    "capa_min": "capas/miniaturas/john-stuart-mill-consideracoes-sobre-o-governo-representativo-240x300.png",
    "te": "Considerations on Representative Government",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/john-stuart-mill-consideracoes-sobre-o-governo-representativo.pdf",
-   "pdf_kb": 1801
+   "pdf_kb": 1801,
+   "procedencia": "Original em en; Project Gutenberg 5669"
   },
   {
    "t": "Meditações",
@@ -873,7 +901,8 @@
    "capa_min": "capas/miniaturas/marco-aurelio-meditacoes-240x300.png",
    "te": "Meditations",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/marco-aurelio-meditacoes.pdf",
-   "pdf_kb": 2111
+   "pdf_kb": 2111,
+   "procedencia": "Original em en; Project Gutenberg 2680"
   },
   {
    "t": "A Ética Protestante e o Espírito do Capitalismo",
@@ -937,7 +966,8 @@
    "capa_min": "capas/miniaturas/montesquieu-o-espirito-das-leis-240x300.png",
    "te": "Esprit des lois",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/montesquieu-o-espirito-das-leis.pdf",
-   "pdf_kb": 3065
+   "pdf_kb": 3065,
+   "procedencia": "Ed. Janet, Paul (morreu em 1899); Project Gutenberg 27573"
   },
   {
    "t": "Discursos sobre a Primeira Década de Tito Lívio",
@@ -1045,7 +1075,8 @@
    "capa_min": "capas/miniaturas/platao-a-republica-240x300.png",
    "te": "The Republic of Plato",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/platao-a-republica.pdf",
-   "pdf_kb": 7569
+   "pdf_kb": 7569,
+   "procedencia": "Trad. Jowett, Benjamin (morreu em 1893); Project Gutenberg 55201"
   },
   {
    "t": "As Leis",
@@ -1066,7 +1097,8 @@
    "capa_min": "capas/miniaturas/platao-as-leis-240x300.png",
    "te": "Laws",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/platao-as-leis.pdf",
-   "pdf_kb": 3894
+   "pdf_kb": 3894,
+   "procedencia": "Trad. Jowett, Benjamin (morreu em 1893); Project Gutenberg 1750"
   },
   {
    "t": "Vidas Paralelas",
@@ -1109,7 +1141,8 @@
    "capa_min": "capas/miniaturas/polibio-historias-240x300.png",
    "te": "The Histories of Polybius, Vol. 1 (of 2)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/polibio-historias.pdf",
-   "pdf_kb": 5628
+   "pdf_kb": 5628,
+   "procedencia": "Colaboração de Hultsch, Fridericus (Friedrich Otto) (morreu em 1906); trad. Shuckburgh, Evelyn S. (Evelyn Shirley) (morreu em 1906); Project Gutenberg 44125"
   },
   {
    "t": "A Luta pelo Direito",
@@ -1204,7 +1237,8 @@
    "capa_min": "capas/miniaturas/santo-agostinho-confissoes-240x300.png",
    "te": "The Confessions of St. Augustine",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/santo-agostinho-confissoes.pdf",
-   "pdf_kb": 2007
+   "pdf_kb": 2007,
+   "procedencia": "Trad. Pusey, E. B. (Edward Bouverie) (morreu em 1882); Project Gutenberg 3296"
   },
   {
    "t": "A Cidade de Deus",
@@ -1225,7 +1259,8 @@
    "capa_min": "capas/miniaturas/santo-agostinho-a-cidade-de-deus-240x300.png",
    "te": "The City of God, Volume I",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/santo-agostinho-a-cidade-de-deus.pdf",
-   "pdf_kb": 5100
+   "pdf_kb": 5100,
+   "procedencia": "Ed. Dods, Marcus (morreu em 1909); Project Gutenberg 45304"
   },
   {
    "t": "Diálogos, com Sobre a Brevidade da Vida",
@@ -1311,7 +1346,8 @@
    "capa_min": "capas/miniaturas/thomas-hobbes-leviata-240x300.png",
    "te": "Leviathan",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/thomas-hobbes-leviata.pdf",
-   "pdf_kb": 4863
+   "pdf_kb": 4863,
+   "procedencia": "Original em en; Project Gutenberg 3207"
   },
   {
    "t": "Utopia",
@@ -1331,7 +1367,8 @@
    "capa": "capas/thomas-more-utopia.png",
    "capa_min": "capas/miniaturas/thomas-more-utopia-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/thomas-more-utopia.pdf",
-   "pdf_kb": 963
+   "pdf_kb": 963,
+   "procedencia": "Ed. Morley, Henry (morreu em 1894); Project Gutenberg 2130"
   },
   {
    "t": "A Teoria da Classe Ociosa",
@@ -1352,7 +1389,8 @@
    "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-classe-ociosa-240x300.png",
    "te": "The Theory of the Leisure Class",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/thorstein-veblen-a-teoria-da-classe-ociosa.pdf",
-   "pdf_kb": 1899
+   "pdf_kb": 1899,
+   "procedencia": "Original em en; Project Gutenberg 833"
   },
   {
    "t": "A Teoria da Empresa de Negócios",
@@ -1373,7 +1411,8 @@
    "capa_min": "capas/miniaturas/thorstein-veblen-a-teoria-da-empresa-de-negocios-240x300.png",
    "te": "The Theory of Business Enterprise",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/thorstein-veblen-a-teoria-da-empresa-de-negocios.pdf",
-   "pdf_kb": 2087
+   "pdf_kb": 2087,
+   "procedencia": "Original em en; Wikisource en, página \"The Theory of Business Enterprise\""
   },
   {
    "t": "Estudos de Direito",
@@ -1393,7 +1432,8 @@
    "capa": "capas/tobias-barreto-estudos-de-direito.png",
    "capa_min": "capas/miniaturas/tobias-barreto-estudos-de-direito-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/tobias-barreto-estudos-de-direito.pdf",
-   "pdf_kb": 3698
+   "pdf_kb": 3698,
+   "procedencia": "Edição de 1892; digitalização do Internet Archive (tobias-barreto-estudos-de-direito-1892)"
   },
   {
    "t": "Suma Teológica",
@@ -1414,7 +1454,8 @@
    "capa_min": "capas/miniaturas/tomas-de-aquino-suma-teologica-240x300.png",
    "te": "Summa Theologica, Part II-II (Secunda Secundae)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/tomas-de-aquino-suma-teologica.pdf",
-   "pdf_kb": 13728
+   "pdf_kb": 13728,
+   "procedencia": "Original em en; Project Gutenberg 18755"
   },
   {
    "t": "A Cidade do Sol",
@@ -1435,7 +1476,8 @@
    "capa_min": "capas/miniaturas/tommaso-campanella-a-cidade-do-sol-240x300.png",
    "te": "The City of the Sun",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/tommaso-campanella-a-cidade-do-sol.pdf",
-   "pdf_kb": 521
+   "pdf_kb": 521,
+   "procedencia": "Original em en; Project Gutenberg 2816"
   },
   {
    "t": "História da Guerra do Peloponeso",
@@ -1456,7 +1498,8 @@
    "capa_min": "capas/miniaturas/tucidides-historia-da-guerra-do-peloponeso-240x300.png",
    "te": "The History of the Peloponnesian War",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/tucidides-historia-da-guerra-do-peloponeso.pdf",
-   "pdf_kb": 3521
+   "pdf_kb": 3521,
+   "procedencia": "Trad. Crawley, Richard (morreu em 1893); Project Gutenberg 7142"
   },
   {
    "t": "Tratado de Sociologia Geral",
@@ -1498,7 +1541,8 @@
    "capa": "capas/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo.png",
    "capa_min": "capas/miniaturas/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/visconde-do-uruguai-ensaio-sobre-o-direito-administrativo.pdf",
-   "pdf_kb": 4058
+   "pdf_kb": 4058,
+   "procedencia": "Edição de 1862, Rio de Janeiro : Typog. Nacional; digitalização do Internet Archive (ensaiosobreodire00urug)"
   },
   {
    "t": "A Constituição Inglesa",
@@ -1519,7 +1563,8 @@
    "capa_min": "capas/miniaturas/walter-bagehot-a-constituicao-inglesa-240x300.png",
    "te": "The English Constitution",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/walter-bagehot-a-constituicao-inglesa.pdf",
-   "pdf_kb": 1652
+   "pdf_kb": 1652,
+   "procedencia": "Original em en; Project Gutenberg 4351"
   },
   {
    "t": "Comentários às Leis da Inglaterra",
@@ -1540,7 +1585,8 @@
    "capa_min": "capas/miniaturas/william-blackstone-comentarios-as-leis-da-inglaterra-240x300.png",
    "te": "Commentaries on the Laws of England, Book the First",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/william-blackstone-comentarios-as-leis-da-inglaterra.pdf",
-   "pdf_kb": 4313
+   "pdf_kb": 4313,
+   "procedencia": "Original em en; Project Gutenberg 30802"
   },
   {
    "t": "Eugênio Oneguin",
@@ -1581,7 +1627,8 @@
    "capa": "capas/aluisio-azevedo-o-mulato.png",
    "capa_min": "capas/miniaturas/aluisio-azevedo-o-mulato-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aluisio-azevedo-o-mulato.pdf",
-   "pdf_kb": 1648
+   "pdf_kb": 1648,
+   "procedencia": "Edição de 1881; digitalização do Internet Archive (o-mulato)"
   },
   {
    "t": "Casa de Pensão",
@@ -1602,7 +1649,8 @@
    "capa_min": "capas/miniaturas/aluisio-azevedo-casa-de-pensao-240x300.png",
    "te": "A Casa De Pensão",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aluisio-azevedo-casa-de-pensao.pdf",
-   "pdf_kb": 1669
+   "pdf_kb": 1669,
+   "procedencia": "Edição de 1890; digitalização do Internet Archive (a-casa-de-pensao)"
   },
   {
    "t": "O Cortiço",
@@ -1622,7 +1670,8 @@
    "capa": "capas/aluisio-azevedo-o-cortico.png",
    "capa_min": "capas/miniaturas/aluisio-azevedo-o-cortico-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aluisio-azevedo-o-cortico.pdf",
-   "pdf_kb": 2169
+   "pdf_kb": 2169,
+   "procedencia": "Original em pt; Project Gutenberg 69187"
   },
   {
    "t": "Lira dos Vinte Anos",
@@ -1643,7 +1692,8 @@
    "capa": "capas/alvares-de-azevedo-lira-dos-vinte-anos.png",
    "capa_min": "capas/miniaturas/alvares-de-azevedo-lira-dos-vinte-anos-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/alvares-de-azevedo-lira-dos-vinte-anos.pdf",
-   "pdf_kb": 1026
+   "pdf_kb": 1026,
+   "procedencia": "Edição de 1853; digitalização do Internet Archive (lira-dos-vinte-anos)"
   },
   {
    "t": "Noite na Taverna",
@@ -1665,7 +1715,8 @@
    "capa_min": "capas/miniaturas/alvares-de-azevedo-noite-na-taverna-240x300.png",
    "te": "Obras de Álvares de Azevedo: Tomo II: Prosa: Noite na Taverna",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/alvares-de-azevedo-noite-na-taverna.pdf",
-   "pdf_kb": 798
+   "pdf_kb": 798,
+   "procedencia": "Original em pt; Wikisource pt, página \"Noite na Taverna\""
   },
   {
    "t": "A Epopeia de Gilgamesh",
@@ -1686,7 +1737,8 @@
    "capa": "capas/anonimo-a-epopeia-de-gilgamesh.png",
    "capa_min": "capas/miniaturas/anonimo-a-epopeia-de-gilgamesh-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/anonimo-a-epopeia-de-gilgamesh.pdf",
-   "pdf_kb": 565
+   "pdf_kb": 565,
+   "procedencia": "Edição de 0000; digitalização do Internet Archive (TheEpicofGilgamesh_201606)"
   },
   {
    "t": "Bhagavad Gita",
@@ -1773,7 +1825,8 @@
    "capa_min": "capas/miniaturas/antero-de-quental-sonetos-completos-240x300.png",
    "te": "Os sonetos completos de Anthero de Quental",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/antero-de-quental-sonetos-completos.pdf",
-   "pdf_kb": 1098
+   "pdf_kb": 1098,
+   "procedencia": "Original em pt; Project Gutenberg 20142"
   },
   {
    "t": "Contos",
@@ -1794,7 +1847,8 @@
    "capa_min": "capas/miniaturas/anton-tchekhov-contos-240x300.png",
    "te": "Project Gutenberg Compilation of Short Stories by Chekhov",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/anton-tchekhov-contos.pdf",
-   "pdf_kb": 20303
+   "pdf_kb": 20303,
+   "procedencia": "Ed. Widger, David (morreu em 2021); Project Gutenberg 57333"
   },
   {
    "t": "O Jardim das Cerejeiras",
@@ -1835,7 +1889,8 @@
    "capa": "capas/antonio-nobre-so.png",
    "capa_min": "capas/miniaturas/antonio-nobre-so-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/antonio-nobre-so.pdf",
-   "pdf_kb": 1201
+   "pdf_kb": 1201,
+   "procedencia": "Original em pt; Project Gutenberg 17193"
   },
   {
    "t": "As Nuvens",
@@ -1918,7 +1973,8 @@
    "capa_min": "capas/miniaturas/arthur-schopenhauer-parerga-e-paralipomena-240x300.png",
    "te": "The Essays of Arthur Schopenhauer: the Wisdom of Life",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/arthur-schopenhauer-parerga-e-paralipomena.pdf",
-   "pdf_kb": 1334
+   "pdf_kb": 1334,
+   "procedencia": "Trad. Saunders, T. Bailey (Thomas Bailey) (morreu em 1928); Project Gutenberg 10741"
   },
   {
    "t": "Eu e Outras Poesias",
@@ -1938,7 +1994,8 @@
    "capa": "capas/augusto-dos-anjos-eu-e-outras-poesias.png",
    "capa_min": "capas/miniaturas/augusto-dos-anjos-eu-e-outras-poesias-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/augusto-dos-anjos-eu-e-outras-poesias.pdf",
-   "pdf_kb": 961
+   "pdf_kb": 961,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Outras Poesias (Augusto dos Anjos) (subpaginas))"
   },
   {
    "t": "Ética",
@@ -1960,7 +2017,8 @@
    "capa_min": "capas/miniaturas/baruch-espinosa-etica-240x300.png",
    "te": "Ethics",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/baruch-espinosa-etica.pdf",
-   "pdf_kb": 1572
+   "pdf_kb": 1572,
+   "procedencia": "Trad. Elwes, R. H. M. (Robert Harvey Monro) (morreu em 1892); Project Gutenberg 3800"
   },
   {
    "t": "Amor de Perdição",
@@ -1981,7 +2039,8 @@
    "capa_min": "capas/miniaturas/camilo-castelo-branco-amor-de-perdicao-240x300.png",
    "te": "Amor de Perdição: Memorias d'uma familia",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/camilo-castelo-branco-amor-de-perdicao.pdf",
-   "pdf_kb": 1553
+   "pdf_kb": 1553,
+   "procedencia": "Original em pt; Project Gutenberg 16425"
   },
   {
    "t": "A Queda dum Anjo",
@@ -2002,7 +2061,8 @@
    "capa_min": "capas/miniaturas/camilo-castelo-branco-a-queda-dum-anjo-240x300.png",
    "te": "A Queda d'um Anjo: Romance",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/camilo-castelo-branco-a-queda-dum-anjo.pdf",
-   "pdf_kb": 1661
+   "pdf_kb": 1661,
+   "procedencia": "Original em pt; Project Gutenberg 17927"
   },
   {
    "t": "Clepsidra",
@@ -2024,7 +2084,8 @@
    "capa_min": "capas/miniaturas/camilo-pessanha-clepsidra-240x300.png",
    "te": "Clepsydra",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/camilo-pessanha-clepsidra.pdf",
-   "pdf_kb": 524
+   "pdf_kb": 524,
+   "procedencia": "Original em en; Project Gutenberg 22330"
   },
   {
    "t": "As Primaveras",
@@ -2044,7 +2105,8 @@
    "capa": "capas/casimiro-de-abreu-as-primaveras.png",
    "capa_min": "capas/miniaturas/casimiro-de-abreu-as-primaveras-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/casimiro-de-abreu-as-primaveras.pdf",
-   "pdf_kb": 1885
+   "pdf_kb": 1885,
+   "procedencia": "Edição de 1867, Lisboa Typ. do Panorama; digitalização do Internet Archive (asprimaveras2ed300abre)"
   },
   {
    "t": "Espumas Flutuantes",
@@ -2064,7 +2126,8 @@
    "capa": "capas/castro-alves-espumas-flutuantes.png",
    "capa_min": "capas/miniaturas/castro-alves-espumas-flutuantes-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/castro-alves-espumas-flutuantes.pdf",
-   "pdf_kb": 1633
+   "pdf_kb": 1633,
+   "procedencia": "Original em pt; Wikisource pt, página \"Espumas Flutuantes (1913)\""
   },
   {
    "t": "Os Escravos",
@@ -2084,7 +2147,8 @@
    "capa": "capas/castro-alves-os-escravos.png",
    "capa_min": "capas/miniaturas/castro-alves-os-escravos-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/castro-alves-os-escravos.pdf",
-   "pdf_kb": 348
+   "pdf_kb": 348,
+   "procedencia": "Edição de 1884; digitalização do Internet Archive (escravos-os)"
   },
   {
    "t": "O Livro de Cesário Verde",
@@ -2105,7 +2169,8 @@
    "capa_min": "capas/miniaturas/cesario-verde-o-livro-de-cesario-verde-240x300.png",
    "te": "O Livro de Cesario Verde",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cesario-verde-o-livro-de-cesario-verde.pdf",
-   "pdf_kb": 971
+   "pdf_kb": 971,
+   "procedencia": "Org. Silva Pinto, Antonio da (morreu em 1911); Project Gutenberg 8698"
   },
   {
    "t": "As Flores do Mal",
@@ -2126,7 +2191,8 @@
    "capa_min": "capas/miniaturas/charles-baudelaire-as-flores-do-mal-240x300.png",
    "te": "Flores do Mal",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/charles-baudelaire-as-flores-do-mal.pdf",
-   "pdf_kb": 1184
+   "pdf_kb": 1184,
+   "procedencia": "Original em pt; Wikisource pt, página \"Flores do Mal\""
   },
   {
    "t": "O Spleen de Paris",
@@ -2166,7 +2232,8 @@
    "capa": "capas/charles-dickens-david-copperfield.png",
    "capa_min": "capas/miniaturas/charles-dickens-david-copperfield-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/charles-dickens-david-copperfield.pdf",
-   "pdf_kb": 15154
+   "pdf_kb": 15154,
+   "procedencia": "Original em en; Project Gutenberg 766"
   },
   {
    "t": "Grandes Esperanças",
@@ -2186,7 +2253,8 @@
    "capa_min": "capas/miniaturas/charles-dickens-grandes-esperancas-240x300.png",
    "te": "Great Expectations",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/charles-dickens-grandes-esperancas.pdf",
-   "pdf_kb": 17455
+   "pdf_kb": 17455,
+   "procedencia": "Original em en; Project Gutenberg 1400"
   },
   {
    "t": "Poesias",
@@ -2207,7 +2275,8 @@
    "capa_min": "capas/miniaturas/conde-de-lautreamont-poesias-240x300.png",
    "te": "Poésies",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/conde-de-lautreamont-poesias.pdf",
-   "pdf_kb": 563
+   "pdf_kb": 563,
+   "procedencia": "Original em fr; Wikisource fr, página \"Poésies (Lautréamont)\""
   },
   {
    "t": "Missal",
@@ -2228,7 +2297,8 @@
    "capa": "capas/cruz-e-sousa-missal.png",
    "capa_min": "capas/miniaturas/cruz-e-sousa-missal-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf",
-   "pdf_kb": 852
+   "pdf_kb": 852,
+   "procedencia": "Original em pt; Wikisource pt, página \"Missal\""
   },
   {
    "t": "Broquéis",
@@ -2249,7 +2319,8 @@
    "capa": "capas/cruz-e-sousa-broqueis.png",
    "capa_min": "capas/miniaturas/cruz-e-sousa-broqueis-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-broqueis.pdf",
-   "pdf_kb": 576
+   "pdf_kb": 576,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Broquéis (subpaginas))"
   },
   {
    "t": "Últimos Sonetos",
@@ -2270,7 +2341,8 @@
    "capa": "capas/cruz-e-sousa-ultimos-sonetos.png",
    "capa_min": "capas/miniaturas/cruz-e-sousa-ultimos-sonetos-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-ultimos-sonetos.pdf",
-   "pdf_kb": 773
+   "pdf_kb": 773,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Últimos Sonetos (subpaginas))"
   },
   {
    "t": "Vida Nova",
@@ -2291,7 +2363,8 @@
    "capa_min": "capas/miniaturas/dante-alighieri-vida-nova-240x300.png",
    "te": "The New Life (La Vita Nuova)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/dante-alighieri-vida-nova.pdf",
-   "pdf_kb": 1188
+   "pdf_kb": 1188,
+   "procedencia": "Trad. Rossetti, Dante Gabriel (morreu em 1882); Project Gutenberg 41085"
   },
   {
    "t": "A Divina Comédia",
@@ -2333,7 +2406,8 @@
    "capa_min": "capas/miniaturas/denis-diderot-jacques-o-fatalista-240x300.png",
    "te": "Jacques le fataliste et son maître",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/denis-diderot-jacques-o-fatalista.pdf",
-   "pdf_kb": 2466
+   "pdf_kb": 2466,
+   "procedencia": "Ed. Assézat, Jules (morreu em 1876); Project Gutenberg 39976"
   },
   {
    "t": "O Crime do Padre Amaro",
@@ -2354,7 +2428,8 @@
    "capa_min": "capas/miniaturas/eca-de-queiros-o-crime-do-padre-amaro-240x300.png",
    "te": "O crime do padre Amaro, scenas da vida devota",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-o-crime-do-padre-amaro.pdf",
-   "pdf_kb": 3505
+   "pdf_kb": 3505,
+   "procedencia": "Original em pt; Project Gutenberg 31971"
   },
   {
    "t": "O Primo Basílio",
@@ -2375,7 +2450,8 @@
    "capa_min": "capas/miniaturas/eca-de-queiros-o-primo-basilio-240x300.png",
    "te": "O Primo Bazilio: Episodio Domestico",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-o-primo-basilio.pdf",
-   "pdf_kb": 3500
+   "pdf_kb": 3500,
+   "procedencia": "Original em pt; Project Gutenberg 42942"
   },
   {
    "t": "A Relíquia",
@@ -2395,7 +2471,8 @@
    "capa": "capas/eca-de-queiros-a-reliquia.png",
    "capa_min": "capas/miniaturas/eca-de-queiros-a-reliquia-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-a-reliquia.pdf",
-   "pdf_kb": 2081
+   "pdf_kb": 2081,
+   "procedencia": "Original em pt; Project Gutenberg 17515"
   },
   {
    "t": "Os Maias",
@@ -2417,7 +2494,8 @@
    "capa_min": "capas/miniaturas/eca-de-queiros-os-maias-240x300.png",
    "te": "Os Maias: episodios da vida romantica",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-os-maias.pdf",
-   "pdf_kb": 5107
+   "pdf_kb": 5107,
+   "procedencia": "Original em pt; Project Gutenberg 40409"
   },
   {
    "t": "A Ilustre Casa de Ramires",
@@ -2439,7 +2517,8 @@
    "capa_min": "capas/miniaturas/eca-de-queiros-a-ilustre-casa-de-ramires-240x300.png",
    "te": "A Illustre Casa de Ramires",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-a-ilustre-casa-de-ramires.pdf",
-   "pdf_kb": 2808
+   "pdf_kb": 2808,
+   "procedencia": "Original em pt; Project Gutenberg 23145"
   },
   {
    "t": "A Cidade e as Serras",
@@ -2459,7 +2538,8 @@
    "capa": "capas/eca-de-queiros-a-cidade-e-as-serras.png",
    "capa_min": "capas/miniaturas/eca-de-queiros-a-cidade-e-as-serras-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-a-cidade-e-as-serras.pdf",
-   "pdf_kb": 1951
+   "pdf_kb": 1951,
+   "procedencia": "Original em pt; Project Gutenberg 18220"
   },
   {
    "t": "Contos Extraordinários",
@@ -2479,7 +2559,8 @@
    "capa_min": "capas/miniaturas/edgar-allan-poe-contos-extraordinarios-240x300.png",
    "te": "The Works of Edgar Allan Poe: Volume 2",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/edgar-allan-poe-contos-extraordinarios.pdf",
-   "pdf_kb": 2339
+   "pdf_kb": 2339,
+   "procedencia": "Original em en; Project Gutenberg 2148"
   },
   {
    "t": "Eureka",
@@ -2500,7 +2581,8 @@
    "capa_min": "capas/miniaturas/edgar-allan-poe-eureka-240x300.png",
    "te": "Eureka: A Prose Poem",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/edgar-allan-poe-eureka.pdf",
-   "pdf_kb": 1213
+   "pdf_kb": 1213,
+   "procedencia": "Original em en; Project Gutenberg 32037"
   },
   {
    "t": "Livro dos Absurdos",
@@ -2521,7 +2603,8 @@
    "capa_min": "capas/miniaturas/edward-lear-livro-dos-absurdos-240x300.png",
    "te": "Nonsense Books",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/edward-lear-livro-dos-absurdos.pdf",
-   "pdf_kb": 6167
+   "pdf_kb": 6167,
+   "procedencia": "Original em en; Project Gutenberg 13650"
   },
   {
    "t": "Germinal",
@@ -2540,7 +2623,8 @@
    "capa": "capas/emile-zola-germinal.png",
    "capa_min": "capas/miniaturas/emile-zola-germinal-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/emile-zola-germinal.pdf",
-   "pdf_kb": 3625
+   "pdf_kb": 3625,
+   "procedencia": "Trad. Ellis, Havelock (morreu em 1939); Project Gutenberg 56528"
   },
   {
    "t": "O Morro dos Ventos Uivantes",
@@ -2560,7 +2644,8 @@
    "capa_min": "capas/miniaturas/emily-bronte-o-morro-dos-ventos-uivantes-240x300.png",
    "te": "Wuthering Heights",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/emily-bronte-o-morro-dos-ventos-uivantes.pdf",
-   "pdf_kb": 2717
+   "pdf_kb": 2717,
+   "procedencia": "Original em en; Project Gutenberg 768"
   },
   {
    "t": "Oresteia",
@@ -2581,7 +2666,8 @@
    "capa_min": "capas/miniaturas/esquilo-oresteia-240x300.png",
    "te": "The Oresteia of Aeschylus; Agamemnon, Choephori, Eumenides. The Greek text as arr. for performance at Cambridge with an English verse translation by R.C. Trevelyan",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/esquilo-oresteia.pdf",
-   "pdf_kb": 1514
+   "pdf_kb": 1514,
+   "procedencia": "Edição de 1920, Cambridge Printed at the University Press and published for the Greek Play Committee by Bowes & Bowes; digitalização do Internet Archive (oresteiaofaeschy00aescuoft)"
   },
   {
    "t": "Prometeu Acorrentado",
@@ -2601,7 +2687,8 @@
    "capa_min": "capas/miniaturas/esquilo-prometeu-acorrentado-240x300.png",
    "te": "Aeschylus' Prometheus Bound and the Seven Against Thebes",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/esquilo-prometeu-acorrentado.pdf",
-   "pdf_kb": 1249
+   "pdf_kb": 1249,
+   "procedencia": "Trad. Buckley, Theodore Alois (morreu em 1856); Project Gutenberg 27458"
   },
   {
    "t": "As Bacantes",
@@ -2704,7 +2791,8 @@
    "capa_min": "capas/miniaturas/fiodor-dostoievski-memorias-do-subsolo-240x300.png",
    "te": "Notes from the Underground",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/fiodor-dostoievski-memorias-do-subsolo.pdf",
-   "pdf_kb": 1420
+   "pdf_kb": 1420,
+   "procedencia": "Trad. Garnett, Constance (morreu em 1946); Project Gutenberg 600"
   },
   {
    "t": "Crime e Castigo",
@@ -2725,7 +2813,8 @@
    "capa_min": "capas/miniaturas/fiodor-dostoievski-crime-e-castigo-240x300.png",
    "te": "Crime and Punishment",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/fiodor-dostoievski-crime-e-castigo.pdf",
-   "pdf_kb": 4439
+   "pdf_kb": 4439,
+   "procedencia": "Trad. Garnett, Constance (morreu em 1946); Project Gutenberg 2554"
   },
   {
    "t": "O Idiota",
@@ -2767,7 +2856,8 @@
    "capa_min": "capas/miniaturas/fiodor-dostoievski-os-demonios-240x300.png",
    "te": "The possessed",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/fiodor-dostoievski-os-demonios.pdf",
-   "pdf_kb": 5372
+   "pdf_kb": 5372,
+   "procedencia": "Trad. Garnett, Constance (morreu em 1946); Project Gutenberg 8117"
   },
   {
    "t": "Os Irmãos Karamázov",
@@ -2789,7 +2879,8 @@
    "capa_min": "capas/miniaturas/fiodor-dostoievski-os-irmaos-karamazov-240x300.png",
    "te": "The Brothers Karamazov",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/fiodor-dostoievski-os-irmaos-karamazov.pdf",
-   "pdf_kb": 6978
+   "pdf_kb": 6978,
+   "procedencia": "Trad. Garnett, Constance (morreu em 1946); Project Gutenberg 28054"
   },
   {
    "t": "Cancioneiro",
@@ -2832,7 +2923,8 @@
    "capa_min": "capas/miniaturas/francois-rabelais-gargantua-e-pantagruel-240x300.png",
    "te": "Gargantua and Pantagruel",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/francois-rabelais-gargantua-e-pantagruel.pdf",
-   "pdf_kb": 12611
+   "pdf_kb": 12611,
+   "procedencia": "Ilustrações de Doré, Gustave (morreu em 1883); trad. Motteux, Peter Anthony (morreu em 1718); trad. Urquhart, Thomas, Sir (morreu em 1660); Project Gutenberg 1200"
   },
   {
    "t": "A Metamorfose",
@@ -2917,7 +3009,8 @@
    "capa_min": "capas/miniaturas/friedrich-nietzsche-humano-demasiado-humano-240x300.png",
    "te": "Human, All Too Human: A Book for Free Spirits",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-humano-demasiado-humano.pdf",
-   "pdf_kb": 981
+   "pdf_kb": 981,
+   "procedencia": "Trad. Harvey, Alexander (morreu em 1949); Project Gutenberg 38145"
   },
   {
    "t": "A Gaia Ciência",
@@ -2958,7 +3051,8 @@
    "capa_min": "capas/miniaturas/friedrich-nietzsche-assim-falou-zaratustra-240x300.png",
    "te": "Thus Spake Zarathustra: A Book for All and None",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-assim-falou-zaratustra.pdf",
-   "pdf_kb": 3284
+   "pdf_kb": 3284,
+   "procedencia": "Trad. Common, Thomas (morreu em 1919); Project Gutenberg 1998"
   },
   {
    "t": "Além do Bem e do Mal",
@@ -2978,7 +3072,8 @@
    "capa_min": "capas/miniaturas/friedrich-nietzsche-alem-do-bem-e-do-mal-240x300.png",
    "te": "Beyond Good and Evil",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-alem-do-bem-e-do-mal.pdf",
-   "pdf_kb": 1367
+   "pdf_kb": 1367,
+   "procedencia": "Trad. Zimmern, Helen (morreu em 1934); Project Gutenberg 4363"
   },
   {
    "t": "Genealogia da Moral",
@@ -3080,7 +3175,8 @@
    "capa": "capas/gil-vicente-auto-da-barca-do-inferno.png",
    "capa_min": "capas/miniaturas/gil-vicente-auto-da-barca-do-inferno-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/gil-vicente-auto-da-barca-do-inferno.pdf",
-   "pdf_kb": 1030
+   "pdf_kb": 1030,
+   "procedencia": "Original em pt; Wikisource pt, página \"Auto da Barca do Inferno\""
   },
   {
    "t": "Decameron",
@@ -3101,7 +3197,8 @@
    "capa_min": "capas/miniaturas/giovanni-boccaccio-decameron-240x300.png",
    "te": "The Decameron of Giovanni Boccaccio",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/giovanni-boccaccio-decameron.pdf",
-   "pdf_kb": 5676
+   "pdf_kb": 5676,
+   "procedencia": "Trad. Payne, John (morreu em 1916); Project Gutenberg 23700"
   },
   {
    "t": "Primeiros Cantos",
@@ -3121,7 +3218,8 @@
    "capa": "capas/goncalves-dias-primeiros-cantos.png",
    "capa_min": "capas/miniaturas/goncalves-dias-primeiros-cantos-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/goncalves-dias-primeiros-cantos.pdf",
-   "pdf_kb": 1352
+   "pdf_kb": 1352,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Primeiros Cantos (subpaginas))"
   },
   {
    "t": "Monadologia",
@@ -3202,7 +3300,8 @@
    "capa": "capas/graciliano-ramos-infancia.png",
    "capa_min": "capas/miniaturas/graciliano-ramos-infancia-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/graciliano-ramos-infancia.pdf",
-   "pdf_kb": 2989
+   "pdf_kb": 2989,
+   "revisao": "obra errada: Giménez Dasí, Psicología del desarrollo (2023), não Infância de Graciliano"
   },
   {
    "t": "Álcoois",
@@ -3223,7 +3322,8 @@
    "capa_min": "capas/miniaturas/guillaume-apollinaire-alcoois-240x300.png",
    "te": "Alcools",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/guillaume-apollinaire-alcoois.pdf",
-   "pdf_kb": 943
+   "pdf_kb": 943,
+   "procedencia": "Original em fr; Project Gutenberg 15462"
   },
   {
    "t": "Caligramas",
@@ -3263,7 +3363,8 @@
    "capa": "capas/gustave-flaubert-madame-bovary.png",
    "capa_min": "capas/miniaturas/gustave-flaubert-madame-bovary-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/gustave-flaubert-madame-bovary.pdf",
-   "pdf_kb": 2792
+   "pdf_kb": 2792,
+   "procedencia": "Trad. Aveling, Eleanor Marx (morreu em 1898); Project Gutenberg 2413"
   },
   {
    "t": "A Tentação de Santo Antão",
@@ -3283,7 +3384,8 @@
    "capa_min": "capas/miniaturas/gustave-flaubert-a-tentacao-de-santo-antao-240x300.png",
    "te": "The Temptation of St. Antony; Or, A Revelation of the Soul",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/gustave-flaubert-a-tentacao-de-santo-antao.pdf",
-   "pdf_kb": 1564
+   "pdf_kb": 1564,
+   "procedencia": "Original em en; Project Gutenberg 25053"
   },
   {
    "t": "Bouvard e Pécuchet",
@@ -3304,7 +3406,8 @@
    "capa_min": "capas/miniaturas/gustave-flaubert-bouvard-e-pecuchet-240x300.png",
    "te": "Bouvard and Pécuchet: A Tragi-comic Novel of Bourgeois Life, part 1",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/gustave-flaubert-bouvard-e-pecuchet.pdf",
-   "pdf_kb": 3016
+   "pdf_kb": 3016,
+   "procedencia": "Original em en; Project Gutenberg 25014"
   },
   {
    "t": "Contos",
@@ -3345,7 +3448,8 @@
    "capa_min": "capas/miniaturas/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia-240x300.png",
    "te": "Time and Free Will: An Essay on the Immediate Data of Consciousness",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia.pdf",
-   "pdf_kb": 2002
+   "pdf_kb": 2002,
+   "procedencia": "Trad. Pogson, Frank Lubecki (morreu em 1910); Project Gutenberg 56852"
   },
   {
    "t": "Matéria e Memória",
@@ -3387,7 +3491,8 @@
    "capa_min": "capas/miniaturas/henri-bergson-o-riso-240x300.png",
    "te": "Laughter: An Essay on the Meaning of the Comic",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henri-bergson-o-riso.pdf",
-   "pdf_kb": 928
+   "pdf_kb": 928,
+   "procedencia": "Trad. Brereton, Cloudesley (morreu em 1937); trad. Rothwell, Fred (morreu em 1934); Project Gutenberg 4352"
   },
   {
    "t": "A Evolução Criadora",
@@ -3408,7 +3513,8 @@
    "capa_min": "capas/miniaturas/henri-bergson-a-evolucao-criadora-240x300.png",
    "te": "Creative Evolution",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henri-bergson-a-evolucao-criadora.pdf",
-   "pdf_kb": 4737
+   "pdf_kb": 4737,
+   "procedencia": "Trad. Mitchell, Arthur (morreu em 1953); Project Gutenberg 26163"
   },
   {
    "t": "A Desobediência Civil",
@@ -3429,7 +3535,8 @@
    "capa_min": "capas/miniaturas/henry-david-thoreau-a-desobediencia-civil-240x300.png",
    "te": "Walden, and On The Duty Of Civil Disobedience",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henry-david-thoreau-a-desobediencia-civil.pdf",
-   "pdf_kb": 2639
+   "pdf_kb": 2639,
+   "procedencia": "Original em en; Project Gutenberg 205"
   },
   {
    "t": "Walden",
@@ -3449,7 +3556,8 @@
    "capa_min": "capas/miniaturas/henry-david-thoreau-walden-240x300.png",
    "te": "Walden, and On The Duty Of Civil Disobedience",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henry-david-thoreau-walden.pdf",
-   "pdf_kb": 2631
+   "pdf_kb": 2631,
+   "procedencia": "Original em en; Project Gutenberg 205"
   },
   {
    "t": "Moby Dick",
@@ -3469,7 +3577,8 @@
    "capa_min": "capas/miniaturas/herman-melville-moby-dick-240x300.png",
    "te": "Moby Dick; Or, The Whale",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/herman-melville-moby-dick.pdf",
-   "pdf_kb": 4739
+   "pdf_kb": 4739,
+   "procedencia": "Original em en; Project Gutenberg 2701"
   },
   {
    "t": "Bartleby, o Escrivão",
@@ -3490,7 +3599,8 @@
    "capa_min": "capas/miniaturas/herman-melville-bartleby-o-escrivao-240x300.png",
    "te": "Bartleby, the Scrivener: A Story of Wall-Street",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/herman-melville-bartleby-o-escrivao.pdf",
-   "pdf_kb": 710
+   "pdf_kb": 710,
+   "procedencia": "Original em en; Project Gutenberg 11231"
   },
   {
    "t": "Odisseia",
@@ -3511,7 +3621,8 @@
    "capa_min": "capas/miniaturas/homero-odisseia-240x300.png",
    "te": "The Odyssey",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/homero-odisseia.pdf",
-   "pdf_kb": 2638
+   "pdf_kb": 2638,
+   "procedencia": "Trad. Butler, Samuel (morreu em 1902); Project Gutenberg 1727"
   },
   {
    "t": "Ilíada",
@@ -3552,7 +3663,8 @@
    "capa_min": "capas/miniaturas/honore-de-balzac-pai-goriot-240x300.png",
    "te": "Father Goriot",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/honore-de-balzac-pai-goriot.pdf",
-   "pdf_kb": 2312
+   "pdf_kb": 2312,
+   "procedencia": "Trad. Marriage, Ellen (morreu em 1946); Project Gutenberg 1237"
   },
   {
    "t": "Ilusões Perdidas",
@@ -3572,7 +3684,8 @@
    "capa_min": "capas/miniaturas/honore-de-balzac-ilusoes-perdidas-240x300.png",
    "te": "Lost Illusions",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/honore-de-balzac-ilusoes-perdidas.pdf",
-   "pdf_kb": 5180
+   "pdf_kb": 5180,
+   "procedencia": "Trad. Marriage, Ellen (morreu em 1946); Project Gutenberg 13159"
   },
   {
    "t": "Crítica da Razão Pura",
@@ -3593,7 +3706,8 @@
    "capa_min": "capas/miniaturas/immanuel-kant-critica-da-razao-pura-240x300.png",
    "te": "The Critique of Pure Reason",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/immanuel-kant-critica-da-razao-pura.pdf",
-   "pdf_kb": 4206
+   "pdf_kb": 4206,
+   "procedencia": "Trad. Meiklejohn, J. M. D. (John Miller Dow) (morreu em 1902); Project Gutenberg 4280"
   },
   {
    "t": "Pais e Filhos",
@@ -3615,7 +3729,8 @@
    "capa_min": "capas/miniaturas/ivan-turgueniev-pais-e-filhos-240x300.png",
    "te": "Fathers and Children",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/ivan-turgueniev-pais-e-filhos.pdf",
-   "pdf_kb": 2360
+   "pdf_kb": 2360,
+   "procedencia": "Ed. Neilson, William Allan (morreu em 1946); trad. Garnett, Constance (morreu em 1946); Project Gutenberg 30723"
   },
   {
    "t": "Dublinenses",
@@ -3636,7 +3751,8 @@
    "capa_min": "capas/miniaturas/james-joyce-dublinenses-240x300.png",
    "te": "Dubliners",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/james-joyce-dublinenses.pdf",
-   "pdf_kb": 1861
+   "pdf_kb": 1861,
+   "procedencia": "Original em en; Project Gutenberg 2814"
   },
   {
    "t": "Retrato do Artista Quando Jovem",
@@ -3657,7 +3773,8 @@
    "capa_min": "capas/miniaturas/james-joyce-retrato-do-artista-quando-jovem-240x300.png",
    "te": "A Portrait of the Artist as a Young Man",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/james-joyce-retrato-do-artista-quando-jovem.pdf",
-   "pdf_kb": 2127
+   "pdf_kb": 2127,
+   "procedencia": "Original em en; Project Gutenberg 4217"
   },
   {
    "t": "Ulisses",
@@ -3678,7 +3795,8 @@
    "capa_min": "capas/miniaturas/james-joyce-ulisses-240x300.png",
    "te": "Ulysses",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/james-joyce-ulisses.pdf",
-   "pdf_kb": 6813
+   "pdf_kb": 6813,
+   "procedencia": "Original em en; Project Gutenberg 4300"
   },
   {
    "t": "Finnegans Wake",
@@ -3718,7 +3836,8 @@
    "capa_min": "capas/miniaturas/jane-austen-orgulho-e-preconceito-240x300.png",
    "te": "Pride and Prejudice",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jane-austen-orgulho-e-preconceito.pdf",
-   "pdf_kb": 23867
+   "pdf_kb": 23867,
+   "procedencia": "Original em en; Project Gutenberg 1342"
   },
   {
    "t": "A Moreninha",
@@ -3738,7 +3857,8 @@
    "capa": "capas/joaquim-manuel-de-macedo-a-moreninha.png",
    "capa_min": "capas/miniaturas/joaquim-manuel-de-macedo-a-moreninha-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/joaquim-manuel-de-macedo-a-moreninha.pdf",
-   "pdf_kb": 1520
+   "pdf_kb": 1520,
+   "procedencia": "Original em pt; Wikisource pt, página \"A Moreninha (1860)\""
   },
   {
    "t": "Os Sofrimentos do Jovem Werther",
@@ -3758,7 +3878,8 @@
    "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther-240x300.png",
    "te": "The Sorrows of Young Werther",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther.pdf",
-   "pdf_kb": 1136
+   "pdf_kb": 1136,
+   "procedencia": "Trad. Boylan, R. Dillon (Richard Dillon) (morreu em 1888); Project Gutenberg 2527"
   },
   {
    "t": "Fausto",
@@ -3838,7 +3959,8 @@
    "capa_min": "capas/miniaturas/jonathan-swift-viagens-de-gulliver-240x300.png",
    "te": "Gulliver's Travels into Several Remote Regions of the World",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jonathan-swift-viagens-de-gulliver.pdf",
-   "pdf_kb": 6993
+   "pdf_kb": 6993,
+   "procedencia": "Ed. Balliet, Thomas M. (Thomas Minard) (morreu em 1942); Project Gutenberg 17157"
   },
   {
    "t": "O Guarani",
@@ -3859,7 +3981,8 @@
    "capa_min": "capas/miniaturas/jose-de-alencar-o-guarani-240x300.png",
    "te": "O Guarany: romance brazileiro, Vol. 1 (of 2)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jose-de-alencar-o-guarani.pdf",
-   "pdf_kb": 2145
+   "pdf_kb": 2145,
+   "procedencia": "Original em pt; Project Gutenberg 67724"
   },
   {
    "t": "Lucíola",
@@ -3879,7 +4002,8 @@
    "capa": "capas/jose-de-alencar-luciola.png",
    "capa_min": "capas/miniaturas/jose-de-alencar-luciola-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jose-de-alencar-luciola.pdf",
-   "pdf_kb": 1297
+   "pdf_kb": 1297,
+   "procedencia": "Original em pt; Wikisource pt, página \"Lucíola\""
   },
   {
    "t": "Iracema",
@@ -3899,7 +4023,8 @@
    "capa": "capas/jose-de-alencar-iracema.png",
    "capa_min": "capas/miniaturas/jose-de-alencar-iracema-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jose-de-alencar-iracema.pdf",
-   "pdf_kb": 1507
+   "pdf_kb": 1507,
+   "procedencia": "Original em pt; Project Gutenberg 67740"
   },
   {
    "t": "Senhora",
@@ -3919,7 +4044,8 @@
    "capa": "capas/jose-de-alencar-senhora.png",
    "capa_min": "capas/miniaturas/jose-de-alencar-senhora-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jose-de-alencar-senhora.pdf",
-   "pdf_kb": 2194
+   "pdf_kb": 2194,
+   "procedencia": "Original em pt; Wikisource pt, página \"Senhora\""
   },
   {
    "t": "Coração das Trevas",
@@ -3939,7 +4065,8 @@
    "capa_min": "capas/miniaturas/joseph-conrad-coracao-das-trevas-240x300.png",
    "te": "Heart of Darkness",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/joseph-conrad-coracao-das-trevas.pdf",
-   "pdf_kb": 963
+   "pdf_kb": 963,
+   "procedencia": "Original em en; Project Gutenberg 219"
   },
   {
    "t": "Lord Jim",
@@ -3958,7 +4085,8 @@
    "capa": "capas/joseph-conrad-lord-jim.png",
    "capa_min": "capas/miniaturas/joseph-conrad-lord-jim-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/joseph-conrad-lord-jim.pdf",
-   "pdf_kb": 2159
+   "pdf_kb": 2159,
+   "procedencia": "Original em en; Project Gutenberg 5658"
   },
   {
    "t": "Tao Te Ching",
@@ -3978,7 +4106,8 @@
    "capa": "capas/lao-tse-tao-te-ching.png",
    "capa_min": "capas/miniaturas/lao-tse-tao-te-ching-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lao-tse-tao-te-ching.pdf",
-   "pdf_kb": 656
+   "pdf_kb": 656,
+   "procedencia": "Original em pt; Wikisource pt, página \"Tao Te Ching\""
   },
   {
    "t": "A Vida e as Opiniões de Tristram Shandy",
@@ -3999,7 +4128,8 @@
    "capa_min": "capas/miniaturas/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy-240x300.png",
    "te": "The life and opinions of Tristram Shandy, gentleman",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy.pdf",
-   "pdf_kb": 7129
+   "pdf_kb": 7129,
+   "procedencia": "Original em en; Project Gutenberg 1079"
   },
   {
    "t": "Alice no País das Maravilhas",
@@ -4106,7 +4236,8 @@
    "capa_min": "capas/miniaturas/liev-tolstoi-guerra-e-paz-240x300.png",
    "te": "War and Peace",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/liev-tolstoi-guerra-e-paz.pdf",
-   "pdf_kb": 11771
+   "pdf_kb": 11771,
+   "procedencia": "Trad. Maude, Aylmer (morreu em 1938); trad. Maude, Louise (morreu em 1939); Project Gutenberg 2600"
   },
   {
    "t": "Anna Kariênina",
@@ -4127,7 +4258,8 @@
    "capa_min": "capas/miniaturas/liev-tolstoi-anna-karienina-240x300.png",
    "te": "Anna Karenina",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/liev-tolstoi-anna-karienina.pdf",
-   "pdf_kb": 7319
+   "pdf_kb": 7319,
+   "procedencia": "Trad. Garnett, Constance (morreu em 1946); Project Gutenberg 1399"
   },
   {
    "t": "A Morte de Ivan Ilitch",
@@ -4169,7 +4301,8 @@
    "capa": "capas/lima-barreto-recordacoes-do-escrivao-isaias-caminha.png",
    "capa_min": "capas/miniaturas/lima-barreto-recordacoes-do-escrivao-isaias-caminha-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lima-barreto-recordacoes-do-escrivao-isaias-caminha.pdf",
-   "pdf_kb": 1626
+   "pdf_kb": 1626,
+   "procedencia": "Original em pt; Wikisource pt, página \"Recordações do Escrivão Isaías Caminha\""
   },
   {
    "t": "Triste Fim de Policarpo Quaresma",
@@ -4190,7 +4323,8 @@
    "capa_min": "capas/miniaturas/lima-barreto-triste-fim-de-policarpo-quaresma-240x300.png",
    "te": "Triste Fim de Polycarpo Quaresma",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lima-barreto-triste-fim-de-policarpo-quaresma.pdf",
-   "pdf_kb": 2083
+   "pdf_kb": 2083,
+   "procedencia": "Original em pt; Project Gutenberg 67535"
   },
   {
    "t": "Vida e Morte de M. J. Gonzaga de Sá",
@@ -4210,7 +4344,8 @@
    "capa": "capas/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa.png",
    "capa_min": "capas/miniaturas/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa.pdf",
-   "pdf_kb": 1154
+   "pdf_kb": 1154,
+   "procedencia": "Original em pt; Wikisource pt, página \"Vida e morte de M. J. Gonzaga de Sá (1919)\""
   },
   {
    "t": "Os Bruzundangas",
@@ -4230,7 +4365,8 @@
    "capa": "capas/lima-barreto-os-bruzundangas.png",
    "capa_min": "capas/miniaturas/lima-barreto-os-bruzundangas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lima-barreto-os-bruzundangas.pdf",
-   "pdf_kb": 1579
+   "pdf_kb": 1579,
+   "procedencia": "Original em pt; Wikisource pt, página \"Os Bruzundangas\""
   },
   {
    "t": "Clara dos Anjos",
@@ -4290,7 +4426,8 @@
    "capa": "capas/luis-de-camoes-os-lusiadas.png",
    "capa_min": "capas/miniaturas/luis-de-camoes-os-lusiadas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/luis-de-camoes-os-lusiadas.pdf",
-   "pdf_kb": 2330
+   "pdf_kb": 2330,
+   "procedencia": "Original em pt; Project Gutenberg 3333"
   },
   {
    "t": "Rimas",
@@ -4310,7 +4447,8 @@
    "capa": "capas/luis-de-camoes-rimas.png",
    "capa_min": "capas/miniaturas/luis-de-camoes-rimas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/luis-de-camoes-rimas.pdf",
-   "pdf_kb": 407
+   "pdf_kb": 407,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Rimas (Francisco Álvares de Nóbrega) (subpaginas))"
   },
   {
    "t": "Contos Fluminenses",
@@ -4350,7 +4488,8 @@
    "capa": "capas/machado-de-assis-ressurreicao.png",
    "capa_min": "capas/miniaturas/machado-de-assis-ressurreicao-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-ressurreicao.pdf",
-   "pdf_kb": 1147
+   "pdf_kb": 1147,
+   "procedencia": "Original em pt; Wikisource pt, página \"Ressurreição (Machado de Assis)\""
   },
   {
    "t": "A Mão e a Luva",
@@ -4371,7 +4510,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-a-mao-e-a-luva-240x300.png",
    "te": "A Mao e A Luva",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-a-mao-e-a-luva.pdf",
-   "pdf_kb": 1253
+   "pdf_kb": 1253,
+   "procedencia": "Original em pt; Project Gutenberg 53101"
   },
   {
    "t": "Helena",
@@ -4391,7 +4531,8 @@
    "capa": "capas/machado-de-assis-helena.png",
    "capa_min": "capas/miniaturas/machado-de-assis-helena-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-helena.pdf",
-   "pdf_kb": 1638
+   "pdf_kb": 1638,
+   "procedencia": "Original em pt; Project Gutenberg 67162"
   },
   {
    "t": "Iaiá Garcia",
@@ -4412,7 +4553,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-iaia-garcia-240x300.png",
    "te": "Yayá Garcia",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-iaia-garcia.pdf",
-   "pdf_kb": 1707
+   "pdf_kb": 1707,
+   "procedencia": "Original em pt; Project Gutenberg 67780"
   },
   {
    "t": "Memórias Póstumas de Brás Cubas",
@@ -4433,7 +4575,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-memorias-postumas-de-bras-cubas-240x300.png",
    "te": "Memorias Posthumas de Braz Cubas",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-memorias-postumas-de-bras-cubas.pdf",
-   "pdf_kb": 2129
+   "pdf_kb": 2129,
+   "procedencia": "Original em pt; Project Gutenberg 54829"
   },
   {
    "t": "Papéis Avulsos",
@@ -4454,7 +4597,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-papeis-avulsos-240x300.png",
    "te": "Papeis Avulsos",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-papeis-avulsos.pdf",
-   "pdf_kb": 1170
+   "pdf_kb": 1170,
+   "procedencia": "Original em pt; Project Gutenberg 57001"
   },
   {
    "t": "Histórias sem Data",
@@ -4475,7 +4619,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-historias-sem-data-240x300.png",
    "te": "Historias Sem Data",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-historias-sem-data.pdf",
-   "pdf_kb": 1325
+   "pdf_kb": 1325,
+   "procedencia": "Original em pt; Project Gutenberg 33056"
   },
   {
    "t": "Quincas Borba",
@@ -4495,7 +4640,8 @@
    "capa": "capas/machado-de-assis-quincas-borba.png",
    "capa_min": "capas/miniaturas/machado-de-assis-quincas-borba-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-quincas-borba.pdf",
-   "pdf_kb": 2240
+   "pdf_kb": 2240,
+   "procedencia": "Original em pt; Project Gutenberg 55682"
   },
   {
    "t": "Várias Histórias",
@@ -4555,7 +4701,8 @@
    "capa": "capas/machado-de-assis-dom-casmurro.png",
    "capa_min": "capas/miniaturas/machado-de-assis-dom-casmurro-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-dom-casmurro.pdf",
-   "pdf_kb": 1998
+   "pdf_kb": 1998,
+   "procedencia": "Original em pt; Project Gutenberg 55752"
   },
   {
    "t": "Poesias Completas",
@@ -4575,7 +4722,8 @@
    "capa": "capas/machado-de-assis-poesias-completas.png",
    "capa_min": "capas/miniaturas/machado-de-assis-poesias-completas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-poesias-completas.pdf",
-   "pdf_kb": 2397
+   "pdf_kb": 2397,
+   "procedencia": "Original em pt; Project Gutenberg 61653"
   },
   {
    "t": "Esaú e Jacó",
@@ -4596,7 +4744,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-esau-e-jaco-240x300.png",
    "te": "Esau e Jacob",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-esau-e-jaco.pdf",
-   "pdf_kb": 1525
+   "pdf_kb": 1525,
+   "procedencia": "Original em pt; Project Gutenberg 56737"
   },
   {
    "t": "Relíquias de Casa Velha",
@@ -4617,7 +4766,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-reliquias-de-casa-velha-240x300.png",
    "te": "Reliquias de Casa Velha",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-reliquias-de-casa-velha.pdf",
-   "pdf_kb": 2081
+   "pdf_kb": 2081,
+   "procedencia": "Original em pt; Project Gutenberg 67935"
   },
   {
    "t": "Memorial de Aires",
@@ -4638,7 +4788,8 @@
    "capa_min": "capas/miniaturas/machado-de-assis-memorial-de-aires-240x300.png",
    "te": "Memorial de Ayres",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-memorial-de-aires.pdf",
-   "pdf_kb": 1512
+   "pdf_kb": 1512,
+   "procedencia": "Original em pt; Project Gutenberg 55797"
   },
   {
    "t": "Memórias de um Sargento de Milícias",
@@ -4658,7 +4809,8 @@
    "capa": "capas/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias.png",
    "capa_min": "capas/miniaturas/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias.pdf",
-   "pdf_kb": 1542
+   "pdf_kb": 1542,
+   "procedencia": "Original em pt; Wikisource pt, página \"Memórias de um Sargento de Milícias\""
   },
   {
    "t": "Em Busca do Tempo Perdido",
@@ -4680,7 +4832,8 @@
    "capa_min": "capas/miniaturas/marcel-proust-em-busca-do-tempo-perdido-240x300.png",
    "te": "Swann's Way",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/marcel-proust-em-busca-do-tempo-perdido.pdf",
-   "pdf_kb": 3454
+   "pdf_kb": 3454,
+   "procedencia": "Trad. Scott-Moncrieff, C. K. (Charles Kenneth) (morreu em 1930); Project Gutenberg 7178"
   },
   {
    "t": "Macunaíma",
@@ -4722,7 +4875,8 @@
    "capa_min": "capas/miniaturas/mary-shelley-frankenstein-240x300.png",
    "te": "Frankenstein; or, the modern prometheus",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/mary-shelley-frankenstein.pdf",
-   "pdf_kb": 1902
+   "pdf_kb": 1902,
+   "procedencia": "Original em en; Project Gutenberg 84"
   },
   {
    "t": "Ensaios",
@@ -4742,7 +4896,8 @@
    "capa_min": "capas/miniaturas/michel-de-montaigne-ensaios-240x300.png",
    "te": "Essays of Michel de Montaigne: Complete",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/michel-de-montaigne-ensaios.pdf",
-   "pdf_kb": 8599
+   "pdf_kb": 8599,
+   "procedencia": "Ed. Hazlitt, William Carew (morreu em 1913); trad. Cotton, Charles (morreu em 1687); Project Gutenberg 3600"
   },
   {
    "t": "Dom Quixote",
@@ -4783,7 +4938,8 @@
    "capa_min": "capas/miniaturas/monteiro-lobato-urupes-240x300.png",
    "te": "Urupês: (contos)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/monteiro-lobato-urupes.pdf",
-   "pdf_kb": 1753
+   "pdf_kb": 1753,
+   "procedencia": "Original em pt; Wikisource pt, página \"Urupês (5ª edição)\""
   },
   {
    "t": "Cidades Mortas",
@@ -4803,7 +4959,8 @@
    "capa": "capas/monteiro-lobato-cidades-mortas.png",
    "capa_min": "capas/miniaturas/monteiro-lobato-cidades-mortas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/monteiro-lobato-cidades-mortas.pdf",
-   "pdf_kb": 2270
+   "pdf_kb": 2270,
+   "procedencia": "Original em pt; Wikisource pt, página \"Cidades Mortas (3ª edição)\""
   },
   {
    "t": "Negrinha",
@@ -4824,7 +4981,8 @@
    "capa_min": "capas/miniaturas/monteiro-lobato-negrinha-240x300.png",
    "te": "Negrinha (4º milheiro)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/monteiro-lobato-negrinha.pdf",
-   "pdf_kb": 783
+   "pdf_kb": 783,
+   "procedencia": "Original em pt; Wikisource pt, página \"Negrinha (4º milheiro)\""
   },
   {
    "t": "Almas Mortas",
@@ -4866,7 +5024,8 @@
    "capa": "capas/olavo-bilac-poesias.png",
    "capa_min": "capas/miniaturas/olavo-bilac-poesias-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/olavo-bilac-poesias.pdf",
-   "pdf_kb": 704
+   "pdf_kb": 704,
+   "procedencia": "Original em pt; Wikisource (subpáginas: Poesias (Olavo Bilac) (subpaginas))"
   },
   {
    "t": "O Retrato de Dorian Gray",
@@ -4905,7 +5064,8 @@
    "capa": "capas/oscar-wilde-de-profundis.png",
    "capa_min": "capas/miniaturas/oscar-wilde-de-profundis-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/oscar-wilde-de-profundis.pdf",
-   "pdf_kb": 433
+   "pdf_kb": 433,
+   "procedencia": "Original em en; Project Gutenberg 921"
   },
   {
    "t": "Pau Brasil",
@@ -4966,7 +5126,8 @@
    "capa_min": "capas/miniaturas/pedro-calderon-de-la-barca-a-vida-e-sonho-240x300.png",
    "te": "Life Is a Dream",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/pedro-calderon-de-la-barca-a-vida-e-sonho.pdf",
-   "pdf_kb": 571
+   "pdf_kb": 571,
+   "procedencia": "Trad. FitzGerald, Edward (morreu em 1883); Project Gutenberg 2587"
   },
   {
    "t": "Os Cadernos de Malte Laurids Brigge",
@@ -4986,7 +5147,8 @@
    "capa_min": "capas/miniaturas/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge-240x300.png",
    "te": "Die Aufzeichnungen des Malte Laurids Brigge",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge.pdf",
-   "pdf_kb": 1341
+   "pdf_kb": 1341,
+   "procedencia": "Original em de; Project Gutenberg 2188"
   },
   {
    "t": "Ensaios",
@@ -5006,7 +5168,8 @@
    "capa_min": "capas/miniaturas/ralph-waldo-emerson-ensaios-240x300.png",
    "te": "Essays by Ralph Waldo Emerson",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/ralph-waldo-emerson-ensaios.pdf",
-   "pdf_kb": 2895
+   "pdf_kb": 2895,
+   "procedencia": "Ed. Turpin, Edna Henry Lee (morreu em 1952); Project Gutenberg 16643"
   },
   {
    "t": "Húmus",
@@ -5028,7 +5191,8 @@
    "capa_min": "capas/miniaturas/raul-brandao-humus-240x300.png",
    "te": "Humus",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/raul-brandao-humus.pdf",
-   "pdf_kb": 1971
+   "pdf_kb": 1971,
+   "procedencia": "Original em pt; Project Gutenberg 39618"
   },
   {
    "t": "O Ateneu",
@@ -5049,7 +5213,8 @@
    "capa_min": "capas/miniaturas/raul-pompeia-o-ateneu-240x300.png",
    "te": "O Atheneu: (Chronica de saudades)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/raul-pompeia-o-ateneu.pdf",
-   "pdf_kb": 1538
+   "pdf_kb": 1538,
+   "procedencia": "Original em pt; Wikisource pt, página \"O Ateneu\""
   },
   {
    "t": "Discurso do Método",
@@ -5070,7 +5235,8 @@
    "capa_min": "capas/miniaturas/rene-descartes-discurso-do-metodo-240x300.png",
    "te": "Discourse on the Method of Rightly Conducting One's Reason and of Seeking Truth in the Sciences",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/rene-descartes-discurso-do-metodo.pdf",
-   "pdf_kb": 817
+   "pdf_kb": 817,
+   "procedencia": "Trad. Veitch, John (morreu em 1894); Project Gutenberg 59"
   },
   {
    "t": "A Interpretação dos Sonhos",
@@ -5090,7 +5256,8 @@
    "capa_min": "capas/miniaturas/sigmund-freud-a-interpretacao-dos-sonhos-240x300.png",
    "te": "The Interpretation of Dreams",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/sigmund-freud-a-interpretacao-dos-sonhos.pdf",
-   "pdf_kb": 5857
+   "pdf_kb": 5857,
+   "procedencia": "Trad. Brill, A. A. (Abraham Arden) (morreu em 1948); Project Gutenberg 66048"
   },
   {
    "t": "Totem e Tabu",
@@ -5112,7 +5279,8 @@
    "capa_min": "capas/miniaturas/sigmund-freud-totem-e-tabu-240x300.png",
    "te": "Totem und Tabu",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/sigmund-freud-totem-e-tabu.pdf",
-   "pdf_kb": 1691
+   "pdf_kb": 1691,
+   "procedencia": "Original em de; Project Gutenberg 37065"
   },
   {
    "t": "Além do Princípio do Prazer",
@@ -5197,7 +5365,8 @@
    "capa_min": "capas/miniaturas/sofocles-antigona-240x300.png",
    "te": "Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/sofocles-antigona.pdf",
-   "pdf_kb": 1934
+   "pdf_kb": 1934,
+   "procedencia": "Trad. Storr, Francis (morreu em 1919); Project Gutenberg 31"
   },
   {
    "t": "Édipo Rei",
@@ -5237,7 +5406,8 @@
    "capa_min": "capas/miniaturas/stendhal-o-vermelho-e-o-negro-240x300.png",
    "te": "The Red and the Black: A Chronicle of 1830",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/stendhal-o-vermelho-e-o-negro.pdf",
-   "pdf_kb": 4607
+   "pdf_kb": 4607,
+   "procedencia": "Trad. Samuel, Horace Barnett (morreu em 1950); Project Gutenberg 44747"
   },
   {
    "t": "A Cartuxa de Parma",
@@ -5257,7 +5427,8 @@
    "capa_min": "capas/miniaturas/stendhal-a-cartuxa-de-parma-240x300.png",
    "te": "The Charterhouse of Parma, Volume 1",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/stendhal-a-cartuxa-de-parma.pdf",
-   "pdf_kb": 3103
+   "pdf_kb": 3103,
+   "procedencia": "Colaboração de Balzac, Honoré de (morreu em 1850); trad. Scott-Moncrieff, C. K. (Charles Kenneth) (morreu em 1930); Project Gutenberg 66374"
   },
   {
    "t": "Um Lance de Dados",
@@ -5278,7 +5449,8 @@
    "capa_min": "capas/miniaturas/stephane-mallarme-um-lance-de-dados-240x300.png",
    "te": "Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/stephane-mallarme-um-lance-de-dados.pdf",
-   "pdf_kb": 816
+   "pdf_kb": 816,
+   "procedencia": "Original em fr; Wikisource fr, página \"Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897)\""
   },
   {
    "t": "Poesias",
@@ -5298,7 +5470,8 @@
    "capa": "capas/stephane-mallarme-poesias.png",
    "capa_min": "capas/miniaturas/stephane-mallarme-poesias-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/stephane-mallarme-poesias.pdf",
-   "pdf_kb": 11477
+   "pdf_kb": 11477,
+   "revisao": "obra errada: Lexique roman de Raynouard (dicionário da língua dos trovadores), não as poesias de Mallarmé"
   },
   {
    "t": "Os Buddenbrook",
@@ -5320,7 +5493,8 @@
    "capa_min": "capas/miniaturas/thomas-mann-os-buddenbrook-240x300.png",
    "te": "Buddenbrooks: Verfall einer Familie",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/thomas-mann-os-buddenbrook.pdf",
-   "pdf_kb": 4275
+   "pdf_kb": 4275,
+   "procedencia": "Original em de; Project Gutenberg 34811"
   },
   {
    "t": "A Morte em Veneza",
@@ -5382,7 +5556,8 @@
    "capa": "capas/victor-hugo-notre-dame-de-paris.png",
    "capa_min": "capas/miniaturas/victor-hugo-notre-dame-de-paris-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/victor-hugo-notre-dame-de-paris.pdf",
-   "pdf_kb": 4601
+   "pdf_kb": 4601,
+   "procedencia": "Trad. Hapgood, Isabel Florence (morreu em 1928); Project Gutenberg 2610"
   },
   {
    "t": "Os Miseráveis",
@@ -5402,7 +5577,8 @@
    "capa_min": "capas/miniaturas/victor-hugo-os-miseraveis-240x300.png",
    "te": "Os Miseraveis",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/victor-hugo-os-miseraveis.pdf",
-   "pdf_kb": 714
+   "pdf_kb": 714,
+   "procedencia": "Original em pt; Wikisource pt, página \"Os Miseraveis (trad. Justiniano José da Rocha)\""
   },
   {
    "t": "Cândido",
@@ -5423,7 +5599,8 @@
    "capa_min": "capas/miniaturas/voltaire-candido-240x300.png",
    "te": "Candide",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/voltaire-candido.pdf",
-   "pdf_kb": 1745
+   "pdf_kb": 1745,
+   "procedencia": "Original em en; Project Gutenberg 19942"
   },
   {
    "t": "Folhas de Relva",
@@ -5443,7 +5620,8 @@
    "capa_min": "capas/miniaturas/walt-whitman-folhas-de-relva-240x300.png",
    "te": "Leaves of Grass",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/walt-whitman-folhas-de-relva.pdf",
-   "pdf_kb": 2483
+   "pdf_kb": 2483,
+   "procedencia": "Original em en; Project Gutenberg 1322"
   },
   {
    "t": "Hamlet",
@@ -5463,7 +5641,8 @@
    "capa_min": "capas/miniaturas/william-shakespeare-hamlet-240x300.png",
    "te": "Hamlet: drama em cinco actos",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/william-shakespeare-hamlet.pdf",
-   "pdf_kb": 1543
+   "pdf_kb": 1543,
+   "procedencia": "Original em pt; Wikisource pt, página \"Hamlet: drama em cinco actos\""
   },
   {
    "t": "Macbeth",
@@ -5483,7 +5662,8 @@
    "capa": "capas/william-shakespeare-macbeth.png",
    "capa_min": "capas/miniaturas/william-shakespeare-macbeth-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/william-shakespeare-macbeth.pdf",
-   "pdf_kb": 1465
+   "pdf_kb": 1465,
+   "procedencia": "Original em en; Project Gutenberg 1533"
   },
   {
    "t": "Rei Lear",
@@ -5504,7 +5684,8 @@
    "capa_min": "capas/miniaturas/william-shakespeare-rei-lear-240x300.png",
    "te": "King Lear",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/william-shakespeare-rei-lear.pdf",
-   "pdf_kb": 1878
+   "pdf_kb": 1878,
+   "procedencia": "Original em en; Project Gutenberg 1532"
   },
   {
    "t": "Sonetos",
