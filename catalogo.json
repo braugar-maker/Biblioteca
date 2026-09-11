@@ -2,7 +2,7 @@
  "instituto": "Instituto Aeviternitas",
  "biblioteca": "Biblioteca Aevum",
  "lema": "quod manet",
- "gerado": "2026-09-10",
+ "gerado": "2026-09-11",
  "obras": [
   {
    "t": "Teoria dos Sentimentos Morais",
@@ -217,20 +217,19 @@
    "y": -51,
    "c": "A",
    "e": "I",
-   "l": "en",
+   "l": "la",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
     "direito"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/cicero-das-leis.epub",
-   "kb": 490,
+   "kb": 71,
+   "te": "De legibus",
+   "procedencia": "original latino; Wikisource la (Opera philosophica)",
    "capa": "capas/cicero-das-leis.png",
-   "capa_min": "capas/miniaturas/cicero-das-leis-240x300.png",
-   "te": "Cicero's Tusculan Disputations",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo são as Tusculanas e outros tratados, não De Legibus"
+   "capa_min": "capas/miniaturas/cicero-das-leis-240x300.png"
   },
   {
    "t": "Da República",
@@ -265,12 +264,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/cicero-dos-deveres.epub",
-   "kb": 490,
+   "kb": 488,
+   "te": "De Officiis",
+   "procedencia": "trad. Walter Miller, Loeb Classical Library, Heinemann e Macmillan, 1913; Miller morreu em 1949; Gutenberg 47001",
    "capa": "capas/cicero-dos-deveres.png",
-   "capa_min": "capas/miniaturas/cicero-dos-deveres-240x300.png",
-   "te": "Cicero's Tusculan Disputations",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo são as Tusculanas e outros tratados, não De Officiis"
+   "capa_min": "capas/miniaturas/cicero-dos-deveres-240x300.png"
   },
   {
    "t": "Analectos",
@@ -305,12 +303,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/dante-alighieri-monarquia.epub",
-   "kb": 18326,
+   "kb": 353,
+   "te": "Dante: An Essay, To Which Is Added a Translation of De Monarchia",
+   "procedencia": "ensaio de R. W. Church (morreu em 1890) e tradução do De Monarchia por F. J. Church (morreu em 1888), Macmillan, 1878; Gutenberg 33896",
    "capa": "capas/dante-alighieri-monarquia.png",
-   "capa_min": "capas/miniaturas/dante-alighieri-monarquia-240x300.png",
-   "te": "The vision of hell",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é o Inferno (Cary), não a Monarquia"
+   "capa_min": "capas/miniaturas/dante-alighieri-monarquia-240x300.png"
   },
   {
    "t": "Reflexões sobre a Revolução em França",
@@ -326,12 +323,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.epub",
-   "kb": 174,
+   "kb": 328,
+   "te": "Reflections on the Revolution in France",
+   "procedencia": "original inglês de 1790; texto recortado do vol. 3 das Works, John C. Nimmo, Londres, 1887; Gutenberg 15679",
    "capa": "capas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca.png",
-   "capa_min": "capas/miniaturas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca-240x300.png",
-   "te": "Burke's Speech on Conciliation with America",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é o discurso sobre a conciliação com a América"
+   "capa_min": "capas/miniaturas/edmund-burke-reflexoes-sobre-a-revolucao-em-franca-240x300.png"
   },
   {
    "t": "Declínio e Queda do Império Romano",
@@ -473,7 +469,7 @@
    "y": 1900,
    "c": "A",
    "e": "I",
-   "l": "en",
+   "l": "de",
    "eixo": "Instituto",
    "tags": [
     "economia",
@@ -481,11 +477,11 @@
    ],
    "fonte": "archive",
    "arq": "livros/georg-simmel-filosofia-do-dinheiro.epub",
-   "kb": 19,
+   "kb": 574,
+   "te": "Philosophie des Geldes",
+   "procedencia": "original alemão; texto da 2ª edição (1907), a última revista por Simmel, que morreu em 1918; digitalização da reimpressão inalterada de 1958 da 5ª edição (1930), Duncker & Humblot, biblioteca da Universidade McGill no Internet Archive; OCR limpo, sem as notas de página",
    "capa": "capas/georg-simmel-filosofia-do-dinheiro.png",
-   "capa_min": "capas/miniaturas/georg-simmel-filosofia-do-dinheiro-240x300.png",
-   "revisao": "obra errada: o arquivo é um suplemento escolar de Paul G. Lewis (Pabst, 1919), não Simmel",
-   "oculto": true
+   "capa_min": "capas/miniaturas/georg-simmel-filosofia-do-dinheiro-240x300.png"
   },
   {
    "t": "O Federalista",
@@ -686,14 +682,13 @@
     "moderna",
     "tolerancia"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/john-locke-carta-sobre-a-tolerancia.epub",
-   "kb": 529,
+   "kb": 59,
+   "te": "A Letter Concerning Toleration",
+   "procedencia": "versão inglesa de William Popple, 1689; Wikisource en",
    "capa": "capas/john-locke-carta-sobre-a-tolerancia.png",
-   "capa_min": "capas/miniaturas/john-locke-carta-sobre-a-tolerancia-240x300.png",
-   "te": "An Essay Concerning Humane Understanding, Volume 1",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é o Ensaio sobre o Entendimento Humano, vol. 1"
+   "capa_min": "capas/miniaturas/john-locke-carta-sobre-a-tolerancia-240x300.png"
   },
   {
    "t": "Dois Tratados sobre o Governo",
@@ -959,12 +954,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/plutarco-vidas-paralelas.epub",
-   "kb": 504,
+   "kb": 1750,
+   "te": "Plutarch's Lives of the Noble Grecians and Romans",
+   "procedencia": "trad. de Dryden e outros, revista por Arthur Hugh Clough, 1859; Clough morreu em 1861; Gutenberg 674",
    "capa": "capas/plutarco-vidas-paralelas.png",
-   "capa_min": "capas/miniaturas/plutarco-vidas-paralelas-240x300.png",
-   "te": "Plutarch's Morals",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é a Moralia (Morals), não as Vidas"
+   "capa_min": "capas/miniaturas/plutarco-vidas-paralelas-240x300.png"
   },
   {
    "t": "Histórias",
@@ -1082,7 +1076,7 @@
    "te": "The City of God, Volume I"
   },
   {
-   "t": "Sobre a Brevidade da Vida",
+   "t": "Diálogos, com Sobre a Brevidade da Vida",
    "a": "Sêneca",
    "y": 49,
    "c": "A",
@@ -1094,13 +1088,12 @@
     "duracao"
    ],
    "fonte": "gutenberg",
-   "arq": "livros/seneca-sobre-a-brevidade-da-vida.epub",
-   "kb": 453,
-   "capa": "capas/seneca-sobre-a-brevidade-da-vida.png",
-   "capa_min": "capas/miniaturas/seneca-sobre-a-brevidade-da-vida-240x300.png",
-   "te": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é o resumo de L’Estrange (Morals), não De Brevitate Vitae"
+   "arq": "livros/seneca-dialogos-com-sobre-a-brevidade-da-vida.epub",
+   "kb": 449,
+   "te": "Minor Dialogues, Together With the Dialogue on Clemency",
+   "procedencia": "trad. Aubrey Stewart, George Bell and Sons, 1889; Stewart morreu em 1918; contém De Brevitate Vitae e mais onze diálogos; Gutenberg 64576",
+   "capa": "capas/seneca-dialogos-com-sobre-a-brevidade-da-vida.png",
+   "capa_min": "capas/miniaturas/seneca-dialogos-com-sobre-a-brevidade-da-vida-240x300.png"
   },
   {
    "t": "Cartas a Lucílio",
@@ -1108,20 +1101,19 @@
    "y": 65,
    "c": "A",
    "e": "I",
-   "l": "en",
+   "l": "la",
    "eixo": "Instituto",
    "tags": [
     "antiguidade",
     "estoicismo"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/seneca-cartas-a-lucilio.epub",
-   "kb": 453,
+   "kb": 395,
+   "te": "Epistulae morales ad Lucilium",
+   "procedencia": "original latino; Wikisource la",
    "capa": "capas/seneca-cartas-a-lucilio.png",
-   "capa_min": "capas/miniaturas/seneca-cartas-a-lucilio-240x300.png",
-   "te": "Seneca's Morals of a Happy Life, Benefits, Anger and Clemency",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é o resumo de L’Estrange (Morals), não as Epístolas"
+   "capa_min": "capas/miniaturas/seneca-cartas-a-lucilio-240x300.png"
   },
   {
    "t": "A Arte da Guerra",
@@ -1512,14 +1504,13 @@
     "oriente",
     "sabedoria"
    ],
-   "fonte": "wikisource",
+   "fonte": "gutenberg",
    "arq": "livros/anonimo-bhagavad-gita.epub",
-   "kb": 130,
+   "kb": 139,
+   "te": "The Song Celestial; or, Bhagavad-Gîtâ",
+   "procedencia": "trad. Edwin Arnold, 1885; Arnold morreu em 1904; Gutenberg 2388",
    "capa": "capas/anonimo-bhagavad-gita.png",
-   "capa_min": "capas/miniaturas/anonimo-bhagavad-gita-240x300.png",
-   "te": "The Glories of the Bhagavad Gita from The Padma Purana",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é um trecho do Padma Purana sobre a Gita, não a Gita"
+   "capa_min": "capas/miniaturas/anonimo-bhagavad-gita-240x300.png"
   },
   {
    "t": "Dhammapada",
@@ -1527,7 +1518,7 @@
    "y": -300,
    "c": "A",
    "e": "L",
-   "l": "it",
+   "l": "en",
    "eixo": "Literatura",
    "tags": [
     "oriente",
@@ -1535,17 +1526,16 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/anonimo-dhammapada.epub",
-   "kb": 155,
+   "kb": 121,
+   "te": "Dhammapada, a Collection of Verses",
+   "procedencia": "trad. F. Max Müller, Sacred Books of the East, vol. X, 1881; Müller morreu em 1900; sem a introdução e as notas; Gutenberg 2017",
    "capa": "capas/anonimo-dhammapada.png",
-   "capa_min": "capas/miniaturas/anonimo-dhammapada-240x300.png",
-   "te": "Costituzione della Repubblica Italiana e Statuti Costituzionali del Regno d'Italia",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é a Constituição da República Italiana"
+   "capa_min": "capas/miniaturas/anonimo-dhammapada-240x300.png"
   },
   {
    "t": "As Mil e Uma Noites",
    "a": "Anônimo",
-   "y": 1704,
+   "y": 1839,
    "c": "A",
    "e": "L",
    "l": "en",
@@ -1556,12 +1546,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/anonimo-as-mil-e-uma-noites.epub",
-   "kb": 292,
+   "kb": 688,
+   "te": "The Thousand and One Nights, Vol. I",
+   "procedencia": "trad. Edward William Lane, 1839, ed. Edward Stanley Poole; Lane morreu em 1876; primeiro de três volumes, sem as gravuras; Gutenberg 34206",
    "capa": "capas/anonimo-as-mil-e-uma-noites.png",
-   "capa_min": "capas/miniaturas/anonimo-as-mil-e-uma-noites-240x300.png",
-   "te": "Jokes For All Occasions",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é Jokes for All Occasions"
+   "capa_min": "capas/miniaturas/anonimo-as-mil-e-uma-noites-240x300.png"
   },
   {
    "t": "Sonetos Completos",
@@ -1668,14 +1657,13 @@
     "poesia",
     "vanguarda"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/arthur-rimbaud-iluminacoes.epub",
-   "kb": 144,
+   "kb": 154,
+   "te": "Illuminations",
+   "procedencia": "original francês; edição de 1886, Publications de La Vogue, com prefácio de Verlaine; Wikisource fr",
    "capa": "capas/arthur-rimbaud-iluminacoes.png",
-   "capa_min": "capas/miniaturas/arthur-rimbaud-iluminacoes-240x300.png",
-   "te": "Poésies complètes",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo são as Poésies complètes de 1895, sem as Illuminations"
+   "capa_min": "capas/miniaturas/arthur-rimbaud-iluminacoes-240x300.png"
   },
   {
    "t": "O Mundo como Vontade e Representação",
@@ -2361,14 +2349,12 @@
     "portugal",
     "poesia"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/fernando-pessoa-mensagem.epub",
-   "kb": 121,
+   "kb": 67,
+   "procedencia": "primeira edição, Parceria António Maria Pereira, Lisboa, 1934, na ortografia da época; Pessoa morreu em 1935; nos EUA livre só em 2030; Wikisource pt",
    "capa": "capas/fernando-pessoa-mensagem.png",
-   "capa_min": "capas/miniaturas/fernando-pessoa-mensagem-240x300.png",
-   "te": "Orpheu Nº1",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é a revista Orpheu nº 1"
+   "capa_min": "capas/miniaturas/fernando-pessoa-mensagem-240x300.png"
   },
   {
    "t": "Livro do Desassossego",
@@ -2517,12 +2503,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/francesco-petrarca-cancioneiro.epub",
-   "kb": 229,
+   "kb": 3838,
+   "te": "The Sonnets, Triumphs, and Other Poems of Petrarch",
+   "procedencia": "vários tradutores dos séculos XVIII e XIX, com vida do poeta por Thomas Campbell (morreu em 1844); George Bell and Sons, 1879, reimpressão da edição Bohn de 1859; Gutenberg 17650",
    "capa": "capas/francesco-petrarca-cancioneiro.png",
-   "capa_min": "capas/miniaturas/francesco-petrarca-cancioneiro-240x300.png",
-   "te": "Petrarch's Letters to Classical Authors",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo são as cartas a autores clássicos, não o Canzoniere"
+   "capa_min": "capas/miniaturas/francesco-petrarca-cancioneiro-240x300.png"
   },
   {
    "t": "Gargântua e Pantagruel",
@@ -2810,19 +2795,18 @@
    "y": 1714,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "filosofia"
    ],
    "fonte": "gutenberg",
    "arq": "livros/gottfried-wilhelm-leibniz-monadologia.epub",
-   "kb": 486,
+   "kb": 195,
+   "te": "La Monadologie, avec étude et notes de Clodius Piat",
+   "procedencia": "original francês; edição de Clodius Piat, Lecoffre, Paris, 1900; Piat morreu em 1918; Gutenberg 17641",
    "capa": "capas/gottfried-wilhelm-leibniz-monadologia.png",
-   "capa_min": "capas/miniaturas/gottfried-wilhelm-leibniz-monadologia-240x300.png",
-   "te": "Theodicy",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é a Teodiceia"
+   "capa_min": "capas/miniaturas/gottfried-wilhelm-leibniz-monadologia-240x300.png"
   },
   {
    "t": "Caetés",
@@ -3404,19 +3388,18 @@
    "y": 1809,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "romance"
    ],
    "fonte": "gutenberg",
    "arq": "livros/johann-wolfgang-von-goethe-as-afinidades-eletivas.epub",
-   "kb": 1007,
+   "kb": 388,
+   "te": "Die Wahlverwandtschaften",
+   "procedencia": "original alemão; Gutenberg 2403",
    "capa": "capas/johann-wolfgang-von-goethe-as-afinidades-eletivas.png",
-   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-as-afinidades-eletivas-240x300.png",
-   "te": "Goethe's Theory of Colours",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é a Teoria das Cores"
+   "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-as-afinidades-eletivas-240x300.png"
   },
   {
    "t": "Paraíso Perdido",
@@ -3630,12 +3613,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/lewis-carroll-atraves-do-espelho.epub",
-   "kb": 185,
+   "kb": 507,
+   "te": "Through the Looking-Glass, and What Alice Found There",
+   "procedencia": "original inglês, 1871; Gutenberg 12",
    "capa": "capas/lewis-carroll-atraves-do-espelho.png",
-   "capa_min": "capas/miniaturas/lewis-carroll-atraves-do-espelho-240x300.png",
-   "te": "Alice's Adventures in Wonderland",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é Alice no País das Maravilhas"
+   "capa_min": "capas/miniaturas/lewis-carroll-atraves-do-espelho-240x300.png"
   },
   {
    "t": "A Caça ao Snark",
@@ -3651,12 +3633,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/lewis-carroll-a-caca-ao-snark.epub",
-   "kb": 185,
+   "kb": 270,
+   "te": "The Hunting of the Snark: An Agony in Eight Fits",
+   "procedencia": "original inglês, 1876; Gutenberg 13",
    "capa": "capas/lewis-carroll-a-caca-ao-snark.png",
-   "capa_min": "capas/miniaturas/lewis-carroll-a-caca-ao-snark-240x300.png",
-   "te": "Alice's Adventures in Wonderland",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é Alice no País das Maravilhas"
+   "capa_min": "capas/miniaturas/lewis-carroll-a-caca-ao-snark-240x300.png"
   },
   {
    "t": "Guerra e Paz",
@@ -4629,20 +4610,19 @@
    "y": 1930,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
     "cultura"
    ],
-   "fonte": "gutenberg",
+   "fonte": "archive",
    "arq": "livros/sigmund-freud-o-mal-estar-na-civilizacao.epub",
-   "kb": 936,
+   "kb": 79,
+   "te": "Das Unbehagen in der Kultur",
+   "procedencia": "original alemão; primeira edição, Internationaler Psychoanalytischer Verlag, Viena, 1930; Freud morreu em 1939; digitalização do Internet Archive, OCR com pequenos defeitos",
    "capa": "capas/sigmund-freud-o-mal-estar-na-civilizacao.png",
-   "capa_min": "capas/miniaturas/sigmund-freud-o-mal-estar-na-civilizacao-240x300.png",
-   "te": "Introductory lectures on psycho-analysis",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo são as Conferências introdutórias"
+   "capa_min": "capas/miniaturas/sigmund-freud-o-mal-estar-na-civilizacao-240x300.png"
   },
   {
    "t": "Antígona",
@@ -4807,12 +4787,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-mann-a-montanha-magica.epub",
-   "kb": 2484,
+   "kb": 1300,
+   "te": "Der Zauberberg",
+   "procedencia": "original alemão, S. Fischer, 1924; os dois volumes reunidos num EPUB; Mann morreu em 1955, livre no Brasil desde 2026; Gutenberg 65661 e 65662",
    "capa": "capas/thomas-mann-a-montanha-magica.png",
-   "capa_min": "capas/miniaturas/thomas-mann-a-montanha-magica-240x300.png",
-   "te": "Tonio Kröger",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é Tonio Kröger"
+   "capa_min": "capas/miniaturas/thomas-mann-a-montanha-magica-240x300.png"
   },
   {
    "t": "Notre-Dame de Paris",
@@ -4955,12 +4934,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-shakespeare-sonetos.epub",
-   "kb": 318,
+   "kb": 380,
+   "te": "Shakespeare's Sonnets",
+   "procedencia": "original inglês, 1609; Gutenberg 1041",
    "capa": "capas/william-shakespeare-sonetos.png",
-   "capa_min": "capas/miniaturas/william-shakespeare-sonetos-240x300.png",
-   "te": "A Midsummer Night's Dream",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é Sonho de uma Noite de Verão"
+   "capa_min": "capas/miniaturas/william-shakespeare-sonetos-240x300.png"
   },
   {
    "t": "A Tempestade",
@@ -4975,12 +4953,11 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/william-shakespeare-a-tempestade.epub",
-   "kb": 318,
+   "kb": 236,
+   "te": "The Tempest",
+   "procedencia": "original inglês; texto da edição Cambridge de 1863, Clark e Wright, com as notas; Gutenberg 23042",
    "capa": "capas/william-shakespeare-a-tempestade.png",
-   "capa_min": "capas/miniaturas/william-shakespeare-a-tempestade-240x300.png",
-   "te": "A Midsummer Night's Dream",
-   "oculto": true,
-   "revisao": "obra errada: o arquivo é Sonho de uma Noite de Verão"
+   "capa_min": "capas/miniaturas/william-shakespeare-a-tempestade-240x300.png"
   }
  ]
 }

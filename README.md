@@ -2,7 +2,7 @@
 
 *quod manet*
 
-241 obras em domínio público, em EPUB, prontas para o Kindle e para qualquer leitor.
+264 obras em domínio público, em EPUB, prontas para o Kindle e para qualquer leitor.
 Índice em `index.html`, feed OPDS em `opds.xml` (com capa e miniatura por obra), catálogo em `catalogo.json`,
 capas em `capas/`.
 
@@ -19,4 +19,4 @@ Dois eixos: **Instituto** (o que nas instituições atravessa gerações) e **Li
 Project Gutenberg, Wikisource e Internet Archive. A fonte de cada obra fica registrada no acervo.
 As capas são tipográficas, feitas pelo instituto no seu padrão visual; nenhuma reproduz capa de edição sob direito.
 
-Gerado por `pdlivro_site.py` v2 em 2026-09-10.
+Gerado por `pdlivro_site.py` v2 em 2026-09-11.
