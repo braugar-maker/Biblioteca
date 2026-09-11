@@ -1869,7 +1869,8 @@
    "capa": "capas/anton-tchekhov-o-jardim-das-cerejeiras.png",
    "capa_min": "capas/miniaturas/anton-tchekhov-o-jardim-das-cerejeiras-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/anton-tchekhov-o-jardim-das-cerejeiras.pdf",
-   "pdf_kb": 1356
+   "pdf_kb": 1356,
+   "procedencia": "Coletânea Two Plays by Tchekhof (The Seagull, The Cherry Orchard), trad. George Calderon, 1912 (morreu em 1915); Gutenberg"
   },
   {
    "t": "Só",
@@ -3134,7 +3135,8 @@
    "capa_min": "capas/miniaturas/g-w-f-hegel-fenomenologia-do-espirito-240x300.png",
    "te": "The Phenomenology of Mind",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/g-w-f-hegel-fenomenologia-do-espirito.pdf",
-   "pdf_kb": 998
+   "pdf_kb": 998,
+   "procedencia": "Trad. James Black Baillie, 1910 (morreu em 1940); Wikisource en"
   },
   {
    "t": "Aurélia",
@@ -3260,7 +3262,8 @@
    "capa": "capas/graciliano-ramos-caetes.png",
    "capa_min": "capas/miniaturas/graciliano-ramos-caetes-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/graciliano-ramos-caetes.pdf",
-   "pdf_kb": 2146
+   "pdf_kb": 2146,
+   "procedencia": "Primeira edição, Schmidt, 1933; Graciliano morreu em 1953: livre no Brasil desde 2024, camada B"
   },
   {
    "t": "Vidas Secas",
@@ -3642,7 +3645,8 @@
    "capa": "capas/homero-iliada.png",
    "capa_min": "capas/miniaturas/homero-iliada-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/homero-iliada.pdf",
-   "pdf_kb": 3043
+   "pdf_kb": 3043,
+   "procedencia": "Trad. Manuel Odorico Mendes (morreu em 1864); Wikisource pt"
   },
   {
    "t": "Pai Goriot",
@@ -3816,7 +3820,8 @@
    "capa": "capas/james-joyce-finnegans-wake.png",
    "capa_min": "capas/miniaturas/james-joyce-finnegans-wake-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/james-joyce-finnegans-wake.pdf",
-   "pdf_kb": 4397
+   "pdf_kb": 4397,
+   "procedencia": "Primeira edição, Faber, 1939; Joyce morreu em 1941: camada B"
   },
   {
    "t": "Orgulho e Preconceito",
@@ -3899,7 +3904,8 @@
    "capa": "capas/johann-wolfgang-von-goethe-fausto.png",
    "capa_min": "capas/miniaturas/johann-wolfgang-von-goethe-fausto-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/johann-wolfgang-von-goethe-fausto.pdf",
-   "pdf_kb": 2401
+   "pdf_kb": 2401,
+   "procedencia": "Trad. António Feliciano de Castilho (morreu em 1875); Wikisource pt"
   },
   {
    "t": "As Afinidades Eletivas",
@@ -3939,7 +3945,8 @@
    "capa": "capas/john-milton-paraiso-perdido.png",
    "capa_min": "capas/miniaturas/john-milton-paraiso-perdido-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/john-milton-paraiso-perdido.pdf",
-   "pdf_kb": 3241
+   "pdf_kb": 3241,
+   "procedencia": "Trad. António José de Lima Leitão (morreu em 1853); Wikisource pt"
   },
   {
    "t": "Viagens de Gulliver",
@@ -4149,7 +4156,8 @@
    "capa": "capas/lewis-carroll-alice-no-pais-das-maravilhas.png",
    "capa_min": "capas/miniaturas/lewis-carroll-alice-no-pais-das-maravilhas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lewis-carroll-alice-no-pais-das-maravilhas.pdf",
-   "pdf_kb": 12516
+   "pdf_kb": 12516,
+   "procedencia": "Tradução e adaptação de Monteiro Lobato (morreu em 1948), 8ª ed.; Wikisource pt: mesma situação da Alice no País do Espelho, decidida hoje como ficha própria"
   },
   {
    "t": "Através do Espelho",
@@ -4386,7 +4394,8 @@
    "capa": "capas/lima-barreto-clara-dos-anjos.png",
    "capa_min": "capas/miniaturas/lima-barreto-clara-dos-anjos-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/lima-barreto-clara-dos-anjos.pdf",
-   "pdf_kb": 972
+   "pdf_kb": 972,
+   "procedencia": "Edição de 1948 (póstuma); Lima Barreto morreu em 1922: livre"
   },
   {
    "t": "Seis Personagens à Procura de um Autor",
@@ -4917,7 +4926,8 @@
    "capa_min": "capas/miniaturas/miguel-de-cervantes-dom-quixote-240x300.png",
    "te": "O engenhoso fidalgo D. Quixote de la Mancha",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/miguel-de-cervantes-dom-quixote.pdf",
-   "pdf_kb": 8330
+   "pdf_kb": 8330,
+   "procedencia": "Trad. Visconde de Castilho (morreu em 1875) e Visconde de Azevedo (morreu em 1882), 1876 a 1878; Wikisource pt"
   },
   {
    "t": "Urupês",
@@ -5003,7 +5013,8 @@
    "capa_min": "capas/miniaturas/nikolai-gogol-almas-mortas-240x300.png",
    "te": "Dead Souls",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/nikolai-gogol-almas-mortas.pdf",
-   "pdf_kb": 2925
+   "pdf_kb": 2925,
+   "procedencia": "Trad. C. J. Hogarth, 1916 (Charles James Hogarth morreu em 1945); Wikisource en"
   },
   {
    "t": "Poesias",
@@ -5044,7 +5055,8 @@
    "capa": "capas/oscar-wilde-o-retrato-de-dorian-gray.png",
    "capa_min": "capas/miniaturas/oscar-wilde-o-retrato-de-dorian-gray-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/oscar-wilde-o-retrato-de-dorian-gray.pdf",
-   "pdf_kb": 926
+   "pdf_kb": 926,
+   "procedencia": "Trad. João do Rio (morreu em 1921); Wikisource pt"
   },
   {
    "t": "De Profundis",
