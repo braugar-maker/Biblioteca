@@ -966,7 +966,8 @@
    "capa_min": "capas/miniaturas/nicolau-maquiavel-o-principe-240x300.png",
    "te": "The Prince",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf",
-   "pdf_kb": 1712
+   "pdf_kb": 1712,
+   "procedencia": "trad. William Kenaz Marriott (morreu em 1927), Dent, 1908; Wikisource en"
   },
   {
    "t": "História de Florença",
@@ -1140,7 +1141,8 @@
    "capa": "capas/rui-barbosa-oracao-aos-mocos.png",
    "capa_min": "capas/miniaturas/rui-barbosa-oracao-aos-mocos-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/rui-barbosa-oracao-aos-mocos.pdf",
-   "pdf_kb": 635
+   "pdf_kb": 635,
+   "revisao": "OBRA ERRADA: o arquivo é A Imprensa e o Dever da Verdade (Senado, 2019, com prefácios de Cid Benjamin e Christian Lynch), não a Oração aos Moços"
   },
   {
    "t": "Do Direito Natural e das Gentes",
@@ -1563,7 +1565,8 @@
    "capa_min": "capas/miniaturas/aleksandr-puchkin-eugenio-oneguin-240x300.png",
    "te": "Eugene Oneguine [Onegin]",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aleksandr-puchkin-eugenio-oneguin.pdf",
-   "pdf_kb": 864
+   "pdf_kb": 864,
+   "procedencia": "trad. Henry Spalding (morreu em 1907), Macmillan, 1881; Gutenberg 23997"
   },
   {
    "t": "O Mulato",
@@ -1867,7 +1870,8 @@
    "capa_min": "capas/miniaturas/aristofanes-as-nuvens-240x300.png",
    "te": "The Clouds",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aristofanes-as-nuvens.pdf",
-   "pdf_kb": 448
+   "pdf_kb": 448,
+   "procedencia": "trad. William James Hickie (morreu em 1892), Bohn; Gutenberg 2562"
   },
   {
    "t": "Iluminações",
@@ -1909,7 +1913,8 @@
    "capa_min": "capas/miniaturas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao-240x300.png",
    "te": "The World as Will and Idea (Vol. 1 of 3)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.pdf",
-   "pdf_kb": 4887
+   "pdf_kb": 4887,
+   "revisao": "CONFERIR: John Kemp sem data de morte em nenhuma autoridade; Haldane morreu em 1928"
   },
   {
    "t": "Parerga e Paralipomena",
@@ -2342,7 +2347,8 @@
    "capa_min": "capas/miniaturas/dante-alighieri-a-divina-comedia-240x300.png",
    "te": "The Divine Comedy of Dante Alighieri: The Inferno",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/dante-alighieri-a-divina-comedia.pdf",
-   "pdf_kb": 4297
+   "pdf_kb": 4297,
+   "revisao": "CONFERIR: James Romanes Sibbald morreu por volta de 1886 (fonte secundária, Cunningham); provavelmente livre"
   },
   {
    "t": "Jacques, o Fatalista",
@@ -2727,7 +2733,8 @@
    "capa": "capas/filippo-tommaso-marinetti-manifesto-futurista.png",
    "capa_min": "capas/miniaturas/filippo-tommaso-marinetti-manifesto-futurista-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/filippo-tommaso-marinetti-manifesto-futurista.pdf",
-   "pdf_kb": 265
+   "pdf_kb": 265,
+   "revisao": "DIREITO: tradução inglesa anônima, provavelmente de James Joll (1960, morreu em 1994); trocar pelo original italiano (Wikisource it ou Gutenberg 28144) ou francês"
   },
   {
    "t": "Memórias do Subsolo",
@@ -2792,7 +2799,8 @@
    "capa_min": "capas/miniaturas/fiodor-dostoievski-o-idiota-240x300.png",
    "te": "The Idiot",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/fiodor-dostoievski-o-idiota.pdf",
-   "pdf_kb": 5045
+   "pdf_kb": 5045,
+   "procedencia": "trad. Eva Martin (morreu em 1940), Dent, 1913; Gutenberg 2638"
   },
   {
    "t": "Os Demônios",
@@ -2902,7 +2910,8 @@
    "capa_min": "capas/miniaturas/franz-kafka-a-metamorfose-240x300.png",
    "te": "Metamorphosis",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/franz-kafka-a-metamorfose.pdf",
-   "pdf_kb": 847
+   "pdf_kb": 847,
+   "revisao": "DIREITO: tradução de David Wyllie (2002), copyright cedido ao Gutenberg, não é domínio público; trocar pelo original alemão (Die Verwandlung) ou retirar"
   },
   {
    "t": "O Processo",
@@ -2924,7 +2933,8 @@
    "capa_min": "capas/miniaturas/franz-kafka-o-processo-240x300.png",
    "te": "The Trial",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf",
-   "pdf_kb": 1504
+   "pdf_kb": 1504,
+   "revisao": "DIREITO: tradução de David Wyllie (2003), copyright cedido ao Gutenberg, não é domínio público; trocar pelo original alemão (Der Process) ou retirar"
   },
   {
    "t": "O Nascimento da Tragédia",
@@ -2945,7 +2955,8 @@
    "capa_min": "capas/miniaturas/friedrich-nietzsche-o-nascimento-da-tragedia-240x300.png",
    "te": "The Birth of Tragedy; or, Hellenism and Pessimism",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-o-nascimento-da-tragedia.pdf",
-   "pdf_kb": 1768
+   "pdf_kb": 1768,
+   "revisao": "CONFERIR: William August Haussmann (1870-1940 segundo registro genealógico não confirmado); provavelmente livre"
   },
   {
    "t": "Humano, Demasiado Humano",
@@ -2987,7 +2998,8 @@
    "capa_min": "capas/miniaturas/friedrich-nietzsche-a-gaia-ciencia-240x300.png",
    "te": "The Joyful Wisdom (\"La Gaya Scienza\")",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-a-gaia-ciencia.pdf",
-   "pdf_kb": 2706
+   "pdf_kb": 2706,
+   "revisao": "DIREITO: Paul Victor Cohn morreu em 14/9/1956: livre no Brasil só em 2027"
   },
   {
    "t": "Assim Falou Zaratustra",
@@ -3051,7 +3063,8 @@
    "capa_min": "capas/miniaturas/friedrich-nietzsche-genealogia-da-moral-240x300.png",
    "te": "The Genealogy of Morals",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-genealogia-da-moral.pdf",
-   "pdf_kb": 1927
+   "pdf_kb": 1927,
+   "procedencia": "trad. Horace Barnett Samuel (morreu em 1950); apêndice Peoples and Countries trad. John McFarland Kennedy (morreu em 1918); ed. Oscar Levy (morreu em 1946), Foulis, 1913; Gutenberg 52319"
   },
   {
    "t": "Ecce Homo",
@@ -3239,7 +3252,8 @@
    "capa": "capas/graciliano-ramos-vidas-secas.png",
    "capa_min": "capas/miniaturas/graciliano-ramos-vidas-secas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/graciliano-ramos-vidas-secas.pdf",
-   "pdf_kb": 850
+   "pdf_kb": 850,
+   "procedencia": "texto da 1ª edição, José Olympio, 1938, fixado pelo Projecto Adamastor (Portugal, 2024, CC BY-SA 4.0); Graciliano morreu em 1953: livre no Brasil desde 2024, camada B"
   },
   {
    "t": "Álcoois",
@@ -3365,7 +3379,8 @@
    "capa_min": "capas/miniaturas/guy-de-maupassant-contos-240x300.png",
    "te": "Complete Original Short Stories of Guy De Maupassant",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/guy-de-maupassant-contos.pdf",
-   "pdf_kb": 10485
+   "pdf_kb": 10485,
+   "revisao": "CONFERIR: tradutores A. E. Henderson e L. C. G. Quesada sem data de morte; McMaster morreu em 1946"
   },
   {
    "t": "Ensaio sobre os Dados Imediatos da Consciência",
@@ -3408,7 +3423,8 @@
    "capa_min": "capas/miniaturas/henri-bergson-materia-e-memoria-240x300.png",
    "te": "Matter and Memory",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/henri-bergson-materia-e-memoria.pdf",
-   "pdf_kb": 2631
+   "pdf_kb": 2631,
+   "procedencia": "trad. Nancy Margaret Paul (morreu em 1953) e W. Scott Palmer, pseudônimo de Mary Emily Dowson (morreu em 1941), Swan Sonnenschein e Macmillan, 1911; Wikisource en"
   },
   {
    "t": "O Riso",
@@ -4224,7 +4240,8 @@
    "capa_min": "capas/miniaturas/liev-tolstoi-a-morte-de-ivan-ilitch-240x300.png",
    "te": "The Death of Ivan Ilych",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/liev-tolstoi-a-morte-de-ivan-ilitch.pdf",
-   "pdf_kb": 807
+   "pdf_kb": 807,
+   "procedencia": "trad. Louise Maude (morreu em 1939) e Aylmer Maude (morreu em 1938), Oxford, 1923; Wikisource en"
   },
   {
    "t": "Recordações do Escrivão Isaías Caminha",
@@ -4350,7 +4367,8 @@
    "capa": "capas/luigi-pirandello-seis-personagens-a-procura-de-um-autor.png",
    "capa_min": "capas/miniaturas/luigi-pirandello-seis-personagens-a-procura-de-um-autor-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/luigi-pirandello-seis-personagens-a-procura-de-um-autor.pdf",
-   "pdf_kb": 707
+   "pdf_kb": 707,
+   "procedencia": "trad. Edward Storer (morreu em 1944), Dutton, 1922, sem o prefácio de 1925; Internet Archive"
   },
   {
    "t": "Os Lusíadas",
@@ -4412,7 +4430,8 @@
    "capa": "capas/machado-de-assis-contos-fluminenses.png",
    "capa_min": "capas/miniaturas/machado-de-assis-contos-fluminenses-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-contos-fluminenses.pdf",
-   "pdf_kb": 1715
+   "pdf_kb": 1715,
+   "procedencia": "original de 1870 (Garnier); texto fixado pelo NUPILL/UFSC para o Portal Domínio Público a partir da Obra Completa (Nova Aguilar, 1994), sem aparato; Internet Archive"
   },
   {
    "t": "Ressurreição",
@@ -4605,7 +4624,8 @@
    "capa": "capas/machado-de-assis-varias-historias.png",
    "capa_min": "capas/miniaturas/machado-de-assis-varias-historias-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-varias-historias.pdf",
-   "pdf_kb": 1170
+   "pdf_kb": 1170,
+   "revisao": "QUALIDADE: scan Google da ed. Garnier c. 1904 com OCR feito como espanhol, ilegível em trechos; trocar pela transcrição do Wikisource pt"
   },
   {
    "t": "Páginas Recolhidas",
@@ -4625,7 +4645,8 @@
    "capa": "capas/machado-de-assis-paginas-recolhidas.png",
    "capa_min": "capas/miniaturas/machado-de-assis-paginas-recolhidas-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf",
-   "pdf_kb": 673
+   "pdf_kb": 673,
+   "procedencia": "original de 1899 (Garnier); texto fixado pelo NUPILL/UFSC para o Portal Domínio Público a partir da Obra Completa (Nova Aguilar, 1994), sem aparato; Internet Archive"
   },
   {
    "t": "Dom Casmurro",
@@ -4798,7 +4819,8 @@
    "capa": "capas/mario-de-andrade-macunaima.png",
    "capa_min": "capas/miniaturas/mario-de-andrade-macunaima-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/mario-de-andrade-macunaima.pdf",
-   "pdf_kb": 1278
+   "pdf_kb": 1278,
+   "revisao": "DIREITO parcial: edição Poeteiro/Projeto Livro Livre 2016 com Notas biográficas de Edgard Cavalheiro (morreu em 1958, livre em 2029) e nota editorial de Iba Mendes; cortar os apêndices e manter o texto"
   },
   {
    "t": "Frankenstein",
