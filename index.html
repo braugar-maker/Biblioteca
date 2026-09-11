@@ -49,6 +49,8 @@ a.baixar{font-family:Figtree,system-ui,sans-serif;font-size:.7rem;letter-spacing
  align-self:flex-start;margin-top:.2rem}
 a.baixar:hover{background:var(--sable);color:var(--prata)}
 .baixe{display:flex;gap:.4rem;flex-wrap:wrap;margin-top:.2rem} .baixe a.baixar{margin-top:0}
+a.baixar.pdf{color:var(--neutro);border-color:var(--neutro)}
+a.baixar.pdf:hover{background:var(--neutro);color:var(--prata)}
 footer{max-width:72rem;margin:0 auto;padding:2rem 1.5rem 4rem;color:var(--neutro);font-size:.92rem;border-top:1px solid var(--neutro2)}
 footer p{max-width:60rem}
 </style></head><body>
@@ -96,7 +98,7 @@ function pinta(){
     <div class="tit">${esc(tit(d))}</div>
     ${tit(d)!==d.t?`<div class="ref">${esc(d.t)}</div>`:''}
     <div class="meta">${d.y>0?d.y+' · ':''}${d.eixo}${d.l!=='pt'?' · em '+(IDIOMA[d.l]||d.l):''}${d.c==='B'?' · <span class="b">camada B</span>':''}</div>
-    <div class="baixe"><a class="baixar" href="${esc(d.arq)}" download>EPUB · ${d.kb} KB</a>${d.pdf?`<a class="baixar" href="${esc(d.pdf)}">PDF · ${d.pdf_kb} KB</a>`:''}${(d.pdfs||[]).map(p=>`<a class="baixar" href="${esc(p.url)}">PDF, ${esc(p.rotulo)} · ${p.kb} KB</a>`).join('')}</div></li>`).join('');
+    <div class="baixe"><a class="baixar" href="${esc(d.arq)}" download>EPUB · ${d.kb} KB</a>${d.pdf?`<a class="baixar pdf" href="${esc(d.pdf)}">PDF · ${d.pdf_kb} KB</a>`:''}${(d.pdfs||[]).map(p=>`<a class="baixar pdf" href="${esc(p.url)}">PDF · ${esc(p.rotulo.replace(/^Volume /,'Vol. ').replace(/^Parte (\d+) de (\d+)$/,'$1 de $2'))} · ${p.kb} KB</a>`).join('')}</div></li>`).join('');
 }
 busca.addEventListener('input',pinta);
 document.querySelectorAll('[data-eixo]').forEach(b=>b.addEventListener('click',()=>{
