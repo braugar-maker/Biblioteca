@@ -3640,6 +3640,26 @@
    "capa_min": "capas/miniaturas/lewis-carroll-a-caca-ao-snark-240x300.png"
   },
   {
+   "t": "Alice no País do Espelho, tradução e adaptação de Monteiro Lobato",
+   "a": "Lewis Carroll",
+   "y": 1933,
+   "c": "B",
+   "e": "L",
+   "l": "pt",
+   "eixo": "Literatura",
+   "tags": [
+    "nonsense",
+    "invencao-verbal",
+    "brasil"
+   ],
+   "fonte": "wikisource",
+   "arq": "livros/lewis-carroll-alice-no-pais-do-espelho-traducao-e-adaptacao-de-monteiro-lobato.epub",
+   "kb": 3470,
+   "procedencia": "tradução e adaptação de Monteiro Lobato, 1ª edição 1933; transcrição da 2ª edição, Editora Brasiliense, São Paulo, 1958; Lobato morreu em 1948, livre no Brasil desde 2019, nos EUA só em 2029; original de Carroll, 1871; Wikisource pt",
+   "capa": "capas/lewis-carroll-alice-no-pais-do-espelho-traducao-e-adaptacao-de-monteiro-lobato.png",
+   "capa_min": "capas/miniaturas/lewis-carroll-alice-no-pais-do-espelho-traducao-e-adaptacao-de-monteiro-lobato-240x300.png"
+  },
+  {
    "t": "Guerra e Paz",
    "a": "Liev Tolstói",
    "y": 1869,
