@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:pdlivro:aeviternitas</id>
   <title>Biblioteca Aevum, Instituto Aeviternitas</title>
-  <updated>2026-09-11T19:41:14Z</updated>
+  <updated>2026-09-11T19:55:13Z</updated>
   <author><name>Instituto Aeviternitas</name></author>
   <link rel="self" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://braugar-maker.github.io/Biblioteca/opds.xml"/>
   <link rel="start" type="application/atom+xml;profile=opds-catalog;kind=acquisition" href="https://braugar-maker.github.io/Biblioteca/opds.xml"/>
@@ -11,7 +11,7 @@
     <title>The Theory of Moral Sentiments</title>
     <id>urn:pdlivro:adam-smith-teoria-dos-sentimentos-morais</id>
     <author><name>Adam Smith</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · economia, etica · em inglês · título de referência: Teoria dos Sentimentos Morais</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -24,7 +24,7 @@
     <title>An Inquiry into the Nature and Causes of the Wealth of Nations</title>
     <id>urn:pdlivro:adam-smith-a-riqueza-das-nacoes</id>
     <author><name>Adam Smith</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · economia, instituicoes · em inglês · título de referência: A Riqueza das Nações</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -37,7 +37,7 @@
     <title>A Organização Nacional</title>
     <id>urn:pdlivro:alberto-torres-a-organizacao-nacional</id>
     <author><name>Alberto Torres</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, instituicoes</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -50,7 +50,7 @@
     <title>Democracy in America: Volume 1</title>
     <id>urn:pdlivro:alexis-de-tocqueville-a-democracia-na-america</id>
     <author><name>Alexis de Tocqueville</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · democracia, associacao · em inglês · título de referência: A Democracia na América</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -63,7 +63,7 @@
     <title>The State of Society in France Before the Revolution of 1789</title>
     <id>urn:pdlivro:alexis-de-tocqueville-o-antigo-regime-e-a-revolucao</id>
     <author><name>Alexis de Tocqueville</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · continuidade, ruptura · em inglês · título de referência: O Antigo Regime e a Revolução</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -76,7 +76,7 @@
     <title>The Nicomachean ethics of Aristotle</title>
     <id>urn:pdlivro:aristoteles-etica-a-nicomaco</id>
     <author><name>Aristóteles</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, etica · em inglês · título de referência: Ética a Nicômaco</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -89,7 +89,7 @@
     <title>Politics: A Treatise on Government</title>
     <id>urn:pdlivro:aristoteles-politica</id>
     <author><name>Aristóteles</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, politica · em inglês · título de referência: Política</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -102,7 +102,7 @@
     <title>The Athenian Constitution</title>
     <id>urn:pdlivro:aristoteles-a-constituicao-de-atenas</id>
     <author><name>Aristóteles</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, constituicao · em inglês · título de referência: A Constituição de Atenas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -115,7 +115,7 @@
     <title>Consolidação das Leis Civis</title>
     <id>urn:pdlivro:augusto-teixeira-de-freitas-consolidacao-das-leis-civis</id>
     <author><name>Augusto Teixeira de Freitas</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, codificacao</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -128,7 +128,7 @@
     <title>The Consolation of Philosophy</title>
     <id>urn:pdlivro:boecio-a-consolacao-da-filosofia</id>
     <author><name>Boécio</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · escolastica, duracao · em inglês · título de referência: A Consolação da Filosofia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -141,7 +141,7 @@
     <title>Capítulos de História Colonial</title>
     <id>urn:pdlivro:capistrano-de-abreu-capitulos-de-historia-colonial</id>
     <author><name>Capistrano de Abreu</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, colonia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -154,7 +154,7 @@
     <title>De legibus</title>
     <id>urn:pdlivro:cicero-das-leis</id>
     <author><name>Cícero</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>la</dc:language>
     <content type="text">Instituto · antiguidade, direito · em latim · título de referência: Das Leis</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -167,7 +167,7 @@
     <title>Da República</title>
     <id>urn:pdlivro:cicero-da-republica</id>
     <author><name>Cícero</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · antiguidade, politica</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -180,7 +180,7 @@
     <title>De Officiis</title>
     <id>urn:pdlivro:cicero-dos-deveres</id>
     <author><name>Cícero</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, etica · em inglês · título de referência: Dos Deveres</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -193,7 +193,7 @@
     <title>The Analects of Confucius (from the Chinese Classics)</title>
     <id>urn:pdlivro:confucio-analectos</id>
     <author><name>Confúcio</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · oriente, etica · em inglês · título de referência: Analectos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -206,7 +206,7 @@
     <title>Dante: An Essay, To Which Is Added a Translation of De Monarchia</title>
     <id>urn:pdlivro:dante-alighieri-monarquia</id>
     <author><name>Dante Alighieri</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · escolastica, politica · em inglês · título de referência: Monarquia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -219,7 +219,7 @@
     <title>Reflections on the Revolution in France</title>
     <id>urn:pdlivro:edmund-burke-reflexoes-sobre-a-revolucao-em-franca</id>
     <author><name>Edmund Burke</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · conservadorismo, heranca · em inglês · título de referência: Reflexões sobre a Revolução em França</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -232,7 +232,7 @@
     <title>The History of the Decline and Fall of the Roman Empire</title>
     <id>urn:pdlivro:edward-gibbon-declinio-e-queda-do-imperio-romano</id>
     <author><name>Edward Gibbon</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · historia, decadencia · em inglês · título de referência: Declínio e Queda do Império Romano</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -250,7 +250,7 @@
     <title>The Elementary Forms of the Religious Life</title>
     <id>urn:pdlivro:emile-durkheim-as-formas-elementares-da-vida-religiosa</id>
     <author><name>Émile Durkheim</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · ritual, reproducao · em inglês · título de referência: As Formas Elementares da Vida Religiosa</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -263,7 +263,7 @@
     <title>Os Sertões</title>
     <id>urn:pdlivro:euclides-da-cunha-os-sertoes</id>
     <author><name>Euclides da Cunha</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, formacao</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -276,7 +276,7 @@
     <title>Novum Organum</title>
     <id>urn:pdlivro:francis-bacon-novum-organum</id>
     <author><name>Francis Bacon</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, metodo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -289,7 +289,7 @@
     <title>New Atlantis</title>
     <id>urn:pdlivro:francis-bacon-nova-atlantida</id>
     <author><name>Francis Bacon</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, utopia · em inglês · título de referência: Nova Atlântida</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -302,7 +302,7 @@
     <title>The Ancient City</title>
     <id>urn:pdlivro:fustel-de-coulanges-a-cidade-antiga</id>
     <author><name>Fustel de Coulanges</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · familia, culto-antepassados, sucessao · em inglês · título de referência: A Cidade Antiga</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -315,7 +315,7 @@
     <title>Philosophy of Right</title>
     <id>urn:pdlivro:g-w-f-hegel-filosofia-do-direito</id>
     <author><name>G. W. F. Hegel</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · estado, eticidade · em inglês · título de referência: Filosofia do Direito</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -328,7 +328,7 @@
     <title>Philosophie des Geldes</title>
     <id>urn:pdlivro:georg-simmel-filosofia-do-dinheiro</id>
     <author><name>Georg Simmel</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Instituto · economia, forma-social · em alemão · título de referência: Filosofia do Dinheiro</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -341,7 +341,7 @@
     <title>O Federalista</title>
     <id>urn:pdlivro:hamilton-madison-e-jay-o-federalista</id>
     <author><name>Hamilton, Madison e Jay</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · federalismo, constituicao</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -354,7 +354,7 @@
     <title>Ancient Law</title>
     <id>urn:pdlivro:henry-sumner-maine-direito-antigo-ancient-law</id>
     <author><name>Henry Sumner Maine</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · status-contrato, sucessao · em inglês · título de referência: Direito Antigo (Ancient Law)</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -367,7 +367,7 @@
     <title>Village-Communities in the East and West</title>
     <id>urn:pdlivro:henry-sumner-maine-a-comunidade-aldea-no-oriente-e-no-ocidente</id>
     <author><name>Henry Sumner Maine</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · propriedade-coletiva · em inglês · título de referência: A Comunidade Aldeã no Oriente e no Ocidente</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -380,7 +380,7 @@
     <title>A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind</title>
     <id>urn:pdlivro:jean-jacques-rousseau-discurso-sobre-a-origem-da-desigualdade</id>
     <author><name>Jean-Jacques Rousseau</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, desigualdade · em inglês · título de referência: Discurso sobre a Origem da Desigualdade</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -393,7 +393,7 @@
     <title>The social contract &amp; discourses</title>
     <id>urn:pdlivro:jean-jacques-rousseau-do-contrato-social</id>
     <author><name>Jean-Jacques Rousseau</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, contrato · em inglês · título de referência: Do Contrato Social</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -406,7 +406,7 @@
     <title>O Abolicionismo</title>
     <id>urn:pdlivro:joaquim-nabuco-o-abolicionismo</id>
     <author><name>Joaquim Nabuco</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, reforma</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -419,7 +419,7 @@
     <title>Um Estadista do Império</title>
     <id>urn:pdlivro:joaquim-nabuco-um-estadista-do-imperio</id>
     <author><name>Joaquim Nabuco</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, imperio</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -432,7 +432,7 @@
     <title>Minha Formação</title>
     <id>urn:pdlivro:joaquim-nabuco-minha-formacao</id>
     <author><name>Joaquim Nabuco</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, memoria</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -445,7 +445,7 @@
     <title>Democracy and Education: An Introduction to the Philosophy of Education</title>
     <id>urn:pdlivro:john-dewey-democracia-e-educacao</id>
     <author><name>John Dewey</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · transmissao, reproducao · em inglês · título de referência: Democracia e Educação</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -458,7 +458,7 @@
     <title>The public and its problems</title>
     <id>urn:pdlivro:john-dewey-o-publico-e-seus-problemas</id>
     <author><name>John Dewey</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · publico, associacao · em inglês · título de referência: O Público e seus Problemas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -471,7 +471,7 @@
     <title>A Letter Concerning Toleration</title>
     <id>urn:pdlivro:john-locke-carta-sobre-a-tolerancia</id>
     <author><name>John Locke</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, tolerancia · em inglês · título de referência: Carta sobre a Tolerância</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -484,7 +484,7 @@
     <title>Second Treatise of Government</title>
     <id>urn:pdlivro:john-locke-dois-tratados-sobre-o-governo</id>
     <author><name>John Locke</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, contrato, propriedade · em inglês · título de referência: Dois Tratados sobre o Governo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -497,7 +497,7 @@
     <title>On Liberty</title>
     <id>urn:pdlivro:john-stuart-mill-sobre-a-liberdade</id>
     <author><name>John Stuart Mill</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · liberdade · em inglês · título de referência: Sobre a Liberdade</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -510,7 +510,7 @@
     <title>Considerations on Representative Government</title>
     <id>urn:pdlivro:john-stuart-mill-consideracoes-sobre-o-governo-representativo</id>
     <author><name>John Stuart Mill</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · representacao · em inglês · título de referência: Considerações sobre o Governo Representativo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -523,7 +523,7 @@
     <title>Meditations</title>
     <id>urn:pdlivro:marco-aurelio-meditacoes</id>
     <author><name>Marco Aurélio</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, estoicismo · em inglês · título de referência: Meditações</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -536,7 +536,7 @@
     <title>The Protestant Ethic and the Spirit of Capitalism</title>
     <id>urn:pdlivro:max-weber-a-etica-protestante-e-o-espirito-do-capitalismo</id>
     <author><name>Max Weber</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · legitimidade, racionalizacao · em inglês · título de referência: A Ética Protestante e o Espírito do Capitalismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -549,7 +549,7 @@
     <title>Persian Letters</title>
     <id>urn:pdlivro:montesquieu-cartas-persas</id>
     <author><name>Montesquieu</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, satira · em inglês · título de referência: Cartas Persas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -562,7 +562,7 @@
     <title>Esprit des lois</title>
     <id>urn:pdlivro:montesquieu-o-espirito-das-leis</id>
     <author><name>Montesquieu</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Instituto · moderna, separacao-poderes · em francês · título de referência: O Espírito das Leis</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -575,7 +575,7 @@
     <title>Discourses on the First Decade of Titus Livius</title>
     <id>urn:pdlivro:nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio</id>
     <author><name>Nicolau Maquiavel</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, republica · em inglês · título de referência: Discursos sobre a Primeira Década de Tito Lívio</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -588,7 +588,7 @@
     <title>The Prince</title>
     <id>urn:pdlivro:nicolau-maquiavel-o-principe</id>
     <author><name>Nicolau Maquiavel</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, politica · em inglês · título de referência: O Príncipe</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -601,7 +601,7 @@
     <title>History of Florence and of the Affairs of Italy</title>
     <id>urn:pdlivro:nicolau-maquiavel-historia-de-florenca</id>
     <author><name>Nicolau Maquiavel</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, historia · em inglês · título de referência: História de Florença</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -614,7 +614,7 @@
     <title>Political Theories of the Middle Age</title>
     <id>urn:pdlivro:otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media</id>
     <author><name>Otto von Gierke (trad. Maitland)</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · pessoa-coletiva, corporacao · em inglês · título de referência: Teorias Políticas da Idade Média</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -627,7 +627,7 @@
     <title>The Republic of Plato</title>
     <id>urn:pdlivro:platao-a-republica</id>
     <author><name>Platão</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, politica · em inglês · título de referência: A República</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -640,7 +640,7 @@
     <title>Laws</title>
     <id>urn:pdlivro:platao-as-leis</id>
     <author><name>Platão</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, politica · em inglês · título de referência: As Leis</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -653,7 +653,7 @@
     <title>Plutarch&#x27;s Lives of the Noble Grecians and Romans</title>
     <id>urn:pdlivro:plutarco-vidas-paralelas</id>
     <author><name>Plutarco</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, biografia · em inglês · título de referência: Vidas Paralelas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -666,7 +666,7 @@
     <title>The Histories of Polybius, Vol. 1 (of 2)</title>
     <id>urn:pdlivro:polibio-historias</id>
     <author><name>Políbio</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, constituicao-mista · em inglês · título de referência: Histórias</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -679,7 +679,7 @@
     <title>The Struggle for Law</title>
     <id>urn:pdlivro:rudolf-von-ihering-a-luta-pelo-direito</id>
     <author><name>Rudolf von Ihering</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · direito, conflito · em inglês · título de referência: A Luta pelo Direito</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -692,7 +692,7 @@
     <title>Oração aos Moços</title>
     <id>urn:pdlivro:rui-barbosa-oracao-aos-mocos</id>
     <author><name>Rui Barbosa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, direito</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -705,7 +705,7 @@
     <title>Of the Law of Nature and Nations</title>
     <id>urn:pdlivro:samuel-von-pufendorf-do-direito-natural-e-das-gentes</id>
     <author><name>Samuel von Pufendorf</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, direito-natural · em inglês · título de referência: Do Direito Natural e das Gentes</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -719,7 +719,7 @@
     <title>The Confessions of St. Augustine</title>
     <id>urn:pdlivro:santo-agostinho-confissoes</id>
     <author><name>Santo Agostinho</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · patristica, tempo · em inglês · título de referência: Confissões</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -732,7 +732,7 @@
     <title>The City of God, Volume I</title>
     <id>urn:pdlivro:santo-agostinho-a-cidade-de-deus</id>
     <author><name>Santo Agostinho</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · patristica, politica · em inglês · título de referência: A Cidade de Deus</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -745,7 +745,7 @@
     <title>Minor Dialogues, Together With the Dialogue on Clemency</title>
     <id>urn:pdlivro:seneca-dialogos-com-sobre-a-brevidade-da-vida</id>
     <author><name>Sêneca</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, duracao · em inglês · título de referência: Diálogos, com Sobre a Brevidade da Vida</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -758,7 +758,7 @@
     <title>Epistulae morales ad Lucilium</title>
     <id>urn:pdlivro:seneca-cartas-a-lucilio</id>
     <author><name>Sêneca</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>la</dc:language>
     <content type="text">Instituto · antiguidade, estoicismo · em latim · título de referência: Cartas a Lucílio</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -771,7 +771,7 @@
     <title>The Art of War</title>
     <id>urn:pdlivro:sun-tzu-a-arte-da-guerra</id>
     <author><name>Sun Tzu</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · oriente, estrategia · em inglês · título de referência: A Arte da Guerra</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -784,7 +784,7 @@
     <title>Leviathan</title>
     <id>urn:pdlivro:thomas-hobbes-leviata</id>
     <author><name>Thomas Hobbes</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, contrato · em inglês · título de referência: Leviatã</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -797,7 +797,7 @@
     <title>Utopia</title>
     <id>urn:pdlivro:thomas-more-utopia</id>
     <author><name>Thomas More</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, utopia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -810,7 +810,7 @@
     <title>The Theory of the Leisure Class</title>
     <id>urn:pdlivro:thorstein-veblen-a-teoria-da-classe-ociosa</id>
     <author><name>Thorstein Veblen</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · instituicoes, habito · em inglês · título de referência: A Teoria da Classe Ociosa</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -823,7 +823,7 @@
     <title>The Theory of Business Enterprise</title>
     <id>urn:pdlivro:thorstein-veblen-a-teoria-da-empresa-de-negocios</id>
     <author><name>Thorstein Veblen</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · empresa, instituicoes · em inglês · título de referência: A Teoria da Empresa de Negócios</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -836,7 +836,7 @@
     <title>Estudos de Direito</title>
     <id>urn:pdlivro:tobias-barreto-estudos-de-direito</id>
     <author><name>Tobias Barreto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, direito</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -849,7 +849,7 @@
     <title>Summa Theologica, Part II-II (Secunda Secundae)</title>
     <id>urn:pdlivro:tomas-de-aquino-suma-teologica</id>
     <author><name>Tomás de Aquino</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · escolastica, aevum · em inglês · título de referência: Suma Teológica</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -862,7 +862,7 @@
     <title>The City of the Sun</title>
     <id>urn:pdlivro:tommaso-campanella-a-cidade-do-sol</id>
     <author><name>Tommaso Campanella</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · moderna, utopia · em inglês · título de referência: A Cidade do Sol</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -875,7 +875,7 @@
     <title>The History of the Peloponnesian War</title>
     <id>urn:pdlivro:tucidides-historia-da-guerra-do-peloponeso</id>
     <author><name>Tucídides</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · antiguidade, historia · em inglês · título de referência: História da Guerra do Peloponeso</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -888,7 +888,7 @@
     <title>Trattato di sociologia generale</title>
     <id>urn:pdlivro:vilfredo-pareto-tratado-de-sociologia-geral</id>
     <author><name>Vilfredo Pareto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>it</dc:language>
     <content type="text">Instituto · elites, circulacao · em italiano · título de referência: Tratado de Sociologia Geral</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -901,7 +901,7 @@
     <title>Ensaio sobre o Direito Administrativo</title>
     <id>urn:pdlivro:visconde-do-uruguai-ensaio-sobre-o-direito-administrativo</id>
     <author><name>Visconde do Uruguai</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Instituto · brasil, administracao</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -914,7 +914,7 @@
     <title>The English Constitution</title>
     <id>urn:pdlivro:walter-bagehot-a-constituicao-inglesa</id>
     <author><name>Walter Bagehot</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · constituicao, dignificado-eficiente · em inglês · título de referência: A Constituição Inglesa</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -927,7 +927,7 @@
     <title>Commentaries on the Laws of England, Book the First</title>
     <id>urn:pdlivro:william-blackstone-comentarios-as-leis-da-inglaterra</id>
     <author><name>William Blackstone</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Instituto · common-law, propriedade · em inglês · título de referência: Comentários às Leis da Inglaterra</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -940,7 +940,7 @@
     <title>Eugene Oneguine [Onegin]</title>
     <id>urn:pdlivro:aleksandr-puchkin-eugenio-oneguin</id>
     <author><name>Aleksandr Púchkin</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, poesia · em inglês · título de referência: Eugênio Oneguin</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -953,7 +953,7 @@
     <title>O Mulato</title>
     <id>urn:pdlivro:aluisio-azevedo-o-mulato</id>
     <author><name>Aluísio Azevedo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, naturalismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -966,7 +966,7 @@
     <title>Casa de Pensão</title>
     <id>urn:pdlivro:aluisio-azevedo-casa-de-pensao</id>
     <author><name>Aluísio Azevedo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, naturalismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -979,7 +979,7 @@
     <title>O Cortiço</title>
     <id>urn:pdlivro:aluisio-azevedo-o-cortico</id>
     <author><name>Aluísio Azevedo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, naturalismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -992,7 +992,7 @@
     <title>Lira dos Vinte Anos</title>
     <id>urn:pdlivro:alvares-de-azevedo-lira-dos-vinte-anos</id>
     <author><name>Álvares de Azevedo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romantismo, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1005,7 +1005,7 @@
     <title>Noite na Taverna</title>
     <id>urn:pdlivro:alvares-de-azevedo-noite-na-taverna</id>
     <author><name>Álvares de Azevedo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romantismo, prosa</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1018,7 +1018,7 @@
     <title>A Epopeia de Gilgamesh</title>
     <id>urn:pdlivro:anonimo-a-epopeia-de-gilgamesh</id>
     <author><name>Anônimo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · antiguidade, epica, duracao</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1031,7 +1031,7 @@
     <title>The Song Celestial; or, Bhagavad-Gîtâ</title>
     <id>urn:pdlivro:anonimo-bhagavad-gita</id>
     <author><name>Anônimo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · oriente, sabedoria · em inglês · título de referência: Bhagavad Gita</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1044,7 +1044,7 @@
     <title>Dhammapada, a Collection of Verses</title>
     <id>urn:pdlivro:anonimo-dhammapada</id>
     <author><name>Anônimo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · oriente, sabedoria · em inglês · título de referência: Dhammapada</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1057,7 +1057,7 @@
     <title>The Thousand and One Nights, Vol. I</title>
     <id>urn:pdlivro:anonimo-as-mil-e-uma-noites</id>
     <author><name>Anônimo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · narrativa, oriente · em inglês · título de referência: As Mil e Uma Noites</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1070,7 +1070,7 @@
     <title>Sonetos Completos</title>
     <id>urn:pdlivro:antero-de-quental-sonetos-completos</id>
     <author><name>Antero de Quental</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1083,7 +1083,7 @@
     <title>Project Gutenberg Compilation of Short Stories by Chekhov</title>
     <id>urn:pdlivro:anton-tchekhov-contos</id>
     <author><name>Anton Tchékhov</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, conto · em inglês · título de referência: Contos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1096,7 +1096,7 @@
     <title>O Jardim das Cerejeiras</title>
     <id>urn:pdlivro:anton-tchekhov-o-jardim-das-cerejeiras</id>
     <author><name>Anton Tchékhov</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, teatro, heranca</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1109,7 +1109,7 @@
     <title>Só</title>
     <id>urn:pdlivro:antonio-nobre-so</id>
     <author><name>António Nobre</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1122,7 +1122,7 @@
     <title>The Clouds</title>
     <id>urn:pdlivro:aristofanes-as-nuvens</id>
     <author><name>Aristófanes</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · comedia · em inglês · título de referência: As Nuvens</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1135,7 +1135,7 @@
     <title>Illuminations</title>
     <id>urn:pdlivro:arthur-rimbaud-iluminacoes</id>
     <author><name>Arthur Rimbaud</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · poesia, vanguarda · em francês · título de referência: Iluminações</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1148,7 +1148,7 @@
     <title>The World as Will and Idea (Vol. 1 of 3)</title>
     <id>urn:pdlivro:arthur-schopenhauer-o-mundo-como-vontade-e-representacao</id>
     <author><name>Arthur Schopenhauer</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia · em inglês · título de referência: O Mundo como Vontade e Representação</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1161,7 +1161,7 @@
     <title>The Essays of Arthur Schopenhauer: the Wisdom of Life</title>
     <id>urn:pdlivro:arthur-schopenhauer-parerga-e-paralipomena</id>
     <author><name>Arthur Schopenhauer</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, aforismo · em inglês · título de referência: Parerga e Paralipomena</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1174,7 +1174,7 @@
     <title>Eu e Outras Poesias</title>
     <id>urn:pdlivro:augusto-dos-anjos-eu-e-outras-poesias</id>
     <author><name>Augusto dos Anjos</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1187,7 +1187,7 @@
     <title>Ethics</title>
     <id>urn:pdlivro:baruch-espinosa-etica</id>
     <author><name>Baruch Espinosa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, duracao, eternidade · em inglês · título de referência: Ética</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1200,7 +1200,7 @@
     <title>Amor de Perdição</title>
     <id>urn:pdlivro:camilo-castelo-branco-amor-de-perdicao</id>
     <author><name>Camilo Castelo Branco</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1213,7 +1213,7 @@
     <title>A Queda dum Anjo</title>
     <id>urn:pdlivro:camilo-castelo-branco-a-queda-dum-anjo</id>
     <author><name>Camilo Castelo Branco</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1226,7 +1226,7 @@
     <title>Clepsydra</title>
     <id>urn:pdlivro:camilo-pessanha-clepsidra</id>
     <author><name>Camilo Pessanha</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · portugal, simbolismo, poesia · em inglês · título de referência: Clepsidra</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1239,7 +1239,7 @@
     <title>As Primaveras</title>
     <id>urn:pdlivro:casimiro-de-abreu-as-primaveras</id>
     <author><name>Casimiro de Abreu</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1252,7 +1252,7 @@
     <title>Espumas Flutuantes</title>
     <id>urn:pdlivro:castro-alves-espumas-flutuantes</id>
     <author><name>Castro Alves</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1265,7 +1265,7 @@
     <title>Os Escravos</title>
     <id>urn:pdlivro:castro-alves-os-escravos</id>
     <author><name>Castro Alves</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1278,7 +1278,7 @@
     <title>O Livro de Cesário Verde</title>
     <id>urn:pdlivro:cesario-verde-o-livro-de-cesario-verde</id>
     <author><name>Cesário Verde</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1291,7 +1291,7 @@
     <title>As Flores do Mal</title>
     <id>urn:pdlivro:charles-baudelaire-as-flores-do-mal</id>
     <author><name>Charles Baudelaire</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · poesia, modernidade</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1304,7 +1304,7 @@
     <title>Le Spleen de Paris (Petits poèmes en prose)</title>
     <id>urn:pdlivro:charles-baudelaire-o-spleen-de-paris</id>
     <author><name>Charles Baudelaire</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · prosa-poetica · em francês · título de referência: O Spleen de Paris</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1317,7 +1317,7 @@
     <title>David Copperfield</title>
     <id>urn:pdlivro:charles-dickens-david-copperfield</id>
     <author><name>Charles Dickens</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1330,7 +1330,7 @@
     <title>Great Expectations</title>
     <id>urn:pdlivro:charles-dickens-grandes-esperancas</id>
     <author><name>Charles Dickens</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: Grandes Esperanças</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1343,7 +1343,7 @@
     <title>Poésies</title>
     <id>urn:pdlivro:conde-de-lautreamont-poesias</id>
     <author><name>Conde de Lautréamont</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · prosa, aforismo · em francês · título de referência: Poesias</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1356,7 +1356,7 @@
     <title>Missal</title>
     <id>urn:pdlivro:cruz-e-sousa-missal</id>
     <author><name>Cruz e Sousa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, simbolismo, prosa-poetica</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1369,7 +1369,7 @@
     <title>Broquéis</title>
     <id>urn:pdlivro:cruz-e-sousa-broqueis</id>
     <author><name>Cruz e Sousa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, simbolismo, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1382,7 +1382,7 @@
     <title>Últimos Sonetos</title>
     <id>urn:pdlivro:cruz-e-sousa-ultimos-sonetos</id>
     <author><name>Cruz e Sousa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, simbolismo, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1395,7 +1395,7 @@
     <title>The New Life (La Vita Nuova)</title>
     <id>urn:pdlivro:dante-alighieri-vida-nova</id>
     <author><name>Dante Alighieri</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · poesia, medieval · em inglês · título de referência: Vida Nova</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1408,7 +1408,7 @@
     <title>The Divine Comedy of Dante Alighieri: The Inferno</title>
     <id>urn:pdlivro:dante-alighieri-a-divina-comedia</id>
     <author><name>Dante Alighieri</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · epica, medieval · em inglês · título de referência: A Divina Comédia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1421,7 +1421,7 @@
     <title>Jacques le fataliste et son maître</title>
     <id>urn:pdlivro:denis-diderot-jacques-o-fatalista</id>
     <author><name>Denis Diderot</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · romance, invencao-formal · em francês · título de referência: Jacques, o Fatalista</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1434,7 +1434,7 @@
     <title>O Crime do Padre Amaro</title>
     <id>urn:pdlivro:eca-de-queiros-o-crime-do-padre-amaro</id>
     <author><name>Eça de Queirós</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1447,7 +1447,7 @@
     <title>O Primo Basílio</title>
     <id>urn:pdlivro:eca-de-queiros-o-primo-basilio</id>
     <author><name>Eça de Queirós</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1460,7 +1460,7 @@
     <title>A Relíquia</title>
     <id>urn:pdlivro:eca-de-queiros-a-reliquia</id>
     <author><name>Eça de Queirós</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1473,7 +1473,7 @@
     <title>Os Maias</title>
     <id>urn:pdlivro:eca-de-queiros-os-maias</id>
     <author><name>Eça de Queirós</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance, familia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1486,7 +1486,7 @@
     <title>A Ilustre Casa de Ramires</title>
     <id>urn:pdlivro:eca-de-queiros-a-ilustre-casa-de-ramires</id>
     <author><name>Eça de Queirós</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance, linhagem</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1499,7 +1499,7 @@
     <title>A Cidade e as Serras</title>
     <id>urn:pdlivro:eca-de-queiros-a-cidade-e-as-serras</id>
     <author><name>Eça de Queirós</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1512,7 +1512,7 @@
     <title>The Works of Edgar Allan Poe: Volume 2</title>
     <id>urn:pdlivro:edgar-allan-poe-contos-extraordinarios</id>
     <author><name>Edgar Allan Poe</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · conto · em inglês · título de referência: Contos Extraordinários</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1525,7 +1525,7 @@
     <title>Eureka: A Prose Poem</title>
     <id>urn:pdlivro:edgar-allan-poe-eureka</id>
     <author><name>Edgar Allan Poe</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · ensaio, cosmologia · em inglês · título de referência: Eureka</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1538,7 +1538,7 @@
     <title>Nonsense Books</title>
     <id>urn:pdlivro:edward-lear-livro-dos-absurdos</id>
     <author><name>Edward Lear</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · nonsense, invencao-verbal · em inglês · título de referência: Livro dos Absurdos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1551,7 +1551,7 @@
     <title>Germinal</title>
     <id>urn:pdlivro:emile-zola-germinal</id>
     <author><name>Émile Zola</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1564,7 +1564,7 @@
     <title>Wuthering Heights</title>
     <id>urn:pdlivro:emily-bronte-o-morro-dos-ventos-uivantes</id>
     <author><name>Emily Brontë</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: O Morro dos Ventos Uivantes</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1577,7 +1577,7 @@
     <title>The Oresteia of Aeschylus; Agamemnon, Choephori, Eumenides. The Greek text as arr. for performance at Cambridge with an English verse translation by R.C. Trevelyan</title>
     <id>urn:pdlivro:esquilo-oresteia</id>
     <author><name>Ésquilo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · tragedia, justica · em inglês · título de referência: Oresteia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1590,7 +1590,7 @@
     <title>Aeschylus&#x27; Prometheus Bound and the Seven Against Thebes</title>
     <id>urn:pdlivro:esquilo-prometeu-acorrentado</id>
     <author><name>Ésquilo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · tragedia · em inglês · título de referência: Prometeu Acorrentado</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1603,7 +1603,7 @@
     <title>The Bacchae of Euripides</title>
     <id>urn:pdlivro:euripides-as-bacantes</id>
     <author><name>Eurípides</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · tragedia · em inglês · título de referência: As Bacantes</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1616,7 +1616,7 @@
     <title>Mensagem</title>
     <id>urn:pdlivro:fernando-pessoa-mensagem</id>
     <author><name>Fernando Pessoa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1629,7 +1629,7 @@
     <title>Livro do Desassossego</title>
     <id>urn:pdlivro:fernando-pessoa-livro-do-desassossego</id>
     <author><name>Fernando Pessoa</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, prosa, fragmento</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1642,7 +1642,7 @@
     <title>Manifesto Futurista</title>
     <id>urn:pdlivro:filippo-tommaso-marinetti-manifesto-futurista</id>
     <author><name>Filippo Tommaso Marinetti</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · manifesto, vanguarda</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1655,7 +1655,7 @@
     <title>Notes from the Underground</title>
     <id>urn:pdlivro:fiodor-dostoievski-memorias-do-subsolo</id>
     <author><name>Fiódor Dostoiévski</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: Memórias do Subsolo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1668,7 +1668,7 @@
     <title>Crime and Punishment</title>
     <id>urn:pdlivro:fiodor-dostoievski-crime-e-castigo</id>
     <author><name>Fiódor Dostoiévski</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: Crime e Castigo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1681,7 +1681,7 @@
     <title>The Idiot</title>
     <id>urn:pdlivro:fiodor-dostoievski-o-idiota</id>
     <author><name>Fiódor Dostoiévski</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: O Idiota</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1694,7 +1694,7 @@
     <title>The possessed</title>
     <id>urn:pdlivro:fiodor-dostoievski-os-demonios</id>
     <author><name>Fiódor Dostoiévski</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: Os Demônios</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1707,7 +1707,7 @@
     <title>The Brothers Karamazov</title>
     <id>urn:pdlivro:fiodor-dostoievski-os-irmaos-karamazov</id>
     <author><name>Fiódor Dostoiévski</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance, legado · em inglês · título de referência: Os Irmãos Karamázov</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1720,7 +1720,7 @@
     <title>The Sonnets, Triumphs, and Other Poems of Petrarch</title>
     <id>urn:pdlivro:francesco-petrarca-cancioneiro</id>
     <author><name>Francesco Petrarca</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · poesia, medieval · em inglês · título de referência: Cancioneiro</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1733,7 +1733,7 @@
     <title>Gargantua and Pantagruel</title>
     <id>urn:pdlivro:francois-rabelais-gargantua-e-pantagruel</id>
     <author><name>François Rabelais</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · satira, invencao-verbal · em inglês · título de referência: Gargântua e Pantagruel</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1746,7 +1746,7 @@
     <title>Metamorphosis</title>
     <id>urn:pdlivro:franz-kafka-a-metamorfose</id>
     <author><name>Franz Kafka</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · modernismo, alegoria · em inglês · título de referência: A Metamorfose</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1759,7 +1759,7 @@
     <title>The Trial</title>
     <id>urn:pdlivro:franz-kafka-o-processo</id>
     <author><name>Franz Kafka</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · modernismo, burocracia, legitimidade · em inglês · título de referência: O Processo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1772,7 +1772,7 @@
     <title>The Birth of Tragedy; or, Hellenism and Pessimism</title>
     <id>urn:pdlivro:friedrich-nietzsche-o-nascimento-da-tragedia</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, estetica · em inglês · título de referência: O Nascimento da Tragédia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1785,7 +1785,7 @@
     <title>Human, All Too Human: A Book for Free Spirits</title>
     <id>urn:pdlivro:friedrich-nietzsche-humano-demasiado-humano</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, aforismo · em inglês · título de referência: Humano, Demasiado Humano</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1798,7 +1798,7 @@
     <title>The Joyful Wisdom (&quot;La Gaya Scienza&quot;)</title>
     <id>urn:pdlivro:friedrich-nietzsche-a-gaia-ciencia</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia · em inglês · título de referência: A Gaia Ciência</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1811,7 +1811,7 @@
     <title>Thus Spake Zarathustra: A Book for All and None</title>
     <id>urn:pdlivro:friedrich-nietzsche-assim-falou-zaratustra</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, eterno-retorno · em inglês · título de referência: Assim Falou Zaratustra</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1824,7 +1824,7 @@
     <title>Beyond Good and Evil</title>
     <id>urn:pdlivro:friedrich-nietzsche-alem-do-bem-e-do-mal</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia · em inglês · título de referência: Além do Bem e do Mal</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1837,7 +1837,7 @@
     <title>The Genealogy of Morals</title>
     <id>urn:pdlivro:friedrich-nietzsche-genealogia-da-moral</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, instituicoes · em inglês · título de referência: Genealogia da Moral</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1850,7 +1850,7 @@
     <title>Ecce Homo</title>
     <id>urn:pdlivro:friedrich-nietzsche-ecce-homo</id>
     <author><name>Friedrich Nietzsche</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, autobiografia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1863,7 +1863,7 @@
     <title>The Phenomenology of Mind</title>
     <id>urn:pdlivro:g-w-f-hegel-fenomenologia-do-espirito</id>
     <author><name>G. W. F. Hegel</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia · em inglês · título de referência: Fenomenologia do Espírito</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1876,7 +1876,7 @@
     <title>Aurelia, oder, Der Traum und das Leben</title>
     <id>urn:pdlivro:gerard-de-nerval-aurelia</id>
     <author><name>Gérard de Nerval</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · prosa, sonho · em alemão · título de referência: Aurélia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1889,7 +1889,7 @@
     <title>Auto da Barca do Inferno</title>
     <id>urn:pdlivro:gil-vicente-auto-da-barca-do-inferno</id>
     <author><name>Gil Vicente</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, teatro</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1902,7 +1902,7 @@
     <title>The Decameron of Giovanni Boccaccio</title>
     <id>urn:pdlivro:giovanni-boccaccio-decameron</id>
     <author><name>Giovanni Boccaccio</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · narrativa, medieval · em inglês · título de referência: Decameron</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1915,7 +1915,7 @@
     <title>Primeiros Cantos</title>
     <id>urn:pdlivro:goncalves-dias-primeiros-cantos</id>
     <author><name>Gonçalves Dias</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1928,7 +1928,7 @@
     <title>La Monadologie, avec étude et notes de Clodius Piat</title>
     <id>urn:pdlivro:gottfried-wilhelm-leibniz-monadologia</id>
     <author><name>Gottfried Wilhelm Leibniz</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · filosofia · em francês · título de referência: Monadologia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1941,7 +1941,7 @@
     <title>Caetés</title>
     <id>urn:pdlivro:graciliano-ramos-caetes</id>
     <author><name>Graciliano Ramos</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1954,7 +1954,7 @@
     <title>Vidas Secas</title>
     <id>urn:pdlivro:graciliano-ramos-vidas-secas</id>
     <author><name>Graciliano Ramos</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1967,7 +1967,7 @@
     <title>Infância</title>
     <id>urn:pdlivro:graciliano-ramos-infancia</id>
     <author><name>Graciliano Ramos</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, memoria</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1980,7 +1980,7 @@
     <title>Alcools</title>
     <id>urn:pdlivro:guillaume-apollinaire-alcoois</id>
     <author><name>Guillaume Apollinaire</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · poesia, vanguarda · em francês · título de referência: Álcoois</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -1993,7 +1993,7 @@
     <title>Calligrammes: Poèmes de la paix et de la guerre (1913-1916)</title>
     <id>urn:pdlivro:guillaume-apollinaire-caligramas</id>
     <author><name>Guillaume Apollinaire</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · poesia, visual · em francês · título de referência: Caligramas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2006,7 +2006,7 @@
     <title>Madame Bovary</title>
     <id>urn:pdlivro:gustave-flaubert-madame-bovary</id>
     <author><name>Gustave Flaubert</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2019,7 +2019,7 @@
     <title>The Temptation of St. Antony; Or, A Revelation of the Soul</title>
     <id>urn:pdlivro:gustave-flaubert-a-tentacao-de-santo-antao</id>
     <author><name>Gustave Flaubert</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · prosa · em inglês · título de referência: A Tentação de Santo Antão</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2032,7 +2032,7 @@
     <title>Bouvard and Pécuchet: A Tragi-comic Novel of Bourgeois Life, part 1</title>
     <id>urn:pdlivro:gustave-flaubert-bouvard-e-pecuchet</id>
     <author><name>Gustave Flaubert</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, satira · em inglês · título de referência: Bouvard e Pécuchet</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2045,7 +2045,7 @@
     <title>Complete Original Short Stories of Guy De Maupassant</title>
     <id>urn:pdlivro:guy-de-maupassant-contos</id>
     <author><name>Guy de Maupassant</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · conto · em inglês · título de referência: Contos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2058,7 +2058,7 @@
     <title>Time and Free Will: An Essay on the Immediate Data of Consciousness</title>
     <id>urn:pdlivro:henri-bergson-ensaio-sobre-os-dados-imediatos-da-consciencia</id>
     <author><name>Henri Bergson</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · duracao, tempo · em inglês · título de referência: Ensaio sobre os Dados Imediatos da Consciência</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2071,7 +2071,7 @@
     <title>Matter and Memory</title>
     <id>urn:pdlivro:henri-bergson-materia-e-memoria</id>
     <author><name>Henri Bergson</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · duracao, memoria · em inglês · título de referência: Matéria e Memória</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2084,7 +2084,7 @@
     <title>Laughter: An Essay on the Meaning of the Comic</title>
     <id>urn:pdlivro:henri-bergson-o-riso</id>
     <author><name>Henri Bergson</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · ensaio, comico · em inglês · título de referência: O Riso</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2097,7 +2097,7 @@
     <title>Creative Evolution</title>
     <id>urn:pdlivro:henri-bergson-a-evolucao-criadora</id>
     <author><name>Henri Bergson</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · duracao, tempo · em inglês · título de referência: A Evolução Criadora</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2110,7 +2110,7 @@
     <title>Walden, and On The Duty Of Civil Disobedience</title>
     <id>urn:pdlivro:henry-david-thoreau-a-desobediencia-civil</id>
     <author><name>Henry David Thoreau</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · ensaio, politica · em inglês · título de referência: A Desobediência Civil</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2123,7 +2123,7 @@
     <title>Walden, and On The Duty Of Civil Disobedience</title>
     <id>urn:pdlivro:henry-david-thoreau-walden</id>
     <author><name>Henry David Thoreau</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · ensaio · em inglês · título de referência: Walden</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2136,7 +2136,7 @@
     <title>Moby Dick; Or, The Whale</title>
     <id>urn:pdlivro:herman-melville-moby-dick</id>
     <author><name>Herman Melville</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: Moby Dick</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2149,7 +2149,7 @@
     <title>Bartleby, the Scrivener: A Story of Wall-Street</title>
     <id>urn:pdlivro:herman-melville-bartleby-o-escrivao</id>
     <author><name>Herman Melville</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · conto, recusa · em inglês · título de referência: Bartleby, o Escrivão</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2162,7 +2162,7 @@
     <title>The Odyssey</title>
     <id>urn:pdlivro:homero-odisseia</id>
     <author><name>Homero</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · epica, antiguidade · em inglês · título de referência: Odisseia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2175,7 +2175,7 @@
     <title>Ilíada</title>
     <id>urn:pdlivro:homero-iliada</id>
     <author><name>Homero</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · epica, antiguidade</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2188,7 +2188,7 @@
     <title>Father Goriot</title>
     <id>urn:pdlivro:honore-de-balzac-pai-goriot</id>
     <author><name>Honoré de Balzac</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, familia · em inglês · título de referência: Pai Goriot</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2201,7 +2201,7 @@
     <title>Lost Illusions</title>
     <id>urn:pdlivro:honore-de-balzac-ilusoes-perdidas</id>
     <author><name>Honoré de Balzac</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: Ilusões Perdidas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2214,7 +2214,7 @@
     <title>The Critique of Pure Reason</title>
     <id>urn:pdlivro:immanuel-kant-critica-da-razao-pura</id>
     <author><name>Immanuel Kant</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, tempo · em inglês · título de referência: Crítica da Razão Pura</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2227,7 +2227,7 @@
     <title>Fathers and Children</title>
     <id>urn:pdlivro:ivan-turgueniev-pais-e-filhos</id>
     <author><name>Ivan Turguêniev</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance, geracoes · em inglês · título de referência: Pais e Filhos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2240,7 +2240,7 @@
     <title>Dubliners</title>
     <id>urn:pdlivro:james-joyce-dublinenses</id>
     <author><name>James Joyce</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · conto, modernismo · em inglês · título de referência: Dublinenses</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2253,7 +2253,7 @@
     <title>A Portrait of the Artist as a Young Man</title>
     <id>urn:pdlivro:james-joyce-retrato-do-artista-quando-jovem</id>
     <author><name>James Joyce</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, modernismo · em inglês · título de referência: Retrato do Artista Quando Jovem</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2266,7 +2266,7 @@
     <title>Ulysses</title>
     <id>urn:pdlivro:james-joyce-ulisses</id>
     <author><name>James Joyce</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, invencao-verbal · em inglês · título de referência: Ulisses</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2279,7 +2279,7 @@
     <title>Finnegans Wake</title>
     <id>urn:pdlivro:james-joyce-finnegans-wake</id>
     <author><name>James Joyce</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, invencao-verbal</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2292,7 +2292,7 @@
     <title>Pride and Prejudice</title>
     <id>urn:pdlivro:jane-austen-orgulho-e-preconceito</id>
     <author><name>Jane Austen</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: Orgulho e Preconceito</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2305,7 +2305,7 @@
     <title>A Moreninha</title>
     <id>urn:pdlivro:joaquim-manuel-de-macedo-a-moreninha</id>
     <author><name>Joaquim Manuel de Macedo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2318,7 +2318,7 @@
     <title>The Sorrows of Young Werther</title>
     <id>urn:pdlivro:johann-wolfgang-von-goethe-os-sofrimentos-do-jovem-werther</id>
     <author><name>Johann Wolfgang von Goethe</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: Os Sofrimentos do Jovem Werther</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2331,7 +2331,7 @@
     <title>Fausto</title>
     <id>urn:pdlivro:johann-wolfgang-von-goethe-fausto</id>
     <author><name>Johann Wolfgang von Goethe</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · teatro, poema</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2344,7 +2344,7 @@
     <title>Die Wahlverwandtschaften</title>
     <id>urn:pdlivro:johann-wolfgang-von-goethe-as-afinidades-eletivas</id>
     <author><name>Johann Wolfgang von Goethe</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · romance · em alemão · título de referência: As Afinidades Eletivas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2357,7 +2357,7 @@
     <title>Paraíso Perdido</title>
     <id>urn:pdlivro:john-milton-paraiso-perdido</id>
     <author><name>John Milton</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · epica</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2370,7 +2370,7 @@
     <title>Gulliver&#x27;s Travels into Several Remote Regions of the World</title>
     <id>urn:pdlivro:jonathan-swift-viagens-de-gulliver</id>
     <author><name>Jonathan Swift</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · satira · em inglês · título de referência: Viagens de Gulliver</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2383,7 +2383,7 @@
     <title>O Guarani</title>
     <id>urn:pdlivro:jose-de-alencar-o-guarani</id>
     <author><name>José de Alencar</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romantismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2396,7 +2396,7 @@
     <title>Lucíola</title>
     <id>urn:pdlivro:jose-de-alencar-luciola</id>
     <author><name>José de Alencar</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romantismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2409,7 +2409,7 @@
     <title>Iracema</title>
     <id>urn:pdlivro:jose-de-alencar-iracema</id>
     <author><name>José de Alencar</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romantismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2422,7 +2422,7 @@
     <title>Senhora</title>
     <id>urn:pdlivro:jose-de-alencar-senhora</id>
     <author><name>José de Alencar</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romantismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2435,7 +2435,7 @@
     <title>Heart of Darkness</title>
     <id>urn:pdlivro:joseph-conrad-coracao-das-trevas</id>
     <author><name>Joseph Conrad</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: Coração das Trevas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2448,7 +2448,7 @@
     <title>Lord Jim</title>
     <id>urn:pdlivro:joseph-conrad-lord-jim</id>
     <author><name>Joseph Conrad</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2461,7 +2461,7 @@
     <title>Tao Te Ching</title>
     <id>urn:pdlivro:lao-tse-tao-te-ching</id>
     <author><name>Lao Tsé</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · oriente, sabedoria</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2474,7 +2474,7 @@
     <title>The life and opinions of Tristram Shandy, gentleman</title>
     <id>urn:pdlivro:laurence-sterne-a-vida-e-as-opinioes-de-tristram-shandy</id>
     <author><name>Laurence Sterne</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, invencao-formal · em inglês · título de referência: A Vida e as Opiniões de Tristram Shandy</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2487,7 +2487,7 @@
     <title>Alice no País das Maravilhas</title>
     <id>urn:pdlivro:lewis-carroll-alice-no-pais-das-maravilhas</id>
     <author><name>Lewis Carroll</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · nonsense, invencao-verbal</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2500,7 +2500,7 @@
     <title>Through the Looking-Glass, and What Alice Found There</title>
     <id>urn:pdlivro:lewis-carroll-atraves-do-espelho</id>
     <author><name>Lewis Carroll</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · nonsense, invencao-verbal · em inglês · título de referência: Através do Espelho</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2513,7 +2513,7 @@
     <title>The Hunting of the Snark: An Agony in Eight Fits</title>
     <id>urn:pdlivro:lewis-carroll-a-caca-ao-snark</id>
     <author><name>Lewis Carroll</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · nonsense, invencao-verbal · em inglês · título de referência: A Caça ao Snark</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2526,7 +2526,7 @@
     <title>Alice no País do Espelho, tradução e adaptação de Monteiro Lobato</title>
     <id>urn:pdlivro:lewis-carroll-alice-no-pais-do-espelho-traducao-e-adaptacao-de-monteiro-lobato</id>
     <author><name>Lewis Carroll</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · nonsense, invencao-verbal, brasil</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2539,7 +2539,7 @@
     <title>War and Peace</title>
     <id>urn:pdlivro:liev-tolstoi-guerra-e-paz</id>
     <author><name>Liev Tolstói</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: Guerra e Paz</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2552,7 +2552,7 @@
     <title>Anna Karenina</title>
     <id>urn:pdlivro:liev-tolstoi-anna-karienina</id>
     <author><name>Liev Tolstói</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: Anna Kariênina</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2565,7 +2565,7 @@
     <title>The Death of Ivan Ilych</title>
     <id>urn:pdlivro:liev-tolstoi-a-morte-de-ivan-ilitch</id>
     <author><name>Liev Tolstói</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, novela, duracao · em inglês · título de referência: A Morte de Ivan Ilitch</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2578,7 +2578,7 @@
     <title>Recordações do Escrivão Isaías Caminha</title>
     <id>urn:pdlivro:lima-barreto-recordacoes-do-escrivao-isaias-caminha</id>
     <author><name>Lima Barreto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2591,7 +2591,7 @@
     <title>Triste Fim de Policarpo Quaresma</title>
     <id>urn:pdlivro:lima-barreto-triste-fim-de-policarpo-quaresma</id>
     <author><name>Lima Barreto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2604,7 +2604,7 @@
     <title>Vida e Morte de M. J. Gonzaga de Sá</title>
     <id>urn:pdlivro:lima-barreto-vida-e-morte-de-m-j-gonzaga-de-sa</id>
     <author><name>Lima Barreto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2617,7 +2617,7 @@
     <title>Os Bruzundangas</title>
     <id>urn:pdlivro:lima-barreto-os-bruzundangas</id>
     <author><name>Lima Barreto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, satira</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2630,7 +2630,7 @@
     <title>Clara dos Anjos</title>
     <id>urn:pdlivro:lima-barreto-clara-dos-anjos</id>
     <author><name>Lima Barreto</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2643,7 +2643,7 @@
     <title>Seis Personagens à Procura de um Autor</title>
     <id>urn:pdlivro:luigi-pirandello-seis-personagens-a-procura-de-um-autor</id>
     <author><name>Luigi Pirandello</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · teatro, metateatro</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2656,7 +2656,7 @@
     <title>Os Lusíadas</title>
     <id>urn:pdlivro:luis-de-camoes-os-lusiadas</id>
     <author><name>Luís de Camões</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, epica</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2669,7 +2669,7 @@
     <title>Rimas</title>
     <id>urn:pdlivro:luis-de-camoes-rimas</id>
     <author><name>Luís de Camões</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2682,7 +2682,7 @@
     <title>Contos Fluminenses</title>
     <id>urn:pdlivro:machado-de-assis-contos-fluminenses</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2695,7 +2695,7 @@
     <title>Ressurreição</title>
     <id>urn:pdlivro:machado-de-assis-ressurreicao</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2708,7 +2708,7 @@
     <title>A Mão e a Luva</title>
     <id>urn:pdlivro:machado-de-assis-a-mao-e-a-luva</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2721,7 +2721,7 @@
     <title>Helena</title>
     <id>urn:pdlivro:machado-de-assis-helena</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2734,7 +2734,7 @@
     <title>Iaiá Garcia</title>
     <id>urn:pdlivro:machado-de-assis-iaia-garcia</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2747,7 +2747,7 @@
     <title>Memórias Póstumas de Brás Cubas</title>
     <id>urn:pdlivro:machado-de-assis-memorias-postumas-de-bras-cubas</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2760,7 +2760,7 @@
     <title>Papéis Avulsos</title>
     <id>urn:pdlivro:machado-de-assis-papeis-avulsos</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2773,7 +2773,7 @@
     <title>Histórias sem Data</title>
     <id>urn:pdlivro:machado-de-assis-historias-sem-data</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2786,7 +2786,7 @@
     <title>Quincas Borba</title>
     <id>urn:pdlivro:machado-de-assis-quincas-borba</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2799,7 +2799,7 @@
     <title>Várias Histórias</title>
     <id>urn:pdlivro:machado-de-assis-varias-historias</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2812,7 +2812,7 @@
     <title>Páginas Recolhidas</title>
     <id>urn:pdlivro:machado-de-assis-paginas-recolhidas</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2825,7 +2825,7 @@
     <title>Dom Casmurro</title>
     <id>urn:pdlivro:machado-de-assis-dom-casmurro</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2838,7 +2838,7 @@
     <title>Poesias Completas</title>
     <id>urn:pdlivro:machado-de-assis-poesias-completas</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2851,7 +2851,7 @@
     <title>Esaú e Jacó</title>
     <id>urn:pdlivro:machado-de-assis-esau-e-jaco</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2864,7 +2864,7 @@
     <title>Relíquias de Casa Velha</title>
     <id>urn:pdlivro:machado-de-assis-reliquias-de-casa-velha</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2877,7 +2877,7 @@
     <title>Memorial de Aires</title>
     <id>urn:pdlivro:machado-de-assis-memorial-de-aires</id>
     <author><name>Machado de Assis</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2890,7 +2890,7 @@
     <title>Memórias de um Sargento de Milícias</title>
     <id>urn:pdlivro:manuel-antonio-de-almeida-memorias-de-um-sargento-de-milicias</id>
     <author><name>Manuel Antônio de Almeida</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2903,7 +2903,7 @@
     <title>Swann&#x27;s Way</title>
     <id>urn:pdlivro:marcel-proust-em-busca-do-tempo-perdido</id>
     <author><name>Marcel Proust</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · tempo, memoria, duracao · em inglês · título de referência: Em Busca do Tempo Perdido</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2916,7 +2916,7 @@
     <title>Macunaíma</title>
     <id>urn:pdlivro:mario-de-andrade-macunaima</id>
     <author><name>Mário de Andrade</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, modernismo, invencao-verbal</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2929,7 +2929,7 @@
     <title>Frankenstein; or, the modern prometheus</title>
     <id>urn:pdlivro:mary-shelley-frankenstein</id>
     <author><name>Mary Shelley</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance, gotico · em inglês · título de referência: Frankenstein</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2942,7 +2942,7 @@
     <title>Essays of Michel de Montaigne: Complete</title>
     <id>urn:pdlivro:michel-de-montaigne-ensaios</id>
     <author><name>Michel de Montaigne</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · ensaio · em inglês · título de referência: Ensaios</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2955,7 +2955,7 @@
     <title>Dom Quixote</title>
     <id>urn:pdlivro:miguel-de-cervantes-dom-quixote</id>
     <author><name>Miguel de Cervantes</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2968,7 +2968,7 @@
     <title>Urupês</title>
     <id>urn:pdlivro:monteiro-lobato-urupes</id>
     <author><name>Monteiro Lobato</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2981,7 +2981,7 @@
     <title>Cidades Mortas</title>
     <id>urn:pdlivro:monteiro-lobato-cidades-mortas</id>
     <author><name>Monteiro Lobato</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -2994,7 +2994,7 @@
     <title>Negrinha</title>
     <id>urn:pdlivro:monteiro-lobato-negrinha</id>
     <author><name>Monteiro Lobato</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, conto</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3007,7 +3007,7 @@
     <title>Dead Souls</title>
     <id>urn:pdlivro:nikolai-gogol-almas-mortas</id>
     <author><name>Nikolai Gógol</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · russia, romance · em inglês · título de referência: Almas Mortas</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3020,7 +3020,7 @@
     <title>Poesias</title>
     <id>urn:pdlivro:olavo-bilac-poesias</id>
     <author><name>Olavo Bilac</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, parnasianismo, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3033,7 +3033,7 @@
     <title>O Retrato de Dorian Gray</title>
     <id>urn:pdlivro:oscar-wilde-o-retrato-de-dorian-gray</id>
     <author><name>Oscar Wilde</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3046,7 +3046,7 @@
     <title>De Profundis</title>
     <id>urn:pdlivro:oscar-wilde-de-profundis</id>
     <author><name>Oscar Wilde</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · carta, ensaio</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3059,7 +3059,7 @@
     <title>Pau Brasil</title>
     <id>urn:pdlivro:oswald-de-andrade-pau-brasil</id>
     <author><name>Oswald de Andrade</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, modernismo, poesia</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3072,7 +3072,7 @@
     <title>Poems of Paul Verlaine</title>
     <id>urn:pdlivro:paul-verlaine-poemas-saturninos</id>
     <author><name>Paul Verlaine</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · poesia · em inglês · título de referência: Poemas Saturninos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3085,7 +3085,7 @@
     <title>Life Is a Dream</title>
     <id>urn:pdlivro:pedro-calderon-de-la-barca-a-vida-e-sonho</id>
     <author><name>Pedro Calderón de la Barca</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · teatro · em inglês · título de referência: A Vida é Sonho</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3098,7 +3098,7 @@
     <title>Die Aufzeichnungen des Malte Laurids Brigge</title>
     <id>urn:pdlivro:rainer-maria-rilke-os-cadernos-de-malte-laurids-brigge</id>
     <author><name>Rainer Maria Rilke</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · prosa · em alemão · título de referência: Os Cadernos de Malte Laurids Brigge</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3111,7 +3111,7 @@
     <title>Essays by Ralph Waldo Emerson</title>
     <id>urn:pdlivro:ralph-waldo-emerson-ensaios</id>
     <author><name>Ralph Waldo Emerson</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · ensaio · em inglês · título de referência: Ensaios</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3124,7 +3124,7 @@
     <title>Húmus</title>
     <id>urn:pdlivro:raul-brandao-humus</id>
     <author><name>Raul Brandão</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · portugal, prosa, invencao-verbal</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3137,7 +3137,7 @@
     <title>O Ateneu</title>
     <id>urn:pdlivro:raul-pompeia-o-ateneu</id>
     <author><name>Raul Pompeia</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · brasil, romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3150,7 +3150,7 @@
     <title>Discourse on the Method of Rightly Conducting One&#x27;s Reason and of Seeking Truth in the Sciences</title>
     <id>urn:pdlivro:rene-descartes-discurso-do-metodo</id>
     <author><name>René Descartes</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · filosofia, metodo · em inglês · título de referência: Discurso do Método</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3163,7 +3163,7 @@
     <title>The Interpretation of Dreams</title>
     <id>urn:pdlivro:sigmund-freud-a-interpretacao-dos-sonhos</id>
     <author><name>Sigmund Freud</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · psicanalise · em inglês · título de referência: A Interpretação dos Sonhos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3176,7 +3176,7 @@
     <title>Totem und Tabu</title>
     <id>urn:pdlivro:sigmund-freud-totem-e-tabu</id>
     <author><name>Sigmund Freud</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · psicanalise, instituicoes, pai · em alemão · título de referência: Totem e Tabu</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3189,7 +3189,7 @@
     <title>Beyond the pleasure principle</title>
     <id>urn:pdlivro:sigmund-freud-alem-do-principio-do-prazer</id>
     <author><name>Sigmund Freud</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · psicanalise, repeticao · em inglês · título de referência: Além do Princípio do Prazer</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3202,7 +3202,7 @@
     <title>Group Psychology and The Analysis of The Ego</title>
     <id>urn:pdlivro:sigmund-freud-psicologia-das-massas-e-analise-do-eu</id>
     <author><name>Sigmund Freud</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · psicanalise, lideranca · em inglês · título de referência: Psicologia das Massas e Análise do Eu</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3215,7 +3215,7 @@
     <title>Das Unbehagen in der Kultur</title>
     <id>urn:pdlivro:sigmund-freud-o-mal-estar-na-civilizacao</id>
     <author><name>Sigmund Freud</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · psicanalise, cultura · em alemão · título de referência: O Mal-Estar na Civilização</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3228,7 +3228,7 @@
     <title>Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone</title>
     <id>urn:pdlivro:sofocles-antigona</id>
     <author><name>Sófocles</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · tragedia, lei-nao-escrita · em inglês · título de referência: Antígona</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3241,7 +3241,7 @@
     <title>Oedipus King of Thebes</title>
     <id>urn:pdlivro:sofocles-edipo-rei</id>
     <author><name>Sófocles</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · tragedia · em inglês · título de referência: Édipo Rei</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3254,7 +3254,7 @@
     <title>The Red and the Black: A Chronicle of 1830</title>
     <id>urn:pdlivro:stendhal-o-vermelho-e-o-negro</id>
     <author><name>Stendhal</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: O Vermelho e o Negro</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3267,7 +3267,7 @@
     <title>The Charterhouse of Parma, Volume 1</title>
     <id>urn:pdlivro:stendhal-a-cartuxa-de-parma</id>
     <author><name>Stendhal</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance · em inglês · título de referência: A Cartuxa de Parma</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3280,7 +3280,7 @@
     <title>Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897)</title>
     <id>urn:pdlivro:stephane-mallarme-um-lance-de-dados</id>
     <author><name>Stéphane Mallarmé</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · poesia, espacializacao · em francês · título de referência: Um Lance de Dados</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3293,7 +3293,7 @@
     <title>Poesias</title>
     <id>urn:pdlivro:stephane-mallarme-poesias</id>
     <author><name>Stéphane Mallarmé</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>fr</dc:language>
     <content type="text">Literatura · poesia, hermetismo</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3306,7 +3306,7 @@
     <title>Buddenbrooks: Verfall einer Familie</title>
     <id>urn:pdlivro:thomas-mann-os-buddenbrook</id>
     <author><name>Thomas Mann</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · romance, familia, sucessao · em alemão · título de referência: Os Buddenbrook</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3319,7 +3319,7 @@
     <title>Death in Venice</title>
     <id>urn:pdlivro:thomas-mann-a-morte-em-veneza</id>
     <author><name>Thomas Mann</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · novela · em inglês · título de referência: A Morte em Veneza</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3332,7 +3332,7 @@
     <title>Der Zauberberg</title>
     <id>urn:pdlivro:thomas-mann-a-montanha-magica</id>
     <author><name>Thomas Mann</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>de</dc:language>
     <content type="text">Literatura · romance, tempo, duracao · em alemão · título de referência: A Montanha Mágica</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3345,7 +3345,7 @@
     <title>Notre-Dame de Paris</title>
     <id>urn:pdlivro:victor-hugo-notre-dame-de-paris</id>
     <author><name>Victor Hugo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3358,7 +3358,7 @@
     <title>Os Miseráveis</title>
     <id>urn:pdlivro:victor-hugo-os-miseraveis</id>
     <author><name>Victor Hugo</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · romance</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3371,7 +3371,7 @@
     <title>Candide</title>
     <id>urn:pdlivro:voltaire-candido</id>
     <author><name>Voltaire</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · satira, conto-filosofico · em inglês · título de referência: Cândido</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3384,7 +3384,7 @@
     <title>Leaves of Grass</title>
     <id>urn:pdlivro:walt-whitman-folhas-de-relva</id>
     <author><name>Walt Whitman</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · poesia · em inglês · título de referência: Folhas de Relva</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3397,7 +3397,7 @@
     <title>Hamlet</title>
     <id>urn:pdlivro:william-shakespeare-hamlet</id>
     <author><name>William Shakespeare</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>pt</dc:language>
     <content type="text">Literatura · teatro</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3410,7 +3410,7 @@
     <title>Macbeth</title>
     <id>urn:pdlivro:william-shakespeare-macbeth</id>
     <author><name>William Shakespeare</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · teatro, legitimidade</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3423,7 +3423,7 @@
     <title>King Lear</title>
     <id>urn:pdlivro:william-shakespeare-rei-lear</id>
     <author><name>William Shakespeare</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · teatro, sucessao · em inglês · título de referência: Rei Lear</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3436,7 +3436,7 @@
     <title>Shakespeare&#x27;s Sonnets</title>
     <id>urn:pdlivro:william-shakespeare-sonetos</id>
     <author><name>William Shakespeare</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · poesia, duracao · em inglês · título de referência: Sonetos</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
@@ -3449,7 +3449,7 @@
     <title>The Tempest</title>
     <id>urn:pdlivro:william-shakespeare-a-tempestade</id>
     <author><name>William Shakespeare</name></author>
-    <updated>2026-09-11T19:41:14Z</updated>
+    <updated>2026-09-11T19:55:13Z</updated>
     <dc:language>en</dc:language>
     <content type="text">Literatura · teatro · em inglês · título de referência: A Tempestade</content>
     <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
