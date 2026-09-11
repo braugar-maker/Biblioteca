@@ -180,28 +180,6 @@
    "procedencia": "Trad. Kenyon, Frederic G. (Frederic George), Sir (morreu em 1952); Project Gutenberg 26095"
   },
   {
-   "t": "Consolidação das Leis Civis",
-   "a": "Augusto Teixeira de Freitas",
-   "y": 1858,
-   "c": "A",
-   "e": "I",
-   "l": "pt",
-   "eixo": "Instituto",
-   "tags": [
-    "brasil",
-    "codificacao"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.epub",
-   "kb": 78,
-   "capa": "capas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.png",
-   "capa_min": "capas/miniaturas/augusto-teixeira-de-freitas-consolidacao-das-leis-civis-240x300.png",
-   "te": "Cartas, e mais peças officiaes dirigidas a Sua Magestade o Senhor D. João VI pelo Principe Real o Senhor D. Pedro de Alcantara",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/augusto-teixeira-de-freitas-consolidacao-das-leis-civis.pdf",
-   "pdf_kb": 838,
-   "revisao": "obra errada: Cartas, e mais peças officiaes dirigidas a Sua Magestade o Senhor D. João VI pelo Principe Real (Pedro I), não a Consolidação de Teixeira de Freitas"
-  },
-  {
    "t": "A Consolação da Filosofia",
    "a": "Boécio",
    "y": 524,
@@ -265,28 +243,6 @@
    "capa_min": "capas/miniaturas/cicero-das-leis-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cicero-das-leis.pdf",
    "pdf_kb": 723
-  },
-  {
-   "t": "Da República",
-   "a": "Cícero",
-   "y": -51,
-   "c": "A",
-   "e": "I",
-   "l": "pt",
-   "eixo": "Instituto",
-   "tags": [
-    "antiguidade",
-    "politica"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/cicero-da-republica.epub",
-   "kb": 50,
-   "capa": "capas/cicero-da-republica.png",
-   "capa_min": "capas/miniaturas/cicero-da-republica-240x300.png",
-   "te": "Libelo republicano",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/cicero-da-republica.pdf",
-   "pdf_kb": 651,
-   "revisao": "obra errada: Libelo republicano, de César Zama, não o De Re Publica de Cícero"
   },
   {
    "t": "Dos Deveres",
@@ -3286,27 +3242,6 @@
    "pdf_kb": 850
   },
   {
-   "t": "Infância",
-   "a": "Graciliano Ramos",
-   "y": 1945,
-   "c": "B",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "brasil",
-    "memoria"
-   ],
-   "fonte": "archive",
-   "arq": "livros/graciliano-ramos-infancia.epub",
-   "kb": 385,
-   "capa": "capas/graciliano-ramos-infancia.png",
-   "capa_min": "capas/miniaturas/graciliano-ramos-infancia-240x300.png",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/graciliano-ramos-infancia.pdf",
-   "pdf_kb": 2989,
-   "revisao": "obra errada: Giménez Dasí, Psicología del desarrollo (2023), não Infância de Graciliano"
-  },
-  {
    "t": "Álcoois",
    "a": "Guillaume Apollinaire",
    "y": 1913,
@@ -5463,27 +5398,6 @@
    "pdf": "https://biblioteca.aeviternitas.com/pdf/stephane-mallarme-um-lance-de-dados.pdf",
    "pdf_kb": 816,
    "procedencia": "Original em fr; Wikisource fr, página \"Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897)\""
-  },
-  {
-   "t": "Poesias",
-   "a": "Stéphane Mallarmé",
-   "y": 1899,
-   "c": "A",
-   "e": "L",
-   "l": "fr",
-   "eixo": "Literatura",
-   "tags": [
-    "poesia",
-    "hermetismo"
-   ],
-   "fonte": "archive",
-   "arq": "livros/stephane-mallarme-poesias.epub",
-   "kb": 1071,
-   "capa": "capas/stephane-mallarme-poesias.png",
-   "capa_min": "capas/miniaturas/stephane-mallarme-poesias-240x300.png",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/stephane-mallarme-poesias.pdf",
-   "pdf_kb": 11477,
-   "revisao": "obra errada: Lexique roman de Raynouard (dicionário da língua dos trovadores), não as poesias de Mallarmé"
   },
   {
    "t": "Os Buddenbrook",

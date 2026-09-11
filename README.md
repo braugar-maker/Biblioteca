@@ -2,10 +2,10 @@
 
 *quod manet*
 
-265 obras em domínio público, em EPUB e PDF, prontas para o Kindle, para a impressão e para qualquer leitor.
+261 obras em domínio público, em EPUB e PDF, prontas para o Kindle, para a impressão e para qualquer leitor.
 Índice em `index.html`, feed OPDS em `opds.xml` (com capa e miniatura por obra), catálogo em `catalogo.json`,
 capas em `capas/`. Índice legível no GitHub, por autor, título, tema, idioma e século: [INDICE.md](INDICE.md).
-265 obras também em PDF (A5, composição do instituto, com página de procedência), hospedados em biblioteca.aeviternitas.com; o link de cada um está na ficha (`pdf`) e no OPDS.
+261 obras também em PDF (A5, composição do instituto, com página de procedência), hospedados em biblioteca.aeviternitas.com; o link de cada um está na ficha (`pdf`) e no OPDS.
 
 Dois eixos: **Instituto** (o que nas instituições atravessa gerações) e **Literatura**.
 
