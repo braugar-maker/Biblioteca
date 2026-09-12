@@ -20,4 +20,4 @@ Dois eixos: **Instituto** (o que nas instituições atravessa gerações) e **Li
 Project Gutenberg, Wikisource e Internet Archive. A fonte de cada obra fica registrada no acervo.
 As capas são tipográficas, feitas pelo instituto no seu padrão visual; nenhuma reproduz capa de edição sob direito.
 
-Gerado por `pdlivro_site.py` v2 em 2026-09-11.
+Gerado por `pdlivro_site.py` v3 em 2026-09-12.

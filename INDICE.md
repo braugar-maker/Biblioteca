@@ -1749,4 +1749,4 @@ Domínio público no Brasil (Lei 9.610/98, art. 41), ainda sob direito nos Estad
 - **Alice no País do Espelho, tradução e adaptação de Monteiro Lobato** · Lewis Carroll · 1933 · português · camada B · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/lewis-carroll-alice-no-pais-do-espelho-traducao-e-adaptacao-de-monteiro-lobato.epub) 3470 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/lewis-carroll-alice-no-pais-do-espelho-traducao-e-adaptacao-de-monteiro-lobato.pdf) 4508 KB
 - **Clara dos Anjos** · Lima Barreto · 1948 · português · camada B · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/lima-barreto-clara-dos-anjos.epub) 181 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/lima-barreto-clara-dos-anjos.pdf) 973 KB
 
-Gerado por `pdlivro_site.py` em 2026-09-11.
+Gerado por `pdlivro_site.py` em 2026-09-12.
