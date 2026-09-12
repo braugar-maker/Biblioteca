@@ -136,28 +136,6 @@
    "pdf_kb": 2887
   },
   {
-   "t": "Política",
-   "a": "Aristóteles",
-   "y": -330,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "antiguidade",
-    "politica"
-   ],
-   "fonte": "gutenberg",
-   "arq": "livros/aristoteles-politica.epub",
-   "kb": 281,
-   "capa": "capas/aristoteles-politica.png",
-   "capa_min": "capas/miniaturas/aristoteles-politica-240x300.png",
-   "te": "Politics: A Treatise on Government",
-   "procedencia": "Trad. Ellis, William (morreu em 1801); Project Gutenberg 6762",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf",
-   "pdf_kb": 1934
-  },
-  {
    "t": "A Constituição de Atenas",
    "a": "Aristóteles",
    "y": -330,
@@ -178,6 +156,28 @@
    "procedencia": "Trad. Kenyon, Frederic G. (Frederic George), Sir (morreu em 1952); Project Gutenberg 26095",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/aristoteles-a-constituicao-de-atenas.pdf",
    "pdf_kb": 699
+  },
+  {
+   "t": "Política",
+   "a": "Aristóteles",
+   "y": -330,
+   "c": "A",
+   "e": "I",
+   "l": "en",
+   "eixo": "Instituto",
+   "tags": [
+    "antiguidade",
+    "politica"
+   ],
+   "fonte": "gutenberg",
+   "arq": "livros/aristoteles-politica.epub",
+   "kb": 281,
+   "capa": "capas/aristoteles-politica.png",
+   "capa_min": "capas/miniaturas/aristoteles-politica-240x300.png",
+   "te": "Politics: A Treatise on Government",
+   "procedencia": "Trad. Ellis, William (morreu em 1801); Project Gutenberg 6762",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf",
+   "pdf_kb": 1934
   },
   {
    "t": "A Consolação da Filosofia",
@@ -929,28 +929,6 @@
    "pdf_kb": 3478
   },
   {
-   "t": "O Príncipe",
-   "a": "Nicolau Maquiavel",
-   "y": 1532,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "moderna",
-    "politica"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/nicolau-maquiavel-o-principe.epub",
-   "kb": 396,
-   "capa": "capas/nicolau-maquiavel-o-principe.png",
-   "capa_min": "capas/miniaturas/nicolau-maquiavel-o-principe-240x300.png",
-   "te": "The Prince",
-   "procedencia": "trad. William Kenaz Marriott (morreu em 1927), Dent, 1908; Wikisource en",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf",
-   "pdf_kb": 1712
-  },
-  {
    "t": "História de Florença",
    "a": "Nicolau Maquiavel",
    "y": 1532,
@@ -971,6 +949,28 @@
    "procedencia": "tradução anônima, Bohn 1851; domínio público",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-historia-de-florenca.pdf",
    "pdf_kb": 5177
+  },
+  {
+   "t": "O Príncipe",
+   "a": "Nicolau Maquiavel",
+   "y": 1532,
+   "c": "A",
+   "e": "I",
+   "l": "en",
+   "eixo": "Instituto",
+   "tags": [
+    "moderna",
+    "politica"
+   ],
+   "fonte": "wikisource",
+   "arq": "livros/nicolau-maquiavel-o-principe.epub",
+   "kb": 396,
+   "capa": "capas/nicolau-maquiavel-o-principe.png",
+   "capa_min": "capas/miniaturas/nicolau-maquiavel-o-principe-240x300.png",
+   "te": "The Prince",
+   "procedencia": "trad. William Kenaz Marriott (morreu em 1927), Dent, 1908; Wikisource en",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf",
+   "pdf_kb": 1712
   },
   {
    "t": "Teorias Políticas da Idade Média",
@@ -2159,28 +2159,6 @@
    "pdf_kb": 566
   },
   {
-   "t": "Missal",
-   "a": "Cruz e Sousa",
-   "y": 1893,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "brasil",
-    "simbolismo",
-    "prosa-poetica"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/cruz-e-sousa-missal.epub",
-   "kb": 127,
-   "capa": "capas/cruz-e-sousa-missal.png",
-   "capa_min": "capas/miniaturas/cruz-e-sousa-missal-240x300.png",
-   "procedencia": "Original em pt; Wikisource pt, página \"Missal\"",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf",
-   "pdf_kb": 856
-  },
-  {
    "t": "Broquéis",
    "a": "Cruz e Sousa",
    "y": 1893,
@@ -2201,6 +2179,28 @@
    "procedencia": "Original em pt; Wikisource (subpáginas: Broquéis (subpaginas))",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-broqueis.pdf",
    "pdf_kb": 579
+  },
+  {
+   "t": "Missal",
+   "a": "Cruz e Sousa",
+   "y": 1893,
+   "c": "A",
+   "e": "L",
+   "l": "pt",
+   "eixo": "Literatura",
+   "tags": [
+    "brasil",
+    "simbolismo",
+    "prosa-poetica"
+   ],
+   "fonte": "wikisource",
+   "arq": "livros/cruz-e-sousa-missal.epub",
+   "kb": 127,
+   "capa": "capas/cruz-e-sousa-missal.png",
+   "capa_min": "capas/miniaturas/cruz-e-sousa-missal-240x300.png",
+   "procedencia": "Original em pt; Wikisource pt, página \"Missal\"",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf",
+   "pdf_kb": 856
   },
   {
    "t": "Últimos Sonetos",
@@ -2813,6 +2813,29 @@
    "pdf_kb": 403
   },
   {
+   "t": "O Processo",
+   "a": "Franz Kafka",
+   "y": 1925,
+   "c": "A",
+   "e": "L",
+   "l": "de",
+   "eixo": "Literatura",
+   "tags": [
+    "modernismo",
+    "burocracia",
+    "legitimidade"
+   ],
+   "fonte": "gutenberg",
+   "arq": "livros/franz-kafka-o-processo.epub",
+   "kb": 486,
+   "capa": "capas/franz-kafka-o-processo.png",
+   "capa_min": "capas/miniaturas/franz-kafka-o-processo-240x300.png",
+   "te": "Der Prozess",
+   "procedencia": "original alemão, edição de Max Brod (morreu em 1968), Die Schmiede, Berlim, 1925; Kafka morreu em 1924; a organização póstuma de Brod foi aceita por decisão do instituto em 11/9/2026; Gutenberg 69327",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf",
+   "pdf_kb": 2210
+  },
+  {
    "t": "O Nascimento da Tragédia",
    "a": "Friedrich Nietzsche",
    "y": 1872,
@@ -3416,6 +3439,27 @@
    "pdf_kb": 713
   },
   {
+   "t": "Ilíada",
+   "a": "Homero",
+   "y": -750,
+   "c": "A",
+   "e": "L",
+   "l": "pt",
+   "eixo": "Literatura",
+   "tags": [
+    "epica",
+    "antiguidade"
+   ],
+   "fonte": "wikisource",
+   "arq": "livros/homero-iliada.epub",
+   "kb": 283,
+   "capa": "capas/homero-iliada.png",
+   "capa_min": "capas/miniaturas/homero-iliada-240x300.png",
+   "procedencia": "Trad. Manuel Odorico Mendes (morreu em 1864); Wikisource pt",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/homero-iliada.pdf",
+   "pdf_kb": 3051
+  },
+  {
    "t": "Odisseia",
    "a": "Homero",
    "y": -750,
@@ -3436,27 +3480,6 @@
    "procedencia": "Trad. Butler, Samuel (morreu em 1902); Project Gutenberg 1727",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/homero-odisseia.pdf",
    "pdf_kb": 2642
-  },
-  {
-   "t": "Ilíada",
-   "a": "Homero",
-   "y": -750,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "epica",
-    "antiguidade"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/homero-iliada.epub",
-   "kb": 283,
-   "capa": "capas/homero-iliada.png",
-   "capa_min": "capas/miniaturas/homero-iliada-240x300.png",
-   "procedencia": "Trad. Manuel Odorico Mendes (morreu em 1864); Wikisource pt",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/homero-iliada.pdf",
-   "pdf_kb": 3051
   },
   {
    "t": "Pai Goriot",
@@ -4488,27 +4511,6 @@
    "pdf_kb": 1200
   },
   {
-   "t": "Páginas Recolhidas",
-   "a": "Machado de Assis",
-   "y": 1899,
-   "c": "A",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "brasil",
-    "conto"
-   ],
-   "fonte": "archive",
-   "arq": "livros/machado-de-assis-paginas-recolhidas.epub",
-   "kb": 55,
-   "capa": "capas/machado-de-assis-paginas-recolhidas.png",
-   "capa_min": "capas/miniaturas/machado-de-assis-paginas-recolhidas-240x300.png",
-   "procedencia": "original de 1899 (Garnier); texto fixado pelo NUPILL/UFSC para o Portal Domínio Público a partir da Obra Completa (Nova Aguilar, 1994), sem aparato; Internet Archive",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf",
-   "pdf_kb": 686
-  },
-  {
    "t": "Dom Casmurro",
    "a": "Machado de Assis",
    "y": 1899,
@@ -4528,6 +4530,27 @@
    "procedencia": "Original em pt; Project Gutenberg 55752",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-dom-casmurro.pdf",
    "pdf_kb": 1999
+  },
+  {
+   "t": "Páginas Recolhidas",
+   "a": "Machado de Assis",
+   "y": 1899,
+   "c": "A",
+   "e": "L",
+   "l": "pt",
+   "eixo": "Literatura",
+   "tags": [
+    "brasil",
+    "conto"
+   ],
+   "fonte": "archive",
+   "arq": "livros/machado-de-assis-paginas-recolhidas.epub",
+   "kb": 55,
+   "capa": "capas/machado-de-assis-paginas-recolhidas.png",
+   "capa_min": "capas/miniaturas/machado-de-assis-paginas-recolhidas-240x300.png",
+   "procedencia": "original de 1899 (Garnier); texto fixado pelo NUPILL/UFSC para o Portal Domínio Público a partir da Obra Completa (Nova Aguilar, 1994), sem aparato; Internet Archive",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf",
+   "pdf_kb": 686
   },
   {
    "t": "Poesias Completas",

@@ -1,6 +1,6 @@
 # Índice da Biblioteca Aevum
 
-254 obras em domínio público, em EPUB e PDF. Catálogo com busca: https://braugar-maker.github.io/Biblioteca/ · feed OPDS: https://braugar-maker.github.io/Biblioteca/opds.xml · dados: https://braugar-maker.github.io/Biblioteca/catalogo.json
+255 obras em domínio público, em EPUB e PDF. Catálogo com busca: https://braugar-maker.github.io/Biblioteca/ · feed OPDS: https://braugar-maker.github.io/Biblioteca/opds.xml · dados: https://braugar-maker.github.io/Biblioteca/catalogo.json
 
 Sumário: [Por autor](#por-autor) · [Por título](#por-título) · [Por eixo e tema](#por-eixo-e-tema) · [Por idioma](#por-idioma) · [Por século](#por-século) · [Camada B](#camada-b)
 
@@ -196,8 +196,9 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 **François Rabelais** (1)
 - **Gargantua and Pantagruel (em português: Gargântua e Pantagruel)** · 1534 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/francois-rabelais-gargantua-e-pantagruel.epub) 8210 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/francois-rabelais-gargantua-e-pantagruel.pdf) 12619 KB
 
-**Franz Kafka** (1)
+**Franz Kafka** (2)
 - **Die Verwandlung (em português: A Metamorfose)** · 1915 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/franz-kafka-a-metamorfose.epub) 97 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/franz-kafka-a-metamorfose.pdf) 403 KB
+- **Der Prozess (em português: O Processo)** · 1925 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/franz-kafka-o-processo.epub) 486 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf) 2210 KB
 
 **Friedrich Nietzsche** (6)
 - **Die Geburt der Tragödie (em português: O Nascimento da Tragédia)** · 1872 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/friedrich-nietzsche-o-nascimento-da-tragedia.epub) 205 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-o-nascimento-da-tragedia.pdf) 1089 KB
@@ -645,6 +646,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Dead Souls (em português: Almas Mortas)** · Nikolai Gógol · 1842 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nikolai-gogol-almas-mortas.epub) 377 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nikolai-gogol-almas-mortas.pdf) 2931 KB
 - **Democracy and Education: An Introduction to the Philosophy of Education (em português: Democracia e Educação)** · John Dewey · 1916 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/john-dewey-democracia-e-educacao.epub) 399 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/john-dewey-democracia-e-educacao.pdf) 2816 KB
 - **Democracy in America: Volume 1 (em português: A Democracia na América)** · Alexis de Tocqueville · 1835 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/alexis-de-tocqueville-a-democracia-na-america.epub) 530 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/alexis-de-tocqueville-a-democracia-na-america.pdf) 3641 KB
+- **Der Prozess (em português: O Processo)** · Franz Kafka · 1925 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/franz-kafka-o-processo.epub) 486 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf) 2210 KB
 - **Der Tod in Venedig (em português: A Morte em Veneza)** · Thomas Mann · 1912 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/thomas-mann-a-morte-em-veneza.epub) 141 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/thomas-mann-a-morte-em-veneza.pdf) 769 KB
 - **Der Zauberberg (em português: A Montanha Mágica)** · Thomas Mann · 1924 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/thomas-mann-a-montanha-magica.epub) 1300 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/thomas-mann-a-montanha-magica.pdf) 6536 KB
 - **Dhammapada, a Collection of Verses (em português: Dhammapada)** · Anônimo · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/anonimo-dhammapada.epub) 121 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/anonimo-dhammapada.pdf) 738 KB
@@ -895,7 +897,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **aevum** (1): Summa Theologica, Part II-II (Secunda Secundae), Tomás de Aquino
 
-**antiguidade** (13): The Nicomachean ethics of Aristotle, Aristóteles; Politics: A Treatise on Government, Aristóteles; The Athenian Constitution, Aristóteles; De legibus, Cícero; De Officiis, Cícero; Meditations, Marco Aurélio; The Republic of Plato, Platão; Laws, Platão; Plutarch's Lives of the Noble Grecians and Romans, Plutarco; The Histories of Polybius, Vol. 1 (of 2), Políbio; Minor Dialogues, Together With the Dialogue on Clemency, Sêneca; Epistulae morales ad Lucilium, Sêneca; The History of the Peloponnesian War, Tucídides
+**antiguidade** (13): The Nicomachean ethics of Aristotle, Aristóteles; The Athenian Constitution, Aristóteles; Politics: A Treatise on Government, Aristóteles; De legibus, Cícero; De Officiis, Cícero; Meditations, Marco Aurélio; The Republic of Plato, Platão; Laws, Platão; Plutarch's Lives of the Noble Grecians and Romans, Plutarco; The Histories of Polybius, Vol. 1 (of 2), Políbio; Minor Dialogues, Together With the Dialogue on Clemency, Sêneca; Epistulae morales ad Lucilium, Sêneca; The History of the Peloponnesian War, Tucídides
 
 **associacao** (2): Democracy in America: Volume 1, Alexis de Tocqueville; The public and its problems, John Dewey
 
@@ -979,7 +981,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **metodo** (1): Novum Organum, Francis Bacon
 
-**moderna** (15): Novum Organum, Francis Bacon; New Atlantis, Francis Bacon; A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind, Jean-Jacques Rousseau; Du contrat social ou Principes du droit politique, Jean-Jacques Rousseau; A Letter Concerning Toleration, John Locke; Second Treatise of Government, John Locke; Persian Letters, Montesquieu; Esprit des lois, Montesquieu; Discourses on the First Decade of Titus Livius, Nicolau Maquiavel; The Prince, Nicolau Maquiavel; History of Florence and of the Affairs of Italy, Nicolau Maquiavel; Of the Law of Nature and Nations, Samuel von Pufendorf; Leviathan, Thomas Hobbes; Utopia, Thomas More; The City of the Sun, Tommaso Campanella
+**moderna** (15): Novum Organum, Francis Bacon; New Atlantis, Francis Bacon; A Discourse Upon the Origin and the Foundation of the Inequality Among Mankind, Jean-Jacques Rousseau; Du contrat social ou Principes du droit politique, Jean-Jacques Rousseau; A Letter Concerning Toleration, John Locke; Second Treatise of Government, John Locke; Persian Letters, Montesquieu; Esprit des lois, Montesquieu; Discourses on the First Decade of Titus Livius, Nicolau Maquiavel; History of Florence and of the Affairs of Italy, Nicolau Maquiavel; The Prince, Nicolau Maquiavel; Of the Law of Nature and Nations, Samuel von Pufendorf; Leviathan, Thomas Hobbes; Utopia, Thomas More; The City of the Sun, Tommaso Campanella
 
 **oriente** (1): The Analects of Confucius (from the Chinese Classics), Confúcio
 
@@ -1023,17 +1025,19 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **utopia** (3): New Atlantis, Francis Bacon; Utopia, Thomas More; The City of the Sun, Tommaso Campanella
 
-### Literatura (188)
+### Literatura (189)
 
 **aforismo** (3): The Essays of Arthur Schopenhauer: the Wisdom of Life, Arthur Schopenhauer; Poésies, Conde de Lautréamont; Human, All Too Human: A Book for Free Spirits, Friedrich Nietzsche
 
 **alegoria** (1): Die Verwandlung, Franz Kafka
 
-**antiguidade** (3): A Epopeia de Gilgamesh, Anônimo; The Odyssey, Homero; Ilíada, Homero
+**antiguidade** (3): A Epopeia de Gilgamesh, Anônimo; Ilíada, Homero; The Odyssey, Homero
 
 **autobiografia** (1): Ecce homo. Wie man wird, was man ist, Friedrich Nietzsche
 
-**brasil** (50): O Mulato, Aluísio Azevedo; Casa de Pensão, Aluísio Azevedo; O Cortiço, Aluísio Azevedo; Lira dos Vinte Anos, Álvares de Azevedo; Noite na Taverna, Álvares de Azevedo; Eu e Outras Poesias, Augusto dos Anjos; As Primaveras, Casimiro de Abreu; Espumas Flutuantes, Castro Alves; Os Escravos, Castro Alves; Missal, Cruz e Sousa; Broquéis, Cruz e Sousa; Últimos Sonetos, Cruz e Sousa; Primeiros Cantos, Gonçalves Dias; Caetés, Graciliano Ramos; Vidas Secas, Graciliano Ramos; A Moreninha, Joaquim Manuel de Macedo; O Guarani, José de Alencar; Lucíola, José de Alencar; Iracema, José de Alencar; Senhora, José de Alencar; Alice no País do Espelho, tradução e adaptação de Monteiro Lobato, Lewis Carroll; Recordações do Escrivão Isaías Caminha, Lima Barreto; Triste Fim de Policarpo Quaresma, Lima Barreto; Vida e Morte de M. J. Gonzaga de Sá, Lima Barreto; Os Bruzundangas, Lima Barreto; Clara dos Anjos, Lima Barreto; Contos Fluminenses, Machado de Assis; Ressurreição, Machado de Assis; A Mão e a Luva, Machado de Assis; Helena, Machado de Assis; Iaiá Garcia, Machado de Assis; Memórias Póstumas de Brás Cubas, Machado de Assis; Papéis Avulsos, Machado de Assis; Histórias sem Data, Machado de Assis; Quincas Borba, Machado de Assis; Várias Histórias, Machado de Assis; Páginas Recolhidas, Machado de Assis; Dom Casmurro, Machado de Assis; Poesias Completas, Machado de Assis; Esaú e Jacó, Machado de Assis; Relíquias de Casa Velha, Machado de Assis; Memorial de Aires, Machado de Assis; Memórias de um Sargento de Milícias, Manuel Antônio de Almeida; Macunaíma, Mário de Andrade; Urupês, Monteiro Lobato; Cidades Mortas, Monteiro Lobato; Negrinha, Monteiro Lobato; Poesias, Olavo Bilac; Pau Brasil, Oswald de Andrade; O Ateneu, Raul Pompeia
+**brasil** (50): O Mulato, Aluísio Azevedo; Casa de Pensão, Aluísio Azevedo; O Cortiço, Aluísio Azevedo; Lira dos Vinte Anos, Álvares de Azevedo; Noite na Taverna, Álvares de Azevedo; Eu e Outras Poesias, Augusto dos Anjos; As Primaveras, Casimiro de Abreu; Espumas Flutuantes, Castro Alves; Os Escravos, Castro Alves; Broquéis, Cruz e Sousa; Missal, Cruz e Sousa; Últimos Sonetos, Cruz e Sousa; Primeiros Cantos, Gonçalves Dias; Caetés, Graciliano Ramos; Vidas Secas, Graciliano Ramos; A Moreninha, Joaquim Manuel de Macedo; O Guarani, José de Alencar; Lucíola, José de Alencar; Iracema, José de Alencar; Senhora, José de Alencar; Alice no País do Espelho, tradução e adaptação de Monteiro Lobato, Lewis Carroll; Recordações do Escrivão Isaías Caminha, Lima Barreto; Triste Fim de Policarpo Quaresma, Lima Barreto; Vida e Morte de M. J. Gonzaga de Sá, Lima Barreto; Os Bruzundangas, Lima Barreto; Clara dos Anjos, Lima Barreto; Contos Fluminenses, Machado de Assis; Ressurreição, Machado de Assis; A Mão e a Luva, Machado de Assis; Helena, Machado de Assis; Iaiá Garcia, Machado de Assis; Memórias Póstumas de Brás Cubas, Machado de Assis; Papéis Avulsos, Machado de Assis; Histórias sem Data, Machado de Assis; Quincas Borba, Machado de Assis; Várias Histórias, Machado de Assis; Dom Casmurro, Machado de Assis; Páginas Recolhidas, Machado de Assis; Poesias Completas, Machado de Assis; Esaú e Jacó, Machado de Assis; Relíquias de Casa Velha, Machado de Assis; Memorial de Aires, Machado de Assis; Memórias de um Sargento de Milícias, Manuel Antônio de Almeida; Macunaíma, Mário de Andrade; Urupês, Monteiro Lobato; Cidades Mortas, Monteiro Lobato; Negrinha, Monteiro Lobato; Poesias, Olavo Bilac; Pau Brasil, Oswald de Andrade; O Ateneu, Raul Pompeia
+
+**burocracia** (1): Der Prozess, Franz Kafka
 
 **carta** (1): De Profundis, Oscar Wilde
 
@@ -1053,7 +1057,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **ensaio** (7): Eureka: A Prose Poem, Edgar Allan Poe; Laughter: An Essay on the Meaning of the Comic, Henri Bergson; Walden, and On The Duty Of Civil Disobedience, Henry David Thoreau; Walden, and On The Duty Of Civil Disobedience, Henry David Thoreau; Essays of Michel de Montaigne: Complete, Michel de Montaigne; De Profundis, Oscar Wilde; Essays by Ralph Waldo Emerson, Ralph Waldo Emerson
 
-**epica** (6): A Epopeia de Gilgamesh, Anônimo; The Divine Comedy, Dante Alighieri; The Odyssey, Homero; Ilíada, Homero; Paraíso Perdido, John Milton; Os Lusíadas, Luís de Camões
+**epica** (6): A Epopeia de Gilgamesh, Anônimo; The Divine Comedy, Dante Alighieri; Ilíada, Homero; The Odyssey, Homero; Paraíso Perdido, John Milton; Os Lusíadas, Luís de Camões
 
 **espacializacao** (1): Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897), Stéphane Mallarmé
 
@@ -1083,7 +1087,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **legado** (1): The Brothers Karamazov, Fiódor Dostoiévski
 
-**legitimidade** (1): Macbeth, William Shakespeare
+**legitimidade** (2): Der Prozess, Franz Kafka; Macbeth, William Shakespeare
 
 **lei nao escrita** (1): Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone, Sófocles
 
@@ -1103,7 +1107,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **modernidade** (1): As Flores do Mal, Charles Baudelaire
 
-**modernismo** (5): Die Verwandlung, Franz Kafka; Dubliners, James Joyce; A Portrait of the Artist as a Young Man, James Joyce; Macunaíma, Mário de Andrade; Pau Brasil, Oswald de Andrade
+**modernismo** (6): Die Verwandlung, Franz Kafka; Der Prozess, Franz Kafka; Dubliners, James Joyce; A Portrait of the Artist as a Young Man, James Joyce; Macunaíma, Mário de Andrade; Pau Brasil, Oswald de Andrade
 
 **narrativa** (2): The Thousand and One Nights, Vol. I, Anônimo; The Decameron of Giovanni Boccaccio, Giovanni Boccaccio
 
@@ -1147,7 +1151,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 
 **satira** (5): Gargantua and Pantagruel, François Rabelais; Bouvard and Pécuchet: A Tragi-comic Novel of Bourgeois Life, part 1, Gustave Flaubert; Gulliver's Travels into Several Remote Regions of the World, Jonathan Swift; Os Bruzundangas, Lima Barreto; Candide, Voltaire
 
-**simbolismo** (4): Clepsydra, Camilo Pessanha; Missal, Cruz e Sousa; Broquéis, Cruz e Sousa; Últimos Sonetos, Cruz e Sousa
+**simbolismo** (4): Clepsydra, Camilo Pessanha; Broquéis, Cruz e Sousa; Missal, Cruz e Sousa; Últimos Sonetos, Cruz e Sousa
 
 **sonho** (1): Aurélia ou le Rêve et la Vie, Gérard de Nerval
 
@@ -1184,8 +1188,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Os Escravos** · Castro Alves · 1883 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/castro-alves-os-escravos.epub) 13 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/castro-alves-os-escravos.pdf) 353 KB
 - **O Livro de Cesário Verde** · Cesário Verde · 1887 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cesario-verde-o-livro-de-cesario-verde.epub) 123 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cesario-verde-o-livro-de-cesario-verde.pdf) 977 KB
 - **As Flores do Mal** · Charles Baudelaire · 1857 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/charles-baudelaire-as-flores-do-mal.epub) 159 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/charles-baudelaire-as-flores-do-mal.pdf) 1188 KB
-- **Missal** · Cruz e Sousa · 1893 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-missal.epub) 127 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf) 856 KB
 - **Broquéis** · Cruz e Sousa · 1893 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-broqueis.epub) 44 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-broqueis.pdf) 579 KB
+- **Missal** · Cruz e Sousa · 1893 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-missal.epub) 127 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf) 856 KB
 - **Últimos Sonetos** · Cruz e Sousa · 1905 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-ultimos-sonetos.epub) 72 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-ultimos-sonetos.pdf) 777 KB
 - **O Crime do Padre Amaro** · Eça de Queirós · 1875 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/eca-de-queiros-o-crime-do-padre-amaro.epub) 464 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-o-crime-do-padre-amaro.pdf) 3506 KB
 - **O Primo Basílio** · Eça de Queirós · 1878 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/eca-de-queiros-o-primo-basilio.epub) 462 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-o-primo-basilio.pdf) 3501 KB
@@ -1231,8 +1235,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Histórias sem Data** · Machado de Assis · 1884 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-historias-sem-data.epub) 206 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-historias-sem-data.pdf) 1327 KB
 - **Quincas Borba** · Machado de Assis · 1891 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-quincas-borba.epub) 272 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-quincas-borba.pdf) 2242 KB
 - **Várias Histórias** · Machado de Assis · 1896 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-varias-historias.epub) 148 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-varias-historias.pdf) 1200 KB
-- **Páginas Recolhidas** · Machado de Assis · 1899 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-paginas-recolhidas.epub) 55 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf) 686 KB
 - **Dom Casmurro** · Machado de Assis · 1899 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-dom-casmurro.epub) 216 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-dom-casmurro.pdf) 1999 KB
+- **Páginas Recolhidas** · Machado de Assis · 1899 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-paginas-recolhidas.epub) 55 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf) 686 KB
 - **Poesias Completas** · Machado de Assis · 1901 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-poesias-completas.epub) 250 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-poesias-completas.pdf) 2400 KB
 - **Esaú e Jacó** · Machado de Assis · 1904 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-esau-e-jaco.epub) 253 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-esau-e-jaco.pdf) 1528 KB
 - **Relíquias de Casa Velha** · Machado de Assis · 1906 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-reliquias-de-casa-velha.epub) 355 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-reliquias-de-casa-velha.pdf) 2082 KB
@@ -1268,8 +1272,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **O Jardim das Cerejeiras** · Anton Tchékhov · 1904 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/anton-tchekhov-o-jardim-das-cerejeiras.epub) 124 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/anton-tchekhov-o-jardim-das-cerejeiras.pdf) 1368 KB
 - **The Clouds (em português: As Nuvens)** · Aristófanes · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristofanes-as-nuvens.epub) 100 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristofanes-as-nuvens.pdf) 456 KB
 - **The Nicomachean ethics of Aristotle (em português: Ética a Nicômaco)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-etica-a-nicomaco.epub) 453 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-etica-a-nicomaco.pdf) 2887 KB
-- **Politics: A Treatise on Government (em português: Política)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-politica.epub) 281 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf) 1934 KB
 - **The Athenian Constitution (em português: A Constituição de Atenas)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-a-constituicao-de-atenas.epub) 128 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-a-constituicao-de-atenas.pdf) 699 KB
+- **Politics: A Treatise on Government (em português: Política)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-politica.epub) 281 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf) 1934 KB
 - **The Essays of Arthur Schopenhauer: the Wisdom of Life (em português: Parerga e Paralipomena)** · Arthur Schopenhauer · 1851 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/arthur-schopenhauer-parerga-e-paralipomena.epub) 178 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/arthur-schopenhauer-parerga-e-paralipomena.pdf) 1341 KB
 - **Ethics (em português: Ética)** · Baruch Espinosa · 1677 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/baruch-espinosa-etica.epub) 221 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/baruch-espinosa-etica.pdf) 1584 KB
 - **The Consolation of Philosophy (em português: A Consolação da Filosofia)** · Boécio · 524 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/boecio-a-consolacao-da-filosofia.epub) 336 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/boecio-a-consolacao-da-filosofia.pdf) 1800 KB
@@ -1355,8 +1359,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Essays of Michel de Montaigne: Complete (em português: Ensaios)** · Michel de Montaigne · 1580 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/michel-de-montaigne-ensaios.epub) 1247 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/michel-de-montaigne-ensaios.pdf) 8609 KB
 - **Persian Letters (em português: Cartas Persas)** · Montesquieu · 1721 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/montesquieu-cartas-persas.epub) 2108 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/montesquieu-cartas-persas.pdf) 3631 KB
 - **Discourses on the First Decade of Titus Livius (em português: Discursos sobre a Primeira Década de Tito Lívio)** · Nicolau Maquiavel · 1531 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.epub) 1628 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.pdf) 3478 KB
-- **The Prince (em português: O Príncipe)** · Nicolau Maquiavel · 1532 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-o-principe.epub) 396 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf) 1712 KB
 - **History of Florence and of the Affairs of Italy (em português: História de Florença)** · Nicolau Maquiavel · 1532 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-historia-de-florenca.epub) 2392 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-historia-de-florenca.pdf) 5177 KB
+- **The Prince (em português: O Príncipe)** · Nicolau Maquiavel · 1532 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-o-principe.epub) 396 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf) 1712 KB
 - **Dead Souls (em português: Almas Mortas)** · Nikolai Gógol · 1842 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nikolai-gogol-almas-mortas.epub) 377 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nikolai-gogol-almas-mortas.pdf) 2931 KB
 - **De Profundis** · Oscar Wilde · 1905 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/oscar-wilde-de-profundis.epub) 109 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/oscar-wilde-de-profundis.pdf) 435 KB
 - **Political Theories of the Middle Age (em português: Teorias Políticas da Idade Média)** · Otto von Gierke (trad. Maitland) · 1900 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.epub) 2637 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.pdf) 4305 KB
@@ -1411,9 +1415,10 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Poèmes saturniens (em português: Poemas Saturninos)** · Paul Verlaine · 1866 · francês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/paul-verlaine-poemas-saturninos.epub) 149 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/paul-verlaine-poemas-saturninos.pdf) 785 KB
 - **Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897) (em português: Um Lance de Dados)** · Stéphane Mallarmé · 1897 · francês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/stephane-mallarme-um-lance-de-dados.epub) 276 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/stephane-mallarme-um-lance-de-dados.pdf) 826 KB
 
-### alemão (13)
+### alemão (14)
 
 - **Die Verwandlung (em português: A Metamorfose)** · Franz Kafka · 1915 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/franz-kafka-a-metamorfose.epub) 97 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/franz-kafka-a-metamorfose.pdf) 403 KB
+- **Der Prozess (em português: O Processo)** · Franz Kafka · 1925 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/franz-kafka-o-processo.epub) 486 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf) 2210 KB
 - **Die Geburt der Tragödie (em português: O Nascimento da Tragédia)** · Friedrich Nietzsche · 1872 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/friedrich-nietzsche-o-nascimento-da-tragedia.epub) 205 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-o-nascimento-da-tragedia.pdf) 1089 KB
 - **Ecce homo. Wie man wird, was man ist (em português: Ecce Homo)** · Friedrich Nietzsche · 1908 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/friedrich-nietzsche-ecce-homo.epub) 167 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-ecce-homo.pdf) 904 KB
 - **Philosophie des Geldes (em português: Filosofia do Dinheiro)** · Georg Simmel · 1900 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/georg-simmel-filosofia-do-dinheiro.epub) 574 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/georg-simmel-filosofia-do-dinheiro.pdf) 4164 KB
@@ -1442,8 +1447,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 ### Antes de Cristo (22)
 
 - **A Epopeia de Gilgamesh** · Anônimo · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/anonimo-a-epopeia-de-gilgamesh.epub) 40 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/anonimo-a-epopeia-de-gilgamesh.pdf) 571 KB
-- **The Odyssey (em português: Odisseia)** · Homero · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/homero-odisseia.epub) 435 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/homero-odisseia.pdf) 2642 KB
 - **Ilíada** · Homero · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/homero-iliada.epub) 283 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/homero-iliada.pdf) 3051 KB
+- **The Odyssey (em português: Odisseia)** · Homero · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/homero-odisseia.epub) 435 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/homero-odisseia.pdf) 2642 KB
 - **The Analects of Confucius (from the Chinese Classics) (em português: Analectos)** · Confúcio · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/confucio-analectos.epub) 142 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/confucio-analectos.pdf) 959 KB
 - **The Oresteia of Aeschylus; Agamemnon, Choephori, Eumenides. The Greek text as arr. for performance at Cambridge with an English verse translation by R.C. Trevelyan (em português: Oresteia)** · Ésquilo · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/esquilo-oresteia.epub) 939 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/esquilo-oresteia.pdf) 1524 KB
 - **Plays of Sophocles: Oedipus the King; Oedipus at Colonus; Antigone (em português: Antígona)** · Sófocles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/sofocles-antigona.epub) 199 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/sofocles-antigona.pdf) 1939 KB
@@ -1457,8 +1462,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **The Republic of Plato (em português: A República)** · Platão · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/platao-a-republica.epub) 711 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/platao-a-republica.pdf) 7570 KB
 - **Laws (em português: As Leis)** · Platão · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/platao-as-leis.epub) 544 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/platao-as-leis.pdf) 3902 KB
 - **The Nicomachean ethics of Aristotle (em português: Ética a Nicômaco)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-etica-a-nicomaco.epub) 453 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-etica-a-nicomaco.pdf) 2887 KB
-- **Politics: A Treatise on Government (em português: Política)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-politica.epub) 281 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf) 1934 KB
 - **The Athenian Constitution (em português: A Constituição de Atenas)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-a-constituicao-de-atenas.epub) 128 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-a-constituicao-de-atenas.pdf) 699 KB
+- **Politics: A Treatise on Government (em português: Política)** · Aristóteles · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/aristoteles-politica.epub) 281 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/aristoteles-politica.pdf) 1934 KB
 - **Dhammapada, a Collection of Verses (em português: Dhammapada)** · Anônimo · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/anonimo-dhammapada.epub) 121 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/anonimo-dhammapada.pdf) 738 KB
 - **The Histories of Polybius, Vol. 1 (of 2) (em português: Histórias)** · Políbio · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/polibio-historias.epub) 734 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/polibio-historias.pdf) 5631 KB
 - **De legibus (em português: Das Leis)** · Cícero · latim · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cicero-das-leis.epub) 71 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cicero-das-leis.pdf) 723 KB
@@ -1503,8 +1508,8 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Utopia** · Thomas More · 1516 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/thomas-more-utopia.epub) 168 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/thomas-more-utopia.pdf) 971 KB
 - **Auto da Barca do Inferno** · Gil Vicente · 1517 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/gil-vicente-auto-da-barca-do-inferno.epub) 52 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/gil-vicente-auto-da-barca-do-inferno.pdf) 1034 KB
 - **Discourses on the First Decade of Titus Livius (em português: Discursos sobre a Primeira Década de Tito Lívio)** · Nicolau Maquiavel · 1531 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.epub) 1628 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-discursos-sobre-a-primeira-decada-de-tito-livio.pdf) 3478 KB
-- **The Prince (em português: O Príncipe)** · Nicolau Maquiavel · 1532 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-o-principe.epub) 396 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf) 1712 KB
 - **History of Florence and of the Affairs of Italy (em português: História de Florença)** · Nicolau Maquiavel · 1532 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-historia-de-florenca.epub) 2392 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-historia-de-florenca.pdf) 5177 KB
+- **The Prince (em português: O Príncipe)** · Nicolau Maquiavel · 1532 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/nicolau-maquiavel-o-principe.epub) 396 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/nicolau-maquiavel-o-principe.pdf) 1712 KB
 - **Gargantua and Pantagruel (em português: Gargântua e Pantagruel)** · François Rabelais · 1534 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/francois-rabelais-gargantua-e-pantagruel.epub) 8210 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/francois-rabelais-gargantua-e-pantagruel.pdf) 12619 KB
 - **Os Lusíadas** · Luís de Camões · 1572 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/luis-de-camoes-os-lusiadas.epub) 216 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/luis-de-camoes-os-lusiadas.pdf) 2332 KB
 - **Essays of Michel de Montaigne: Complete (em português: Ensaios)** · Michel de Montaigne · 1580 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/michel-de-montaigne-ensaios.epub) 1247 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/michel-de-montaigne-ensaios.pdf) 8609 KB
@@ -1657,16 +1662,16 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Quincas Borba** · Machado de Assis · 1891 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-quincas-borba.epub) 272 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-quincas-borba.pdf) 2242 KB
 - **Só** · António Nobre · 1892 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/antonio-nobre-so.epub) 121 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/antonio-nobre-so.pdf) 1205 KB
 - **Estudos de Direito** · Tobias Barreto · 1892 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/tobias-barreto-estudos-de-direito.epub) 455 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/tobias-barreto-estudos-de-direito.pdf) 3703 KB
-- **Missal** · Cruz e Sousa · 1893 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-missal.epub) 127 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf) 856 KB
 - **Broquéis** · Cruz e Sousa · 1893 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-broqueis.epub) 44 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-broqueis.pdf) 579 KB
+- **Missal** · Cruz e Sousa · 1893 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/cruz-e-sousa-missal.epub) 127 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/cruz-e-sousa-missal.pdf) 856 KB
 - **Matter and Memory (em português: Matéria e Memória)** · Henri Bergson · 1896 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/henri-bergson-materia-e-memoria.epub) 327 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/henri-bergson-materia-e-memoria.pdf) 2634 KB
 - **Várias Histórias** · Machado de Assis · 1896 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-varias-historias.epub) 148 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-varias-historias.pdf) 1200 KB
 - **Um Estadista do Império** · Joaquim Nabuco · 1897 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/joaquim-nabuco-um-estadista-do-imperio.epub) 2164 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/joaquim-nabuco-um-estadista-do-imperio.pdf) 2985 KB
 - **Un coup de dés jamais n’abolira le hasard (Épreuves d’imprimerie 1897) (em português: Um Lance de Dados)** · Stéphane Mallarmé · 1897 · francês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/stephane-mallarme-um-lance-de-dados.epub) 276 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/stephane-mallarme-um-lance-de-dados.pdf) 826 KB
 - **Project Gutenberg Compilation of Short Stories by Chekhov (em português: Contos)** · Anton Tchékhov · 1898 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/anton-tchekhov-contos.epub) 2642 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/anton-tchekhov-contos.pdf) 20308 KB
 - **Heart of Darkness (em português: Coração das Trevas)** · Joseph Conrad · 1899 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/joseph-conrad-coracao-das-trevas.epub) 160 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/joseph-conrad-coracao-das-trevas.pdf) 966 KB
-- **Páginas Recolhidas** · Machado de Assis · 1899 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-paginas-recolhidas.epub) 55 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf) 686 KB
 - **Dom Casmurro** · Machado de Assis · 1899 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-dom-casmurro.epub) 216 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-dom-casmurro.pdf) 1999 KB
+- **Páginas Recolhidas** · Machado de Assis · 1899 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-paginas-recolhidas.epub) 55 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-paginas-recolhidas.pdf) 686 KB
 - **The Theory of the Leisure Class (em português: A Teoria da Classe Ociosa)** · Thorstein Veblen · 1899 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/thorstein-veblen-a-teoria-da-classe-ociosa.epub) 290 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/thorstein-veblen-a-teoria-da-classe-ociosa.pdf) 1902 KB
 - **A Ilustre Casa de Ramires** · Eça de Queirós · 1900 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/eca-de-queiros-a-ilustre-casa-de-ramires.epub) 377 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-a-ilustre-casa-de-ramires.pdf) 2811 KB
 - **Philosophie des Geldes (em português: Filosofia do Dinheiro)** · Georg Simmel · 1900 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/georg-simmel-filosofia-do-dinheiro.epub) 574 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/georg-simmel-filosofia-do-dinheiro.pdf) 4164 KB
@@ -1676,7 +1681,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Political Theories of the Middle Age (em português: Teorias Políticas da Idade Média)** · Otto von Gierke (trad. Maitland) · 1900 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.epub) 2637 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/otto-von-gierke-trad-maitland-teorias-politicas-da-idade-media.pdf) 4305 KB
 - **The Interpretation of Dreams (em português: A Interpretação dos Sonhos)** · Sigmund Freud · 1900 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/sigmund-freud-a-interpretacao-dos-sonhos.epub) 877 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/sigmund-freud-a-interpretacao-dos-sonhos.pdf) 5859 KB
 
-### Século XX (53)
+### Século XX (54)
 
 - **A Cidade e as Serras** · Eça de Queirós · 1901 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/eca-de-queiros-a-cidade-e-as-serras.epub) 305 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/eca-de-queiros-a-cidade-e-as-serras.pdf) 1951 KB
 - **Poesias Completas** · Machado de Assis · 1901 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/machado-de-assis-poesias-completas.epub) 250 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/machado-de-assis-poesias-completas.pdf) 2400 KB
@@ -1721,6 +1726,7 @@ Ordem alfabética pelo nome como está na ficha (o mesmo critério do site). Tí
 - **Ulysses (em português: Ulisses)** · James Joyce · 1922 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/james-joyce-ulisses.epub) 1459 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/james-joyce-ulisses.pdf) 6814 KB
 - **Os Bruzundangas** · Lima Barreto · 1923 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/lima-barreto-os-bruzundangas.epub) 158 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/lima-barreto-os-bruzundangas.pdf) 1581 KB
 - **Der Zauberberg (em português: A Montanha Mágica)** · Thomas Mann · 1924 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/thomas-mann-a-montanha-magica.epub) 1300 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/thomas-mann-a-montanha-magica.pdf) 6536 KB
+- **Der Prozess (em português: O Processo)** · Franz Kafka · 1925 · alemão · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/franz-kafka-o-processo.epub) 486 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf) 2210 KB
 - **Pau Brasil** · Oswald de Andrade · 1925 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/oswald-de-andrade-pau-brasil.epub) 26 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/oswald-de-andrade-pau-brasil.pdf) 462 KB
 - **The public and its problems (em português: O Público e seus Problemas)** · John Dewey · 1927 · inglês · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/john-dewey-o-publico-e-seus-problemas.epub) 365 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/john-dewey-o-publico-e-seus-problemas.pdf) 1800 KB
 - **Macunaíma** · Mário de Andrade · 1928 · português · [EPUB](https://braugar-maker.github.io/Biblioteca/livros/mario-de-andrade-macunaima.epub) 281 KB · [PDF](https://biblioteca.aeviternitas.com/pdf/mario-de-andrade-macunaima.pdf) 1259 KB
