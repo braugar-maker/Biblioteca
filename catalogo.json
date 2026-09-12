@@ -390,20 +390,21 @@
    "y": 1912,
    "c": "A",
    "e": "I",
-   "l": "en",
+   "l": "fr",
    "eixo": "Instituto",
    "tags": [
     "ritual",
     "reproducao"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/emile-durkheim-as-formas-elementares-da-vida-religiosa.epub",
-   "kb": 602,
+   "kb": 685,
    "capa": "capas/emile-durkheim-as-formas-elementares-da-vida-religiosa.png",
    "capa_min": "capas/miniaturas/emile-durkheim-as-formas-elementares-da-vida-religiosa-240x300.png",
-   "te": "The Elementary Forms of the Religious Life",
+   "te": "Les Formes élémentaires de la vie religieuse",
+   "procedencia": "original francês, Alcan, 1912; Wikisource fr",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/emile-durkheim-as-formas-elementares-da-vida-religiosa.pdf",
-   "pdf_kb": 5823
+   "pdf_kb": 7190
   },
   {
    "t": "Os Sertões",
@@ -628,20 +629,21 @@
    "y": 1762,
    "c": "A",
    "e": "I",
-   "l": "en",
+   "l": "fr",
    "eixo": "Instituto",
    "tags": [
     "moderna",
     "contrato"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/jean-jacques-rousseau-do-contrato-social.epub",
-   "kb": 498,
+   "kb": 167,
    "capa": "capas/jean-jacques-rousseau-do-contrato-social.png",
    "capa_min": "capas/miniaturas/jean-jacques-rousseau-do-contrato-social-240x300.png",
-   "te": "The social contract & discourses",
+   "te": "Du contrat social ou Principes du droit politique",
+   "procedencia": "original francês, edição de 1762 (Marc-Michel Rey, Amsterdã), transcrição validada; Wikisource fr",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/jean-jacques-rousseau-do-contrato-social.pdf",
-   "pdf_kb": 3110
+   "pdf_kb": 1548
   },
   {
    "t": "O Abolicionismo",
@@ -859,27 +861,6 @@
    "procedencia": "Original em en; Project Gutenberg 2680",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/marco-aurelio-meditacoes.pdf",
    "pdf_kb": 2113
-  },
-  {
-   "t": "A Ética Protestante e o Espírito do Capitalismo",
-   "a": "Max Weber",
-   "y": 1905,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "legitimidade",
-    "racionalizacao"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.epub",
-   "kb": 293,
-   "capa": "capas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.png",
-   "capa_min": "capas/miniaturas/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo-240x300.png",
-   "te": "The Protestant Ethic and the Spirit of Capitalism",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/max-weber-a-etica-protestante-e-o-espirito-do-capitalismo.pdf",
-   "pdf_kb": 2967
   },
   {
    "t": "Cartas Persas",
@@ -1124,27 +1105,6 @@
    "pdf_kb": 751
   },
   {
-   "t": "Oração aos Moços",
-   "a": "Rui Barbosa",
-   "y": 1921,
-   "c": "A",
-   "e": "I",
-   "l": "pt",
-   "eixo": "Instituto",
-   "tags": [
-    "brasil",
-    "direito"
-   ],
-   "fonte": "archive",
-   "arq": "livros/rui-barbosa-oracao-aos-mocos.epub",
-   "kb": 49,
-   "capa": "capas/rui-barbosa-oracao-aos-mocos.png",
-   "capa_min": "capas/miniaturas/rui-barbosa-oracao-aos-mocos-240x300.png",
-   "revisao": "OBRA ERRADA: o arquivo é A Imprensa e o Dever da Verdade (Senado, 2019, com prefácios de Cid Benjamin e Christian Lynch), não a Oração aos Moços",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/rui-barbosa-oracao-aos-mocos.pdf",
-   "pdf_kb": 635
-  },
-  {
    "t": "Do Direito Natural e das Gentes",
    "a": "Samuel von Pufendorf",
    "y": 1672,
@@ -1263,27 +1223,6 @@
    "capa_min": "capas/miniaturas/seneca-cartas-a-lucilio-240x300.png",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/seneca-cartas-a-lucilio.pdf",
    "pdf_kb": 2912
-  },
-  {
-   "t": "A Arte da Guerra",
-   "a": "Sun Tzu",
-   "y": -500,
-   "c": "A",
-   "e": "I",
-   "l": "en",
-   "eixo": "Instituto",
-   "tags": [
-    "oriente",
-    "estrategia"
-   ],
-   "fonte": "wikisource",
-   "arq": "livros/sun-tzu-a-arte-da-guerra.epub",
-   "kb": 307,
-   "capa": "capas/sun-tzu-a-arte-da-guerra.png",
-   "capa_min": "capas/miniaturas/sun-tzu-a-arte-da-guerra-240x300.png",
-   "te": "The Art of War",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/sun-tzu-a-arte-da-guerra.pdf",
-   "pdf_kb": 6842
   },
   {
    "t": "Leviatã",
@@ -1896,27 +1835,6 @@
    "pdf_kb": 763
   },
   {
-   "t": "O Mundo como Vontade e Representação",
-   "a": "Arthur Schopenhauer",
-   "y": 1818,
-   "c": "A",
-   "e": "L",
-   "l": "en",
-   "eixo": "Literatura",
-   "tags": [
-    "filosofia"
-   ],
-   "fonte": "gutenberg",
-   "arq": "livros/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.epub",
-   "kb": 861,
-   "capa": "capas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.png",
-   "capa_min": "capas/miniaturas/arthur-schopenhauer-o-mundo-como-vontade-e-representacao-240x300.png",
-   "te": "The World as Will and Idea (Vol. 1 of 3)",
-   "revisao": "CONFERIR: John Kemp sem data de morte em nenhuma autoridade; Haldane morreu em 1928",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/arthur-schopenhauer-o-mundo-como-vontade-e-representacao.pdf",
-   "pdf_kb": 4887
-  },
-  {
    "t": "Parerga e Paralipomena",
    "a": "Arthur Schopenhauer",
    "y": 1851,
@@ -2342,13 +2260,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/dante-alighieri-a-divina-comedia.epub",
-   "kb": 529,
+   "kb": 579,
    "capa": "capas/dante-alighieri-a-divina-comedia.png",
    "capa_min": "capas/miniaturas/dante-alighieri-a-divina-comedia-240x300.png",
-   "te": "The Divine Comedy of Dante Alighieri: The Inferno",
-   "revisao": "CONFERIR: James Romanes Sibbald morreu por volta de 1886 (fonte secundária, Cunningham); provavelmente livre",
+   "te": "The Divine Comedy",
+   "procedencia": "trad. Henry Wadsworth Longfellow (morreu em 1882), 1867, Inferno, Purgatório e Paraíso completos; Gutenberg 1004",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/dante-alighieri-a-divina-comedia.pdf",
-   "pdf_kb": 4297
+   "pdf_kb": 4304
   },
   {
    "t": "Jacques, o Fatalista",
@@ -2664,14 +2582,15 @@
    "tags": [
     "tragedia"
    ],
-   "fonte": "wikisource",
+   "fonte": "gutenberg",
    "arq": "livros/euripides-as-bacantes.epub",
-   "kb": 203,
+   "kb": 70,
    "capa": "capas/euripides-as-bacantes.png",
    "capa_min": "capas/miniaturas/euripides-as-bacantes-240x300.png",
-   "te": "The Bacchae of Euripides",
+   "te": "The Bacchæ",
+   "procedencia": "trad. Theodore Alois Buckley (morreu em 1856), Bohn, 1850; recortado do Gutenberg 15081 (The Tragedies of Euripides, vol. I)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/euripides-as-bacantes.pdf",
-   "pdf_kb": 1413
+   "pdf_kb": 527
   },
   {
    "t": "Mensagem",
@@ -2695,46 +2614,26 @@
    "pdf_kb": 529
   },
   {
-   "t": "Livro do Desassossego",
-   "a": "Fernando Pessoa",
-   "y": 1982,
-   "c": "B",
-   "e": "L",
-   "l": "pt",
-   "eixo": "Literatura",
-   "tags": [
-    "portugal",
-    "prosa",
-    "fragmento"
-   ],
-   "fonte": "archive",
-   "arq": "livros/fernando-pessoa-livro-do-desassossego.epub",
-   "kb": 360,
-   "capa": "capas/fernando-pessoa-livro-do-desassossego.png",
-   "capa_min": "capas/miniaturas/fernando-pessoa-livro-do-desassossego-240x300.png",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/fernando-pessoa-livro-do-desassossego.pdf",
-   "pdf_kb": 2341
-  },
-  {
-   "t": "Manifesto Futurista",
+   "t": "Manifestos do Futurismo",
    "a": "Filippo Tommaso Marinetti",
-   "y": 1909,
+   "y": 1914,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "it",
    "eixo": "Literatura",
    "tags": [
     "manifesto",
     "vanguarda"
    ],
-   "fonte": "archive",
-   "arq": "livros/filippo-tommaso-marinetti-manifesto-futurista.epub",
-   "kb": 7,
-   "capa": "capas/filippo-tommaso-marinetti-manifesto-futurista.png",
-   "capa_min": "capas/miniaturas/filippo-tommaso-marinetti-manifesto-futurista-240x300.png",
-   "revisao": "DIREITO: tradução inglesa anônima, provavelmente de James Joll (1960, morreu em 1994); trocar pelo original italiano (Wikisource it ou Gutenberg 28144) ou francês",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/filippo-tommaso-marinetti-manifesto-futurista.pdf",
-   "pdf_kb": 265
+   "fonte": "gutenberg",
+   "arq": "livros/filippo-tommaso-marinetti-manifestos-do-futurismo.epub",
+   "kb": 462,
+   "capa": "capas/filippo-tommaso-marinetti-manifestos-do-futurismo.png",
+   "capa_min": "capas/miniaturas/filippo-tommaso-marinetti-manifestos-do-futurismo-240x300.png",
+   "te": "I manifesti del futurismo",
+   "procedencia": "original italiano, Edizioni di Lacerba, Florença, 1914 (reúne o manifesto de 1909 e os seguintes); Gutenberg 28144",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/filippo-tommaso-marinetti-manifestos-do-futurismo.pdf",
+   "pdf_kb": 1817
   },
   {
    "t": "Memórias do Subsolo",
@@ -2897,7 +2796,7 @@
    "y": 1915,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "modernismo",
@@ -2905,36 +2804,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/franz-kafka-a-metamorfose.epub",
-   "kb": 310,
+   "kb": 97,
    "capa": "capas/franz-kafka-a-metamorfose.png",
    "capa_min": "capas/miniaturas/franz-kafka-a-metamorfose-240x300.png",
-   "te": "Metamorphosis",
-   "revisao": "DIREITO: tradução de David Wyllie (2002), copyright cedido ao Gutenberg, não é domínio público; trocar pelo original alemão (Die Verwandlung) ou retirar",
+   "te": "Die Verwandlung",
+   "procedencia": "original alemão, Kurt Wolff, Leipzig, 1915; Gutenberg 22367",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/franz-kafka-a-metamorfose.pdf",
-   "pdf_kb": 847
-  },
-  {
-   "t": "O Processo",
-   "a": "Franz Kafka",
-   "y": 1925,
-   "c": "A",
-   "e": "L",
-   "l": "en",
-   "eixo": "Literatura",
-   "tags": [
-    "modernismo",
-    "burocracia",
-    "legitimidade"
-   ],
-   "fonte": "gutenberg",
-   "arq": "livros/franz-kafka-o-processo.epub",
-   "kb": 233,
-   "capa": "capas/franz-kafka-o-processo.png",
-   "capa_min": "capas/miniaturas/franz-kafka-o-processo-240x300.png",
-   "te": "The Trial",
-   "revisao": "DIREITO: tradução de David Wyllie (2003), copyright cedido ao Gutenberg, não é domínio público; trocar pelo original alemão (Der Process) ou retirar",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/franz-kafka-o-processo.pdf",
-   "pdf_kb": 1504
+   "pdf_kb": 403
   },
   {
    "t": "O Nascimento da Tragédia",
@@ -2942,7 +2818,7 @@
    "y": 1872,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -2950,13 +2826,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-o-nascimento-da-tragedia.epub",
-   "kb": 212,
+   "kb": 205,
    "capa": "capas/friedrich-nietzsche-o-nascimento-da-tragedia.png",
    "capa_min": "capas/miniaturas/friedrich-nietzsche-o-nascimento-da-tragedia-240x300.png",
-   "te": "The Birth of Tragedy; or, Hellenism and Pessimism",
-   "revisao": "CONFERIR: William August Haussmann (1870-1940 segundo registro genealógico não confirmado); provavelmente livre",
+   "te": "Die Geburt der Tragödie",
+   "procedencia": "original alemão, edição de 1886 com o Versuch einer Selbstkritik; Gutenberg 7206",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-o-nascimento-da-tragedia.pdf",
-   "pdf_kb": 1768
+   "pdf_kb": 1089
   },
   {
    "t": "Humano, Demasiado Humano",
@@ -2979,27 +2855,6 @@
    "procedencia": "Trad. Harvey, Alexander (morreu em 1949); Project Gutenberg 38145",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-humano-demasiado-humano.pdf",
    "pdf_kb": 989
-  },
-  {
-   "t": "A Gaia Ciência",
-   "a": "Friedrich Nietzsche",
-   "y": 1882,
-   "c": "A",
-   "e": "L",
-   "l": "en",
-   "eixo": "Literatura",
-   "tags": [
-    "filosofia"
-   ],
-   "fonte": "gutenberg",
-   "arq": "livros/friedrich-nietzsche-a-gaia-ciencia.epub",
-   "kb": 336,
-   "capa": "capas/friedrich-nietzsche-a-gaia-ciencia.png",
-   "capa_min": "capas/miniaturas/friedrich-nietzsche-a-gaia-ciencia-240x300.png",
-   "te": "The Joyful Wisdom (\"La Gaya Scienza\")",
-   "revisao": "DIREITO: Paul Victor Cohn morreu em 14/9/1956: livre no Brasil só em 2027",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-a-gaia-ciencia.pdf",
-   "pdf_kb": 2706
   },
   {
    "t": "Assim Falou Zaratustra",
@@ -3072,7 +2927,7 @@
    "y": 1908,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "filosofia",
@@ -3080,11 +2935,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/friedrich-nietzsche-ecce-homo.epub",
-   "kb": 640,
+   "kb": 167,
    "capa": "capas/friedrich-nietzsche-ecce-homo.png",
    "capa_min": "capas/miniaturas/friedrich-nietzsche-ecce-homo-240x300.png",
+   "te": "Ecce homo. Wie man wird, was man ist",
+   "procedencia": "original alemão, Insel, 1908 (póstumo); Gutenberg 7202",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/friedrich-nietzsche-ecce-homo.pdf",
-   "pdf_kb": 2730
+   "pdf_kb": 904
   },
   {
    "t": "Fenomenologia do Espírito",
@@ -3113,20 +2970,21 @@
    "y": 1855,
    "c": "A",
    "e": "L",
-   "l": "de",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "prosa",
     "sonho"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/gerard-de-nerval-aurelia.epub",
-   "kb": 3179,
+   "kb": 118,
    "capa": "capas/gerard-de-nerval-aurelia.png",
    "capa_min": "capas/miniaturas/gerard-de-nerval-aurelia-240x300.png",
-   "te": "Aurelia, oder, Der Traum und das Leben",
+   "te": "Aurélia ou le Rêve et la Vie",
+   "procedencia": "original francês, 1855, edição sem ilustrações; Wikisource fr",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/gerard-de-nerval-aurelia.pdf",
-   "pdf_kb": 3672
+   "pdf_kb": 1146
   },
   {
    "t": "Auto da Barca do Inferno",
@@ -3291,12 +3149,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/guillaume-apollinaire-caligramas.epub",
-   "kb": 2444,
+   "kb": 2206,
    "capa": "capas/guillaume-apollinaire-caligramas.png",
    "capa_min": "capas/miniaturas/guillaume-apollinaire-caligramas-240x300.png",
    "te": "Calligrammes: Poèmes de la paix et de la guerre (1913-1916)",
+   "procedencia": "original francês, Mercure de France, 1918, sem o retrato por Picasso; Gutenberg 55569",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/guillaume-apollinaire-caligramas.pdf",
-   "pdf_kb": 3649
+   "pdf_kb": 3553
   },
   {
    "t": "Madame Bovary",
@@ -3362,25 +3221,25 @@
    "pdf_kb": 3018
   },
   {
-   "t": "Contos",
+   "t": "Contos da Galinhola",
    "a": "Guy de Maupassant",
-   "y": 1885,
+   "y": 1883,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "conto"
    ],
    "fonte": "gutenberg",
-   "arq": "livros/guy-de-maupassant-contos.epub",
-   "kb": 1485,
-   "capa": "capas/guy-de-maupassant-contos.png",
-   "capa_min": "capas/miniaturas/guy-de-maupassant-contos-240x300.png",
-   "te": "Complete Original Short Stories of Guy De Maupassant",
-   "revisao": "CONFERIR: tradutores A. E. Henderson e L. C. G. Quesada sem data de morte; McMaster morreu em 1946",
-   "pdf": "https://biblioteca.aeviternitas.com/pdf/guy-de-maupassant-contos.pdf",
-   "pdf_kb": 10485
+   "arq": "livros/guy-de-maupassant-contos-da-galinhola.epub",
+   "kb": 160,
+   "capa": "capas/guy-de-maupassant-contos-da-galinhola.png",
+   "capa_min": "capas/miniaturas/guy-de-maupassant-contos-da-galinhola-240x300.png",
+   "te": "Contes de la Bécasse",
+   "procedencia": "original francês, Rouveyre et Blond, 1883; Gutenberg 11714",
+   "pdf": "https://biblioteca.aeviternitas.com/pdf/guy-de-maupassant-contos-da-galinhola.pdf",
+   "pdf_kb": 1254
   },
   {
    "t": "Ensaio sobre os Dados Imediatos da Consciência",
@@ -4618,14 +4477,15 @@
     "brasil",
     "conto"
    ],
-   "fonte": "archive",
+   "fonte": "wikisource",
    "arq": "livros/machado-de-assis-varias-historias.epub",
-   "kb": 112,
+   "kb": 148,
    "capa": "capas/machado-de-assis-varias-historias.png",
    "capa_min": "capas/miniaturas/machado-de-assis-varias-historias-240x300.png",
-   "revisao": "QUALIDADE: scan Google da ed. Garnier c. 1904 com OCR feito como espanhol, ilegível em trechos; trocar pela transcrição do Wikisource pt",
+   "te": null,
+   "procedencia": "original, Laemmert, 1896; transcrição revisada do Wikisource pt",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/machado-de-assis-varias-historias.pdf",
-   "pdf_kb": 1170
+   "pdf_kb": 1200
   },
   {
    "t": "Páginas Recolhidas",
@@ -4815,12 +4675,12 @@
    ],
    "fonte": "archive",
    "arq": "livros/mario-de-andrade-macunaima.epub",
-   "kb": 111,
+   "kb": 281,
    "capa": "capas/mario-de-andrade-macunaima.png",
    "capa_min": "capas/miniaturas/mario-de-andrade-macunaima-240x300.png",
-   "revisao": "DIREITO parcial: edição Poeteiro/Projeto Livro Livre 2016 com Notas biográficas de Edgard Cavalheiro (morreu em 1958, livre em 2029) e nota editorial de Iba Mendes; cortar os apêndices e manter o texto",
+   "procedencia": "edição Poeteiro Editor Digital, Projeto Livro Livre, 2016, sem a nota editorial e sem as notas biográficas de Edgard Cavalheiro; Mário morreu em 1945, livre desde 2016; Internet Archive",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/mario-de-andrade-macunaima.pdf",
-   "pdf_kb": 1278
+   "pdf_kb": 1259
   },
   {
    "t": "Frankenstein",
@@ -5054,8 +4914,9 @@
    "kb": 26,
    "capa": "capas/oswald-de-andrade-pau-brasil.png",
    "capa_min": "capas/miniaturas/oswald-de-andrade-pau-brasil-240x300.png",
+   "procedencia": "Pau Brasil, Sans Pareil, Paris, 1925, transcrição do Distributed Proofreaders sem as ilustrações de Tarsila; Oswald morreu em 1954, livre desde 2025; Gutenberg 79326",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/oswald-de-andrade-pau-brasil.pdf",
-   "pdf_kb": 452
+   "pdf_kb": 462
   },
   {
    "t": "Poemas Saturninos",
@@ -5063,19 +4924,20 @@
    "y": 1866,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "fr",
    "eixo": "Literatura",
    "tags": [
     "poesia"
    ],
-   "fonte": "gutenberg",
+   "fonte": "wikisource",
    "arq": "livros/paul-verlaine-poemas-saturninos.epub",
-   "kb": 780,
+   "kb": 149,
    "capa": "capas/paul-verlaine-poemas-saturninos.png",
    "capa_min": "capas/miniaturas/paul-verlaine-poemas-saturninos-240x300.png",
-   "te": "Poems of Paul Verlaine",
+   "te": "Poèmes saturniens",
+   "procedencia": "original francês, Lemerre, 1866; Wikisource fr",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/paul-verlaine-poemas-saturninos.pdf",
-   "pdf_kb": 1223
+   "pdf_kb": 785
   },
   {
    "t": "A Vida é Sonho",
@@ -5257,7 +5119,7 @@
    "y": 1920,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
@@ -5265,12 +5127,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-alem-do-principio-do-prazer.epub",
-   "kb": 381,
+   "kb": 134,
    "capa": "capas/sigmund-freud-alem-do-principio-do-prazer.png",
    "capa_min": "capas/miniaturas/sigmund-freud-alem-do-principio-do-prazer-240x300.png",
-   "te": "Beyond the pleasure principle",
+   "te": "Jenseits des Lustprinzips",
+   "procedencia": "original alemão, Internationaler Psychoanalytischer Verlag, 1920; Gutenberg 28220",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/sigmund-freud-alem-do-principio-do-prazer.pdf",
-   "pdf_kb": 1665
+   "pdf_kb": 634
   },
   {
    "t": "Psicologia das Massas e Análise do Eu",
@@ -5278,7 +5141,7 @@
    "y": 1921,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "psicanalise",
@@ -5286,12 +5149,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sigmund-freud-psicologia-das-massas-e-analise-do-eu.epub",
-   "kb": 162,
+   "kb": 187,
    "capa": "capas/sigmund-freud-psicologia-das-massas-e-analise-do-eu.png",
    "capa_min": "capas/miniaturas/sigmund-freud-psicologia-das-massas-e-analise-do-eu-240x300.png",
-   "te": "Group Psychology and The Analysis of The Ego",
+   "te": "Massenpsychologie und Ich-Analyse",
+   "procedencia": "original alemão, Internationaler Psychoanalytischer Verlag, 1921; Gutenberg 30843",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/sigmund-freud-psicologia-das-massas-e-analise-do-eu.pdf",
-   "pdf_kb": 1278
+   "pdf_kb": 850
   },
   {
    "t": "O Mal-Estar na Civilização",
@@ -5350,12 +5214,13 @@
    ],
    "fonte": "gutenberg",
    "arq": "livros/sofocles-edipo-rei.epub",
-   "kb": 125,
+   "kb": 96,
    "capa": "capas/sofocles-edipo-rei.png",
    "capa_min": "capas/miniaturas/sofocles-edipo-rei-240x300.png",
-   "te": "Oedipus King of Thebes",
+   "te": "Oedipus the King",
+   "procedencia": "trad. Francis Storr (morreu em 1919), Loeb, 1912; recortado do Gutenberg 31 (Plays of Sophocles)",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/sofocles-edipo-rei.pdf",
-   "pdf_kb": 881
+   "pdf_kb": 801
   },
   {
    "t": "O Vermelho e o Negro",
@@ -5450,19 +5315,20 @@
    "y": 1912,
    "c": "A",
    "e": "L",
-   "l": "en",
+   "l": "de",
    "eixo": "Literatura",
    "tags": [
     "novela"
    ],
    "fonte": "gutenberg",
    "arq": "livros/thomas-mann-a-morte-em-veneza.epub",
-   "kb": 135,
+   "kb": 141,
    "capa": "capas/thomas-mann-a-morte-em-veneza.png",
    "capa_min": "capas/miniaturas/thomas-mann-a-morte-em-veneza-240x300.png",
-   "te": "Death in Venice",
+   "te": "Der Tod in Venedig",
+   "procedencia": "original alemão, Fischer, 1912; Mann morreu em 1955, livre no Brasil desde 2026; Gutenberg 12108",
    "pdf": "https://biblioteca.aeviternitas.com/pdf/thomas-mann-a-morte-em-veneza.pdf",
-   "pdf_kb": 957
+   "pdf_kb": 769
   },
   {
    "t": "A Montanha Mágica",
