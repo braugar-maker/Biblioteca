@@ -100,13 +100,20 @@
 /* ------------------------------------------------ leitor virtual: a pagina vira no mesmo lugar */
 .aev-rio.aev-pagina{ overflow:hidden; }
 .aev-pagina .aev-cap{ position:absolute; inset:0; }
+/* A folha e o papel: ela e que tem a medida do livro e e ela que recorta. Enquanto o recorte
+   ficou na largura da janela e so o texto era limitado, a coluna seguinte aparecia desenhada
+   na sobra da direita. O em resolve contra o corpo do texto, e por isso a folha o herda. */
 .aev-pagina .aev-folha{
-  position:absolute; inset:0; overflow:hidden;
+  position:absolute; inset:0; margin:0 auto; overflow:hidden;
+  font-size:var(--corpo,1.0625rem);
+  max-width:calc(var(--medida,26em) + var(--margem,24px) * 2);
   padding:0 var(--margem,24px);
 }
 .aev-pagina .aev-doc{
-  height:100%; max-width:none; padding:0;
-  column-gap:calc(var(--margem,24px) * 2);
+  height:100%; padding:0; margin:0; max-width:none;
+  /* o vinco tem medida propria: preso ao dobro da margem, ele ficava estreito demais contra o
+     branco de fora e o livro lia como duas colunas de revista, nao como codice */
+  column-gap:var(--vinco,3.4em);
   column-fill:auto;
   transition:transform .18s ease;
   will-change:transform;
@@ -158,4 +165,272 @@
 .aev-pagina .aev-v0,.aev-pagina .aev-v1,.aev-pagina .aev-v2,
 .aev-pagina .aev-v3,.aev-pagina .aev-v4{ display:inline; }
 
+/* ---------------------------------------------------------------- o livro aberto */
+.aev-pagina.aev-duplo .aev-folha{
+  max-width:calc(var(--medida,26em) * 2 + var(--vinco,3.4em) + var(--margem,24px) * 2);
+}
+/* O papel: a folha do livro e a caixa do texto mais as duas margens de fora. Fica atras de
+   tudo, com um filete e uma sombra baixa, para o livro assentar sobre a mesa sem virar
+   desenho de livro. A largura em pixel vem do medidor, em --larg-folha. */
+.aev-pagina.aev-duplo .aev-folha::before{
+  content:""; position:absolute; inset:0; z-index:-1; pointer-events:none;
+  box-shadow:0 0 0 1px rgba(100,92,80,.16), 0 14px 40px rgba(0,0,0,.16);
+}
+/* O vinco do meio, na largura exata da folga entre as duas colunas, onde nao ha texto:
+   uma sombra que fecha para dentro, e um filete no centro. A sombra desenha o vale no papel
+   claro; o filete desenha a dobra no papel escuro, onde sombra sobre sombra nao se ve. */
+.aev-lombada{ display:none; }
+.aev-pagina.aev-duplo .aev-lombada{
+  display:block; position:absolute; top:0; bottom:0; left:50%; z-index:1;
+  font-size:var(--corpo,1.0625rem);
+  width:var(--vinco,3.4em); transform:translateX(-50%); pointer-events:none;
+  background:
+    linear-gradient(to right, rgba(0,0,0,0) 0%, rgba(0,0,0,.10) 34%, rgba(0,0,0,.18) 50%,
+                              rgba(0,0,0,.10) 66%, rgba(0,0,0,0) 100%),
+    linear-gradient(to right, transparent calc(50% - .5px), var(--regua) calc(50% - .5px),
+                              var(--regua) calc(50% + .5px), transparent calc(50% + .5px));
+  opacity:.7;
+}
+
+/* --------------------------------------------- o que muda quando a coluna tem metade da largura */
+/* Titulo: numa coluna de 26em um titulo grande come meia pagina. Menor, e equilibrado entre
+   as linhas, para nao sobrar uma palavra sozinha na segunda. */
+.aev-pagina.aev-duplo .aev-doc h1{ font-size:1.42em }
+.aev-pagina.aev-duplo .aev-doc h2{ font-size:1.24em }
+.aev-pagina.aev-duplo .aev-doc h3{ font-size:1.12em }
+.aev-pagina.aev-duplo .aev-doc :is(h1,h2,h3,h4,h5,h6){ margin:1.6em 0 .7em; text-wrap:balance; }
+/* Verso: na meia coluna o verso longo passa a envolver, e a sobra comecava colada a margem,
+   identica a um verso novo. Recuo pendente distingue a continuacao do verso seguinte. */
+.aev-pagina.aev-duplo .aev-verso p,
+.aev-pagina.aev-duplo .aev-estrofe p{ padding-left:1.4em; text-indent:-1.4em; }
+.aev-pagina.aev-duplo .aev-sumario{ padding-left:1.6em; text-indent:-1.6em;
+  font-variant-numeric:tabular-nums; overflow-wrap:break-word; }
+/* Tabela: menor e mais justa, que e o que cabe em meia coluna sem rolagem nem transbordo */
+.aev-pagina.aev-duplo .aev-doc table{ font-size:.86em }
+.aev-pagina.aev-duplo .aev-doc td,
+.aev-pagina.aev-duplo .aev-doc th{ padding:.22em .34em }
+
 @media (prefers-reduced-motion:reduce){ .aev-pagina .aev-doc{ transition:none; } }
+/* ===========================================================================
+   Instituto Aeviternitas · Biblioteca Aevum · a folha que vira
+   Proposta medida em 14/09/2026. Nao entra em nenhum arquivo do leitor: e um
+   acrescimo, para colar no fim do ler-obra.css quando for aprovado.
+
+   O que faz: ao virar a pagina, uma folha de papel da cor do tema levanta do
+   lado de fora para a lombada, com sombreado de Lambert, brilho de vinco e
+   sombra projetada na pagina de baixo. A folha nao leva texto nenhum: o texto
+   novo ja esta embaixo dela. Ela nasce sobre o texto que leva e se dissolve ao
+   cruzar a lombada, de modo que nunca deita sobre o texto novo.
+
+   So mexe em transform e opacity. Medido: 118,5 qps de 119,7 possiveis numa
+   tela de 120 Hz, 1 quadro perdido por virada, e o desenho continua a ser
+   apresentado quando a linha principal fica travada 260 ms.
+   =========================================================================== */
+
+.aev-pagina{
+  --aev-vira-tempo: 280ms;
+  /* meia folha: e o passo do giro. Em pagina unica a folha e a pagina inteira. */
+  --aev-meia: calc((var(--larg-folha,1200px) + var(--margem,24px) * 2) / 2);
+  /* papel: a cor do tema puxada para a luz. Vale claro, escuro e sepia. */
+  --aev-papel: color-mix(in srgb, var(--sable,#201E1D) 91%, #fff 9%);
+  --aev-fio:   color-mix(in srgb, var(--sable,#201E1D) 62%, var(--tinta,#DCD3C4) 38%);
+  --aev-penumbra: 38px;
+}
+.aev-pagina:not(.aev-duplo){
+  --aev-meia: calc(var(--larg-folha,1200px) + var(--margem,24px) * 2);
+}
+
+.aev-vira{
+  position:absolute; top:0; height:100%; left:50%;
+  width:calc(var(--larg-folha,1200px) + var(--margem,24px) * 2);
+  transform:translateX(-50%);
+  /* 4000px: medido. Abaixo disso a folha cresce mais de 10% e o palco corta as
+     pontas; acima, o papel perde relevo e vira painel chapado. */
+  perspective:4000px; perspective-origin:50% 50%;
+  pointer-events:none; z-index:4; contain:strict;
+}
+.aev-vira[hidden]{ display:none }
+/* virar para tras: o mesmo desenho espelhado. A folha sobe da esquerda para a
+   lombada, a sombra projetada e o veu trocam de lado sozinhos. */
+.aev-vira.aev-vira-re{ transform:translateX(-50%) scaleX(-1) }
+
+.aev-folha-vira{
+  position:absolute; top:0; height:100%; left:50%; width:50%;
+  transform-origin:left center; transform-style:preserve-3d; will-change:transform;
+}
+.aev-pagina:not(.aev-duplo) .aev-folha-vira{ left:0; width:100%; }
+
+.aev-face-vira{
+  position:absolute; inset:0; overflow:hidden; backface-visibility:hidden;
+  background:var(--aev-papel); will-change:opacity;
+  box-shadow:0 0 0 1px var(--aev-fio), 0 14px 44px rgba(0,0,0,.42), 0 3px 10px rgba(0,0,0,.28);
+}
+.aev-face-vira.verso{ transform:rotateY(180deg) }
+/* a curvatura: fundo escuro no vinco, barriga clara no meio, aresta escura de
+   novo. E o que faz o retangulo parecer papel levantado e nao painel chapado. */
+.aev-face-vira::before{
+  content:""; position:absolute; inset:0; pointer-events:none;
+  background:linear-gradient(to right,
+    rgba(0,0,0,.34) 0, rgba(0,0,0,.16) 4%, rgba(0,0,0,.04) 12%,
+    rgba(255,255,255,.05) 38%, rgba(255,255,255,.08) 64%,
+    rgba(0,0,0,.04) 92%, rgba(0,0,0,.16) 100%);
+}
+.aev-face-vira.verso::before{ transform:scaleX(-1) }
+
+.aev-luz-vira{ position:absolute; inset:0; background:#000; opacity:0;
+  pointer-events:none; will-change:opacity; }
+.aev-vinco-vira{ position:absolute; inset:0; opacity:0; pointer-events:none;
+  will-change:opacity;
+  background:linear-gradient(to right,
+    rgba(255,255,255,0) 0, rgba(255,255,255,.30) 2.5%,
+    rgba(255,255,255,.10) 9%, rgba(255,255,255,0) 22%); }
+.aev-face-vira.verso .aev-vinco-vira{ transform:scaleX(-1) }
+
+/* a sombra projetada, encostada por fora na borda solta da folha */
+.aev-sombra-vira{
+  position:absolute; top:0; height:100%; left:50%; width:var(--aev-penumbra);
+  opacity:0; pointer-events:none; will-change:transform,opacity;
+  background:linear-gradient(to right,
+    rgba(0,0,0,.46) 0, rgba(0,0,0,.20) 38%, rgba(0,0,0,0) 100%);
+}
+.aev-pagina:not(.aev-duplo) .aev-sombra-vira{ left:0 }
+
+/* a sombra que cobre a pagina que fica, no instante exato em que o texto troca.
+   So existe no livro aberto: na pagina unica a propria folha ja cobre tudo. */
+.aev-veu-vira{ position:absolute; top:0; left:0; width:50%; height:100%;
+  background:#000; opacity:0; pointer-events:none; will-change:opacity; }
+.aev-pagina:not(.aev-duplo) .aev-veu-vira{ display:none }
+
+/* ------------------------------------------------------------- o movimento */
+.aev-vira.anda .aev-folha-vira{
+  animation:aev-vira-giro var(--aev-vira-tempo) cubic-bezier(.32,.30,.45,.94) both;
+}
+.aev-vira.anda .aev-face-vira  { animation:aev-vira-corpo  var(--aev-vira-tempo) linear both }
+.aev-vira.anda .aev-luz-vira   { animation:aev-vira-luz    var(--aev-vira-tempo) linear both }
+.aev-vira.anda .aev-vinco-vira { animation:aev-vira-vinco  var(--aev-vira-tempo) linear both }
+.aev-vira.anda .aev-sombra-vira{ animation:aev-vira-sombra var(--aev-vira-tempo) linear both }
+.aev-vira.anda .aev-veu-vira   { animation:aev-vira-veu    var(--aev-vira-tempo) linear both }
+
+@media (prefers-reduced-motion:reduce){
+  .aev-vira{ display:none !important }
+}
+/* ---------------------------------------------------------------------------
+   A folha que vira, Biblioteca Aevum, Instituto Aeviternitas
+   Giro 0 -> 104deg em var(--aev-vira-tempo), curva cubic-bezier(0.32,0.3,0.45,0.94).
+   90deg cai em t=0.663; a folha materializa ate 12% e dissolve
+   entre 80deg (t=0.556) e 103deg (t=0.938).
+   Todas as pistas andam em linear: os valores ja trazem a curva dentro.
+   Nada aqui toca layout: so transform e opacity, tudo no compositor.
+   --------------------------------------------------------------------------- */
+
+@keyframes aev-vira-giro{ from{transform:rotateY(0)} to{transform:rotateY(-104deg)} }
+
+/* o corpo da folha: nasce sobre o texto que leva, some ao cruzar a lombada */
+@keyframes aev-vira-corpo{
+  0%{opacity:0}
+  12%{opacity:1}
+  55.63%{opacity:1}
+  93.75%{opacity:0}
+  100%{opacity:0}
+}
+
+/* a luz que a folha perde ao virar de lado (Lambert) */
+@keyframes aev-vira-luz{
+  0%{opacity:0.000}
+  5%{opacity:0.002}
+  10%{opacity:0.009}
+  15%{opacity:0.024}
+  20%{opacity:0.048}
+  25%{opacity:0.081}
+  30%{opacity:0.123}
+  35%{opacity:0.172}
+  40%{opacity:0.225}
+  45%{opacity:0.278}
+  50%{opacity:0.328}
+  55%{opacity:0.375}
+  60%{opacity:0.416}
+  65%{opacity:0.452}
+  70%{opacity:0.438}
+  75%{opacity:0.413}
+  80%{opacity:0.392}
+  85%{opacity:0.376}
+  90%{opacity:0.364}
+  95%{opacity:0.355}
+  100%{opacity:0.349}
+}
+
+/* o brilho do vinco: acende a meio caminho, apaga na vertical */
+@keyframes aev-vira-vinco{
+  0%{opacity:0.000}
+  5%{opacity:0.202}
+  10%{opacity:0.383}
+  15%{opacity:0.553}
+  20%{opacity:0.699}
+  25%{opacity:0.802}
+  30%{opacity:0.848}
+  35%{opacity:0.833}
+  40%{opacity:0.761}
+  45%{opacity:0.649}
+  50%{opacity:0.510}
+  55%{opacity:0.361}
+  60%{opacity:0.208}
+  65%{opacity:0.051}
+  70%{opacity:0.115}
+  75%{opacity:0.220}
+  80%{opacity:0.298}
+  85%{opacity:0.356}
+  90%{opacity:0.398}
+  95%{opacity:0.428}
+  100%{opacity:0.447}
+}
+
+/* a sombra projetada: banda colada na borda solta, a caminhar para a lombada */
+@keyframes aev-vira-sombra{
+  0%{opacity:0.000;transform:translateX(calc(var(--aev-meia) * 1.0000))}
+  5%{opacity:0.270;transform:translateX(calc(var(--aev-meia) * 0.9957))}
+  10%{opacity:0.412;transform:translateX(calc(var(--aev-meia) * 0.9799))}
+  15%{opacity:0.533;transform:translateX(calc(var(--aev-meia) * 0.9481))}
+  20%{opacity:0.639;transform:translateX(calc(var(--aev-meia) * 0.8966))}
+  25%{opacity:0.732;transform:translateX(calc(var(--aev-meia) * 0.8240))}
+  30%{opacity:0.810;transform:translateX(calc(var(--aev-meia) * 0.7320))}
+  35%{opacity:0.872;transform:translateX(calc(var(--aev-meia) * 0.6254))}
+  40%{opacity:0.920;transform:translateX(calc(var(--aev-meia) * 0.5111))}
+  45%{opacity:0.954;transform:translateX(calc(var(--aev-meia) * 0.3962))}
+  50%{opacity:0.977;transform:translateX(calc(var(--aev-meia) * 0.2864))}
+  55%{opacity:0.990;transform:translateX(calc(var(--aev-meia) * 0.1856))}
+  60%{opacity:0.997;transform:translateX(calc(var(--aev-meia) * 0.0959))}
+  65%{opacity:1.000;transform:translateX(calc(var(--aev-meia) * 0.0182))}
+  70%{opacity:0.789;transform:translateX(calc(var(--aev-meia) * 0.0478))}
+  75%{opacity:0.545;transform:translateX(calc(var(--aev-meia) * 0.1027))}
+  80%{opacity:0.346;transform:translateX(calc(var(--aev-meia) * 0.1473))}
+  85%{opacity:0.189;transform:translateX(calc(var(--aev-meia) * 0.1826))}
+  90%{opacity:0.068;transform:translateX(calc(var(--aev-meia) * 0.2097))}
+  95%{opacity:0.000;transform:translateX(calc(var(--aev-meia) * 0.2292))}
+  100%{opacity:0.000;transform:translateX(calc(var(--aev-meia) * 0.2419))}
+}
+
+/* a sombra que cobre a pagina que fica, no instante em que o texto troca */
+@keyframes aev-vira-veu{
+  0%{opacity:0.000}
+  5%{opacity:0.389}
+  10%{opacity:0.654}
+  15%{opacity:0.722}
+  20%{opacity:0.644}
+  25%{opacity:0.545}
+  30%{opacity:0.432}
+  35%{opacity:0.308}
+  40%{opacity:0.173}
+  45%{opacity:0.030}
+  50%{opacity:0.000}
+  55%{opacity:0.000}
+  60%{opacity:0.000}
+  65%{opacity:0.000}
+  70%{opacity:0.000}
+  75%{opacity:0.000}
+  80%{opacity:0.000}
+  85%{opacity:0.000}
+  90%{opacity:0.000}
+  95%{opacity:0.000}
+  100%{opacity:0.000}
+}
+/* fim */

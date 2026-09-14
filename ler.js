@@ -17,7 +17,32 @@
   }
   function param(n) { return new URLSearchParams(location.search).get(n) || ''; }
 
-  var gosto = lembra(PREF, { papel: 'escuro', corpo: 106, entre: 1.62, margem: 24, letra: 'serif', medida: 34, modo: 'pagina' });
+  var GOSTO_PADRAO = { papel: 'escuro', corpo: 106, entre: 1.62, margem: 24,
+                       letra: 'serif', medida: 26, modo: 'pagina' };
+  // a coluna de 34em dava 87 caracteres por linha, doze acima do que se le sem cansar; os tres
+  // degraus passaram a 22, 26 e 29em, que medem 56, 66 e 74. Quem ja escolheu, vem junto.
+  var MEDIDA_NOVA = { 30: 22, 34: 26, 40: 29 };
+  var VALORES = {
+    papel: ['escuro', 'claro', 'sepia'], letra: ['serif', 'sans'], modo: ['pagina', 'rolagem'],
+    corpo: [94, 106, 122, 144], entre: [1.45, 1.62, 1.88], margem: [18, 24, 40], medida: [22, 26, 29]
+  };
+  /* Registro guardado pela metade, de uma versao velha ou de uma aba que gravou so um campo,
+     entrava direto nas variaveis do CSS e saia --medida:undefinedem, que o navegador descarta:
+     a folha perdia a medida e o livro abria com a largura da janela. O gosto e conferido campo
+     por campo contra o padrao antes de ir para a tela. */
+  function saneia(g) {
+    var bom = {}, k;
+    g = (g && typeof g === 'object') ? g : {};
+    if (MEDIDA_NOVA[g.medida]) g.medida = MEDIDA_NOVA[g.medida];
+    for (k in GOSTO_PADRAO) {
+      var v = g[k], aceitos = VALORES[k];
+      bom[k] = (aceitos && aceitos.indexOf(v) >= 0) ? v : GOSTO_PADRAO[k];
+    }
+    return bom;
+  }
+  var gostoBruto = lembra(PREF, null);
+  var gosto = saneia(gostoBruto);
+  if (JSON.stringify(gosto) !== JSON.stringify(gostoBruto)) guarda(PREF, gosto);
   if (!gosto.modo) gosto.modo = 'pagina';
   var arq = param('arq');
   var slug = arq.split('/').pop().replace(/\.epub$/i, '');
@@ -77,6 +102,8 @@
     r.setProperty('--entre', String(gosto.entre));
     r.setProperty('--margem', gosto.margem + 'px');
     r.setProperty('--medida', gosto.medida + 'em');
+    // o vinco cresce com o texto, e nao com a margem da folha
+    r.setProperty('--vinco', (gosto.medida * 0.13).toFixed(2) + 'em');
     r.setProperty('--letra', LETRAS[gosto.letra] || LETRAS.serif);
     marca('g-papel', 'papel', gosto.papel);
     marca('g-corpo', 'corpo', String(gosto.corpo));
@@ -172,8 +199,7 @@
   /* ------------------------------------------------------------------ rodape */
   function atualizaPe() {
     if (!rio || rio.modo() !== 'pagina') return;
-    var p = rio.paginaAtual();
-    ao('pct').textContent = 'pág. ' + (p.pagina + 1) + ' de ' + p.total;
+    ao('pct').textContent = rotuloDaPagina(rio.paginaAtual());
     var loc = rio.localiza();
     if (loc) {
       if (!loc.aprox) ultimaPos = loc;
@@ -185,6 +211,15 @@
         gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 900);
       }
     }
+  }
+
+  /* Com o livro aberto a folha traz duas paginas, e o rodape as nomeia como um livro as nomeia:
+     "pág. 42 e 43 de 318". A conta de baixo e sempre de paginas, nunca de folhas. */
+  function rotuloDaPagina(p) {
+    var total = p.totalCol || p.total;
+    if ((p.colunas || 1) < 2) return 'pág. ' + (p.pagina + 1) + ' de ' + total;
+    var esq = p.pagina * 2 + 1, dir = Math.min(esq + 1, total);
+    return 'pág. ' + esq + (dir > esq ? ' e ' + dir : '') + ' de ' + total;
   }
 
   function nomeDoCapitulo(loc) {
@@ -277,6 +312,9 @@
     var dims = lembra(DIM + slug, {});
     rio = AEV.Rio.cria(ao('rio'), dados, {
       pacote: pacote,
+      // 155 das 255 obras nao sao em portugues e corriam com o dicionario de hifenizacao
+      // errado; a lingua sai da propria ficha do EPUB
+      idioma: (pacote.meta && pacote.meta.language) || 'pt-BR',
       dimensoes: dims,
       letrasTotais: letrasTotais,
       estaRolando: function () { return rolando; },
@@ -314,7 +352,9 @@
             if (onde) return rio.vaiPara({ d: 0, b: 0, c: 0 });
             // quem abre o livro pela primeira vez cai na primeira pagina que tem o que mostrar:
             // muitos EPUB comecam pelo nav.xhtml, que fica sem nada depois da limpeza
+            var marca = rio.gesto();
             return rio.achaCheio(0, 1).then(function (k) {
+              if (rio.gesto() !== marca) return;   // a pessoa ja virou a pagina: nao a puxe de volta
               if (k > 0) return rio.vaiPara({ d: k, b: 0, c: 0 });
             });
           });
@@ -492,7 +532,9 @@
 
   /* ------------------------------------------------------------------ teclado e setas */
   function passo(quanto) {
-    if (rio) { rio.vira(quanto); setTimeout(atualizaPe, 220); return; }
+    // gesto de virar: sai com folha. Salto de sumario, de busca ou de marcador troca a seco,
+    // porque quem salta de capitulo nao esta virando uma folha.
+    if (rio) { rio.viraFolha(quanto); setTimeout(atualizaPe, 220); setTimeout(atualizaPe, 400); return; }
     var el = ao('rio');
     el.scrollBy({ top: quanto * (el.clientHeight - 64), behavior: 'smooth' });
   }

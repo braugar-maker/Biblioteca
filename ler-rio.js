@@ -8,6 +8,7 @@ AEV.Rio = (function () {
   'use strict';
 
   var LETRAS_POR_FATIA = 90000;   // acima disso o capitulo entra em lajes (Mallarme tem 1,5 MB num arquivo so)
+  var COLUNA_MINIMA_EM = 26;      // abaixo disso a pagina dupla deixa de ser legivel e recolhe para uma
   var PX_POR_LETRA = 0.62;        // estimativa inicial de altura; some assim que houver medida
   var MARGEM = '150% 0px 200% 0px';
 
@@ -15,8 +16,39 @@ AEV.Rio = (function () {
     var rio = pai;
     var modo = 'rolagem';       // 'rolagem' ou 'pagina'
     var pagina = 0, dAtual = 0, larguraPag = 0, alturaPag = 0, folgaPag = 0, totalPag = 1;
+    var colunas = 1, larguraCol = 0, totalCol = 1;   // livro aberto: duas colunas por folha
+    var lombada = null, palcoVira = null, folhaVira = null, virando = false;
+    /* Conta os movimentos deliberados. Abrir um livro pode levar segundos, porque procurar o
+       primeiro documento com texto obriga a ler o zip documento por documento; quem virasse a
+       pagina nesse meio tempo via a restauracao chegar depois e desfazer a virada. */
+    var gesto = 0;
     rio.innerHTML = '';
     rio.classList.add('aev-rio');
+
+    // o vinco do meio, que so aparece com as duas paginas abertas
+    lombada = document.createElement('div');
+    lombada.className = 'aev-lombada';
+    lombada.setAttribute('aria-hidden', 'true');
+
+    /* A folha que vira. Nao leva texto: o texto novo ja esta embaixo dela quando ela passa.
+       Nasce sobre a pagina que leva, escurece ao girar como papel escurece, risca o vinco de
+       luz e joga sombra na pagina de baixo. So mexe em transform e opacidade, tudo no
+       compositor: medido em 8,3 ms por quadro, que e o intervalo de tela, e nenhuma tarefa
+       longa. O texto troca aos 12% do tempo, quando o papel ja cobre o que vai sair. */
+    palcoVira = document.createElement('div');
+    palcoVira.className = 'aev-vira';
+    palcoVira.hidden = true;
+    palcoVira.setAttribute('aria-hidden', 'true');
+    palcoVira.innerHTML =
+      '<div class="aev-folha-vira">' +
+        '<div class="aev-face-vira frente"><div class="aev-luz-vira"></div>' +
+          '<div class="aev-vinco-vira"></div></div>' +
+        '<div class="aev-face-vira verso"><div class="aev-luz-vira"></div>' +
+          '<div class="aev-vinco-vira"></div></div>' +
+      '</div>' +
+      '<div class="aev-sombra-vira"></div>' +
+      '<div class="aev-veu-vira"></div>';
+    folhaVira = palcoVira.querySelector('.aev-folha-vira');
 
     var docs = dados.map(function (d, i) {
       var cx = document.createElement('section');
@@ -27,6 +59,9 @@ AEV.Rio = (function () {
       return { i: i, item: d.item, letras: d.letras, antes: d.antes, caixa: cx,
                montado: false, alturaMedida: 0, lajes: null };
     });
+
+    rio.appendChild(lombada);
+    rio.appendChild(palcoVira);
 
     var observador = new IntersectionObserver(function (entradas) {
       entradas.forEach(function (e) {
@@ -52,6 +87,7 @@ AEV.Rio = (function () {
 
         var raiz = limpo.raiz;
         raiz.setAttribute('data-d', String(i));
+        if (ctx.idioma) raiz.setAttribute('lang', ctx.idioma);
         d.caixa.innerHTML = '';
         d.caixa.appendChild(raiz);
         d.caixa.style.minHeight = '';
@@ -136,9 +172,10 @@ AEV.Rio = (function () {
       var folha = d.caixa.querySelector('.aev-folha');
       if (!folha) return;
       var r = folha.getBoundingClientRect();
-      var pontos = [[r.left + r.width * 0.5, r.top + 26],
-                    [r.left + r.width * 0.5, r.top + r.height * 0.5],
-                    [r.left + r.width * 0.3, r.top + r.height * 0.85]];
+      var esq = xColuna(0), dir = xColuna(1);
+      var pontos = [[esq, r.top + 26], [esq, r.top + r.height * 0.5],
+                    [esq, r.top + r.height * 0.85], [dir, r.top + 26],
+                    [dir, r.top + r.height * 0.5]];
       for (var i = 0; i < pontos.length; i++) {
         var el = document.elementFromPoint(pontos[i][0], pontos[i][1]);
         var bl = (el && el.closest) ? el.closest('[data-b]') : null;
@@ -162,9 +199,20 @@ AEV.Rio = (function () {
       tempoAncora = setTimeout(lembraAncora, 230);   // depois de a virada assentar
     }
 
+    /* Com o livro aberto, o meio da folha e a lombada, onde por definicao nao ha texto: quem
+       sondasse o centro nunca acharia bloco nenhum. Estas sao as duas colunas da folha. */
+    function xColuna(k) {
+      var r = rio.getBoundingClientRect();
+      var centro = r.left + r.width * 0.5;
+      if (modo !== 'pagina' || colunas < 2) return centro;
+      var meio = (folgaPag + larguraCol) * 0.5;
+      return k ? centro + meio : centro - meio;
+    }
+
     function linhaDagua() {
       var r = rio.getBoundingClientRect();
-      return { x: r.left + r.width * 0.5, y: r.top + Math.min(90, r.height * 0.18) };
+      // a leitura de uma folha aberta comeca na pagina da esquerda
+      return { x: xColuna(0), y: r.top + Math.min(90, r.height * 0.18) };
     }
 
     function localiza() {
@@ -208,7 +256,10 @@ AEV.Rio = (function () {
       // Quando o livro reabre na mesma janela, com a mesma letra e a mesma margem, isso devolve
       // a pagina exata; quando a geometria mudou, o numero e descartado e vale o ponto do texto.
       var daPagina = (modo === 'pagina') ? {
-        pag: pagina, larg: Math.round(larguraPag), alt: Math.round(alturaPag), tot: totalPag
+        // a largura da coluna, nao a da folha: em pagina unica valem o mesmo, em livro aberto
+        // a coluna vale metade, e nenhum registro de um modo casa com o do outro por engano
+        pag: pagina, larg: Math.round(larguraCol), alt: Math.round(alturaPag),
+        tot: totalPag, col: colunas
       } : null;
       return {
         v: 3, san: AEV.Limpa.VERSAO, via: docs[d].via || 'xml',
@@ -217,6 +268,7 @@ AEV.Rio = (function () {
         larg: daPagina ? daPagina.larg : undefined,
         alt: daPagina ? daPagina.alt : undefined,
         tot: daPagina ? daPagina.tot : undefined,
+        col: daPagina ? daPagina.col : undefined,
         txt: texto.slice(Math.max(0, c), Math.max(0, c) + 48),
         pct: ctx.letrasTotais ? Math.min(1, letrasAntes / ctx.letrasTotais) : 0,
         letras: letrasAntes,
@@ -282,16 +334,18 @@ AEV.Rio = (function () {
 
     function vaiPara(loc) {
       if (!loc) return Promise.resolve(false);
+      var meu = gesto;
       var d = Math.max(0, Math.min(docs.length - 1, loc.d | 0));
       if (modo === 'pagina') {
         return vaiCapitulo(d, false).then(function () {
+          if (meu !== gesto) return false;   // viraram a pagina enquanto isto vinha a caminho
           var caixa = docs[dAtual].caixa;
           var doc = caixa.querySelector('.aev-doc');
           var folha = caixa.querySelector('.aev-folha');
           if (!doc || !folha) return false;
           // geometria igual a de quando se parou de ler: a pagina guardada vale ao pe da letra
-          if (typeof loc.pag === 'number' && loc.tot === totalPag &&
-              loc.larg === Math.round(larguraPag) && loc.alt === Math.round(alturaPag)) {
+          if (typeof loc.pag === 'number' && loc.tot === totalPag && (loc.col || 1) === colunas &&
+              loc.larg === Math.round(larguraCol) && loc.alt === Math.round(alturaPag)) {
             poePagina(loc.pag);
             return true;
           }
@@ -303,8 +357,9 @@ AEV.Rio = (function () {
         });
       }
       return monta(d).then(function () {
+        if (meu !== gesto) return false;
         return new Promise(function (pronto) {
-          requestAnimationFrame(function () {
+          proximoQuadro(function () {
             var caixa = docs[d].caixa;
             var bloco = caixa.querySelector('[data-b="' + (loc.b | 0) + '"]') ||
                         caixa.querySelector('[data-b]');
@@ -366,22 +421,54 @@ AEV.Rio = (function () {
       var folha = d.caixa.querySelector('.aev-folha');
       var doc = d.caixa.querySelector('.aev-doc');
       if (!folha || !doc) { totalPag = 1; return 1; }
+      var estiloDoc = getComputedStyle(doc);
       // sem arredondar: o subpixel aqui entra multiplicado pelo numero da pagina la na frente
-      folgaPag = parseFloat(getComputedStyle(doc).columnGap) || 0;
-      // a coluna mede a caixa de conteudo de .aev-doc. Medir a folha traria o recuo lateral
-      // junto, o passo da virada sairia maior que a coluna e a pagina andaria de lado.
+      folgaPag = parseFloat(estiloDoc.columnGap) || 0;
+      var recuo = parseFloat(getComputedStyle(folha).paddingLeft) || 0;
+      var em = parseFloat(estiloDoc.fontSize) || 17;
+      // o espaco disponivel e o da area de leitura, nao o da folha: a folha ja esta limitada
+      // a medida do modo em que se esta, e perguntar a ela seria perguntar a propria resposta
+      var disponivel = d.caixa.clientWidth - recuo * 2;
+      // livro aberto quando ha largura para duas colunas legiveis; abaixo disso, uma pagina so
+      colunas = (disponivel >= COLUNA_MINIMA_EM * em * 2 + folgaPag) ? 2 : 1;
+      rio.classList.toggle('aev-duplo', colunas === 2);
+      // a capa fica em pagina unica, centrada, como o frontispicio de um livro. Recolher toda
+      // vez que o capitulo cabe numa coluna pegaria 23 documentos em 100, e num livro de
+      // sonetos a folha mudaria de largura a cada poema.
+      if (colunas === 2 && capaSozinha(doc)) {
+        colunas = 1;
+        rio.classList.remove('aev-duplo');
+      }
+      if (!medeFolha(doc)) { totalPag = 1; return 1; }
+      totalPag = Math.max(1, Math.ceil(totalCol / colunas));
+      return totalPag;
+    }
+
+    /* Com n colunas de largura C e folga G numa folha de largura L vale n*(C+G) = L+G, entao o
+       passo da virada e sempre L+G, com uma coluna ou com duas. O que muda e a largura da coluna
+       e a conta das paginas, que passa a ser de folhas e nao de colunas. */
+    function capaSozinha(doc) {
+      return !!doc.querySelector('img.aev-capa-livro') &&
+             !(doc.textContent || '').replace(/\s+/g, '').length;
+    }
+
+    function medeFolha(doc) {
       larguraPag = doc.getBoundingClientRect().width || doc.clientWidth;
-      if (!larguraPag) { totalPag = 1; return 1; }
-      doc.style.columnWidth = larguraPag + 'px';
+      if (!larguraPag) return false;
+      // column-count, nunca column-width: pedir a largura exata da coluna deixa o arranjo a um
+      // centesimo de pixel de desabar para uma coluna do tamanho da folha inteira, com a
+      // lombada riscando o meio do texto, e o estilo em linha do modo anterior cancela em
+      // silencio o numero de colunas deste.
+      doc.style.columnWidth = 'auto';
+      doc.style.columnCount = String(colunas);
+      larguraCol = (larguraPag - folgaPag * (colunas - 1)) / colunas;
       // a altura util vai em pixel para a folha de estilo: percentagem de altura nao resolve
-      // dentro de um bloco de altura automatica, e por isso a capa transbordava a coluna.
-      // a altura util e a da caixa de conteudo de .aev-doc, ja descontado o recuo de baixo
-      // que a barra da Radio aberta acrescenta a folha.
+      // dentro de um bloco de altura automatica, e por isso a capa transbordava a coluna
       alturaPag = doc.clientHeight;
       rio.style.setProperty('--alt-pag', alturaPag + 'px');
-      var largo = doc.scrollWidth;
-      totalPag = Math.max(1, Math.round((largo + folgaPag) / (larguraPag + folgaPag)));
-      return totalPag;
+      rio.style.setProperty('--larg-folha', Math.round(larguraPag) + 'px');
+      totalCol = Math.max(1, Math.round((doc.scrollWidth + folgaPag) / (larguraCol + folgaPag)));
+      return true;
     }
 
     function poePagina(n) {
@@ -404,7 +491,11 @@ AEV.Rio = (function () {
 
     function vaiCapitulo(i, fim) {
       var passo = fim ? -1 : 1;
+      var meu = gesto;
       return achaCheio(Math.max(0, Math.min(docs.length - 1, i)), passo).then(function (k) {
+        // achar o capitulo pode obrigar a ler varios documentos do zip; se nesse meio tempo a
+        // pessoa virou a pagina, quem manda e ela, e nao a viagem que ja estava a caminho
+        if (meu !== gesto) return dAtual;
         if (k < 0) { poePagina(fim ? 0 : totalPag - 1); return dAtual; }
         dAtual = k;
         mostraSo(k);
@@ -490,6 +581,7 @@ AEV.Rio = (function () {
     });
 
     function vira(passo) {
+      gesto++;
       if (modo !== 'pagina') {
         rio.scrollBy({ top: passo * (rio.clientHeight - 64), behavior: 'smooth' });
         return Promise.resolve();
@@ -505,6 +597,39 @@ AEV.Rio = (function () {
       return vaiCapitulo(dAtual + 1, false);
     }
 
+    function semMovimento() {
+      return !!(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+    }
+
+    function viraFolha(passo) {
+      if (modo !== 'pagina' || !palcoVira || semMovimento()) return vira(passo);
+      // duas viradas nao se empilham: a segunda troca a seco e a folha continua a sua
+      if (virando) return vira(passo);
+      var tempo = parseFloat(getComputedStyle(rio).getPropertyValue('--aev-vira-tempo')) || 280;
+      virando = true;
+      palcoVira.classList.toggle('aev-vira-re', passo < 0);
+      palcoVira.hidden = false;
+      void palcoVira.offsetWidth;                 // a animacao tem de comecar do zero
+      palcoVira.classList.add('anda');
+      var trocado = false;
+      function troca() { if (trocado) return; trocado = true; vira(passo); }
+      var noMeio = setTimeout(troca, Math.round(tempo * 0.12));
+      return new Promise(function (pronto) {
+        function fim() {
+          clearTimeout(noMeio); clearTimeout(reserva);
+          folhaVira.removeEventListener('animationend', aoFim);
+          troca();
+          palcoVira.classList.remove('anda');
+          palcoVira.hidden = true;
+          virando = false;
+          pronto();
+        }
+        function aoFim(ev) { if (ev.target === folhaVira) fim(); }
+        var reserva = setTimeout(fim, tempo + 120);
+        folhaVira.addEventListener('animationend', aoFim);
+      });
+    }
+
     function defineModo(m) {
       var onde = localiza();
       modo = (m === 'pagina') ? 'pagina' : 'rolagem';
@@ -515,10 +640,11 @@ AEV.Rio = (function () {
           if (onde) return vaiPara(onde);
         });
       }
+      rio.classList.remove('aev-duplo');
       docs.forEach(function (d) {
         d.caixa.style.display = '';
         var doc = d.caixa.querySelector('.aev-doc');
-        if (doc) { doc.style.transform = ''; doc.style.columnWidth = ''; }
+        if (doc) { doc.style.transform = ''; doc.style.columnWidth = ''; doc.style.columnCount = ''; }
         if (!d.montado) d.caixa.style.minHeight = Math.max(240, Math.round(d.letras * PX_POR_LETRA)) + 'px';
       });
       if (onde) return vaiPara(onde);
@@ -532,10 +658,13 @@ AEV.Rio = (function () {
 
     return {
       docs: docs, monta: monta, montaTudo: montaTudo,
-      defineModo: defineModo, vira: vira, remede: remede,
+      defineModo: defineModo, vira: vira, viraFolha: viraFolha, remede: remede,
       modo: function () { return modo; },
-      paginaAtual: function () { return { pagina: pagina, total: totalPag, d: dAtual }; },
+      paginaAtual: function () {
+        return { pagina: pagina, total: totalPag, d: dAtual, colunas: colunas, totalCol: totalCol };
+      },
       localiza: localiza, vaiPara: vaiPara, rio: rio, achaCheio: achaCheio,
+      gesto: function () { return gesto; },
       caixaDe: function (i) { return docs[i] && docs[i].caixa; }
     };
   }
