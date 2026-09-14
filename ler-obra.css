@@ -37,12 +37,15 @@
 .aev-doc img{ display:block; max-width:100%; height:auto; margin:1.6em auto; }
 .aev-doc img.aev-capa-livro{ max-height:86vh; width:auto; margin:0 auto 2em; }
 .aev-doc svg{ display:block; max-width:100%; height:auto; margin:1.6em auto; }
-.aev-doc table{ border-collapse:collapse; margin:1.6em auto; font-size:.94em; }
+.aev-doc table{ border-collapse:collapse; margin:1.6em auto; font-size:.94em; max-width:100%; }
 .aev-doc td,.aev-doc th{ padding:.3em .7em; border-bottom:1px solid var(--regua); text-align:left; }
-.aev-doc ul,.aev-doc ol{ margin:1em 0 1em 1.4em; padding:0; text-indent:0; }
+/* o marcador mora no recuo interno: em margem, numero de tres digitos ou romano longo
+   e desenhado fora da caixa e vaza para a coluna vizinha */
+.aev-doc ul,.aev-doc ol{ margin:1em 0; padding-left:2em; text-indent:0; }
 .aev-doc li{ margin:.25em 0; text-indent:0; }
 .aev-doc sup{ font-size:.72em; line-height:0; vertical-align:super; }
-.aev-doc pre{ white-space:pre-wrap; font-size:.9em; text-indent:0; }
+.aev-doc pre{ white-space:pre-wrap; font-size:.9em; text-indent:0;
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
 .aev-doc blockquote{ margin:1.4em 0 1.4em 1.6em; text-indent:0; }
 
 /* ---------------------------------------------------------------- tokens do instituto */
@@ -107,9 +110,52 @@
   column-fill:auto;
   transition:transform .18s ease;
   will-change:transform;
+  /* palavra sem ponto de quebra transborda a coluna e reaparece invadindo a pagina seguinte */
+  overflow-wrap:break-word;
 }
-.aev-pagina .aev-doc h1,.aev-pagina .aev-doc h2,.aev-pagina .aev-doc h3{ break-after:avoid; }
+.aev-pagina .aev-doc :is(h1,h2,h3,h4,h5,h6){ break-after:avoid; break-inside:avoid; }
 .aev-pagina .aev-doc p,.aev-pagina .aev-doc li{ break-inside:auto; }
-.aev-pagina .aev-doc img{ max-height:76%; margin:1em auto; }
-.aev-pagina .aev-doc img.aev-capa-livro{ max-height:calc(100% - 2em); width:auto; margin:1em auto; }
+
+/* A altura util da pagina chega em pixel, na variavel --alt-pag, posta pelo medidor, e em
+   unidade de container quando o navegador a entende, que e o caso melhor: ela se reajusta
+   sozinha, sem esperar medida nenhuma. Percentagem nao serve de jeito nenhum: o pai imediato
+   da figura tem altura automatica, a percentagem nao resolve, a regra e descartada em silencio
+   e a figura transborda a coluna, deixando a pagina em branco. */
+.aev-pagina .aev-doc img,
+.aev-pagina .aev-doc svg,
+.aev-pagina .aev-doc img.aev-capa-livro{
+  max-height:calc(var(--alt-pag, 70vh) - 2.5em);
+  width:auto; height:auto; max-width:100%; margin:1em auto;
+}
+@supports (height:100cqh){
+  .aev-pagina .aev-folha{ container-type:size; }
+  .aev-pagina .aev-doc img,
+  .aev-pagina .aev-doc svg,
+  .aev-pagina .aev-doc img.aev-capa-livro{ max-height:calc(100cqh - 2.5em); }
+}
+
+/* nada pode ser mais largo que a coluna, e nada que nao se parta pode ser mais alto que ela:
+   caixa de rolagem nao fragmenta, transborda por baixo e o recorte da folha come o resto */
+.aev-pagina .aev-doc table{ display:table; max-width:100%; overflow:visible; margin:1.6em auto; }
+.aev-pagina .aev-doc tr{ break-inside:avoid; }
+.aev-pagina .aev-doc td,
+.aev-pagina .aev-doc th,
+.aev-pagina .aev-doc pre,
+.aev-pagina .aev-verso,
+.aev-pagina .aev-estrofe,
+.aev-pagina .aev-sumario{ overflow-wrap:anywhere; }
+.aev-pagina .aev-doc pre{ max-width:100%; white-space:pre-wrap; }
+
+/* figura com legenda tem de caber inteira, conjunto e nao so a imagem */
+.aev-pagina .aev-doc figure{ margin:1.2em 0; break-inside:avoid; }
+.aev-pagina .aev-doc figure :is(img,svg){ max-height:calc(var(--alt-pag, 70vh) - 7em); }
+@supports (height:100cqh){
+  .aev-pagina .aev-doc figure :is(img,svg){ max-height:calc(100cqh - 7em); }
+}
+.aev-pagina .aev-legenda{ break-before:avoid; }
+
+/* verso em caixa atomica pula inteiro para a coluna seguinte e deixa buraco no pe da pagina */
+.aev-pagina .aev-v0,.aev-pagina .aev-v1,.aev-pagina .aev-v2,
+.aev-pagina .aev-v3,.aev-pagina .aev-v4{ display:inline; }
+
 @media (prefers-reduced-motion:reduce){ .aev-pagina .aev-doc{ transition:none; } }

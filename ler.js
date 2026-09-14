@@ -23,6 +23,19 @@
   var slug = arq.split('/').pop().replace(/\.epub$/i, '');
   var pacote = null, rio = null, docs = [], letrasTotais = 0, sumario = [], pilha = [];
   var rolando = false, tempoRolagem = null, gravaTempo = null, ultimaPos = null;
+  /* Restaurar a posicao passa pela pagina 0 antes de chegar ao lugar certo, e cada passagem
+     agenda uma gravacao. Fechar a aba nesse intervalo selaria o comeco do capitulo como o
+     lugar onde a pessoa parou. Enquanto isto estiver ligado, o rodape se atualiza e nada
+     se grava. */
+  var restaurando = 0;
+  function semGravar(faz) {
+    restaurando++;
+    clearTimeout(gravaTempo);
+    function solta(v) { restaurando = Math.max(0, restaurando - 1); return v; }
+    var p;
+    try { p = faz(); } catch (e) { solta(); throw e; }
+    return Promise.resolve(p).then(solta, function (e) { solta(); throw e; });
+  }
 
   /* ------------------------------------------------------------------ paineis */
   var veu = ao('veu');
@@ -94,7 +107,7 @@
         guarda(PREF, gosto);
         if (par[1] === 'modo') {
           pinta();
-          if (rio) rio.defineModo(gosto.modo).then(atualizaPe);
+          if (rio) semGravar(function () { return rio.defineModo(gosto.modo); }).then(atualizaPe);
           return;
         }
         var antes = rio ? rio.localiza() : null;
@@ -163,12 +176,14 @@
     ao('pct').textContent = 'pág. ' + (p.pagina + 1) + ' de ' + p.total;
     var loc = rio.localiza();
     if (loc) {
-      ultimaPos = loc;
+      if (!loc.aprox) ultimaPos = loc;
       ao('andado').style.width = ((loc.pct || 0) * 100).toFixed(1) + '%';
       nomeDoCapitulo(loc);
       acendeMarca();
-      clearTimeout(gravaTempo);
-      gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 900);
+      if (!restaurando && !loc.aprox) {
+        clearTimeout(gravaTempo);
+        gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 900);
+      }
     }
   }
 
@@ -200,11 +215,13 @@
     if (!rio) return;
     var loc = rio.localiza();
     if (!loc) return;
-    ultimaPos = loc;
+    if (!loc.aprox) ultimaPos = loc;
     atualizaRodape(loc);
     acendeMarca();
-    clearTimeout(gravaTempo);
-    gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 1200);
+    if (!restaurando && !loc.aprox) {
+      clearTimeout(gravaTempo);
+      gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 1200);
+    }
   }
 
   /* ------------------------------------------------------------------ abertura */
@@ -288,12 +305,20 @@
     }, { passive: true });
 
     fazSumario().then(function () {
-      return gosto.modo === 'pagina' ? rio.defineModo('pagina') : null;
-    }).then(function () {
-      var onde = lembra(POS + slug, null);
-      ao('aviso').style.display = 'none';
-      if (onde && onde.v === 3) return rio.vaiPara(onde);
-      if (onde) return rio.vaiPara({ d: 0, b: 0, c: 0 });
+      return semGravar(function () {
+        return Promise.resolve(gosto.modo === 'pagina' ? rio.defineModo('pagina') : null)
+          .then(function () {
+            var onde = lembra(POS + slug, null);
+            ao('aviso').style.display = 'none';
+            if (onde && onde.v === 3) return rio.vaiPara(onde);
+            if (onde) return rio.vaiPara({ d: 0, b: 0, c: 0 });
+            // quem abre o livro pela primeira vez cai na primeira pagina que tem o que mostrar:
+            // muitos EPUB comecam pelo nav.xhtml, que fica sem nada depois da limpeza
+            return rio.achaCheio(0, 1).then(function (k) {
+              if (k > 0) return rio.vaiPara({ d: k, b: 0, c: 0 });
+            });
+          });
+      });
     }).then(function () {
       desenhaMarcas();
       aoMover();
@@ -483,9 +508,9 @@
     else if (k === 'Home') { ao('rio').scrollTop = 0; }
     else if (k === 'Escape') fecha();
   });
-  window.addEventListener('pagehide', function () { if (ultimaPos) guarda(POS + slug, ultimaPos); });
+  window.addEventListener('pagehide', function () { if (ultimaPos && !restaurando) guarda(POS + slug, ultimaPos); });
   document.addEventListener('visibilitychange', function () {
-    if (document.visibilityState === 'hidden' && ultimaPos) guarda(POS + slug, ultimaPos);
+    if (document.visibilityState === 'hidden' && ultimaPos && !restaurando) guarda(POS + slug, ultimaPos);
   });
   window.AEV_LEITOR = { get rio() { return rio; }, get pacote() { return pacote; }, get pos() { return ultimaPos; } };
 })();
