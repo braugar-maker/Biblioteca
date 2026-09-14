@@ -229,6 +229,14 @@
       if (sumario[i].d > loc.d) break;
       nome = sumario[i].rotulo;
     }
+    // livro sem sumario que alcance este documento (os escaneados do Internet Archive, uma
+    // pagina por arquivo): vale o primeiro titulo do proprio documento, e na falta dele a obra
+    if (!nome && rio) {
+      var caixa = rio.caixaDe(loc.d);
+      var h = caixa ? caixa.querySelector('h1,h2,h3,h4') : null;
+      nome = h ? (h.textContent || '').replace(/\s+/g, ' ').trim() : '';
+      if (!nome) nome = (ao('ob').textContent || '').trim();
+    }
     ao('cap').textContent = nome.length > 46 ? nome.slice(0, 44).trim() + '...' : nome;
   }
 
@@ -540,13 +548,32 @@
   }
   ao('prox').addEventListener('click', function () { passo(1); });
   ao('ant').addEventListener('click', function () { passo(-1); });
+  /* Arrastar para o lado vira a folha no modo de pagina. So o deslocamento horizontal conta,
+     acima de 48px e mais deitado que em pe, para nao brigar com a rolagem nem com a selecao. */
+  (function () {
+    var palco = ao('rio'), x0 = 0, y0 = 0, t0 = 0, vivo = false;
+    palco.addEventListener('pointerdown', function (e) {
+      if (e.pointerType === 'mouse') return;
+      if (!rio || rio.modo() !== 'pagina') return;
+      vivo = true; x0 = e.clientX; y0 = e.clientY; t0 = Date.now();
+    }, { passive: true });
+    palco.addEventListener('pointerup', function (e) {
+      if (!vivo) return; vivo = false;
+      var dx = e.clientX - x0, dy = e.clientY - y0;
+      if (Date.now() - t0 > 900) return;
+      if (Math.abs(dx) < 48) return;
+      if (Math.abs(dx) < Math.abs(dy) * 1.2) return;
+      passo(dx < 0 ? 1 : -1);
+    }, { passive: true });
+    palco.addEventListener('pointercancel', function () { vivo = false; });
+  })();
   document.addEventListener('keydown', function (e) {
     if (/INPUT|TEXTAREA/.test((e.target.tagName || ''))) return;
     var k = e.key;
     if (k === 'ArrowRight' || k === 'PageDown' || k === ' ') { e.preventDefault(); passo(1); }
     else if (k === 'ArrowLeft' || k === 'PageUp') { e.preventDefault(); passo(-1); }
-    else if (k === 'ArrowDown') { ao('rio').scrollBy({ top: 90 }); }
-    else if (k === 'ArrowUp') { ao('rio').scrollBy({ top: -90 }); }
+    else if (k === 'ArrowDown') { if (rio.modo() === 'pagina') { e.preventDefault(); passo(1); } else ao('rio').scrollBy({ top: 90 }); }
+    else if (k === 'ArrowUp') { if (rio.modo() === 'pagina') { e.preventDefault(); passo(-1); } else ao('rio').scrollBy({ top: -90 }); }
     else if (k === 'Home') { ao('rio').scrollTop = 0; }
     else if (k === 'Escape') fecha();
   });

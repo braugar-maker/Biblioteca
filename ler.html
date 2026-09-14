@@ -44,6 +44,7 @@ a{color:var(--ouro)}
 #rio{position:absolute;inset:0}
 .seta{position:absolute;top:0;bottom:0;width:clamp(34px,6vw,72px);border:0;background:transparent;color:transparent;display:flex;align-items:center;justify-content:center;z-index:2}
 .seta:hover{color:var(--neutro)}
+@media (pointer:coarse){.seta{color:var(--neutro);opacity:.55;width:clamp(40px,8vw,64px)}}
 .seta svg{width:20px;height:20px;fill:currentColor}
 .seta.esq{left:0}.seta.dir{right:0}
 .aviso{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:32px;color:var(--quieto);font-family:Figtree,sans-serif;font-size:.9375rem;background:var(--sable);z-index:3}
@@ -156,5 +157,5 @@ body:has(#aev-radio:not(.aev-radio-min)) .aev-rio:not(.aev-pagina){scroll-paddin
 <script src="ler-rio.js?v=bdb621df"></script>
 <script>window.addEventListener("resize",function(){clearTimeout(window.__aevMede);window.__aevMede=setTimeout(function(){if(window.AEV_LEITOR&&AEV_LEITOR.rio)AEV_LEITOR.rio.remede();},220);});</script>
 <script src="aev-radio.js"></script>
-<script src="ler.js?v=dcdfead3"></script>
+<script src="ler.js?v=1ed9d00a"></script>
 </body></html>
