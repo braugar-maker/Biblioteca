@@ -84,9 +84,9 @@
 
   /* ------------------------------------------------------------------ aparencia */
   var PAPEIS = {
-    escuro: { fundo: '#201E1D', tinta: '#DCD3C4', elo: '#C08A3E', regua: '#645C50', quieto: '#C0B6A5' },
-    claro:  { fundo: '#F5EAD8', tinta: '#221F1C', elo: '#8C491A', regua: '#C0B6A5', quieto: '#645C50' },
-    sepia:  { fundo: '#EBDDC5', tinta: '#2A2622', elo: '#8C491A', regua: '#C3B49A', quieto: '#6B6053' }
+    escuro: { fundo: '#14120f', tinta: '#c4b99f', elo: '#c9a45c', regua: '#2c2820', quieto: '#9d937f' },
+    claro:  { fundo: '#ece3d0', tinta: '#221F1C', elo: '#8C491A', regua: '#9d937f', quieto: '#2c2820' },
+    sepia:  { fundo: '#ece3d0', tinta: '#2A2622', elo: '#8C491A', regua: '#C3B49A', quieto: '#6B6053' }
   };
   var LETRAS = { serif: '"EB Garamond", Georgia, serif', sans: 'Figtree, system-ui, sans-serif' };
 

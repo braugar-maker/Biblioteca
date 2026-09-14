@@ -2,31 +2,31 @@
 <html lang="pt-BR"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Leitor · Biblioteca Aevum</title>
-<meta name="theme-color" content="#201E1D">
+<meta name="theme-color" content="#14120f">
 <meta name="robots" content="noindex">
 <link rel="icon" href="assets/brasao-selo.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Figtree:wght@400;600&display=swap">
 <link rel="stylesheet" href="aev-radio.css">
-<link rel="stylesheet" href="ler-obra.css?v=e1890d14">
+<link rel="stylesheet" href="ler-obra.css?v=32b8fbc6">
 <style>
 :root{
-  --sable:#201E1D; --ouro:#C08A3E; --prata:#F5EAD8; --areia:#EBDDC5;
-  --neutro:#645C50; --quieto:#C0B6A5; --n2:#DCD3C4;
-  --tinta:#DCD3C4; --elo:#C08A3E; --regua:#645C50;
+  --sable:#14120f; --ouro:#c9a45c; --prata:#ece3d0; --areia:#ece3d0;
+  --neutro:#2c2820; --controle:#5a5240; --quieto:#9d937f; --n2:#c4b99f;
+  --tinta:#c4b99f; --elo:#c9a45c; --regua:#2c2820;
 }
 *{box-sizing:border-box}
 html,body{height:100%}
 body{margin:0;background:var(--sable);color:var(--prata);font-family:"EB Garamond",Georgia,serif;overflow:hidden}
-body[data-papel=claro]{--sable:#F5EAD8;--prata:#201E1D;--neutro:#C0B6A5;--quieto:#645C50}
-body[data-papel=sepia]{--sable:#EBDDC5;--prata:#2A2622;--neutro:#C3B49A;--quieto:#6B6053}
+body[data-papel=claro]{--sable:#ece3d0;--prata:#14120f;--neutro:#9d937f;--quieto:#2c2820}
+body[data-papel=sepia]{--sable:#ece3d0;--prata:#2A2622;--neutro:#C3B49A;--quieto:#6B6053}
 button{font-family:Figtree,system-ui,sans-serif;cursor:pointer}
 a{color:var(--ouro)}
 :focus-visible{outline:2px solid var(--ouro);outline-offset:2px}
 .rotulo{font-family:Figtree,system-ui,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--ouro);margin:0}
 
 .leitor{display:grid;grid-template-rows:auto 1fr auto;height:100%}
-.topo{display:flex;align-items:center;gap:12px;padding:12px clamp(14px,3vw,28px);border-bottom:1px solid var(--neutro)}
+.topo{display:flex;align-items:center;gap:12px;padding:12px clamp(14px,3vw,28px);border-bottom:1px solid #5a5240}
 .voltar{display:inline-flex;align-items:center;gap:9px;color:var(--quieto);text-decoration:none;font-family:Figtree,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;white-space:nowrap}
 .voltar:hover{color:var(--ouro)}
 .voltar svg{width:13px;height:13px;fill:currentColor}
@@ -34,7 +34,7 @@ a{color:var(--ouro)}
 .titulo .ob{margin:0;font-size:1.0625rem;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--prata)}
 .titulo .au{margin:1px 0 0;font-family:Figtree,sans-serif;font-size:.6875rem;color:var(--quieto);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ferramentas{display:flex;gap:7px}
-.f{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid var(--neutro);background:transparent;color:var(--quieto);display:flex;align-items:center;justify-content:center}
+.f{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid #5a5240;background:transparent;color:var(--quieto);display:flex;align-items:center;justify-content:center}
 .f svg{width:16px;height:16px;fill:currentColor;display:block}
 .f:hover{border-color:var(--ouro);color:var(--ouro)}
 .f[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
@@ -58,24 +58,24 @@ a{color:var(--ouro)}
 .painel.aberto{transform:none}
 .painel h2{margin:0 0 16px;font-family:Figtree,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--ouro)}
 .painel ol{list-style:none;margin:0;padding:0}
-.painel li a{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:9px 0;color:var(--n2);text-decoration:none;border-bottom:1px solid rgba(100,92,80,.45);font-size:1rem;line-height:1.3}
+.painel li a{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:9px 0;color:var(--n2);text-decoration:none;border-bottom:1px solid rgba(44,40,32,.9);font-size:1rem;line-height:1.3}
 .painel li a:hover{color:var(--ouro)}
 .painel .tirar{float:right;background:transparent;border:0;color:var(--quieto);font-family:Figtree,sans-serif;font-size:.625rem;letter-spacing:.14em;text-transform:uppercase}
 .painel .tirar:hover{color:var(--ouro)}
 .aev-vazio-nota{color:var(--quieto);font-family:Figtree,sans-serif;font-size:.8125rem;padding:8px 0}
 .fechar{position:absolute;top:14px;right:14px}
-.campo{width:100%;background:transparent;border:0;border-bottom:1px solid var(--neutro);color:var(--prata);font-family:"EB Garamond",serif;font-size:1.125rem;padding:9px 0;margin-bottom:16px}
+.campo{width:100%;background:transparent;border:0;border-bottom:1px solid #5a5240;color:var(--prata);font-family:"EB Garamond",serif;font-size:1.125rem;padding:9px 0;margin-bottom:16px}
 .campo::placeholder{color:var(--neutro)}
-.achados li{border-bottom:1px solid rgba(100,92,80,.45)}
+.achados li{border-bottom:1px solid rgba(44,40,32,.9)}
 .achados button{display:block;width:100%;text-align:left;background:transparent;border:0;color:var(--n2);padding:11px 0;font-family:"EB Garamond",serif;font-size:.9375rem;line-height:1.45}
 .achados button:hover{color:var(--ouro)}
 .grupo{margin-bottom:24px}
 .grupo p.rotulo{margin-bottom:10px}
 .linha{display:flex;gap:8px;flex-wrap:wrap}
-.opt{padding:9px 15px;border:1px solid var(--neutro);border-radius:999px;background:transparent;color:var(--prata);font-size:.6875rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase}
+.opt{padding:9px 15px;border:1px solid #5a5240;border-radius:999px;background:transparent;color:var(--prata);font-size:.6875rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase}
 .opt:hover{border-color:var(--ouro);color:var(--ouro)}
 .opt[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
-.veu{position:fixed;inset:0;background:rgba(32,30,29,.6);opacity:0;pointer-events:none;transition:opacity .2s;z-index:5}
+.veu{position:fixed;inset:0;background:rgba(20,18,15,.6);opacity:0;pointer-events:none;transition:opacity .2s;z-index:5}
 .veu.aberto{opacity:1;pointer-events:auto}
 /* a barra da Radio sobe um pouco para nao pisar no rodape do leitor */
 .aev-radio{bottom:62px}
@@ -156,5 +156,5 @@ body:has(#aev-radio:not(.aev-radio-min)) .aev-rio:not(.aev-pagina){scroll-paddin
 <script src="ler-rio.js?v=bdb621df"></script>
 <script>window.addEventListener("resize",function(){clearTimeout(window.__aevMede);window.__aevMede=setTimeout(function(){if(window.AEV_LEITOR&&AEV_LEITOR.rio)AEV_LEITOR.rio.remede();},220);});</script>
 <script src="aev-radio.js"></script>
-<script src="ler.js?v=80c417f3"></script>
+<script src="ler.js?v=dcdfead3"></script>
 </body></html>

@@ -174,7 +174,7 @@
    desenho de livro. A largura em pixel vem do medidor, em --larg-folha. */
 .aev-pagina.aev-duplo .aev-folha::before{
   content:""; position:absolute; inset:0; z-index:-1; pointer-events:none;
-  box-shadow:0 0 0 1px rgba(100,92,80,.16), 0 14px 40px rgba(0,0,0,.16);
+  box-shadow:0 0 0 1px rgba(90,82,64,.28), 0 14px 40px rgba(0,0,0,.16);
 }
 /* O vinco do meio, na largura exata da folga entre as duas colunas, onde nao ha texto:
    uma sombra que fecha para dentro, e um filete no centro. A sombra desenha o vale no papel
@@ -232,8 +232,8 @@
   /* meia folha: e o passo do giro. Em pagina unica a folha e a pagina inteira. */
   --aev-meia: calc((var(--larg-folha,1200px) + var(--margem,24px) * 2) / 2);
   /* papel: a cor do tema puxada para a luz. Vale claro, escuro e sepia. */
-  --aev-papel: color-mix(in srgb, var(--sable,#201E1D) 91%, #fff 9%);
-  --aev-fio:   color-mix(in srgb, var(--sable,#201E1D) 62%, var(--tinta,#DCD3C4) 38%);
+  --aev-papel: color-mix(in srgb, var(--sable,#14120f) 91%, #fff 9%);
+  --aev-fio:   color-mix(in srgb, var(--sable,#14120f) 62%, var(--tinta,#c4b99f) 38%);
   --aev-penumbra: 38px;
 }
 .aev-pagina:not(.aev-duplo){
