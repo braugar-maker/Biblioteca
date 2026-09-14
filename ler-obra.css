@@ -254,9 +254,10 @@
   --aev-vira-tempo: 280ms;
   /* meia folha: e o passo do giro. Em pagina unica a folha e a pagina inteira. */
   --aev-meia: calc((var(--larg-folha,1200px) + var(--margem,24px) * 2) / 2);
-  /* papel: a cor do tema puxada para a luz. Vale claro, escuro e sepia. */
-  --aev-papel: color-mix(in srgb, var(--sable,#14120f) 91%, #fff 9%);
-  --aev-fio:   color-mix(in srgb, var(--sable,#14120f) 62%, var(--tinta,#c4b99f) 38%);
+  /* papel: o mesmo da pagina (--papel, definido por tema em ler.html), para a folha que vira ter
+     a cor exata do livro; a moldura e o mesmo filete. */
+  --aev-papel: var(--papel, color-mix(in srgb, var(--sable,#14120f) 91%, #fff 9%));
+  --aev-fio:   var(--moldura, color-mix(in srgb, var(--sable,#14120f) 62%, var(--tinta,#c4b99f) 38%));
   --aev-penumbra: 38px;
 }
 .aev-pagina:not(.aev-duplo){
