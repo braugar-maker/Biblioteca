@@ -1,0 +1,95 @@
+/* Instituto Aeviternitas · leitor da Biblioteca Aevum · a folha do miolo · 14/09/2026.
+   O EPUB entra sem a folha dele; a tipografia que morava em classe chega aqui traduzida em
+   tokens aev-*. As medidas vem das variaveis que o painel de aparencia governa. */
+
+.aev-rio{
+  height:100%; overflow-y:auto; overflow-x:hidden; scrollbar-width:thin;
+  -webkit-overflow-scrolling:touch; overscroll-behavior:contain;
+}
+.aev-cap{ display:block; }
+.aev-doc{
+  max-width:var(--medida,34em);
+  margin:0 auto;
+  padding:0 var(--margem,24px);
+  font-family:var(--letra,"EB Garamond",Georgia,serif);
+  font-size:var(--corpo,1.0625rem);
+  line-height:var(--entre,1.62);
+  color:var(--tinta);
+  text-align:justify;
+  hyphens:auto;
+  -webkit-hyphens:auto;
+}
+.aev-doc p{ margin:0; text-indent:1.4em; }
+.aev-doc p + p{ margin-top:0; }
+.aev-doc p:first-of-type,
+.aev-doc .aev-sem-recuo,
+.aev-doc h1 + p, .aev-doc h2 + p, .aev-doc h3 + p, .aev-doc h4 + p{ text-indent:0; }
+.aev-doc h1,.aev-doc h2,.aev-doc h3,.aev-doc h4,.aev-doc h5,.aev-doc h6{
+  font-family:var(--letra,"EB Garamond",Georgia,serif);
+  font-weight:400; line-height:1.18; text-align:left; text-indent:0;
+  hyphens:none; margin:2.4em 0 1em; color:var(--tinta);
+}
+.aev-doc h1{ font-size:1.7em } .aev-doc h2{ font-size:1.42em }
+.aev-doc h3{ font-size:1.2em } .aev-doc h4{ font-size:1.06em }
+.aev-doc hr{ border:0; border-top:1px solid var(--regua); margin:2.2em auto; width:38%; }
+.aev-doc a{ color:var(--elo); text-decoration:none; border-bottom:1px solid var(--regua); }
+.aev-doc a:hover{ border-bottom-color:var(--elo); }
+.aev-doc img{ display:block; max-width:100%; height:auto; margin:1.6em auto; }
+.aev-doc img.aev-capa-livro{ max-height:86vh; width:auto; margin:0 auto 2em; }
+.aev-doc svg{ display:block; max-width:100%; height:auto; margin:1.6em auto; }
+.aev-doc table{ border-collapse:collapse; margin:1.6em auto; font-size:.94em; }
+.aev-doc td,.aev-doc th{ padding:.3em .7em; border-bottom:1px solid var(--regua); text-align:left; }
+.aev-doc ul,.aev-doc ol{ margin:1em 0 1em 1.4em; padding:0; text-indent:0; }
+.aev-doc li{ margin:.25em 0; text-indent:0; }
+.aev-doc sup{ font-size:.72em; line-height:0; vertical-align:super; }
+.aev-doc pre{ white-space:pre-wrap; font-size:.9em; text-indent:0; }
+.aev-doc blockquote{ margin:1.4em 0 1.4em 1.6em; text-indent:0; }
+
+/* ---------------------------------------------------------------- tokens do instituto */
+.aev-oculto{ display:none !important; }
+
+.aev-verso{ margin:1.6em 0; text-align:left; text-indent:0; hyphens:none; }
+.aev-verso p,.aev-estrofe p{ text-indent:0; margin:0; }
+.aev-estrofe{ margin:0 0 1.1em; text-align:left; text-indent:0; hyphens:none; }
+.aev-v0{ display:inline-block; }
+.aev-v1{ display:inline-block; padding-left:1.2em; }
+.aev-v2{ display:inline-block; padding-left:2.4em; }
+.aev-v3{ display:inline-block; padding-left:3.6em; }
+.aev-v4{ display:inline-block; padding-left:4.8em; }
+.aev-pendente{ padding-left:1.6em; text-indent:-1.6em; text-align:left; }
+
+.aev-versalete{ font-variant:small-caps; letter-spacing:.03em; }
+.aev-minuscula{ text-transform:lowercase; }
+.aev-espacado{ letter-spacing:.12em; }
+
+.aev-centro{ text-align:center; text-indent:0; hyphens:none; }
+.aev-direita{ text-align:right; text-indent:0; hyphens:none; }
+
+.aev-citacao{
+  margin:1.5em 0; padding-left:1.4em; border-left:1px solid var(--regua);
+  font-size:.96em; text-indent:0;
+}
+.aev-citacao p{ text-indent:0; }
+
+.aev-nota{ font-size:.88em; color:var(--quieto); text-indent:0; margin:.7em 0; }
+.aev-nota p{ text-indent:0; }
+.aev-chamada{ color:var(--elo); font-size:.82em; vertical-align:super; line-height:0; }
+
+.aev-legenda{
+  display:block; text-align:center; font-family:Figtree,system-ui,sans-serif;
+  font-size:.78rem; letter-spacing:.08em; color:var(--quieto);
+  text-indent:0; margin:.5em 0 1.8em; hyphens:none;
+}
+.aev-sumario{ text-indent:0; text-align:left; hyphens:none; margin:.2em 0; }
+.aev-fala{ text-indent:0; margin:.6em 0; text-align:left; }
+.aev-personagem{ font-variant:small-caps; letter-spacing:.06em; }
+
+.aev-falha{
+  font-family:Figtree,system-ui,sans-serif; font-size:.9rem; color:var(--quieto);
+  text-align:center; padding:3em 1em; text-indent:0;
+}
+
+@media (max-width:700px){
+  .aev-doc{ padding:0 max(18px, var(--margem,24px)); }
+  .aev-doc table{ font-size:.86em; }
+}

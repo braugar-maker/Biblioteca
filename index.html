@@ -80,6 +80,8 @@ button[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:
 a.baixar{font-family:Figtree,system-ui,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.16em;text-transform:uppercase;
  text-decoration:none;color:var(--prata);border:1px solid var(--prata);padding:9px 14px;border-radius:999px;white-space:nowrap;display:inline-block}
 a.baixar:hover{background:var(--prata);color:var(--sable)}
+a.baixar.ler{color:var(--sable);background:var(--ouro);border-color:var(--ouro)}
+a.baixar.ler:hover{background:var(--prata);border-color:var(--prata);color:var(--sable)}
 a.baixar.pdf{color:var(--quieto);border-color:var(--neutro)}
 a.baixar.pdf:hover{background:var(--quieto);color:var(--sable);border-color:var(--quieto)}
 .vols summary{list-style:none;cursor:pointer} .vols summary::-webkit-details-marker{display:none}
@@ -126,6 +128,7 @@ footer{max-width:1200px;margin:96px auto 0;padding:48px 64px;border-top:1px soli
 </main>
 <footer>
 <div class="colofao">
+  <div><p class="kicker">Ler sem baixar</p><p>Toda obra abre no leitor do instituto, dentro do site, com marcador, busca por dentro do livro e a página guardada de onde você parou. O botão <strong>Ler agora</strong> em cada ficha.</p></div>
   <div><p class="kicker">Em vez de baixar uma por uma</p><p>Aplicativos de leitura podem assinar o <a href="opds.xml">catálogo OPDS</a>: o acervo inteiro passa a aparecer dentro do aplicativo, com as capas, atualizando sozinho. No Kindle, o EPUB é aceito pelo Enviar para Kindle, sem conversão.</p></div>
   <div><p class="kicker">Procedência e direito</p><p>Camada A: domínio público no Brasil e nos Estados Unidos. Camada B: domínio público no Brasil pela Lei 9.610/98, art. 41, setenta anos contados de 1º de janeiro do ano seguinte à morte do autor, e ainda sob direito nos Estados Unidos. As fontes são o Project Gutenberg, o Wikisource e o Internet Archive; a fonte de cada obra está na ficha. As capas são tipográficas, feitas pelo instituto; nenhuma reproduz capa de edição sob direito.</p></div>
   <div><p class="kicker">Instituto</p><p>Nenhuma destas obras pertence ao instituto: são de domínio público, apenas reunidas e organizadas aqui. <a href="catalogo.json">Catálogo em JSON</a> · <a href="INDICE.md">Índice por autor, título, tema, idioma e século</a>.</p><p><a href="https://aeviternitas.com/">aeviternitas.com</a> · <a href="https://aeviternitas.com/biblioteca/">a Biblioteca no site do instituto</a></p></div>
@@ -153,7 +156,7 @@ function pinta(){
     ${tit(d)!==d.t?`<div class="ref">em português: ${esc(d.t)}</div>`:''}
     <div class="etq">edição em ${esc(IDIOMA[d.l]||d.l)}</div>
     <div class="meta">${d.y>0?d.y+' · ':''}${d.eixo}${d.c==='B'?' · <span class="b">camada B</span>':''}</div>
-    <div class="baixe"><a class="baixar" href="${esc(d.arq)}" download>EPUB · ${d.kb} KB</a>${d.pdf?`<a class="baixar pdf" href="${esc(d.pdf)}">PDF · ${d.pdf_kb} KB</a>`:''}${d.pdfs?`<details class="vols"><summary class="baixar pdf">PDF · ${d.pdfs.length} ${/^Vol/.test(d.pdfs[0].rotulo)?'volumes':'partes'} ▾</summary><div class="vlista">${d.pdfs.map(p=>`<a class="baixar pdf" href="${esc(p.url)}">${esc(p.rotulo.replace(/^Volume /,'Vol. ').replace(/^Parte (\d+) de (\d+)$/,'$1 de $2'))} · ${p.kb} KB</a>`).join('')}</div></details>`:''}</div></li>`).join('');
+    <div class="baixe"><a class="baixar ler" href="ler.html?arq=${esc(d.arq)}">Ler agora</a><a class="baixar" href="${esc(d.arq)}" download>EPUB · ${d.kb} KB</a>${d.pdf?`<a class="baixar pdf" href="${esc(d.pdf)}">PDF · ${d.pdf_kb} KB</a>`:''}${d.pdfs?`<details class="vols"><summary class="baixar pdf">PDF · ${d.pdfs.length} ${/^Vol/.test(d.pdfs[0].rotulo)?'volumes':'partes'} ▾</summary><div class="vlista">${d.pdfs.map(p=>`<a class="baixar pdf" href="${esc(p.url)}">${esc(p.rotulo.replace(/^Volume /,'Vol. ').replace(/^Parte (\d+) de (\d+)$/,'$1 de $2'))} · ${p.kb} KB</a>`).join('')}</div></details>`:''}</div></li>`).join('');
 }
 busca.addEventListener('input',pinta);
 document.querySelectorAll('[data-eixo]').forEach(b=>b.addEventListener('click',()=>{

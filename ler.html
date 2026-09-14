@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Leitor · Biblioteca Aevum</title>
+<meta name="theme-color" content="#201E1D">
+<meta name="robots" content="noindex">
+<link rel="icon" href="assets/brasao-selo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Figtree:wght@400;600&display=swap">
+<link rel="stylesheet" href="ler-obra.css?v=3c7c3257">
+<style>
+:root{
+  --sable:#201E1D; --ouro:#C08A3E; --prata:#F5EAD8; --areia:#EBDDC5;
+  --neutro:#645C50; --quieto:#C0B6A5; --n2:#DCD3C4;
+  --tinta:#DCD3C4; --elo:#C08A3E; --regua:#645C50;
+}
+*{box-sizing:border-box}
+html,body{height:100%}
+body{margin:0;background:var(--sable);color:var(--prata);font-family:"EB Garamond",Georgia,serif;overflow:hidden}
+body[data-papel=claro]{--sable:#F5EAD8;--prata:#201E1D;--neutro:#C0B6A5;--quieto:#645C50}
+body[data-papel=sepia]{--sable:#EBDDC5;--prata:#2A2622;--neutro:#C3B49A;--quieto:#6B6053}
+button{font-family:Figtree,system-ui,sans-serif;cursor:pointer}
+a{color:var(--ouro)}
+:focus-visible{outline:2px solid var(--ouro);outline-offset:2px}
+.rotulo{font-family:Figtree,system-ui,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--ouro);margin:0}
+
+.leitor{display:grid;grid-template-rows:auto 1fr auto;height:100%}
+.topo{display:flex;align-items:center;gap:12px;padding:12px clamp(14px,3vw,28px);border-bottom:1px solid var(--neutro)}
+.voltar{display:inline-flex;align-items:center;gap:9px;color:var(--quieto);text-decoration:none;font-family:Figtree,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;white-space:nowrap}
+.voltar:hover{color:var(--ouro)}
+.voltar svg{width:13px;height:13px;fill:currentColor}
+.titulo{min-width:0;flex:1;text-align:center}
+.titulo .ob{margin:0;font-size:1.0625rem;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--prata)}
+.titulo .au{margin:1px 0 0;font-family:Figtree,sans-serif;font-size:.6875rem;color:var(--quieto);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.ferramentas{display:flex;gap:7px}
+.f{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid var(--neutro);background:transparent;color:var(--quieto);display:flex;align-items:center;justify-content:center}
+.f svg{width:16px;height:16px;fill:currentColor;display:block}
+.f:hover{border-color:var(--ouro);color:var(--ouro)}
+.f[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
+.f[hidden]{display:none}
+
+.palco{position:relative;min-height:0}
+#rio{position:absolute;inset:0}
+.seta{position:absolute;top:0;bottom:0;width:clamp(34px,6vw,72px);border:0;background:transparent;color:transparent;display:flex;align-items:center;justify-content:center;z-index:2}
+.seta:hover{color:var(--neutro)}
+.seta svg{width:20px;height:20px;fill:currentColor}
+.seta.esq{left:0}.seta.dir{right:0}
+.aviso{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:32px;color:var(--quieto);font-family:Figtree,sans-serif;font-size:.9375rem;background:var(--sable);z-index:3}
+
+.pe{display:flex;align-items:center;gap:16px;padding:10px clamp(14px,3vw,28px);border-top:1px solid var(--neutro);font-family:Figtree,sans-serif;font-size:.6875rem;color:var(--quieto)}
+.trilho{flex:1;height:1px;background:var(--neutro);position:relative}
+.trilho span{position:absolute;left:0;top:0;height:1px;width:0;background:var(--ouro)}
+.conta{font-variant-numeric:tabular-nums;white-space:nowrap}
+
+.painel{position:fixed;top:0;bottom:0;left:0;width:min(390px,88vw);background:var(--sable);border-right:1px solid var(--neutro);padding:22px;overflow:auto;transform:translateX(-102%);transition:transform .2s ease;z-index:6}
+.painel.dir{left:auto;right:0;border-right:0;border-left:1px solid var(--neutro);transform:translateX(102%)}
+.painel.aberto{transform:none}
+.painel h2{margin:0 0 16px;font-family:Figtree,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--ouro)}
+.painel ol{list-style:none;margin:0;padding:0}
+.painel li a{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;padding:9px 0;color:var(--n2);text-decoration:none;border-bottom:1px solid rgba(100,92,80,.45);font-size:1rem;line-height:1.3}
+.painel li a:hover{color:var(--ouro)}
+.painel .tirar{float:right;background:transparent;border:0;color:var(--quieto);font-family:Figtree,sans-serif;font-size:.625rem;letter-spacing:.14em;text-transform:uppercase}
+.painel .tirar:hover{color:var(--ouro)}
+.aev-vazio-nota{color:var(--quieto);font-family:Figtree,sans-serif;font-size:.8125rem;padding:8px 0}
+.fechar{position:absolute;top:14px;right:14px}
+.campo{width:100%;background:transparent;border:0;border-bottom:1px solid var(--neutro);color:var(--prata);font-family:"EB Garamond",serif;font-size:1.125rem;padding:9px 0;margin-bottom:16px}
+.campo::placeholder{color:var(--neutro)}
+.achados li{border-bottom:1px solid rgba(100,92,80,.45)}
+.achados button{display:block;width:100%;text-align:left;background:transparent;border:0;color:var(--n2);padding:11px 0;font-family:"EB Garamond",serif;font-size:.9375rem;line-height:1.45}
+.achados button:hover{color:var(--ouro)}
+.grupo{margin-bottom:24px}
+.grupo p.rotulo{margin-bottom:10px}
+.linha{display:flex;gap:8px;flex-wrap:wrap}
+.opt{padding:9px 15px;border:1px solid var(--neutro);border-radius:999px;background:transparent;color:var(--prata);font-size:.6875rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase}
+.opt:hover{border-color:var(--ouro);color:var(--ouro)}
+.opt[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
+.veu{position:fixed;inset:0;background:rgba(32,30,29,.6);opacity:0;pointer-events:none;transition:opacity .2s;z-index:5}
+.veu.aberto{opacity:1;pointer-events:auto}
+@media (max-width:700px){.titulo .au{display:none}.seta{width:30px}}
+</style></head>
+<body data-papel="escuro">
+<div class="leitor">
+  <header class="topo">
+    <a class="voltar" href="index.html"><svg viewBox="0 0 24 24"><path d="M14 4l2 2-6 6 6 6-2 2-8-8z"/></svg><span>Biblioteca</span></a>
+    <div class="titulo"><p class="ob" id="ob">Abrindo o livro</p><p class="au" id="au"></p></div>
+    <div class="ferramentas">
+      <button class="f" id="b-volta" hidden aria-label="Voltar de onde saltou" title="Voltar de onde saltou"><svg viewBox="0 0 24 24"><path d="M11 5l2 2-4 4h10v2H9l4 4-2 2-7-7z"/></svg></button>
+      <button class="f" id="b-sumario" aria-label="Sumário" title="Sumário"><svg viewBox="0 0 24 24"><path d="M4 5h16v2H4zM4 11h16v2H4zM4 17h16v2H4z"/></svg></button>
+      <button class="f" id="b-busca" aria-label="Buscar no livro" title="Buscar no livro"><svg viewBox="0 0 24 24"><path d="M10 3a7 7 0 105.3 11.6l4 4 1.4-1.4-4-4A7 7 0 0010 3zm0 2a5 5 0 110 10 5 5 0 010-10z"/></svg></button>
+      <button class="f" id="b-marca" aria-label="Marcar esta página" title="Marcar esta página"><svg viewBox="0 0 24 24"><path d="M6 3h12v18l-6-4.2L6 21z"/></svg></button>
+      <button class="f" id="b-aparencia" aria-label="Aparência" title="Aparência"><svg viewBox="0 0 24 24"><path d="M12 3a9 9 0 000 18c1.7 0 3-1.3 3-3 0-.8-.3-1.5-.8-2-.3-.3-.5-.7-.5-1.1 0-.9.7-1.6 1.6-1.6H17a4 4 0 004-4c0-3.6-4-6.3-9-6.3zM6.5 12a1.5 1.5 0 110-3 1.5 1.5 0 010 3zm3-4a1.5 1.5 0 110-3 1.5 1.5 0 010 3zm5 0a1.5 1.5 0 110-3 1.5 1.5 0 010 3z"/></svg></button>
+    </div>
+  </header>
+
+  <div class="palco">
+    <div id="rio" tabindex="0" role="document" aria-label="Texto da obra"></div>
+    <button class="seta esq" id="ant" aria-label="Tela anterior"><svg viewBox="0 0 24 24"><path d="M14 4l2 2-6 6 6 6-2 2-8-8z"/></svg></button>
+    <button class="seta dir" id="prox" aria-label="Próxima tela"><svg viewBox="0 0 24 24"><path d="M10 4l8 8-8 8-2-2 6-6-6-6z"/></svg></button>
+    <div class="aviso" id="aviso">Abrindo o livro.</div>
+  </div>
+
+  <footer class="pe">
+    <span class="conta" id="cap">&nbsp;</span>
+    <span class="trilho"><span id="andado"></span></span>
+    <span class="conta" id="pct"></span>
+  </footer>
+</div>
+
+<div class="veu" id="veu"></div>
+
+<aside class="painel" id="p-sumario" aria-label="Sumário">
+  <button class="f fechar" data-fecha aria-label="Fechar"><svg viewBox="0 0 24 24"><path d="M6 7.4L7.4 6l4.6 4.6L16.6 6 18 7.4 13.4 12l4.6 4.6-1.4 1.4-4.6-4.6L7.4 18 6 16.6 10.6 12z"/></svg></button>
+  <h2>Sumário</h2>
+  <ol id="toc"></ol>
+  <h2 style="margin-top:28px">Marcadores</h2>
+  <ol id="marcas"></ol>
+</aside>
+
+<aside class="painel" id="p-busca" aria-label="Buscar no livro">
+  <button class="f fechar" data-fecha aria-label="Fechar"><svg viewBox="0 0 24 24"><path d="M6 7.4L7.4 6l4.6 4.6L16.6 6 18 7.4 13.4 12l4.6 4.6-1.4 1.4-4.6-4.6L7.4 18 6 16.6 10.6 12z"/></svg></button>
+  <h2>Buscar no livro</h2>
+  <input class="campo" id="q" type="search" placeholder="uma palavra ou frase" aria-label="Buscar">
+  <p class="rotulo" id="q-conta"></p>
+  <ol class="achados" id="achados"></ol>
+</aside>
+
+<aside class="painel dir" id="p-aparencia" aria-label="Aparência">
+  <button class="f fechar" data-fecha aria-label="Fechar"><svg viewBox="0 0 24 24"><path d="M6 7.4L7.4 6l4.6 4.6L16.6 6 18 7.4 13.4 12l4.6 4.6-1.4 1.4-4.6-4.6L7.4 18 6 16.6 10.6 12z"/></svg></button>
+  <h2>Aparência</h2>
+  <div class="grupo"><p class="rotulo">Papel</p><div class="linha" id="g-papel">
+    <button class="opt" data-papel="escuro">Escuro</button><button class="opt" data-papel="claro">Claro</button><button class="opt" data-papel="sepia">Sépia</button></div></div>
+  <div class="grupo"><p class="rotulo">Corpo da letra</p><div class="linha" id="g-corpo">
+    <button class="opt" data-corpo="94">Menor</button><button class="opt" data-corpo="106">Médio</button><button class="opt" data-corpo="122">Maior</button><button class="opt" data-corpo="144">Grande</button></div></div>
+  <div class="grupo"><p class="rotulo">Entrelinha</p><div class="linha" id="g-entre">
+    <button class="opt" data-entre="1.45">Justa</button><button class="opt" data-entre="1.62">Média</button><button class="opt" data-entre="1.88">Larga</button></div></div>
+  <div class="grupo"><p class="rotulo">Largura da coluna</p><div class="linha" id="g-medida">
+    <button class="opt" data-medida="30">Estreita</button><button class="opt" data-medida="34">Média</button><button class="opt" data-medida="40">Larga</button></div></div>
+  <div class="grupo"><p class="rotulo">Margem</p><div class="linha" id="g-margem">
+    <button class="opt" data-margem="18">Justa</button><button class="opt" data-margem="24">Média</button><button class="opt" data-margem="40">Larga</button></div></div>
+  <div class="grupo"><p class="rotulo">Letra</p><div class="linha" id="g-letra">
+    <button class="opt" data-letra="serif">Garamond</button><button class="opt" data-letra="sans">Figtree</button></div></div>
+</aside>
+
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js" crossorigin="anonymous"></script>
+<script src="ler-zip.js?v=51f79679"></script>
+<script src="ler-limpa.js?v=11ea72c4"></script>
+<script src="ler-rio.js?v=504c6295"></script>
+<script src="ler.js?v=0e9b6e72"></script>
+</body></html>
