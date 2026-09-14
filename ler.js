@@ -16,6 +16,8 @@
     catch (e) { return padrao; }
   }
   function param(n) { return new URLSearchParams(location.search).get(n) || ''; }
+  // a posicao guardada leva a hora e o titulo: e o que o catalogo usa para oferecer "continuar lendo"
+  function selo(loc) { if (loc) { loc.t = Date.now(); loc.titulo = (ao('ob').textContent || '').trim(); } return loc; }
 
   var GOSTO_PADRAO = { papel: 'escuro', corpo: 106, entre: 1.62, margem: 24,
                        letra: 'serif', medida: 26, modo: 'pagina' };
@@ -202,13 +204,14 @@
     ao('pct').textContent = rotuloDaPagina(rio.paginaAtual());
     var loc = rio.localiza();
     if (loc) {
+      ao('pct').textContent += faltam(loc.pct);
       if (!loc.aprox) ultimaPos = loc;
       ao('andado').style.width = ((loc.pct || 0) * 100).toFixed(1) + '%';
       nomeDoCapitulo(loc);
       acendeMarca();
       if (!restaurando && !loc.aprox) {
         clearTimeout(gravaTempo);
-        gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 900);
+        gravaTempo = setTimeout(function () { guarda(POS + slug, selo(loc)); }, 900);
       }
     }
   }
@@ -220,6 +223,16 @@
     if ((p.colunas || 1) < 2) return 'pág. ' + (p.pagina + 1) + ' de ' + total;
     var esq = p.pagina * 2 + 1, dir = Math.min(esq + 1, total);
     return 'pág. ' + esq + (dir > esq ? ' e ' + dir : '') + ' de ' + total;
+  }
+  /* Quanto falta do livro, em tempo de leitura: as letras que restam a 1.150 por minuto (uns
+     230 palavras). E uma estimativa, e diz "cerca de"; abaixo de um minuto, cala. */
+  function faltam(pct) {
+    if (!letrasTotais || pct == null) return '';
+    var min = Math.round(letrasTotais * (1 - pct) / 1150);
+    if (min < 1) return '';
+    if (min < 60) return ' · faltam cerca de ' + min + ' min';
+    var h = Math.floor(min / 60), m = min % 60;
+    return ' · faltam cerca de ' + h + ' h' + (m ? ' ' + (m < 10 ? '0' : '') + m : '');
   }
 
   function nomeDoCapitulo(loc) {
@@ -244,7 +257,7 @@
     if (!loc) return;
     if (rio && rio.modo() === 'pagina') { atualizaPe(); return; }
     ao('andado').style.width = ((loc.pct || 0) * 100).toFixed(1) + '%';
-    ao('pct').textContent = Math.round((loc.pct || 0) * 100) + '%';
+    ao('pct').textContent = Math.round((loc.pct || 0) * 100) + '%' + faltam(loc.pct);
     var nome = '';
     for (var i = 0; i < sumario.length; i++) {
       if (sumario[i].d === loc.d) { nome = sumario[i].rotulo; break; }
@@ -263,7 +276,7 @@
     acendeMarca();
     if (!restaurando && !loc.aprox) {
       clearTimeout(gravaTempo);
-      gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 1200);
+      gravaTempo = setTimeout(function () { guarda(POS + slug, selo(loc)); }, 1200);
     }
   }
 
@@ -577,9 +590,9 @@
     else if (k === 'Home') { ao('rio').scrollTop = 0; }
     else if (k === 'Escape') fecha();
   });
-  window.addEventListener('pagehide', function () { if (ultimaPos && !restaurando) guarda(POS + slug, ultimaPos); });
+  window.addEventListener('pagehide', function () { if (ultimaPos && !restaurando) guarda(POS + slug, selo(ultimaPos)); });
   document.addEventListener('visibilitychange', function () {
-    if (document.visibilityState === 'hidden' && ultimaPos && !restaurando) guarda(POS + slug, ultimaPos);
+    if (document.visibilityState === 'hidden' && ultimaPos && !restaurando) guarda(POS + slug, selo(ultimaPos));
   });
   window.AEV_LEITOR = { get rio() { return rio; }, get pacote() { return pacote; }, get pos() { return ultimaPos; } };
 })();

@@ -8,18 +8,21 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Figtree:wght@400;600&display=swap">
 <link rel="stylesheet" href="aev-radio.css">
-<link rel="stylesheet" href="ler-obra.css?v=32b8fbc6">
+<link rel="stylesheet" href="ler-obra.css?v=a621ab85">
 <style>
 :root{
   --sable:#14120f; --ouro:#c9a45c; --prata:#ece3d0; --areia:#ece3d0;
   --neutro:#2c2820; --controle:#5a5240; --quieto:#9d937f; --n2:#c4b99f;
   --tinta:#c4b99f; --elo:#c9a45c; --regua:#2c2820;
+  /* a mesa (fundo do palco), o papel do livro, a moldura e a sombra: tres tons, para o livro
+     se destacar do fundo em vez de se confundir com ele */
+  --mesa:#0f0d0b; --papel:#1c1914; --moldura:rgba(236,227,208,.16); --sombra:rgba(0,0,0,.55);
 }
 *{box-sizing:border-box}
 html,body{height:100%}
 body{margin:0;background:var(--sable);color:var(--prata);font-family:"EB Garamond",Georgia,serif;overflow:hidden}
-body[data-papel=claro]{--sable:#ece3d0;--prata:#14120f;--neutro:#9d937f;--quieto:#2c2820}
-body[data-papel=sepia]{--sable:#ece3d0;--prata:#2A2622;--neutro:#C3B49A;--quieto:#6B6053}
+body[data-papel=claro]{--sable:#ece3d0;--prata:#14120f;--neutro:#9d937f;--quieto:#2c2820;--mesa:#d8cdb6;--papel:#f7f0e2;--moldura:rgba(44,40,32,.22);--sombra:rgba(44,40,32,.28)}
+body[data-papel=sepia]{--sable:#ece3d0;--prata:#2A2622;--neutro:#C3B49A;--quieto:#6B6053;--mesa:#d3c6a9;--papel:#f1e7d2;--moldura:rgba(90,82,64,.3);--sombra:rgba(60,50,30,.3)}
 button{font-family:Figtree,system-ui,sans-serif;cursor:pointer}
 a{color:var(--ouro)}
 :focus-visible{outline:2px solid var(--ouro);outline-offset:2px}
@@ -40,7 +43,7 @@ a{color:var(--ouro)}
 .f[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
 .f[hidden]{display:none}
 
-.palco{position:relative;min-height:0}
+.palco{position:relative;min-height:0;background:var(--mesa)}
 #rio{position:absolute;inset:0}
 .seta{position:absolute;top:0;bottom:0;width:clamp(34px,6vw,72px);border:0;background:transparent;color:transparent;display:flex;align-items:center;justify-content:center;z-index:2}
 .seta:hover{color:var(--neutro)}
@@ -157,5 +160,5 @@ body:has(#aev-radio:not(.aev-radio-min)) .aev-rio:not(.aev-pagina){scroll-paddin
 <script src="ler-rio.js?v=bdb621df"></script>
 <script>window.addEventListener("resize",function(){clearTimeout(window.__aevMede);window.__aevMede=setTimeout(function(){if(window.AEV_LEITOR&&AEV_LEITOR.rio)AEV_LEITOR.rio.remede();},220);});</script>
 <script src="aev-radio.js"></script>
-<script src="ler.js?v=1ed9d00a"></script>
+<script src="ler.js?v=0998d6f2"></script>
 </body></html>

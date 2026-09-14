@@ -19,6 +19,11 @@
   hyphens:auto;
   -webkit-hyphens:auto;
 }
+/* no modo de rolagem a coluna corre sobre uma folha continua, com o mesmo papel e a mesma moldura */
+.aev-rio:not(.aev-pagina) .aev-cap{ background:var(--papel, transparent); max-width:calc(var(--medida,34em) + var(--margem,24px) * 2); margin:0 auto;
+  border-left:1px solid var(--moldura, rgba(90,82,64,.28)); border-right:1px solid var(--moldura, rgba(90,82,64,.28)); box-shadow:0 0 48px var(--sombra, rgba(0,0,0,.35)); }
+.aev-rio:not(.aev-pagina) .aev-cap:first-child{ padding-top:2.4em; }
+.aev-rio:not(.aev-pagina) .aev-cap:last-child{ padding-bottom:3em; }
 .aev-doc p{ margin:0; text-indent:1.4em; }
 .aev-doc p + p{ margin-top:0; }
 .aev-doc p:first-of-type,
@@ -107,7 +112,28 @@
   position:absolute; inset:0; margin:0 auto; overflow:hidden;
   font-size:var(--corpo,1.0625rem);
   max-width:calc(var(--medida,26em) + var(--margem,24px) * 2);
-  padding:0 var(--margem,24px);
+  /* respiro vertical: o texto nao encosta na borda do papel */
+  padding:var(--papel-alto,26px) var(--margem,24px);
+}
+/* O papel do livro, desenhado no palco e nao dentro da folha (a folha recorta, e recortaria a
+   sombra): um retangulo na largura da folha, com a cor do papel, um filete de moldura, duas
+   folhas atras deslocadas (o bloco do livro) e uma sombra baixa sobre a mesa. As cores vem
+   das variaveis do papel escolhido: --papel, --moldura, --mesa, --sombra. */
+.aev-pagina .aev-cap::before{
+  content:""; position:absolute; z-index:0; pointer-events:none;
+  top:10px; bottom:12px; left:50%; transform:translateX(-50%);
+  width:min(100%, calc(var(--larg-folha, 40em) + var(--margem,24px) * 2));
+  background:var(--papel, transparent);
+  border:1px solid var(--moldura, rgba(90,82,64,.28));
+  box-shadow:
+    3px 3px 0 -1px var(--mesa, #14120f), 3px 3px 0 0 var(--moldura, rgba(90,82,64,.28)),
+    6px 6px 0 -1px var(--mesa, #14120f), 6px 6px 0 0 var(--moldura, rgba(90,82,64,.22)),
+    0 22px 56px var(--sombra, rgba(0,0,0,.4));
+}
+.aev-pagina .aev-folha{ z-index:1; }
+@media (max-width:700px){
+  .aev-pagina .aev-folha{ padding:16px max(18px, var(--margem,24px)); }
+  .aev-pagina .aev-cap::before{ top:6px; bottom:8px; }
 }
 .aev-pagina .aev-doc{
   height:100%; padding:0; margin:0; max-width:none;
@@ -172,10 +198,7 @@
 /* O papel: a folha do livro e a caixa do texto mais as duas margens de fora. Fica atras de
    tudo, com um filete e uma sombra baixa, para o livro assentar sobre a mesa sem virar
    desenho de livro. A largura em pixel vem do medidor, em --larg-folha. */
-.aev-pagina.aev-duplo .aev-folha::before{
-  content:""; position:absolute; inset:0; z-index:-1; pointer-events:none;
-  box-shadow:0 0 0 1px rgba(90,82,64,.28), 0 14px 40px rgba(0,0,0,.16);
-}
+/* (o papel do livro aberto e o mesmo retangulo do palco, acima; a largura vem de --larg-folha) */
 /* O vinco do meio, na largura exata da folga entre as duas colunas, onde nao ha texto:
    uma sombra que fecha para dentro, e um filete no centro. A sombra desenha o vale no papel
    claro; o filete desenha a dobra no papel escuro, onde sombra sobre sombra nao se ve. */
