@@ -7,7 +7,8 @@
 <link rel="icon" href="assets/brasao-selo.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=Figtree:wght@400;600&display=swap">
-<link rel="stylesheet" href="ler-obra.css?v=3c7c3257">
+<link rel="stylesheet" href="aev-radio.css">
+<link rel="stylesheet" href="ler-obra.css?v=eba989f7">
 <style>
 :root{
   --sable:#201E1D; --ouro:#C08A3E; --prata:#F5EAD8; --areia:#EBDDC5;
@@ -76,6 +77,12 @@ a{color:var(--ouro)}
 .opt[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
 .veu{position:fixed;inset:0;background:rgba(32,30,29,.6);opacity:0;pointer-events:none;transition:opacity .2s;z-index:5}
 .veu.aberto{opacity:1;pointer-events:auto}
+/* a barra da Radio sobe um pouco para nao pisar no rodape do leitor */
+.aev-radio{bottom:62px}
+/* com a barra da Radio aberta, a pagina recolhe embaixo para o texto nao ficar debaixo dela */
+body:has(#aev-radio:not(.aev-radio-min)) .aev-pagina .aev-folha{padding-bottom:84px}
+body:has(#aev-radio:not(.aev-radio-min)) .aev-rio:not(.aev-pagina){scroll-padding-bottom:84px}
+@media (max-width:600px){.aev-radio{bottom:58px}}
 @media (max-width:700px){.titulo .au{display:none}.seta{width:30px}}
 </style></head>
 <body data-papel="escuro">
@@ -127,6 +134,8 @@ a{color:var(--ouro)}
 <aside class="painel dir" id="p-aparencia" aria-label="Aparência">
   <button class="f fechar" data-fecha aria-label="Fechar"><svg viewBox="0 0 24 24"><path d="M6 7.4L7.4 6l4.6 4.6L16.6 6 18 7.4 13.4 12l4.6 4.6-1.4 1.4-4.6-4.6L7.4 18 6 16.6 10.6 12z"/></svg></button>
   <h2>Aparência</h2>
+  <div class="grupo"><p class="rotulo">Modo de leitura</p><div class="linha" id="g-modo">
+    <button class="opt" data-modo="pagina">Página</button><button class="opt" data-modo="rolagem">Rolagem</button></div></div>
   <div class="grupo"><p class="rotulo">Papel</p><div class="linha" id="g-papel">
     <button class="opt" data-papel="escuro">Escuro</button><button class="opt" data-papel="claro">Claro</button><button class="opt" data-papel="sepia">Sépia</button></div></div>
   <div class="grupo"><p class="rotulo">Corpo da letra</p><div class="linha" id="g-corpo">
@@ -144,6 +153,8 @@ a{color:var(--ouro)}
 <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js" crossorigin="anonymous"></script>
 <script src="ler-zip.js?v=51f79679"></script>
 <script src="ler-limpa.js?v=11ea72c4"></script>
-<script src="ler-rio.js?v=504c6295"></script>
-<script src="ler.js?v=0e9b6e72"></script>
+<script src="ler-rio.js?v=5babdeee"></script>
+<script>window.addEventListener("resize",function(){clearTimeout(window.__aevMede);window.__aevMede=setTimeout(function(){if(window.AEV_LEITOR&&AEV_LEITOR.rio)AEV_LEITOR.rio.remede();},220);});</script>
+<script src="aev-radio.js"></script>
+<script src="ler.js?v=b6bad372"></script>
 </body></html>

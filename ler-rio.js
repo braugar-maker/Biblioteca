@@ -13,6 +13,8 @@ AEV.Rio = (function () {
 
   function cria(pai, dados, ctx) {
     var rio = pai;
+    var modo = 'rolagem';       // 'rolagem' ou 'pagina'
+    var pagina = 0, dAtual = 0, larguraPag = 0, folgaPag = 0, totalPag = 1;
     rio.innerHTML = '';
     rio.classList.add('aev-rio');
 
@@ -58,6 +60,7 @@ AEV.Rio = (function () {
         ligaImagens(d, raiz);
         ligaLinks(raiz);
 
+        if (modo === 'pagina') { arrumaFolha(d); }
         var depois = d.caixa.offsetHeight;
         d.alturaMedida = depois;
         // so mexe na rolagem quando o capitulo cresceu acima da vista, e nunca durante o gesto
@@ -190,9 +193,29 @@ AEV.Rio = (function () {
       return null;
     }
 
+    function paginaDoBloco(bloco, doc, folha) {
+      var antes = doc.style.transform;
+      doc.style.transform = 'translateX(0px)';
+      var r1 = bloco.getBoundingClientRect(), r0 = folha.getBoundingClientRect();
+      var x = r1.left - r0.left;
+      doc.style.transform = antes;
+      return Math.max(0, Math.round(x / Math.max(1, larguraPag + folgaPag)));
+    }
+
     function vaiPara(loc) {
       if (!loc) return Promise.resolve(false);
       var d = Math.max(0, Math.min(docs.length - 1, loc.d | 0));
+      if (modo === 'pagina') {
+        return vaiCapitulo(d, false).then(function () {
+          var caixa = docs[d].caixa;
+          var doc = caixa.querySelector('.aev-doc');
+          var folha = caixa.querySelector('.aev-folha');
+          var bloco = caixa.querySelector('[data-b="' + (loc.b | 0) + '"]');
+          if (!doc || !folha || !bloco) return false;
+          poePagina(paginaDoBloco(bloco, doc, folha));
+          return true;
+        });
+      }
       return monta(d).then(function () {
         return new Promise(function (pronto) {
           requestAnimationFrame(function () {
@@ -215,8 +238,114 @@ AEV.Rio = (function () {
       return Promise.all(docs.map(function (_, i) { return monta(i); }));
     }
 
+    /* ---------------------------------------------------------- leitor virtual, pagina a pagina */
+    function arrumaFolha(d) {
+      if (!d.montado) return;
+      var doc = d.caixa.querySelector('.aev-doc');
+      if (!doc) return;
+      if (!doc.parentElement.classList.contains('aev-folha')) {
+        var folha = document.createElement('div');
+        folha.className = 'aev-folha';
+        doc.parentNode.insertBefore(folha, doc);
+        folha.appendChild(doc);
+      }
+    }
+
+    function medePaginas() {
+      var d = docs[dAtual];
+      if (!d || !d.montado) { totalPag = 1; return; }
+      var folha = d.caixa.querySelector('.aev-folha');
+      var doc = d.caixa.querySelector('.aev-doc');
+      if (!folha || !doc) { totalPag = 1; return; }
+      larguraPag = folha.clientWidth;
+      folgaPag = Math.round(parseFloat(getComputedStyle(doc).columnGap) || 0);
+      if (!larguraPag) { totalPag = 1; return; }
+      doc.style.columnWidth = larguraPag + 'px';
+      var largo = doc.scrollWidth;
+      totalPag = Math.max(1, Math.round((largo + folgaPag) / (larguraPag + folgaPag)));
+      return totalPag;
+    }
+
+    function poePagina(n) {
+      var d = docs[dAtual];
+      if (!d || !d.montado) return;
+      var doc = d.caixa.querySelector('.aev-doc');
+      if (!doc) return;
+      pagina = Math.max(0, Math.min(totalPag - 1, n | 0));
+      doc.style.transform = 'translateX(' + (-pagina * (larguraPag + folgaPag)) + 'px)';
+      if (ctx.aoVirar) ctx.aoVirar({ d: dAtual, pagina: pagina, total: totalPag });
+    }
+
+    function mostraSo(i) {
+      docs.forEach(function (x, k) {
+        x.caixa.style.display = (k === i) ? '' : 'none';
+        if (k === i) { x.caixa.style.minHeight = ''; }
+      });
+    }
+
+    function vaiCapitulo(i, fim) {
+      i = Math.max(0, Math.min(docs.length - 1, i));
+      dAtual = i;
+      mostraSo(i);
+      return monta(i).then(function () {
+        arrumaFolha(docs[i]);
+        return new Promise(function (pronto) {
+          requestAnimationFrame(function () {
+            medePaginas();
+            poePagina(fim ? totalPag - 1 : 0);
+            pronto();
+          });
+        });
+      });
+    }
+
+    function vira(passo) {
+      if (modo !== 'pagina') {
+        rio.scrollBy({ top: passo * (rio.clientHeight - 64), behavior: 'smooth' });
+        return Promise.resolve();
+      }
+      var n = pagina + passo;
+      if (n >= 0 && n < totalPag) { poePagina(n); return Promise.resolve(); }
+      if (n < 0) {
+        if (dAtual === 0) { poePagina(0); return Promise.resolve(); }
+        return vaiCapitulo(dAtual - 1, true);
+      }
+      if (dAtual >= docs.length - 1) { poePagina(totalPag - 1); return Promise.resolve(); }
+      return vaiCapitulo(dAtual + 1, false);
+    }
+
+    function defineModo(m) {
+      var onde = localiza();
+      modo = (m === 'pagina') ? 'pagina' : 'rolagem';
+      rio.classList.toggle('aev-pagina', modo === 'pagina');
+      if (modo === 'pagina') {
+        docs.forEach(function (d) { if (d.montado) arrumaFolha(d); });
+        return vaiCapitulo(onde ? onde.d : dAtual, false).then(function () {
+          if (onde) return vaiPara(onde);
+        });
+      }
+      docs.forEach(function (d) {
+        d.caixa.style.display = '';
+        var doc = d.caixa.querySelector('.aev-doc');
+        if (doc) doc.style.transform = '';
+        if (!d.montado) d.caixa.style.minHeight = Math.max(240, Math.round(d.letras * PX_POR_LETRA)) + 'px';
+      });
+      if (onde) return vaiPara(onde);
+      return Promise.resolve();
+    }
+
+    function remede() {
+      if (modo !== 'pagina') return;
+      var onde = localiza();
+      medePaginas();
+      if (onde) vaiPara(onde); else poePagina(pagina);
+    }
+
     return {
       docs: docs, monta: monta, montaTudo: montaTudo,
+      defineModo: defineModo, vira: vira, remede: remede,
+      modo: function () { return modo; },
+      paginaAtual: function () { return { pagina: pagina, total: totalPag, d: dAtual }; },
       localiza: localiza, vaiPara: vaiPara, rio: rio,
       caixaDe: function (i) { return docs[i] && docs[i].caixa; }
     };

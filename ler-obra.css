@@ -93,3 +93,23 @@
   .aev-doc{ padding:0 max(18px, var(--margem,24px)); }
   .aev-doc table{ font-size:.86em; }
 }
+
+/* ------------------------------------------------ leitor virtual: a pagina vira no mesmo lugar */
+.aev-rio.aev-pagina{ overflow:hidden; }
+.aev-pagina .aev-cap{ position:absolute; inset:0; }
+.aev-pagina .aev-folha{
+  position:absolute; inset:0; overflow:hidden;
+  padding:0 var(--margem,24px);
+}
+.aev-pagina .aev-doc{
+  height:100%; max-width:none; padding:0;
+  column-gap:calc(var(--margem,24px) * 2);
+  column-fill:auto;
+  transition:transform .18s ease;
+  will-change:transform;
+}
+.aev-pagina .aev-doc h1,.aev-pagina .aev-doc h2,.aev-pagina .aev-doc h3{ break-after:avoid; }
+.aev-pagina .aev-doc p,.aev-pagina .aev-doc li{ break-inside:auto; }
+.aev-pagina .aev-doc img{ max-height:76%; margin:1em auto; }
+.aev-pagina .aev-doc img.aev-capa-livro{ max-height:calc(100% - 2em); width:auto; margin:1em auto; }
+@media (prefers-reduced-motion:reduce){ .aev-pagina .aev-doc{ transition:none; } }

@@ -17,7 +17,8 @@
   }
   function param(n) { return new URLSearchParams(location.search).get(n) || ''; }
 
-  var gosto = lembra(PREF, { papel: 'escuro', corpo: 106, entre: 1.62, margem: 24, letra: 'serif', medida: 34 });
+  var gosto = lembra(PREF, { papel: 'escuro', corpo: 106, entre: 1.62, margem: 24, letra: 'serif', medida: 34, modo: 'pagina' });
+  if (!gosto.modo) gosto.modo = 'pagina';
   var arq = param('arq');
   var slug = arq.split('/').pop().replace(/\.epub$/i, '');
   var pacote = null, rio = null, docs = [], letrasTotais = 0, sumario = [], pilha = [];
@@ -70,6 +71,7 @@
     marca('g-margem', 'margem', String(gosto.margem));
     marca('g-letra', 'letra', gosto.letra);
     marca('g-medida', 'medida', String(gosto.medida));
+    marca('g-modo', 'modo', gosto.modo);
   }
   function marca(id, chave, valor) {
     var g = ao(id);
@@ -79,7 +81,8 @@
     });
   }
   [['g-papel', 'papel', 's'], ['g-corpo', 'corpo', 'n'], ['g-entre', 'entre', 'f'],
-   ['g-margem', 'margem', 'n'], ['g-letra', 'letra', 's'], ['g-medida', 'medida', 'n']]
+   ['g-margem', 'margem', 'n'], ['g-letra', 'letra', 's'], ['g-medida', 'medida', 'n'],
+   ['g-modo', 'modo', 's']]
     .forEach(function (par) {
       var g = ao(par[0]);
       if (!g) return;
@@ -89,8 +92,17 @@
         var v = b.getAttribute('data-' + par[1]);
         gosto[par[1]] = par[2] === 'n' ? parseInt(v, 10) : (par[2] === 'f' ? parseFloat(v) : v);
         guarda(PREF, gosto);
+        if (par[1] === 'modo') {
+          pinta();
+          if (rio) rio.defineModo(gosto.modo).then(atualizaPe);
+          return;
+        }
         var antes = rio ? rio.localiza() : null;
         pinta();
+        if (rio && rio.modo() === 'pagina') {
+          requestAnimationFrame(function () { rio.remede(); atualizaPe(); });
+          return;
+        }
         if (antes) requestAnimationFrame(function () { rio.vaiPara(antes); });
       });
     });
@@ -145,8 +157,34 @@
   }
 
   /* ------------------------------------------------------------------ rodape */
+  function atualizaPe() {
+    if (!rio || rio.modo() !== 'pagina') return;
+    var p = rio.paginaAtual();
+    ao('pct').textContent = 'pág. ' + (p.pagina + 1) + ' de ' + p.total;
+    var loc = rio.localiza();
+    if (loc) {
+      ultimaPos = loc;
+      ao('andado').style.width = ((loc.pct || 0) * 100).toFixed(1) + '%';
+      nomeDoCapitulo(loc);
+      acendeMarca();
+      clearTimeout(gravaTempo);
+      gravaTempo = setTimeout(function () { guarda(POS + slug, loc); }, 900);
+    }
+  }
+
+  function nomeDoCapitulo(loc) {
+    var nome = '';
+    for (var i = 0; i < sumario.length; i++) {
+      if (sumario[i].d === loc.d) { nome = sumario[i].rotulo; break; }
+      if (sumario[i].d > loc.d) break;
+      nome = sumario[i].rotulo;
+    }
+    ao('cap').textContent = nome.length > 46 ? nome.slice(0, 44).trim() + '...' : nome;
+  }
+
   function atualizaRodape(loc) {
     if (!loc) return;
+    if (rio && rio.modo() === 'pagina') { atualizaPe(); return; }
     ao('andado').style.width = ((loc.pct || 0) * 100).toFixed(1) + '%';
     ao('pct').textContent = Math.round((loc.pct || 0) * 100) + '%';
     var nome = '';
@@ -234,7 +272,8 @@
       },
       aoMedirImagem: function (d) { clearTimeout(gravaDim); gravaDim = setTimeout(function () { guarda(DIM + slug, d); }, 2000); },
       aoSeguirLink: seguirLink,
-      aoMontar: function () { if (ultimaPos) atualizaRodape(ultimaPos); }
+      aoMontar: function () { if (ultimaPos) atualizaRodape(ultimaPos); },
+      aoVirar: function () { setTimeout(atualizaPe, 60); }
     });
 
     var alvo = ao('rio');
@@ -249,6 +288,8 @@
     }, { passive: true });
 
     fazSumario().then(function () {
+      return gosto.modo === 'pagina' ? rio.defineModo('pagina') : null;
+    }).then(function () {
       var onde = lembra(POS + slug, null);
       ao('aviso').style.display = 'none';
       if (onde && onde.v === 3) return rio.vaiPara(onde);
@@ -256,9 +297,10 @@
     }).then(function () {
       desenhaMarcas();
       aoMover();
-      requestAnimationFrame(function () { requestAnimationFrame(aoMover); });
-      setTimeout(aoMover, 400);
-      setTimeout(aoMover, 1200);
+      atualizaPe();
+      requestAnimationFrame(function () { requestAnimationFrame(function () { aoMover(); atualizaPe(); }); });
+      setTimeout(function () { aoMover(); atualizaPe(); }, 400);
+      setTimeout(function () { aoMover(); atualizaPe(); }, 1200);
     });
   }
   var gravaDim = null;
@@ -425,6 +467,7 @@
 
   /* ------------------------------------------------------------------ teclado e setas */
   function passo(quanto) {
+    if (rio) { rio.vira(quanto); setTimeout(atualizaPe, 220); return; }
     var el = ao('rio');
     el.scrollBy({ top: quanto * (el.clientHeight - 64), behavior: 'smooth' });
   }
