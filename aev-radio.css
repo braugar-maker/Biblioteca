@@ -1,5 +1,5 @@
 /* barra da Rádio (canto inferior, em todas as páginas menos /radio/) */
-.aev-radio{position:fixed;right:clamp(16px,3vw,32px);bottom:clamp(16px,3vw,32px);z-index:20;display:grid;grid-template-columns:auto minmax(0,1fr) auto auto auto auto;align-items:center;gap:14px;width:min(420px,calc(100vw - 32px));padding:8px 14px 8px 8px;border:1px solid #5a5240;border-radius:999px;background:rgba(20,18,15,.94);box-sizing:border-box}
+.aev-radio{position:fixed;right:clamp(16px,3vw,32px);bottom:clamp(16px,3vw,32px);z-index:20;display:grid;grid-template-columns:auto minmax(0,1fr) auto auto auto auto;align-items:center;gap:14px;width:min(420px,calc(100vw - 32px));padding:8px 14px 8px 8px;border:1px solid #7d7462;border-radius:999px;background:rgba(20,18,15,.94);box-sizing:border-box}
 .aev-radio-min{width:auto;grid-template-columns:auto;gap:0;padding:0;border-color:#c9a45c;background:rgba(20,18,15,.86)}
 .aev-radio-min .aev-r-info,.aev-radio-min .aev-r-b,.aev-radio-min .aev-r-vol{display:none}
 .aev-r-selo{width:56px;height:56px;padding:0;border-radius:999px;border:1px solid #c9a45c;background:transparent;color:#c9a45c;cursor:pointer;display:flex;align-items:center;justify-content:center}
@@ -14,11 +14,11 @@
 .aev-r-quem{margin:2px 0 0!important;font-family:"Figtree",system-ui,sans-serif;font-size:.6875rem;line-height:1.35;color:#9d937f;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .aev-r-linha{height:1px;margin-top:8px;background:#2c2820}
 .aev-r-linha span{display:block;height:1px;width:0;background:#c9a45c}
-.aev-r-b{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid #5a5240;background:transparent;color:#9d937f;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.aev-r-b{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid #7d7462;background:transparent;color:#9d937f;cursor:pointer;display:flex;align-items:center;justify-content:center}
 .aev-r-b svg{width:15px;height:15px;fill:currentColor;display:block}
 .aev-r-b:hover{border-color:#c9a45c;color:#c9a45c}
 .aev-r-vol{align-items:flex-end;justify-content:center;gap:3px;padding-bottom:10px}
-.aev-r-vol i{display:block;width:3px;border-radius:1px;background:#5a5240}
+.aev-r-vol i{display:block;width:3px;border-radius:1px;background:#7d7462}
 .aev-r-vol i:nth-child(1){height:6px}
 .aev-r-vol i:nth-child(2){height:10px}
 .aev-r-vol i:nth-child(3){height:14px}

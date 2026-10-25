@@ -12,7 +12,7 @@
 <style>
 :root{
   --sable:#14120f; --ouro:#c9a45c; --prata:#ece3d0; --areia:#ece3d0;
-  --neutro:#2c2820; --controle:#5a5240; --quieto:#9d937f; --n2:#c4b99f;
+  --neutro:#2c2820; --controle:#7d7462; --quieto:#9d937f; --n2:#c4b99f;
   --tinta:#c4b99f; --elo:#c9a45c; --regua:#2c2820;
   /* a mesa (fundo do palco), o papel do livro, a moldura e a sombra: tres tons, para o livro
      se destacar do fundo em vez de se confundir com ele */
@@ -29,7 +29,7 @@ a{color:var(--ouro)}
 .rotulo{font-family:Figtree,system-ui,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--ouro);margin:0}
 
 .leitor{display:grid;grid-template-rows:auto 1fr auto;height:100%}
-.topo{display:flex;align-items:center;gap:12px;padding:12px clamp(14px,3vw,28px);border-bottom:1px solid #5a5240}
+.topo{display:flex;align-items:center;gap:12px;padding:12px clamp(14px,3vw,28px);border-bottom:1px solid #7d7462}
 .voltar{display:inline-flex;align-items:center;gap:9px;color:var(--quieto);text-decoration:none;font-family:Figtree,sans-serif;font-size:.6875rem;font-weight:600;letter-spacing:.18em;text-transform:uppercase;white-space:nowrap}
 .voltar:hover{color:var(--ouro)}
 .voltar svg{width:13px;height:13px;fill:currentColor}
@@ -37,7 +37,7 @@ a{color:var(--ouro)}
 .titulo .ob{margin:0;font-size:1.0625rem;line-height:1.2;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:var(--prata)}
 .titulo .au{margin:1px 0 0;font-family:Figtree,sans-serif;font-size:.6875rem;color:var(--quieto);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .ferramentas{display:flex;gap:7px}
-.f{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid #5a5240;background:transparent;color:var(--quieto);display:flex;align-items:center;justify-content:center}
+.f{width:34px;height:34px;padding:0;border-radius:999px;border:1px solid #7d7462;background:transparent;color:var(--quieto);display:flex;align-items:center;justify-content:center}
 .f svg{width:16px;height:16px;fill:currentColor;display:block}
 .f:hover{border-color:var(--ouro);color:var(--ouro)}
 .f[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
@@ -68,15 +68,15 @@ a{color:var(--ouro)}
 .painel .tirar:hover{color:var(--ouro)}
 .aev-vazio-nota{color:var(--quieto);font-family:Figtree,sans-serif;font-size:.8125rem;padding:8px 0}
 .fechar{position:absolute;top:14px;right:14px}
-.campo{width:100%;background:transparent;border:0;border-bottom:1px solid #5a5240;color:var(--prata);font-family:"EB Garamond",serif;font-size:1.125rem;padding:9px 0;margin-bottom:16px}
-.campo::placeholder{color:var(--neutro)}
+.campo{width:100%;background:transparent;border:0;border-bottom:1px solid #7d7462;color:var(--prata);font-family:"EB Garamond",serif;font-size:1.125rem;padding:9px 0;margin-bottom:16px}
+.campo::placeholder{color:var(--quieto)}
 .achados li{border-bottom:1px solid rgba(44,40,32,.9)}
 .achados button{display:block;width:100%;text-align:left;background:transparent;border:0;color:var(--n2);padding:11px 0;font-family:"EB Garamond",serif;font-size:.9375rem;line-height:1.45}
 .achados button:hover{color:var(--ouro)}
 .grupo{margin-bottom:24px}
 .grupo p.rotulo{margin-bottom:10px}
 .linha{display:flex;gap:8px;flex-wrap:wrap}
-.opt{padding:9px 15px;border:1px solid #5a5240;border-radius:999px;background:transparent;color:var(--prata);font-size:.6875rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase}
+.opt{padding:9px 15px;border:1px solid #7d7462;border-radius:999px;background:transparent;color:var(--prata);font-size:.6875rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase}
 .opt:hover{border-color:var(--ouro);color:var(--ouro)}
 .opt[aria-pressed=true]{background:var(--ouro);border-color:var(--ouro);color:var(--sable)}
 .veu{position:fixed;inset:0;background:rgba(20,18,15,.6);opacity:0;pointer-events:none;transition:opacity .2s;z-index:5}
